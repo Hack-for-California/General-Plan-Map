@@ -1,0 +1,32 @@
+
+
+```{r}
+library(tidyverse)
+library(leaflet)
+library(sf)
+library(rgdal) #reads shapefiles
+```
+```{r}
+city <- readOGR("ca-places-boundaries","CA_Places_TIGER2016", stringsAsFactors = FALSE)
+city <- spTransform(city, CRS("+proj=longlat +datum=WGS84"))
+```
+
+
+
+```{r}
+st_as_sf(city) %>% 
+leaflet() %>%
+addProviderTiles(providers$CartoDB.Positron) %>%
+addPolygons(data = city, 
+              color = "#444444",
+              weight = 0.5,
+              smoothFactor = 0.5,
+              opacity = 1.0,
+              fillOpacity = 0.5,
+              highlightOptions = highlightOptions(color = "white",
+                                                  weight = 1,
+                                                  bringToFront = TRUE))
+
+
+```
+
