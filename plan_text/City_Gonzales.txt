@@ -1,0 +1,2352 @@
+Gonzales 2010 General Plan
+Public Review Draft
+               City of Gonzales
+                     July 2010
+                      Coastal Plans
+               Land Use and Housing Plans
+                  Transportation Plans
+                 Environmental Reports
+
+GONZALES 2010 GENERAL PLAN
+     Public Review Draft
+             Prepared for:
+           City of Gonzales
+               July 2010
+             Prepared By:
+              Coastplans
+    Hamilton-Swift & Associates, Inc.
+           Eadie Consulting
+
+                                      CITY OF GONZALES
+                   PARTICIPANTS IN THE GENERAL PLAN UPDATE PROCESS
+CITY COUNCIL
+(Current Council Members)                        (Previous Council Members)
+Maria Orozco, Mayor                              Joe L. Gumke
+Scott Funk, Mayor Pro Tem                        George Worthy
+Matt Gourley                                     Delia Gutierrez
+Liz Silva                                        Lisa M. Senkir
+Jose G. Lopez
+PLANNING COMMISSION
+(Current Commission Members)                     (Previous Commission Members)
+Robert Bonincontri, Chair                        Maury Treleven
+Jose Rios, Chair Pro Tem                         Lorraine Worthy
+Juan Mendez                                      Dennis Aguirre
+Ronald Kingsford                                 Vincent Coppola
+Angel Mendez
+GENERAL PLAN CITIZENS ADVISORY COMMITTEE
+Wendy Franscioni                                 Rutilia Baltazar
+Robert Gularte                                   Kathie Cain
+Susan Warner                                     Joseph T. Mallobox
+Danny Avalos                                     Hugh Reimers
+Alan Schroeder                                   Elizabeth Molena
+Trinidad Zavala                                  Duane Wolgamott
+CITY STAFF
+René L. Mendez, City Manager
+Michael Rodriquez, City Attorney
+William Farrel AICP, Community Development Director
+Carlos Lopez, Director of Public Works
+Harold Wolgamott, Special Projects Analyst
+Paula Bonincontri, Administrative Assistant
+Hortencia Vargas, Administrative Assistant
+
+                                     REPORT PREPARATION
+                                    PROFESSIONAL SERVICES
+LEAD CONSULTANTS
+Mr. Martin Carver, AICP, Principal, Coastplans (Prime)
+Mr. Charles Eadie, Senior Associate, Hamilton Swift & Associates
+Ms. Kim Eadie, Principal, Eadie Consulting
+TECHNICAL SUB-CONSULTANTS
+Mr. Keith Higgins, P.E., Hatch Mott MacDonald
+Mr. Jeff Waller, Hatch Mott MacDonald
+Ryan Leveskis, Graphics / GIS Specialist, Hatch Mott MacDonald
+Allen Nie, Ph.D., P.E., Hatch Mott MacDonald
+Dan Takacs, Hatch Mott MacDonald
+Robert Brown, Principal, Brown-Buntin Associates, Inc.
+Mr. Don Ballanti, Certified Consulting Meteorologist
+Robert Ketley, Consulting Hydrologist
+Mr. Gale Foss, GIS Specialist
+Ms. Kim Glinka, Ecosystems West
+Mr. William Davilla, Ecosystems West
+                                    Table of Contents
+CHAPTER I: INTRODUCTION ............................................................................ I-1
+  A. OVERVIEW OF 2010 GENERAL PLAN UPDATE .................................................... I-1
+  B. BACKGROUND AND PLANNING PROCESS ........................................................... I-4
+  C. RELATIONSHIP TO OTHER PLANS AND PROGRAMS ............................................ I-10
+  D. DEFINITION OF THE PLANNING AREA .............................................................. I-13
+  E. ORGANIZATION OF THIS DOCUMENT .............................................................. I-19
+CHAPTER II: LAND USE.....................................................................................II-1
+  A. INTRODUCTION ............................................................................................ II-1
+  B. LAND USE FRAMEWORK ................................................................................. II-2
+  C. LAND USE CONCEPT .................................................................................... II-18
+  D. LAND USE DESIGNATIONS............................................................................ II-35
+  E. GOALS, POLICIES, AND ACTIONS.................................................................... II-49
+CHAPTER III: CIRCULATION............................................................................III-1
+  A. INTRODUCTION ........................................................................................... III-1
+  B. CIRCULATION FRAMEWORK ........................................................................... III-3
+  C. TRAFFIC CONDITIONS ................................................................................... III-8
+  D. MAJOR CIRCULATION ISSUES ....................................................................... III-17
+  E. CIRCULATION CONCEPT............................................................................... III-22
+  F. CIRCULATION CLASSIFICATIONS .................................................................... III-37
+  G. GOALS, POLICIES, AND ACTIONS.................................................................. III-44
+CHAPTER IV: HOUSING...................................................................................IV-1
+  A. INTRODUCTION ...........................................................................................IV-1
+  B. POPULATION PROFILE ...................................................................................IV-5
+  C. HOUSING STOCK CHARACTERISTICS..............................................................IV-10
+  D. EMPLOYMENT AND INCOME ........................................................................IV-21
+  E. AFFORDABILITY, HOUSING COSTS, AND OVERPAYMENT ..................................IV-23
+  F. HOUSING NEEDS ........................................................................................IV-28
+  G. AVAILABILITY OF SERVICES AND LAND ..........................................................IV-42
+  H. GOVERNMENTAL CONSTRAINTS ...................................................................IV-63
+  I. NON-GOVERNMENTAL CONSTRAINTS ............................................................IV-83
+  J. HOUSING PROGRAMS IN GONZALES ..............................................................IV-87
+  K. ANALYSIS OF EXISTING ASSISTED HOUSING ....................................................IV-91
+  L. PUBLICLY-OWNED SURPLUS LAND ................................................................IV-91
+  M. OPPORTUNITIES FOR ENERGY CONSERVATION...............................................IV-92
+  N. PUBLIC PARTICIPATION AND CONTACTS .......................................................IV-96
+  O. GOALS, POLICIES, AND ACTIONS .................................................................IV-98
+  P. QUANTIFIED OBJECTIVES ............................................................................IV-115
+                                              Page i
+GONZALES 2010 GENERAL PLAN                                                                                 JULY 2010
+CHAPTER V: COMMUNITY HEALTH AND SAFETY ..........................................V-1
+  A. INTRODUCTION .............................................................................................V-1
+  B. SEISMIC SAFETY AND GEOLOGIC CONDITIONS ...................................................V-2
+  C. FLOOD HAZARDS ..........................................................................................V-6
+  D. EMERGENCY PREPAREDNESS ..........................................................................V-11
+  E. POLICE AND FIRE PROTECTION .......................................................................V-13
+  F. HAZARDOUS MATERIALS ...............................................................................V-15
+  G. AIR QUALITY ..............................................................................................V-17
+  H. WATER QUALITY .........................................................................................V-19
+  I. NOISE ..........................................................................................................V-21
+  J. GOALS, POLICIES, AND ACTIONS ....................................................................V-45
+CHAPTER VI: CONSERVATION AND OPEN SPACE........................................ VI-1
+  A. INTRODUCTION ............................................................................................VI-1
+  B. OVERVIEW OF CONSERVATION AND OPEN SPACE IN GONZALES .........................VI-2
+  C. CONSERVATION OF NATURAL RESOURCES .......................................................VI-5
+  D. MANAGED PRODUCTION OF RESOURCES ......................................................VI-19
+  E. OPEN SPACE FOR PARKS AND OUTDOOR RECREATION ....................................VI-31
+  F. OPEN SPACE FOR PUBLIC HEALTH AND SAFETY ...............................................VI-38
+  G. GOALS, POLICIES, AND ACTIONS ..................................................................VI-43
+CHAPTER VII: COMMUNITY FACILITIES AND SERVICES.............................. VII-1
+  A. INTRODUCTION ...........................................................................................VII-1
+  B. WATER .......................................................................................................VII-1
+  C. SANITARY SEWER .........................................................................................VII-3
+  D. DRAINAGE..................................................................................................VII-5
+  E. SOLID WASTE ............................................................................................VII-12
+  F. SCHOOLS ..................................................................................................VII-14
+  G. LIBRARY ...................................................................................................VII-19
+  H. SOCIAL SERVICES .......................................................................................VII-20
+  I. CIVIC CENTER .............................................................................................VII-20
+  J. COMMUNITY CENTER ..................................................................................VII-21
+  K. GOALS, POLICIES, AND ACTIONS .................................................................VII-22
+CHAPTER VIII: COMMUNITY CHARACTER .................................................. VIII-1
+  A. INTRODUCTION ..........................................................................................VIII-1
+  B. COMMUNITY CHARACTER FRAMEWORK .........................................................VIII-1
+  C. CULTURAL RESOURCES ................................................................................VIII-7
+  D. GOALS, POLICIES, AND ACTIONS ................................................................VIII-18
+                                                      Page ii
+JULY 2010                                                                       TABLE OF CONTENTS
+CHAPTER IX: SUSTAINABILITY ........................................................................IX-1
+  A. INTRODUCTION ........................................................................................... IX-1
+  B. BACKGROUND ON CLIMATE CHANGE ............................................................. IX-3
+  C. EXISTING REGULATORY SETTING ..................................................................... IX-7
+  D. EXISTING CONDITIONS AND OPPORTUNITIES/APPROACH .................................. IX-9
+  E. OTHER ELEMENTS OF THIS GENERAL PLAN ...................................................... IX-15
+  F. GOALS, POLICIES, AND ACTIONS................................................................... IX-16
+CHAPTER X: IMPLEMENTATION ....................................................................... X-1
+  A. INTRODUCTION ............................................................................................ X-1
+  B. PLAN IMPLEMENTATION .................................................................................. X-1
+  C. USE AND AMENDMENT OF THE PLAN ............................................................... X-9
+APPENDIX A: REQUIRED HOUSING ELEMENT CONTENT
+APPENDIX B: COALITION OF HOMELESS SERVICE PROVIDERS
+APPENDIX C: SPECIAL HOUSING REQUIREMENTS
+APPENDIX D: REVIEW OF 2003 HOUSING ELEMENT
+APPENDIX E: NOISE DATA
+APPENDIX F: CONSERVATION STATUS OF SPECIAL SPECIES
+APPENDIX G: CONFORMANCE WITH DESIGN GUIDELINES
+                                             Page iii
+GONZALES 2010 GENERAL PLAN         JULY 2010
+                           Page iv
+                                     Chapter I
+                                INTRODUCTION
+                    A. Overview of 2010 General Plan Update
+1.        Long-Term Vision
+The Gonzales 2010 General Plan is a long-range plan with a Urban Growth
+Area containing approximately 2,150 acres of new land for urbanization.
+An additional 2,130 acres of land is designated for urban reserve. The
+urban reserve area is not intended for urbanization within the timeframe of
+this general plan, but it completes the vision of what the city might look like
+in the very long term. There are many reasons for the City’s decision to
+establish a long-term planning horizon:
+     •    To create a long-term vision to guide new development so that
+          ultimately the increments of growth form into a coherent whole,
+          becoming something more than a patchwork of large subdivisions.
+     •    To preserve key sites essential to the long-term economic health of
+          the city.
+     •    To ensure a competitive market for development and avoid the
+          monopolization of the city’s future development by any one of the
+          large land owners within the General Plan area.
+     •    To establish the ultimate boundaries of the city in order to identify
+          the adjoining agricultural areas that should be reserved for
+          permanent agricultural use.
+The Gonzales 2010 General Plan is a plan for facilitating urban
+development that provides jobs and housing for coming generations of
+residents. While it creates the structure upon which new development can
+proceed, it does not in itself seek to promote or curtail the rate of
+population growth. It assumes that the rate of regional population growth is
+largely dependent on external factors out of the City’s control, such as
+fertility rates, rates of immigration, and the location and availability of jobs.
+It assumes further that private market forces are the best gauge in
+                                      Page I-1
+
+GONZALES 2010 GENERAL PLAN                                           JULY 2010
+determining the rate at which housing and jobs are to be provided. Finally,
+it assumes that AMBAG growth projections are a mirror of the same larger
+economic forces that drive private market decisions and that population
+growth rates in Gonzales will track AMBAG growth forecasts because they
+have historically been an accurate gauge of regional trends.
+The Gonzales 2010 General Plan is designed to reorient the City’s approach
+to planning from one that relies only on land use designations and density
+controls to one that emphasizes neighborhood form and character. The
+plan relies primarily on the subsequent adoption of specific plans to
+implement the the plan’s long-term vision.
+2.      Plan Purpose and Objectives
+The Gonzales 2010 General Plan is the City's official policy statement for
+the use of land and provides the basis for future decisions regarding the
+City's growth and development. The plan provides a framework for
+managing increased employment and housing growth while conserving
+agricultural land, protecting the small town charm and diversity for which
+Gonzales is known. It reflects the aspirations and values of Gonzales'
+residents regarding the future form and character of the city. The City’s
+vision statement adopted by the Gonzales City Council reads as follows:
+        "Gonzales will continue to be a safe, clean, family-
+        friendly community, diverse in its heritage, and
+        committed to working collaboratively to preserve
+        and retain its small town charm."
+One of the most important purposes of the General Plan is to provide
+direction to landowners and investors by clearly stating the City's
+expectations for growth. The plan also provides guidance for public
+investment in new facilities such as roads, parks, and public utility systems.
+Once the General Plan is adopted, its maps and policies become the basis
+for day-to-day decisions by elected officials and City staff, including
+decisions on zoning changes and annexation.
+As the name implies, the plan is general in nature. It provides broad
+policies for development rather than site-specific instructions on where and
+                                   Page I-2
+
+JULY 2010                                                      INTRODUCTION
+how to build. The document is specific enough to guide growth but
+flexible enough to allow for adjustments at a site-specific level.
+The Gonzales 2010 General Plan seeks to achieve the following objectives:
+    Obj 1. Diverse, Self Sustaining Local Economy. The development of a
+            city that has the size, excellence in urban design, and public
+            services and facilities necessary to create a vibrant, diverse, and
+            self-sustaining local economy and to provide a home for a
+            diverse population;
+    Obj 2. Long-Term Vision. The development of a city that has a
+            coherent long-term vision of development that discourages
+            incremental development decisions that could eventually result
+            in an incoherent and/or sprawling urban form characterized
+            primarily by a collection of residential subdivisions (Land Use,
+            Circulation, and Conservation and Open Space elements);
+    Obj 3. Small-Town Characteristics. The development of a city that has
+            retained essential small-town characteristics by: 1) providing a
+            variety of housing types to meet the housing needs of existing
+            and new residents, and 2) establishing the highest residential
+            densities at a range consistent with other small cities in the
+            region (Land Use and Community Character elements);
+    Obj 4. Discouragement of Suburban Sprawl. The development of a
+            city that discourages low-density suburban development
+            characterized by large, single-use housing subdivisions with
+            separate car-dependent commercial services.
+    Obj 5. Protection of Best Agricultural Lands. The development of a
+            city that has a plan for growth that reduces development
+            pressure on the highest quality agricultural lands in the
+            planning area by promoting growth eastward toward the
+            foothills and away from the Salinas Valley floor, by bounding
+            urbanization with permanently protected agricultural land, and
+            by encouraging compact urban form and the efficient use of
+            land resources (Land Use, Circulation, Conservation and Open
+            Space, Community Facilities and Services, and Community
+            Character elements);
+                                    Page I-3
+GONZALES 2010 GENERAL PLAN                                           JULY 2010
+     Obj 6. Sustainability. The development of a city that has sustainable,
+              energy efficient development that successfully manages
+              greenhouse gas emissions consistent with state and regional
+              goals by emphasizing compact urban form, high connectivity
+              and mobility within and between neighborhoods, ample
+              opportunity for walking and bicycle use, neighborhood retail
+              and other neighborhood commercial uses within neighborhood
+              centers to reduce vehicle use within the neighborhood, and
+              otherwise designing for the efficient use of energy resources (all
+              elements);
+     Obj 7. Natural Environment. The development of a city that offers
+              residents abundant opportunities to enjoy open space areas and
+              the natural environment through the protection, re-creation,
+              and enhancement of the area’s natural features (Land Use,
+              Conservation and Open Space, and Community Character
+              elements); and
+     Obj 8. Competitive Development Environment. The development of a
+              city with a Urban Growth Area containing land owned or
+              controlled by a variety of interests, which is necessary to
+              maintain a competitive environment for urban development
+              (Land Use element).
+                      B. Background and Planning Process
+1.       The Gonzales 1996 General Plan
+The previous general plan was adopted in July 1996. The Gonzales 1996
+General Plan is regarded by city officials as a well-written, concise
+representation of the city’s major goals and objectives. The Gonzales 1996
+General Plan identified eight major planning themes that would be priorities
+for the city: small-town character, agricultural heritage, unified town,
+balanced growth, healthy downtown, opportunity for all residents, quality
+public services, and build upon local strengths.
+It’s notable that the theme of small-town character was identified in the
+Gonzales 1996 General Plan as the one “perhaps the most important to its
+                                    Page I-4
+
+JULY 2010                                                                            INTRODUCTION
+residents,” and the city has been successful in promoting this priority.
+Both in terms of population growth and the consumption of land for
+residential and non-residential uses, development of the city has essentially
+                                                    1
+kept pace with the 1996 projections.
+The city has also made important strides in improving its historic downtown
+as called for in the Gonzales 1996 General Plan. Streetscape improvements
+along Fourth Street, including the large archway at Fourth Street and Alta
+Street, diagonal parking, new street furniture, and sidewalk bulbouts have
+made the downtown vibrant and attractive. A new sit-down restaurant in a
+restored historic bank building has also contributed to making downtown
+successful.
+Yet, in at least one important way the city’s efforts to protect and enhance
+small-town character have not been fully successful. The Gonzales 1996
+General Plan established the intent to “encourage the design of new
+neighborhoods that respect and continue small-town traditions.” This was
+a concern in the Gonzales 1996 General Plan because recent new
+“suburban” residential subdivisions east of Gonzales Slough were
+considered by some residents as being out of character with Gonzales’
+vision. More than a decade later, there is a consensus that more recent
+subdivisions east of Highway 101 also suffer from many of the same
+problems identified in the Gonzales 1996 General Plan.
+With regard to the city’s agricultural heritage, the city lived within the
+growth boundaries set in the Gonzales 1996 General Plan and in so doing
+conserved farmland on the city’s perimeter. During this period, the city
+worked successfully with property owners and agricultural businesses to
+develop the new Gonzales Agricultural Business Park and to locate several
+major new agricultural processors in the park further strengthening
+agriculture as a key part of the city’s economic base.
+1
+  The Gonzales 1996 General Plan projected a need for 210 additional acres of land for residential use
+to accommodate 1,050 new homes through 2015. Approximately halfway through the 20-year
+planning period, actual housing units constructed consumed approximately 120 gross acres of
+residential land producing 525 housing units. The Gonzales 1996 General Plan also projected a need
+for 272 additional acres of land for non-residential use through 2015. Of this amount, 193 acres (70
+percent) was designated for industrial use. Actual industrial growth to date utilized approximately 31
+acres of industrial land.
+                                                Page I-5
+
+GONZALES 2010 GENERAL PLAN                                           JULY 2010
+The extension of “C” Street across Highway 101, while given prominence
+in various places in the Gonzales 1996 General Plan as a way to unify the
+east and west sides of Gonzales, was finally determined to be too costly as
+the city and home builders came to grips with the project requirements.
+Opportunities to strengthen the sense of community cohesion through
+urban design were also only partly addressed as new subdivisions were
+approved that significantly departed from the development patterns of the
+“old” Gonzales west of Highway 101. Rear-yard garages, planter strips
+with maturing trees, and grid patterned streets, gave way to streets lined
+with garage faces, driveways and large curb cuts, sidewalks placed against
+the street with fewer street trees, and curved streets and cul-de-sacs.
+With regard to balanced growth and opportunities for all residents, the city
+experienced mixed success. Significant new employment opportunities
+were realized as new agricultural industry came to town, but new retail
+business lagged. Two new apartment projects were built by non-profit
+housing providers, in line with the city’s policy of promoting affordable
+housing, but the majority of new single family housing was built within a
+fairly narrow density and price range.
+With regard to promoting a healthy Downtown, the city achieved notable
+success. As a result of public improvements made along Fourth Street and
+by investments in building maintenance and upgrades by a number of
+businesses, including several façade improvement programs, the city’s
+central business district has remained vibrant and attractive. The
+Downtown Revitalization Committee, appointed by the City Council,
+completed a careful assessment of the core area, identifying a number of
+continuing problems as well as opportunities for further improvements. The
+city supported downtown enhancement through several additional
+professional studies of economics, parking and civic beautification.
+Between 1996 and 2010 the city made remarkable progress in
+improvements to all areas of public services. Police and fire services,
+consistently viewed as high quality, kept pace with increasing demand. A
+large, modern new Police Station was constructed in the downtown, and
+the Fire Station was retrofitted to resolve earthquake safety issues. Extensive
+street maintenance was performed in the older part of town and to south
+Alta street and a decorative wall was constructed along the northwest
+portion of the city to buffer residents from adjacent agricultural activities.
+                                     Page I-6
+
+JULY 2010                                                      INTRODUCTION
+Two large new water reservoirs were constructed providing a significant
+margin of security for the community. Sewer treatment capacity was
+substantially increased to support full-buildout of the Gonzales 1996
+General Plan. Drainage improvements along Gonzales Slough have
+reduced flooding potential. A plan for major improvements to the Gloria
+Road/101 interchange was completed and received approval of Caltrans, a
+major step in improving access and safety to keep pace with planned
+growth. Fifth Street remains a bottleneck between east and west Gonzales
+and will require more attention in the future.
+School capacity issues remain in the elementary and middle schools.
+However, preliminary planning is well underway for a new elementary
+school site east of Highway 101. A new joint-use gymnasium has been
+completed at the middle school site, with funding and technical assistance
+from the city. The city also completed construction of a small community
+center building at Centennial Park, and acquired title to property for a new
+multi-use community center adjacent to the new joint-use gymnasium. The
+first phase of Canyon Creek Park was constructed along Gonzales Slough
+and land was acquired for park expansion. Renovation of the community
+swimming pool was completed. City recreational programs have been
+increased in all areas. Improved cooperation between the city and
+Gonzales Unified School District has significantly increased opportunities
+for mutually supportive projects and resource sharing.
+The city’s proximity to Salinas and Monterey and the major population
+centers to the north, its location on Highway 101, its beautiful natural
+setting, a reputation as a safe, friendly family oriented community with a
+relaxed pace of life, and the availability of open land for development of
+housing, business and industry, have all worked to bring pressure for
+growth to the city. With this new growth has come many opportunities and
+challenges for the citizens of Gonzales.
+2.       General Plan Development in Two Phases
+Phase I Efforts
+In early 2004, the City Council called for a selective update of the General
+Plan in two phases. Phase I was launched in May 2004 when the city
+conducted a visioning process with the Gonzales Planning Commission to
+                                     Page I-7
+
+GONZALES 2010 GENERAL PLAN                                         JULY 2010
+solicit ideas about the future of Gonzales and to identify needs that would
+be the focus of an updated General Plan. In November 2004, the city
+considered the preliminary results of analysis concerning population and
+housing growth in Gonzales and discussed trends in urban planning and
+neighborhood-based development. This latter topic was a subject of a joint
+Planning Commission/City Council workshop in February 2005 conducted
+with the assistance of the Local Government Commission.
+Additional Phase I efforts included numerous community meetings with
+local churches, the Chamber of Commerce, services clubs, the business
+community, and farmworkers. City staff also coordinated with the
+Monterey County Local Agency Formation Commission to solicit staff input.
+Finally, city staff gathered comments from area property owners to gauge
+their interest in the General Plan update process.
+Phase II Efforts
+Phase II of the General Plan Update, which began in October 2006,
+focused primary attention on the development of new Land Use and
+Circulation Diagrams, the development of a Sustainability Element, and the
+selective update of policies and implementing actions in all the elements to
+ensure internal consistency throughout the document. The city designated
+strategic areas for industrial, commercial, and open space uses in the new
+Land Use Diagram and required the subsequent development of specific
+plans for the remaining large portions of the growth area within which
+urbanization would occur on a neighborhood-by-neighborhood basis. The
+city developed Specific Plan Procedures and Neighborhood Design
+Guidelines as part of Phase II work to facilitate review and processing of
+specific plan applications.
+Citizens Advisory Committee and Other Public Outreach
+A commitment to increase public participation was made in the early stages
+of Phase II with the creation of the Citizens Advisory Committee (CAC).
+The City Council appointed a 21-member Citizens Advisory Committee
+(CAC) and charged it with the task of reviewing goals and objectives,
+evaluating land use alternatives, and responding to policy options for the
+future. The CAC began its work in May 2007 and completed its work after
+15 meetings in 2009. The CAC included residents with a broad spectrum
+                                    Page I-8
+JULY 2010                                                      INTRODUCTION
+of interests and perspectives. Representatives of local agricultural industry,
+real estate, retail stores, downtown businesses, students, seniors, clergy, and
+recreation interests were also included, along with members representing
+the local school board, library, newspaper, environmental groups, historic
+preservationists, the Hispanic community, and public safety agencies. The
+CAC also included a number of interested citizens not affiliated with an
+interest group who wished to become more active in shaping the
+community's future.
+All CAC meetings were open to the public and were advertised in the
+Gonzales Tribune. Additionally, the city maintained a mailing list for non--
+CAC members wishing to be notified prior to the meetings. The CAC
+meetings were covered by the Gonzales Tribune and were typically
+followed with articles in the weekly paper.
+Other forums for public comment on the plan have been the Planning
+Commission and City Council meetings, at which staff has provided
+updates on work in progress. These meetings have also been well-
+publicized in the Gonzales Tribune and have been televised on local
+access cable. Groups with special interests have also contributed, primarily
+through one-on-one interviews conducted over the course of the project.
+These groups include housing advocates, farmers, social service agencies,
+the school district, and representatives of local law enforcement and water
+agencies.
+Plan Deliberations and Adoption
+Four alternative land use plans were developed during the spring and
+summer of 2007. Each one envisioned a similar balance between
+residential, commercial, and industrial growth, but each distributed growth
+differently within the Planning Area. The Citizens Advisory Committee
+(CAC) conducted workshops on the four land use alternatives and
+developed a fifth alternative that represented the consensus of the CAC. In
+fall 2009, the Planning Commission and City Council conceptually
+approved the plan with minor modifications. This became the basis of the
+preferred alternative studied in the General Plan environmental impact
+report.
+                                    Page I-9
+GONZALES 2010 GENERAL PLAN                                             JULY 2010
+An Administrative Draft General Plan and EIR were reviewed by City Staff,
+with several rounds of revisions made prior to public release. A Public
+Review Draft General Plan and Draft EIR were published in April 2010.
+The document was made available for public review and was circulated to
+government agencies including the County of Monterey, the Association of
+Monterey Bay Area Governments, the Gonzales Union and. Gonzales High
+School Districts, and the Monterey County Local Agency Formation
+Commission. The Gonzales City Planning Commission conducted public
+hearings on the plan and EIR in _____ 2010. The Commission considered
+written comments and oral testimony in their deliberations. After
+recommending various changes, the Commission forwarded the document
+to the Gonzales City Council. The City Council conducted a public hearing
+on _____ 2010. The General Plan was adopted by the City Council on                _
+2010. The result of this careful and inclusive process is a General Plan
+which reflects the priorities of the residents and businesses of Gonzales.
+                  C. Relationship to Other Plans and Programs
+The California Supreme Court has called the general plan the “constitution
+for future development.” The general plan expresses the community’s
+development goals and embodies public policy relative to the distribution
+of future land uses, both public and private. Accordingly, the General Plan
+is part of the foundation for local regulations and actions that relate to the
+city's future. These include the zoning ordinance, the subdivision
+ordinance, public works projects, housing programs, development
+approvals, and any specific plans or redevelopment plans that might be
+adopted in the future. While all future actions cannot be anticipated by the
+General Plan, the State Attorney General has opined that actions as listed
+above must be consistent with the adopted General Plan. “Consistency” as
+defined by the Attorney General (58 Ops.Cal.Atty.Gen. 21, 25 (1975)) is as
+follows: “An action, program, or project is consistent with the general plan
+if, considering all its aspects, it will further the objectives and policies of the
+general plan and not obstruct their attainment.” ( 2003 General Plan
+Guidelines, p. 164).
+The General Plan Guidelines cautions against the use of ambiguous policies
+in a General Plan. “When writing policies, be aware of the difference
+                                     Page I-10
+
+JULY 2010                                                       INTRODUCTION
+between “shall” and “should.” “Shall” indicates an un-equivocal directive.
+“Should” signifies a less rigid directive, to be honored in the absence of
+compelling or contravening considerations. Use of the word “should” to
+give the impression of more commitment than actually intended is a
+common but unacceptable practice. It is better to adopt no policy than to
+adopt a policy with no backbone” (2003 General Plan Guidelines, p.15).
+1.       Relation to Engineering Standards and Public Works
+Implementation of the Gonzales 2010 General Plan relies heavily on
+engineering standards and public works projects. The design of streets,
+utility corridors, and drainage facilities has a major impact on
+neighborhood form and character, and without close coordination between
+planning and public works, much of the vision of the Gonzales 2010
+General Plan would be lost. Government Code §65402 requires the
+Planning Commission to review the conformity of public land acquisitions
+or sales, street vacations, and construction of public buildings, with the
+General Plan. Government Code §65401 empowers the City Council to
+prepare and submit a list of all public works projects for study or
+construction during each ensuing year. Such lists must be submitted to the
+Planning Commission for review as to their conformity with the General
+Plan.
+2.       Relation to Zoning
+The California Government Code (Section 65860) requires zoning
+ordinances (including zoning maps) in general law cities to be consistent
+with the General Plan. This does not mean that the maps and diagrams
+need to be identical. This underscores the need to consult the text as well
+as the Land Use Diagram when making land use decisions. Various
+policies in the plan (addressing water and sewer extensions, road
+improvements, etc.) provide guidance on when rezoning would be
+appropriate.
+There are other distinctions between the zoning ordinance and the General
+Plan. First, boundaries on the General Plan map are generalized while
+zoning boundaries typically follow parcel lines. Second, the General Plan
+land use classifications are broader than the Zoning Ordinance
+classifications. Multiple zoning districts may exist within a single General
+                                    Page I-11
+
+GONZALES 2010 GENERAL PLAN                                           JULY 2010
+Plan classification, as long as all of the unit types allowed in each zoning
+district are also permitted in the corresponding General Plan category.
+3.       Relation to Subdivision Regulations
+The Government Code specifies that cities may not approve a tentative or
+final subdivision map unless the subdivision, including its design and
+improvements, is consistent with the General Plan. Consistency may be
+found only when the city has an adopted General Plan and the proposed
+subdivision is compatible with its policies, programs, and land uses. This
+includes consistency with the Open Space Element, which contains
+provisions for parkland dedication or in-lieu fees. Where specific plans
+have been adopted subsequent to the General Plan, subdivisions will also
+need to be found consistent with those more detailed plans.
+4.       Relation to California Building Codes
+California law requires the city to adopt the California Building Codes in
+the form approved by the state. However, the city can adopt variations from
+the state codes in certain limited circumstances if justified by local
+conditions. The General Plan is an appropriate vehicle for documenting
+such local conditions and specifying the reasons that variations from State
+law are required.
+5.       Relation to Environmental Review Procedures
+The General Plan is subject to the provisions of the California
+Environmental Quality Act (CEQA). An Environmental Impact Report (EIR)
+was prepared to support the Gonzales 2010 General Plan. The EIR
+evaluated and proposed mitigation measures for all significant adverse
+impacts of the plan. Section 15080 of the State CEQA Guidelines requires
+that consistency with the General Plan be considered during environmental
+review for subsequent projects. The impacts of such projects will normally
+be considered significant if they conflict with the adopted environmental
+plans and goals of the city.
+                                    Page I-12
+JULY 2010                                                      INTRODUCTION
+                      D. Definition of the Planning Area
+The location of the City of Gonzales and its relation to the region is shown
+in Figure I-1. The Planning Area and the existing Sphere of Influence is
+shown in Figure I-2.
+By law, the General Plan must cover all territory within the City limits as
+well as land outside the city which "bears relation to its planning." Thus, the
+Planning Area may extend beyond City limits. Planning for unincorporated
+areas adjacent to the city provides a means for the city to inform land
+owners in the area and other public agencies, especially the Monterey
+County, of its concerns and intentions for the future. It also provides a
+means for guiding the orderly extension of roads, services and utilities and
+ensuring that appropriate limits to urban growth are maintained.
+                                   Page I-13
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page I-14
+JULY 2010                           INTRODUCTION
+               Figure I-1
+          REGIONAL LOCATION
+                          Page I-15
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page I-16
+   JULY 2010                                   INTRODUCTION
+                  Figure I-2
+PLANNING AREA AND EXISTING SPHERE OF INFLUENCE
+                             Page I-17
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page I-18
+JULY 2010                                                        INTRODUCTION
+The Planning Area for the Gonzales 2010 General Plan includes all land
+within the City limits and an area extending approximately one-mile
+outside of the new General Plan area. The city has determined that land
+use decisions within this area could affect its ability to achieve the basic
+goals of this General Plan. The city will formally request an opportunity to
+review and comment on development proposals submitted to the county
+within the Planning Area to ensure consistency with the city’s General Plan.
+Generally, it is the city’s intent that uses in the Planning Area should be
+limited to continuation of existing uses and agricultural activities until
+properties are formally annexed to the city for development purposes. The
+Monterey County General Plan should be consulted for additional
+information on this area.
+                        E. Organization of this Document
+The General Plan contains 10 chapters, including an introduction, eight
+elements, and an implementation section. The Land Use Element describes
+existing land uses in the city and presents concepts for the city's future
+physical development. The Circulation Element addresses mobility issues,
+including street improvements and provisions for trucks, bicycles,
+pedestrians, rail, and mass transit. The Housing Element explores social,
+economic, and housing conditions in Gonzales and develops policies and
+programs to meet current and future affordable housing needs.
+The Community Health and Safety Element focuses on natural hazards,
+with policies protecting residents and property from earthquakes, floods,
+fire, and other environmental hazards. The element also addresses city
+police and fire services. It also addresses noise conditions in Gonzales and
+incorporates measures to minimize future noise problems. The
+Conservation and Open Space Element addresses historic and cultural
+resources, vegetation and wildlife, parks, soil resources, water resources, air
+resources, and open space.
+The Community Services and Facilities Element profiles water, sewer,
+drainage, solid waste, school, and library services and identifies how these
+                                     Page I-19
+
+GONZALES 2010 GENERAL PLAN                                          JULY 2010
+services should be managed in the future. The Community Character
+Element describes urban design issues in Gonzales. It includes provisions
+to protect existing neighborhoods as well as provisions to ensure that new
+development is attractive and appropriate.
+The Sustainability Element addresses energy conservation and measures to
+be taken to reduce greenhouse gas emissions over the life of the plan. An
+implementation chapter at the end of the document summarizes the
+regulatory changes and other actions needed to carry out the plan.
+Each element in the plan consists of text, maps, and other diagrams or
+illustrations. The text includes a description of background conditions and
+a discussion of future conditions which includes goals, policies, and actions
+for the future. Goals describe ideal future conditions or end states ("clean
+air and water") and are usually broad and abstract. Policies provide direct
+guidance on decisions relating to these goals and suggest specific
+implementation measures, or actions. In some cases, these actions are
+explicitly stated following the policies, with responsible parties or timelines
+identified.
+An Environmental Impact Report (EIR) for the General Plan has been
+prepared and is available for review under separate cover. The EIR
+includes mitigation measures for plan impacts, as well as an analysis of
+plan alternatives.
+                                   Page I-20
+                                   Chapter II
+                                  LAND USE
+                                A. Introduction
+1.       What Is the Land Use Element?
+The Land Use Element presents the diagrams, designations, and policies
+that will guide future land use decisions in Gonzales. Probably more than
+any other plan element, the Land Use Element will have a major impact on
+the form and character of Gonzales over the next 35 years or longer. Its
+policies address such issues as conservation of residential neighborhoods,
+urban expansion, economic development, maintenance of a healthy
+downtown, and creation of quality new neighborhoods and business areas.
+The requirements for the Land Use Element are spelled out in Government
+Code Section 65302(a). The element must designate the general
+distribution, location, and extent of land used for housing, business,
+industry, open space (including agriculture and parks), education, public
+buildings and lands, and waste disposal facilities. Standards for population
+density and building intensity in each planning designation are required.
+The Land Use Diagram in this Element designates the general extent of
+development envisioned for the long term. The Land Use Diagram
+embodies the goals and policies of the General Plan and as such is
+definitive and has controlling effect in any balancing required to reconcile
+the various and sometimes competing objectives conveyed by the narrative
+and policies of the General Plan. Nonetheless, the narrative and policies of
+the General Plan are, absent any implied objectives that compete with the
+Land Use Diagram, definitive in their own right, and users of this document
+are advised to refer to them as well as the diagram when evaluating
+proposed development and capital improvement projects.
+2.       Organization of the Element
+The Land Use Element begins with a description of current land use
+patterns in Gonzales. Both the regional and the local setting are
+                                   Page II-1
+GONZALES 2010 GENERAL PLAN                                           JULY 2010
+considered. Current trends are examined to determine where the city may
+be headed in the future. Issues relating to these trends are discussed.
+The element proceeds with a vision of what Gonzales will be like 35 years
+or more in the future. This vision is articulated first with population
+projections and second with some basic concepts about how and where
+development should take place. The Land Use Diagram illustrates these
+concepts graphically and the text defines the various land use categories
+and activities depicted on the diagram.
+The final section of the element includes land use goals, policies, and
+implementing actions. These statements respond to the various issues
+identified by the Citizens Advisory Committee (CAC), the Planning
+                                                                             -
+Commission, the City Council, and the residents of Gonzales throughout
+the General Plan program. They provide a means of protecting the city's
+best qualities and enhancing the quality of life in the future.
+                           B. Land Use Framework
+1.       Physical Setting
+The physical setting of Gonzales has shaped past development patterns and
+will continue to do so in the future. The city is located in the central part of
+the Salinas Valley, 16 miles south of the City of Salinas and 33 miles north
+of King City. San Jose and San Francisco lie to the north, about 70 miles
+and 120 miles respectively.
+The combination of climate, soil, terrain, and water have made the Salinas
+Valley one of the State's most productive agricultural regions for well over
+a century. The valley is rich in history and has played a major role in
+California's cultural development and its folklore. Its farms continue to be
+major contributors to the State's economy and provide thousands of annual
+and seasonal jobs, as well as secondary jobs in food processing and
+agricultural businesses. At Gonzales, the valley floor is about six miles
+wide, with fields of lettuce, broccoli, asparagus, strawberries, grapes,
+nursery crops, and other field crops and vegetables planted nearly to the
+base of the Sierra de Salinas on the west and the Gabilan Mountains on the
+east. The city is surrounded on all sides by prime agricultural lands,
+                                   Page II-2
+JULY 2010                                                              LAND USE
+although there is general recognition that the best soils lie to the west of
+Highway 101.
+The entire Salinas Valley is drained by the Salinas River, which originates
+in the Coast Range south of King City and flows north to Monterey Bay.
+The river is located about two miles west of Gonzales and is fed by a
+number of creeks descending from surrounding hills and from sloughs
+which cross the valley. One of these sloughs bisects Gonzales, creating a
+natural drainageway through the city and providing some visual relief on
+the otherwise flat terrain. The hills to the west of the valley are taller, more
+dramatic, and more densely wooded than those to the east. The eastern
+hills are drier and more rolling, as is typical of the large ranches that
+dominate eastern Monterey County.
+The valley is crisscrossed by a rectangular grid of mostly unimproved roads.
+Highway 101 and the Union Pacific Railroad angle across this grid and
+provide the main transportation arteries through the valley. River Road
+runs from Gonzales to the western shoulder of the valley and provides
+scenic vistas to citrus and avocado orchards, grazing land, and vineyards
+on the slopes of the Sierra de Salinas, as well as expansive views across the
+valley. Johnson Canyon Road runs from Gonzales to the valley's eastern
+shoulder, with a number of ranches and dairies located in the vicinity. East
+west roads run between the two sides of the valley at quarter-mile, half-
+mile, or one-mile intervals bisected at right angles by north-south roads
+running at similar intervals. The roads frame a patchwork quilt of farms
+ranging in size from about 20 acres to several hundred acres. A complex
+network of irrigation canals and furrows crosses the area, with water
+pumped from the ground and from San Antonio and Nacimiento Reservoirs
+to the south.
+From Gonzales, the Salinas Valley appears expansive, stretching all the
+way to the horizon on the north and south and well into the distance on the
+east. Only the steep hills to the west are an obvious physical barrier.
+Without terrain or water features defining the city's boundaries, edges are
+formed for the most part by agriculture. Sometimes a road or highway
+separates the urban edge from the surrounding farmland; in other cases,
+there may only be a fence or an unmarked property line.
+                                    Page II-3
+GONZALES 2010 GENERAL PLAN                                         JULY 2010
+Man-made features like highways and railroads also frame the edges of
+Gonzales. The Union Pacific railroad tracks roughly define the western
+boundary of the urbanized area, although some agricultural industry is
+located west of the tracks. Iverson Road roughly defines part of the eastern
+boundary, although new development east of Iverson Road adjacent to the
+Johnson Canyon Landfill is also anticipated in the long term.
+Given the lack of physical constraints and the precedent of new housing
+and shopping areas east of Highway 101, Gonzales is a likely candidate for
+additional growth during the coming decades. With the exception of
+Chualar, an unincorporated farming town, and Chualar Canyon to the
+northeast, Gonzales is the first community reached when traveling south
+from Salinas and the Monterey Bay area. Driving time to Salinas is roughly
+20 minutes, to Monterey about 30 minutes, and to the Southern Santa Clara
+Valley about an hour. The 2000 Census reported that home prices in
+Gonzales were 62 percent of the Monterey County median and were
+significantly less than prices in the San Francisco Bay Area. In short, the
+City is well-positioned for expansion.
+2.      Existing Land Use
+This section presents a profile of existing land uses in Gonzales. It
+describes land uses at two geographic levels: the "Planning Area," which
+encompasses the entire city, proposed urban expansion area, and
+surrounding farm areas; and the "City," which encompasses only those
+areas within the 2010 City limits.
+Planning Area
+According to the General Plan Guidelines (Government Code §65300), the
+plan must cover the territory within the boundaries of the adopting city or
+county as well as “any land outside its boundaries which in the planning
+agency’s judgment bears relation to its planning.” The Gonzales Planning
+Area extends about three miles in all directions from the City limits and
+includes the City's wastewater treatment plant along the Salinas River. The
+Planning Area is shown on Figure I-1 in Chapter I, Introduction.
+On the north, the Planning Area includes the northern Highway 101
+interchange and the agricultural areas along both sides of Associated Road.
+On the south, the Planning Area extends beyond the southern Highway
+                                    Page II-4
+
+JULY 2010                                                            LAND USE
+101 interchange and includes the agricultural areas on both sides of Gloria
+Road. On the west, the Planning Area extends to the Salinas River to
+include the wastewater plant (although the plant is not contiguous with the
+rest of Gonzales, it is contained within the City limits). On the east, the
+Planning Area extends into the foothills east of Iverson Road and the
+Johnson Canyon Landfill.
+The pace of new development in the Central Salinas Valley over the last
+decade has created a need to define an expanded Planning Area, within
+which the City can work to maintain an envelop of open space separating
+Gonzales from its neighbors. The City has defined its Planning Area
+broadly to convey this position, and land contained in the Planning Area
+that is not designated for development should remain in open space and
+agricultural use. Policies addressing this position are presented later in this
+element.
+The City of Gonzales, described below, occupies approximately 1,200
+acres of the Planning Area. Outside the city and to the north, the Planning
+Area contains vegetable crops on either side of the railroad and Highway
+101. There are a number of farm homes, surrounded by clusters of mature
+trees, but otherwise vistas are uninterrupted. There is a labor camp to the
+west of the railroad and a gas station at the northern interchange of
+Highway 101 at Associated Lane.
+To the east of the City limits, land is planted in vegetable and row crops.
+Parcel sizes tend to be larger than those to the north and there is a gentle
+upslope to the east. Trees are absent, save for the occasional clusters
+around farm houses. The picture is very much the same to the south,
+where large farms and fields of row crops are uninterrupted to the Soledad
+Correctional Facility. Beyond the city limits on the west, the Planning Area
+includes a number of agricultural businesses and packing sheds along
+Gonzales River Road and west of the Union Pacific tracks. To the north
+and south of this area, large scale field crop and truck farms are
+predominant. The City's wastewater treatment plant is located 1.7 miles
+west of the Southern Pacific Railroad on the northeast bank of the Salinas
+River.
+                                    Page II-5
+GONZALES 2010 GENERAL PLAN                                            JULY 2010
+Parcel sizes outside the City limits tend to be large. Most are larger than 40
+acres and several even exceed 500 acres. There has been virtually no rural
+residential ("ranchette") development on the city's perimeter. As a result,
+the transition from urban uses to farmland is abrupt in most places. The
+large size of the surrounding parcels suggests that much of Gonzales' future
+growth will be in developments larger than those built in the past. Given
+the impacts of such development on the city's character and services,
+phasing plans will be critical when new projects are proposed.
+Land use patterns outside the City limits create a number of conditions that
+will affect how and where Gonzales expands. As mentioned earlier,
+growth immediately north of the city was blocked in 1991 by acquisition of
+an agricultural easement along the northern City limits. Growth to the
+west, at least residential growth, is difficult because of the Union Pacific
+Railroad and the established presence of industry in the area. Westerly
+growth is further constrained by an agricultural easement on a 540-acre
+ranch just beyond the current City limits. Because of noise concerns, the
+existing industrial character of the area, and the difficulty of increasing
+traffic at grade-level railroad crossings, the area west of Gonzales is not
+well-situated for new urban development.
+By contrast, the areas to the northeast, southeast, and east of the City are
+relatively unconstrained. The only existing land uses are agricultural, and
+there are very few physical or man-made barriers other than Highway 101,
+which makes the area well-suited for expansion.
+The City
+Over the past 13 years, the City of Gonzales has added approximately 600
+acres of land into its incorporated area. Approximately one-third of this
+new area has been dedicated to residential use east of Highway 101 and
+one-third has been dedicated to industrial use west of Alta Street.
+Overall, residential use in Gonzales represents approximately one-third of
+all land use, and of this amount about 80 percent is single-family
+residential housing. Industrial use represents almost 13 percent of land use.
+Streets and highways represents approximately 17 percent, and public/semi
+public use (including the wastewater treatment plant) represents
+                                    Page II-6
+                             JULY 2010                                                            LAND USE
+                             approximately 8 percent). Commercial use represents about two percent of
+                             land use.
+                             Table II-1 and Figure II-1 illustrate existing land uses in Gonzales as of
+                             2008. The City contains approximately 1,200 acres, including the non-
+                             contiguous parcel which contains the City's wastewater treatment plant.
+                                                    Table II-1
+                             GONZALES LAND USE INVENTORY – 2009
+ Use                                                                Acres                 Percent of Total
+ Residential                                                        338                   27.9%
+   Single Family – Detached                                         (280)                 (82.8%)
+   Duplex/Triplex/Fourplex                                          (39)                  (11.5%)
+   Multi-Family                                                     (18)                  (5.3%)
+   Other                                                            (1)                   (0.3%)
+ Commercial                                                         23                    1.9%
+ Industrial                                                         159                   13.1%
+ Public/Semi Public (including wastewater plant)                    99                    8.2%
+ Open Space                                                         27                    2.2%
+ Streets/Highways/Railroads/Utilities                               200                   16.5%
+ Vacant                                                             365                   30.1%
+ Total                                                              1,211                 100.0%
+Source: City of Gonzales; Coastplans/H-S/Eadie Team, 2009
+                                                                  Page II-7
+
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page II-8
+JULY 2010                            LAND USE
+               Figure II-1
+          EXISTING LAND USE
+                           Page II-9
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page II-10
+JULY 2010                                                             LAND USE
+While there is some mixing of land uses in Gonzales, most of the
+residential, industrial, commercial, and public areas are clearly separated.
+The City's physical form reflects its various stages of development. The
+core of Gonzales is the original townsite, extending four blocks by ten
+blocks, with streets aligned parallel and perpendicular to the railroad.
+West of the original townsite, land uses are industrial in character, with
+packing sheds, agricultural implement and machinery shops, and similar
+uses predominating. East of the original townsite and beyond the Slough,
+Centennial Park and the city's three public schools provide a buffer to the
+newer subdivisions beyond. The newest development lies east of Highway
+101, where the California Breeze subdivision is located south of Fifth
+Street, and Arroyo Estates, Sunrise Ranch, and the Gonzales Shopping
+Center are located to the north. South of the original townsite, the City
+limits taper and form a right triangle. The area contains apartments, a large
+winery, a cemetery, a feed store, an electrical shop, a vegetable processing
+plant, and vacant land.
+The existing City is built on virtually flat terrain, with the Gonzales Slough
+providing the only significant relief. The Slough flows in its natural channel
+through much of the City, but is culverted in some areas. In most places,
+grasses, wildflowers, and mostly non-native plants grow along the banks.
+Monterey pines and pepper trees have been planted along the banks in
+some residential yards. Although a trail runs along the Slough for some of
+this length, it is non-continuous and the area has never officially been
+dedicated as a public park.
+The new growth area identified in this General Plan Update lies east of the
+existing city and gently slopes upward toward the foothills of the Gabilan
+Mountains. The area contains prime agricultural soils that decrease in
+value as they extend away from the city toward the foothills. The area is
+actively farmed (row crops and vineyards), and much of the area east of
+Iverson Road is used to raise livestock. The Johnson Canyon Landfill is also
+located east of Iverson Road. The new growth area is bisected by Johnson
+Canyon Creek, which is the major drainage through the area. There are
+also minor drainages along the northern perimeter of the area adjacent to
+Associated Lane and along the southern perimeter adjacent to La Gloria
+Road. In most cases, these drainages have been channelized into
+                                   Page II-11
+GONZALES 2010 GENERAL PLAN                                         JULY 2010
+agricultural drainage ditches, with little evidence remaining of the natural
+topography that originally existed.
+3.      Areas Subject to Flooding
+According to Government Code 65302 (a), the Land Use Element shall
+“identify areas covered by the plan which are subject to flooding and shall
+be reviewed annually with respect to those areas.” The areas within the
+Gonzales Planning Area that are subject to flooding are shown in Figure II-
+2 below. A full discussion of flood control issues and policies is presented
+in Chapter V, Community Health and Safety.
+                                  Page II-12
+
+ JULY 2010                         LAND USE
+            Figure II-2
+FLOOD AND DAM INUNDATION HAZARDS
+                        Page II-13
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page II-14
+JULY 2010                                                            LAND USE
+4.       Principal Issues
+With a population of about 8,800 and about two square miles of land area,
+Gonzales is still a relatively small town. However, the City’s population
+has increased by 50 percent and its land area by 100 percent in the last 15
+years. Given the rate of population growth predicted for Monterey County
+during the next few decades, Gonzales will probably continue expanding
+                                                     st
+rapidly through much of the early and middle 21 Century.
+The same qualities that have made the Salinas Valley attractive for
+agriculture for more than a century now make it an attractive location for
+urban growth. The flat terrain and loamy soils are easily developed and the
+uncongested roadways, relatively inexpensive real estate, and proximity to
+employment centers to the north are attractive to prospective homebuyers.
+The lure of affordable housing and a "small-town lifestyle" drew new
+residents to all of the Salinas Valley cities during the 1990s and early
+2000s. At the same time, the prospect of steady work and a better life have
+continued to fuel immigration from Mexico and other Latin American
+countries. While this migration has a very different economic origin, it too
+creates the need for land to support new housing and business.
+Today, Gonzales is at a crossroads; the future holds many possibilities. The
+City could become more urban in character, with large-scale residential
+development on its perimeter. It could focus on economic development,
+investing in infrastructure to attract new business and industry. It could
+capitalize on its freeway interchanges, creating new highway-oriented
+activity centers. It also could discourage growth altogether. In determining
+the best option for the future, a number of issues become apparent. These
+are addressed in this element through policies and action programs.
+One of the primary challenges for Gonzales today is the creation of viable
+new neighborhoods that function well in relation to existing neighborhoods
+and that reinforce the community’s sense of itself. The Gonzales 1996
+General Plan saw this challenge in terms of maintaining “small-town
+ambiance” and sought to achieve this goal by limiting the City’s ultimate
+size to about 10,000 residents. This approach, however, is being
+overwhelmed by regional growth pressures that dwarf the demands that
+                                    Page II-15
+
+GONZALES 2010 GENERAL PLAN                                           JULY 2010
+were placed on the City in the 1990s. Now, the greater threat posed to
+Gonzales’ small-town ambiance is incremental growth that, in the absence
+of a long-term vision, could result in a large patchwork of disconnected
+subdivisions. The basic challenge then is one of creating a vision within
+which market forces are encouraged to move beyond the incremental
+utilitarianism of subdivisions to the broader scope of neighborhood and
+community building.
+The Gonzales 2010 General Plan adds approximately 4,280 acres of
+potentially developable land to the existing City of approximately 1,200
+acres, which represent approximately more land than needed to
+accommodate urban development at rates projected by AMBAG. Of this,
+approximately 2,130 acres lies within an Urban Reserve Overlay
+designation. This land is not available for development within the time
+frame of this General Plan but is included to show a longer-term vision of
+how the City may develop over time. The new growth area encompasses
+properties whose owners have expressed a long-term interest in urban
+development and forms the basis of the ultimate vision of a coherent and
+well-designed city. While much of the detailed planning for this sizable
+area will be undertaken through the development of future Specific Plans in
+the decades to come, this General Plan update has identified major centers
+for new industrial and commercial development that are strategically
+located for easy access and expansion and sized to serve for the long term.
+Closely aligned with the issue of overall growth and vision is the character
+and quality of new development. Preserving small-town character also
+means encouraging new development that is compatible with what is there
+now. In fact, some of the development that has taken place in Gonzales in
+the past 20 years has not been sympathetic to the town's character. Much
+of the newer multi-family development is regarded as boxy and
+unattractive, and sometimes inappropriately dense for its setting. The larger
+single family developments, while more highly regarded, do not reflect the
+character or ambience of a small town. Members of the Advisory
+Committee, as well as Planning Commissioners and Council members,
+expressed a strong interest in encouraging new development that more
+closely matched the existing community fabric.
+There is also a strong interest in attracting jobs, as well as housing, to the
+community. Because of its location and cheaper land prices, Gonzales is
+                                    Page II-16
+
+JULY 2010                                                             LAND USE
+vulnerable to becoming a bedroom community for Salinas and the
+Monterey Peninsula. This would probably result in City expenses
+increasing faster than the local tax base and could strain local services. To
+be competitive in attracting business, Gonzales needs industrially and
+commercially designated land, as well as additional water and sewer
+capacity.
+Another land use issue is the emergence of an "East" and "West" Gonzales
+as more and more development occurs east of Highway 101. Without
+careful planning, the area east of the freeway could develop as virtually a
+separate city. The economic health and future of Downtown Gonzales is
+also of concern, particularly as new commercial developments are
+constructed in developing areas. The market niche once filled by the
+downtown will change as outlying centers are built. To survive, the area
+must remain attractive and convenient and must capitalize on its strengths
+and unique qualities.
+The use of the Gonzales Slough and other historic drainages brings up
+other issues related to the City's future. These drainages serve many
+purposes--drainage, flood control, plant and animal habitat, and passive
+recreation (walking, biking), among them. Future land use decisions could
+affect these functions as well as the long-term character and environmental
+quality of the area. Planning is complicated by ownership and
+jurisdictional issues. Some sections are privately owned; others are owned
+by the City or School Districts. Activities are subject to review or
+permitting by a number of agencies, including the Army Corps of
+Engineers, State Department of Fish and Game, Regional Water Quality
+Control Board, and Monterey County Water Resources Agency.
+Numerous natural resource issues also influence land use in Gonzales.
+Foremost among these are the protection of prime agricultural lands, air
+quality, and the availability of water. These are all regional issues and they
+affect all of the cities in the Salinas Valley, as well as many other cities
+throughout the county and state. Agriculture has been Gonzales' lifeblood
+since the town was founded, and it is still the economic mainstay of the
+community. The City would like to retain its agricultural roots even as the
+economy diversifies and the population grows. This not only requires a
+development pattern which minimizes urban sprawl onto farmland, but
+                                     Page II-17
+GONZALES 2010 GENERAL PLAN                                         JULY 2010
+also one which minimizes conflicts between urban and agricultural uses on
+the perimeter of the City.
+                             C. Land Use Concept
+1.       Projections
+Projections are used to estimate how much land will be needed for new
+housing and employment in Gonzales. Overall projections for the
+Monterey Bay Area are based on factors like employment, birth and death
+rates, and migration trends. In Monterey County, these factors are expected
+to bring the 2009 population of 431,892 up to around 530,362 by the year
+2035 (AMBAG 2008).
+The Association of Monterey Bay Area Governments (AMBAG) takes the
+figures for the region as a whole and allocates them to cities based on
+factors like local growth policies, specific development plans, and the
+availability of public services. These projections are periodically updated
+as new developments are approved, economic conditions change, and
+General Plans are updated. AMBAG's most recent projections (2008)
+showed Gonzales growing to 23,418 people in the year 2035, an increase
+of about 14,393 over the current 2009 population of 9,025 persons.
+This plan designates slightly more than 1,400 acres of additional land for
+residential growth, or enough land to accommodate a total City population
+of about 37,000. Complete development of all of this land, referred to as
+"buildout" or "holding capacity," should not occur before the year 2050,
+provided current AMBAG growth rates hold true. The excess land is
+provided to give the housing industry some flexibility in selecting sites and
+to recognize that not all landowners with property bearing "neighborhood
+residential" plan designations intend to sell or develop their properties by
+2035. Some of the land designated for housing is likely to remain in
+agricultural production throughout the planning period.
+Because the land supply exceeds projected growth demand, it is important
+that new development is phased and that development only be allowed if it
+is contiguous with existing development or is located within a new
+neighborhood developed under a Specific Plan that sets forth orderly
+                                   Page II-18
+JULY 2010                                                             LAND USE
+development consistent with the approved Neighborhood Design
+Guidelines and Standards and Community Character policies. This will
+ensure that the City does not suddenly grow much faster than desired and
+will also allow urban services to keep pace with growth. Although a
+growth management system (limiting the number of new homes that may
+be built each year) is not proposed at this time, the need for such a system
+should be evaluated from time to time in the future. If Gonzales appears to
+be using up its land supply much faster than anticipated, it may become
+necessary to regulate the rate of growth.
+AMBAG also projects employment for cities and counties in the Monterey
+Bay Area. The number of jobs in the Gonzales area is projected by
+AMBAG to increase from approximately 1,063 in 2010 to 1,324 in 2035.
+This employment projection is at substantial variance from the projections
+of this General Plan; the 310 jobs that AMBAG says will be added over the
+course of 25 years does little more than account for the number of new
+jobs that would be created by the school district and the City to
+accommodate new development. A total of approximately 5,400 jobs
+could be accommodated by this General Plan at buildout if commercial
+and industrial designated land is utilized up to 80 percent.
+2.      Neighborhood-Centered Growth through Specific Plans
+Neighborhoods provide important focal points for social interactions,
+which are the basis for healthy communities and strong economies. A
+well-designed neighborhood contains activity centers like schools, parks,
+community facilities, and small-scale retail and commercial services—all
+within easy walking distance. A well-designed neighborhood also provides
+a variety of housing types that creates an interesting residential character
+suited to a variety of living situations and income status. For all these
+reasons, the General Plan uses the neighborhood as the fundamental
+building block for new development.
+Implementation of the neighborhood strategy will occur through the
+approval of Specific Plans. Each Specific Plan will be required to contain
+one or more neighborhoods and be designed consistent with adopted
+                                     Page II-19
+
+GONZALES 2010 GENERAL PLAN                                                    JULY 2010
+Neighborhood Design.2 Smaller properties (i.e., less than 125 acres) would
+be grouped to form a neighborhood or allowed under prescribed
+conditions to “attach” to an existing Specific Plan area by filing an
+addendum to the adopted Specific Plan.
+For the purpose of the Gonzales 2010 General Plan, a neighborhood is
+approximately 3/8-mile radius in size, a size that reflects the current scale
+of residential neighborhoods in the historic area of town west of Highway
+101. Also neighborhoods would usually contain at least the following:
+    9    One centrally-located elementary school (in some cases, a middle
+         school),
+    9    One centrally-located neighborhood park,
+    9    A full mix of residential types, and
+    9    Neighborhood-serving commercial and civic uses and public
+         services.3
+Any given neighborhood may also include community-wide facilities such
+as major parks, high school campuses, or places of worship.
+Figure II-3 shows a prototypical neighborhood.
+2
+  The community commercial core mixed-used area would be the subject of a
+specialized Specific Plan designed to facilitate community commercial and retail
+core uses. Specialized Specific Plans would be also required for highway
+commercial, light industrial/business park and heavy industrial/manufacturing
+areas as set forth in Implementing Action LU-2.1.2 – Commercial/Industrial
+Specific Plans.
+3
+  Neighborhood-serving commercial may be designed to serve two neighborhoods,
+and where this is the case, one of the neighborhoods might not contain such uses
+(see Policy LU 8.8). In order to maintain a scale appropriate to a residential setting,
+individual neighborhood commercial uses should generally be small-scale, which
+typically would be less than 5,000 square feet for any individual commercial use.
+Commercial uses may occasionally be larger as appropriate. Mixed commercial
+uses are encouraged within neighborhood centers and should be pedestrian-
+oriented uses that serve the immediately surrounding area. These may include
+walk-in uses such as restaurants, retail stores, health/fitness facilities, personal
+services, community service organizations, and similar uses. Auto oriented uses
+with drive-through travel lanes are discouraged as they are inconsistent with the
+pedestrian oriented character of neighborhood commercial centers.
+                                     Page II-20
+
+JULY 2010                               LAND USE
+                 Figure II-3
+       PROTOTYPICAL NEIGHBORHOOD
+                             Page II-21
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page II-22
+JULY 2010                                                           LAND USE
+3.       Land Use Diagram
+The Land Use Diagram for Gonzales is comprised of one large-scale
+diagram showing the entire Planning Area (Figure II-4), plus three inset
+diagrams showing more detail in key areas (Figures II-5, II-6, and II-7). The
+Planning Area depicted in the diagram is approximately 19,200 acres and
+contains a growth area of approximately 4,280 acres. Of this, 2,150 acres
+is available for urbanization within the horizon of this General Plan and is
+referred to as the “Urban Growth Boundary.” The remaining 2,130 acres is
+unavailable for urbanization within the horizon of this general plan and is
+subject to an “Urban Reserve Overlay.” The urban reserve area is regarded
+as the most likely path for long-term development and is included in the
+Land Use Diagram to give expression to the the City’s long-term vision for
+growth.
+Existing and future capacity estimates for the Urban Growth Area are
+shown in Table II-2 and Table II-3, respectively, and are primarily intended
+to demonstrate the rough extent of growth enabled by the Gonzales 2010
+General Plan. These capacity estimates are not intended as a projection or
+forecast of the rate of population or employment growth.
+                                   Page II-23
+
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page inetntionally left blank]
+                            Page II-24
+JULY 2010                            LAND USE
+              Figure II-4
+          LAND USE DIAGRAM
+                          Page II-25
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page II-26
+JULY 2010                            LAND USE
+Figure II-5
+LAND USE DIAGRAM INSET #1
+                          Page II-27
+GONZALES 2010 GENERAL PLAN            JULY 2010
+                           Page II-28
+JULY 2010                               LAND USE
+                 Figure II-6
+         LAND USE DIAGRAM INSET #2
+                             Page II-29
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page II-30
+JULY 2010                            LAND USE
+              Figure II-7
+      LAND USE DIAGRAM INSET #3
+                          Page II-31
+GONZALES 2010 GENERAL PLAN                                   JULY 2010
+                             [Page intentionally left blank]
+                           Page II-32
+JULY 2010            LAND USE
+          Page II-33
+GONZALES 2010 GENERAL PLAN                                        JULY 2010
+Most of the City's near-term employment growth is anticipated in the
+industrial area west of Alta Street and north of Gonzales River Road. A
+variety of businesses are accommodated there, including both agriculturally
+                                   Page II-34
+JULY 2010                                                           LAND USE
+related and non agriculturally related enterprises. In the longer term, the
+north and south interchanges are envisioned as accommodating highway-
+oriented commercial uses, as well as industrial uses.
+One of the principal features of the Land Use Diagram is the creation of a
+Community Commercial Mixed Use designation to complement and
+extend the Downtown Mixed Use designation into the growth area east of
+Highway 101 in the vicinity of Johnson Canyon Road and Fanoe Road.
+The extent of proposed residential expansion accommodated in the
+General Plan Update requires commercial and office uses beyond the
+capacity of the existing Downtown to accommodate. Development of a
+community commercial area in the vicinity of Johnson Canyon Road
+provides room to expand commercial and office uses and creates a strong
+connection to the existing Downtown Area. The area would be designed
+to complement and reinforce the character of Downtown. Big-box retail
+and other commercial uses geared toward highway users would be
+discouraged in this location in favor of community-oriented retail, office,
+and higher density residential uses organized around a “Village
+Center/Main Street” concept.
+The plan shows the Gonzales Slough, the Johnson Canyon Creek, and other
+drainages as major linear open space in the city, providing areas for flood
+control, recreation, and natural habitat conservation.
+Existing residential neighborhoods in Gonzales will remain largely
+unchanged under the plan. Most of the existing single family housing areas
+are designated as Low Density Residential, while the neighborhoods with
+intermixed single family homes, duplexes, triplexes, and fourplexes are
+designated as Medium Density Residential.
+                          D. Land Use Designations
+The 18 designations shown on the Land Use Diagram are described below.
+Each description indicates the general types of uses that are intended in
+areas with these designations. The descriptions are broad enough to allow
+flexibility and are subject to more specific regulation and interpretation
+through Specific Plans or zoning.
+                                  Page II-35
+
+GONZALES 2010 GENERAL PLAN                                          JULY 2010
+Standards for development intensity are provided for each designation. For
+residential uses, intensity is expressed in terms of the allowable range of
+dwelling units per gross acre. Gross acreage includes all land (including
+streets and rights-of-ways) designated for a particular residential use, while
+net acreage excludes streets and rights-of-way. Normally, gross acreage
+contains about 25 percent less land for its designated use than its net acre
+equivalent.
+For commercial and industrial uses, intensity is expressed in terms of Floor
+Area Ratio (FAR). FAR is the gross floor area of structures on a site divided
+by the site area. For instance, an FAR of 0.5 would allow a 5,000 square
+foot building on a10,000-square-foot parcel. The intensity standards define
+the maximum levels of development permitted. However, these
+maximums do not establish entitlement to a specific level of development
+without first conforming to all other City policies and development
+standards.
+1.       Low Density Residential (4-7 units per gross acre)
+The primary purpose of this designation is to define those areas that are
+appropriate for single family detached homes. Residential densities from 4
+to 7 units per gross acre are permitted. Single family houses are the
+predominant use, although duplexes are allowed where they meet the
+density standard and the character of the neighborhood already reflects a
+mix of housing types. The zoning district that most closely corresponds to
+this General Plan designation is the R-1 Single Family District. This
+designation has been applied to 429 acres in the Gonzales Planning Area,
+including about 297 acres that are already developed.
+2.       Medium Density Residential (8-12 units per gross acre)
+The primary purpose of this designation is to define those areas that are
+appropriate for new duplexes, triplexes, fourplexes, and townhouses, as
+well as those areas that are already developed with a mixture of single
+family homes, in-law units, and various attached housing types.
+Residential densities from 8 to 12 units per gross acre are permitted. This
+designation has been applied to 47 acres of land in Gonzales, including 39
+acres that have already been developed.
+                                    Page II-36
+JULY 2010                                                           LAND USE
+3.      High Density Residential (13-24 units per gross acre)
+The primary purpose of this designation is to define those areas that are
+appropriate for multi-family residential uses, as well as those areas that are
+already developed with such uses. Residential densities of 13 to 24 units
+per gross acre are permitted. This designation has been applied to 10 acres
+of land in Gonzales, including two acres that have already been developed.
+4.      Neighborhood Residential (3-24 units per gross residential acre)
+The primary purpose of this designation is to define those areas that are
+appropriate for new residential development within the context of a
+neighborhood. The Neighborhood Residential designation, which is
+applied only within new growth areas, includes a full range of housing
+types typically found in healthy and diverse neighborhoods. The
+Neighborhood Residential designation shall be implemented only through
+the development of a Specific Plan. The mix of residential uses shall be
+within the parameters set forth in Table II-4 below, and the average
+residential density within a neighborhood shall be between seven (7) and
+nine (9) dwelling units per gross acre. This land use designation has been
+applied to approximately 980 acres of the new growth area added as part
+of the 2010 General Plan Update.
+                                  Page II-37
+GONZALES 2010 GENERAL PLAN                                                           JULY 2010
+                                            Table II-4
+                      REQUIRED MIX OF RESIDENTIAL USES IN
+         NEIGHBORHOOD RESIDENTIAL LAND USE DESIGNATION
+                                                                                Min. Required
+                                                4,    Min. Required Mix          Rental Units
+                                                                                              5
+                                        Density
+        Density Category                                     (% of                    (% of
+                                       (du/gross
+                                                      neighborhood total     neighborhood total
+                                         acre)
+                                                             units)                   units)
+NR Very Low
+                                                         No minimum
+(single-family lots 10,001 to            2 to 3                     6                   n/a
+                                                           required
+20,000 sq. ft.)
+NR Low
+                                                                                           7
+(single-family lots 6,000 -              3 to 6               15%                      5%
+10,000 sq .ft.)
+NR Medium
+                                                                                           8
+(single-family lots 3,500 -              6 to 9               15%                      5%
+5,999 sq. ft.)
+NR Medium High
+(attached or detached units                                                             5%
+                                        9 to 15               15%
+including lots greater than                                                   (as attached units)
+2,300 sq. ft.)
+NR High
+(attached units such as
+apartments, townhomes,                  15 to 24              15%                      15%
+mixed-use residential, or other
+similar types)
+5.        Neighborhood Commercial Mixed Use
+The primary purpose of this designation is to define those areas that are
+appropriate for new commercial development appropriately scaled to serve
+one or two neighborhoods. This designation is applied only within new
+growth areas and shall be implemented only through the development of a
+4
+  A minimum average density of seven (7) dwelling units per gross residential acre shall be
+provided within new neighborhoods.
+5
+  To promote rental availability rather than private ownership, units designed for rental use
+shall generally be multiple units on single parcels rather than individually parceled.
+6
+  Allowable only in very limited circumstances where larger lots may be appropriate to buffer
+the City’s edge and transition from urban density to permanent agriculture.
+7
+  Rental units in this category shall generally be second dwelling units that are ancillary to a
+primary home, and both contained on a single parcel.
+                                           Page II-38
+
+JULY 2010                                                                LAND USE
+Specific Plan. In order to maintain a scale appropriate to a residential
+setting, individual neighborhood commercial uses should generally be
+small-scale, which typically would be less than 5,000 square feet for any
+individual commercial use. Commercial uses may occasionally be larger
+as appropriate. A mix of residential and commercial uses are allowed in
+this designation. Commercial uses should be pedestrian-oriented uses that
+serve the immediately surrounding area and may include walk-in uses such
+as restaurants, retail stores, health/fitness facilities, personal services,
+community service organizations, and similar uses. Auto oriented uses
+with drive-through travel lanes are discouraged as they are inconsistent
+with the pedestrian oriented character of neighborhood commercial
+centers. Second-story residential uses are also allowed in the
+Neighborhood Commercial designation. The physical form of buildings in
+the neighborhood center should be distinguishable from the form of the
+residential neighborhoods that surround them, and buildings within the
+Neighborhood Commercial designation should in most cases be two
+stories. The maximum floor area ratio is 1.0. This land use designation has
+been applied to approximately 13 acres of the new growth area added as
+part of the 2010 General Plan Update.
+6.       Neighborhood
+The primary purpose of this designation is to provide a template for new
+neighborhoods in areas where detailed land uses are not defined as part of
+a General Plan Land Use Diagram Inset. The Neighborhood designation
+comprises a mix of uses typically found in healthy, viable neighborhoods,
+including a full range of housing types, retail and service commercial,
+public parks, civic uses, places of worship, schools, public utilities, and
+other public, quasi-public, and institutional uses. Land use intensities for
+non-residential uses shall be a maximum of 1.0 Floor Area Ratio.
+Residential uses shall be consistent with the parameters set forth in the
+Neighborhood Residential designation (set forth above), including the full
+mix of required residential uses. Commercial uses shall be consistent with
+the parameters set forth in the Neighborhood Commercial Mixed Use
+designation (also set forth above). For standards and recommendations
+concerning other uses within the Neighborhood designation, see the
+following chapters: for public parks see Chapter VI; for schools see Chapter
+VII.
+                                    Page II-39
+GONZALES 2010 GENERAL PLAN                                          JULY 2010
+The Neighborhood designation shall be implemented only through the
+development of a Specific Plan, and the precise mix of uses shall be
+determined through the Specific Plan process. This land use designation
+has been applied to approximately 450 acres of the new growth area added
+as part of the 2010 General Plan Update, primarily in the area east of
+Fanoe Road and Herold Parkway. This designation is also widely used in
+the urban reserve area.
+7.       Downtown Mixed Use
+The primary purpose of this designation is to promote the integrated
+development of retail, service, banks, public, office, and housing
+development in downtown Gonzales. It is specifically intended to foster
+mixed use projects that maintain downtown as the civic and cultural focal
+point for the City, as well as an active retail area. Such development
+should be pedestrian-oriented, compatible with the goal of maintaining
+downtown's historic character, and oriented towards local residents. A
+maximum Floor Area Ratio of between 0.5 and 3.0 applies in areas with
+this designation. Residential densities shall be a maximum of 24 dwelling
+units per gross acre.
+The designation has been applied to 18 acres, primarily encompassing the
+existing blocks along Alta Street between Eighth Street and C Street. While
+virtually all of the land is already developed, much of it is underutilized
+and could be used more intensely. In some cases, this might occur through
+demolition and rebuilding. More commonly, this would occur through
+rehabilitation and retrofitting of older buildings.
+8.       Community Commercial Mixed Use
+The primary purpose of this designation is to promote the development of a
+viable commercial core area that complements and extends the historic
+downtown area into the new growth areas identified in the Land Use
+Diagram. Allowed uses in this designation include: retail commercial,
+service commercial, professional offices, sit-down restaurants, cafes, movie
+theaters, medical facilities, medium- and high-density housing (including
+mixed-use residential), and other uses that are compatible within a core
+area environment. Such development should be pedestrian-oriented,
+compatible with the goal of complementing but not competing with the
+                                    Page II-40
+JULY 2010                                                         LAND USE
+downtown area's civic character, and oriented towards both local residents
+and regional visitors.
+This new land use designation may be implemented only through the
+development of a Specific Plan. Land area devoted to single-family
+attached and multi-family homes shall not occupy more than 35 percent of
+the community commercial core area. A maximum Floor Area Ratio of 1.5
+applies in areas with this designation. This designation has been applied to
+90 acres of land in Gonzales in the vicinity of Johnson Canyon Road east of
+Fanoe Road. Figure II-5 shows a prototype of the community commercial
+development.
+                                  Page II-41
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page II-42
+    JULY 2010                                 LAND USE
+                  Figure II-5
+PROTOTYPICAL COMMUNITY COMMERCIAL DEVELOPMENT
+                              Page II-43
+GONZALES 2010 GENERAL PLAN                        JULY 2010
+                  [Page intentionally left blank]
+                            Page II-44
+JULY 2010                                                           LAND USE
+9.       Highway Commercial
+The primary purpose of this designation is to define commercial areas that
+cater to highway travelers and/or regional markets, including big-box retail,
+fast-food restaurants, lumber yards, motels, auto malls, building contractor
+storage yards, and other uses that serve local and regional needs for goods
+and services. The designation is intended primarily for service and retail
+uses whose operational needs and characteristics are not considered
+appropriate for the downtown or the community commercial mixed-use
+areas. The maximum permitted Floor Area Ratio is 0.5.
+The designation has been applied to 46 acres of land in Gonzales,
+including the existing shopping centers on Fifth Street east of Highway 101,
+and east of the southern Interchange with Highway 101. This designation
+is also used in the urban reserve area.
+10.      Light Industrial/Business Park
+The primary purpose of this designation is to define those areas that are
+appropriate for “job centers” in the new growth area. Allowed uses
+include: campus-like office complex development as well as industrial
+parks, including single and multi-story office, flex-space, and industrial
+building for single and multiple users, light industrial and warehouse uses,
+and research and development activities. Other uses may include
+wholesale, bulk retail, and business with limited customer access,
+commercial recreation, and other uses that require large, warehouse-style
+building. Small-scale retail and service uses serving local employees and
+visitors may be permitted as secondary and accessory uses. This new land
+use designation may be implemented only through the development of a
+Specific Plan.
+The designation has been applied to 20 acres of land in Gonzales located
+east of the northern and southern interchanges with Highway 101 and
+adjacent to the Johnson Canyon Road Landfill. This designation is also
+used in the urban reserve area.
+                                   Page II-45
+
+GONZALES 2010 GENERAL PLAN                                          JULY 2010
+11.     Industrial/Manufacturing
+The primary purpose of this designation is to define those areas that are
+appropriate for heavy industrial and manufacturing uses, the location of
+which may create land use conflicts with residential uses and schools. The
+emphasis is on agricultural services, but other types of industry compatible
+with the policies in the General Plan are encouraged. The designation
+permits industrial parks, light manufacturing, warehousing, wineries, auto
+and farm equipment sales or repair establishments, feed stores,
+lumberyards, construction supply companies, and similar and compatible
+uses. Compatible highway-serving uses like gas stations, restaurants,
+motels, and truck stops are permitted in this area. The maximum permitted
+Floor Area Ratio is 0.5.
+The designation has been applied to 467 acres of land in Gonzales,
+including 325 acres of land west of Highway 101 and 147 acres of land
+east of Highway 101. This designation is also used in the urban reserve
+area.
+12.     Public/Quasi-Public
+The primary purpose of this designation is to accommodate a variety of
+public, non-profit and institutional uses which meet health, safety,
+education, and welfare needs. The maximum allowable Floor Area Ratio is
+0.7.
+The designation has been applied to 624 acres in the City, including 429
+acres of developed land and 195 acres of undeveloped land. The
+undeveloped land includes a 50-acre site reserved for future expansion of
+the wastewater treatment plant. It also includes a site for a community
+center adjacent to Fairview Middle School. The site depicted on the Land
+Use Diagram is approximate. The vacant land also includes a small
+expansion area for the Gonzales cemetery.
+13.     Parks and Open Space
+The primary purpose of this designation is to accommodate park,
+recreation, and open space uses. Both active recreation areas (e.g., City
+parks), and passive recreation areas (trails, natural open space, etc.) are
+included. Since the land is intended for park and open space use, no
+                                  Page II-46
+JULY 2010                                                           LAND USE
+standard of development intensity is provided. However, recreational or
+other public buildings are permitted in parks if they are consistent with an
+adopted park master plan or findings that the use is publicly beneficial and
+will not compromise the character or use of the park.
+This designation also includes agricultural buffers located along Associated
+Lane and La Gloria Road, which would occupy approximately 56 acres of
+land. There are 155 acres with this designation. Other lands with this
+designation include the existing Centennial Park, Central Park (Gonzales
+Square), and Meyer Park, and the undeveloped lands along the Gonzales
+Slough, Johnson Canyon Creek, and smaller drainages located in the
+vicinity of Associated Lane and La Gloria Road.
+14.     Agriculture
+The primary purpose of this designation is to promote the long-term
+conservation of land in agricultural use outside the General Plan growth
+area, generally north of Associated Lane and south of Gloria Road. It
+applies to more than 5,800 acres within the Planning Area. The maximum
+allowable density is one unit per 40 acres. Permitted uses are farming and
+associated farm residences.
+Although agriculture is a form of open space, this designation is separate
+and distinct from the “Parks and Open Space” definition prescribed above.
+Land in this designation would retain its open character but would be used
+for the managed production of resources (e.g., crops and livestock), as
+opposed to conservation, recreation, or protection of public health and
+safety. Most agricultural land is privately owned and supports activities
+which are not conducive to public access (including pesticide spraying and
+operation of heavy equipment and machinery).
+15.     Permanent Agricultural Edge Overlay
+The primary purpose of the designation is to demark those parts of the
+adjacent Urban Growth Area and Urban Reserve Area beyond which the
+City intends to permanently protect agricultural lands. As an overlay
+designation, permitted uses are those of the underlying designation, which
+in most circumstances is “Agriculture.”
+                                  Page II-47
+
+GONZALES 2010 GENERAL PLAN                                            JULY 2010
+16.      Agricultural Buffer Overlay
+The primary purpose of this designation is demark those parts of the Urban
+Growth Area where measures must be put in place to alleviate potential
+physical conflicts between existing or planned agricultural uses (either
+within or outside the Urban Growth Boundary) and urban uses planned
+within the Urban Growth Boundary. Measures include physical separation
+between the conflicting uses—typically 200 feet in width—plus other
+vegetation, walls, or other screening deemed necessary to ensure that
+property owners on both sides of the buffer may enjoy full and
+unencumbered use of their property for its designated use without
+experiencing significant deleterious effect from the neighboring use. While
+the Agricultural Buffer Overlay symbol is located along the boundary
+between two conflicting uses—overlying both agricultural lands as well
+and planned urban area—the measures to be put in place shall in all cases
+be located on land designated for urban uses and shall not infringe in any
+way on property upon which permanent agricultural uses exist or are
+planned. In areas where agricultural uses are intended to eventually
+convert to urban use (i.e., within the Urban Growth Boundary), agricultural
+buffer measures should be designed in such a way to facilitate an orderly
+and coherent transition to urban use. As an overlay designation, permitted
+uses are those of the underlying designation.
+17.      Historic District Overlay
+The primary purpose of this designation is to demark that part of Gonzales
+that forms a coherent historic district and within which the City shall ensure
+than new development or redevelopment does not compromise the
+integrity of the historical district or the buildings and other structures within
+it that have the highest cultural and historic value. This designation has
+been applied to about eight blocks around the center of Gonzales,
+including most of the downtown core. Development, modifications to
+existing buildings, and demolition within the Historic District will be
+subject to design review requirements which ensure that the integrity of
+historical and cultural features are retained. If additional historic resources
+are discovered or are relocated, the overlay district may be expanded to
+ensure their protection. As an overlay designation, permitted uses are those
+of the underlying designation.
+                                     Page II-48
+
+JULY 2010                                                          LAND USE
+18.     Urban Reserve Overlay
+The primary purpose of this designation is to demark land that is not
+intended for development under this general plan, but that nonetheless is
+regarded as the most likely path for long-term development. This area is
+included in the Land Use Diagram to give expression to the the City’s long-
+term vision for growth and to enable a comprehensive approach to
+planning.
+19.     Urban Growth Boundary
+The purpose of this line is to bound and enclose the land intended for
+development under this general plan.
+                        E. Goals, Policies, and Actions
+1.      Overall City Development
+Goal LU-1:      A logical, orderly development pattern that matches the
+                City's ability to provide urban services.
+Policies
+Policy LU-1.1 Jobs/Housing Balance
+Promote a balance between housing growth and job growth. Encourage
+the provision of housing at a pace that keeps up with job growth in the
+City. Conversely, encourage the creation of jobs at a pace that keeps up
+with housing growth in the City
+        Implementing Action LU-1.1.1 – Land Use Assignments. Designate
+        land that can support a mix of different housing types and a mix of
+        different job types consistent with the land use assignments set forth
+        in the section entitled: “Land Use Concept” above.
+Policy LU-1.2 Development Pays Fair Share
+Require new development to pay its fair share of the cost of capital
+improvements and facilities needed to serve that development consistent
+                                    Page II-49
+
+GONZALES 2010 GENERAL PLAN                                           JULY 2010
+with the policies, standards, and implementing actions of this General Plan
+and State law requiring a nexus between such requirements and project
+impacts.
+        Implementing Action LU-1.2.1 – Capital Improvements. Coordinate
+        capital improvements through the adoption and implementation of
+        Specific Plans that contain a program of implementation measures
+        including regulations, programs, public works projects and
+        financing measures necessary to implement the Specific Plan.
+        Implementing Action LU-1.2.2 – Availability of Services. Through
+        Specific Plan development, coordinate new residential development
+        with the provision of essential community services and facilities,
+        such as roads, water, sewer, schools, parks, police and fire services,
+        sanitary facilities, and drainage facilities. Approve development
+        projects only when sufficient municipal services and utilities are
+        available to serve that development or when there are guarantees
+        that such services and utilities will be provided in a timely fashion
+        after entitlements are vested.
+        Implementing Action LU-1.2.3 – Impact Fees. Continue using public
+        facility impact fees to meet the needs for on-site and off-site facility
+        improvements generated by new development. Periodically
+        evaluate these fees to make sure they are sufficient to cover
+        improvement costs.
+Policy LU-1.3 LAFCO Applications
+Submit Sphere of Influence and annexation requests to LAFCO only for
+lands within the Urban Growth Boundary depicted on the Land Use
+Diagram. In addition, submit applications as may be required to facilitate
+the expansion of the wastewater treatment facility located on Gonzales
+River Road or other essential public utilities.
+        Implementing Action LU- 1.3.1 – Plans for Services. Establish the
+        timing of Sphere of Influence and annexation applications based on
+        completion of plans for services, plans for public facilities, and
+        financing plans that demonstrate compliance with LAFCO
+        standards.
+                                    Page II-50
+
+JULY 2010                                                           LAND USE
+        Implementing Action LU- 1.3.2 – Coordination with Monterey
+        County. Encourage Monterey County to consult and coordinate
+        with the City before approving any project that is located within the
+        City's Planning Area, as depicted on Figure I-1. Regularly review
+        private and public development proposals in Monterey County that
+        could impact the City and provide comments to the County as
+        appropriate. Work with Monterey County to develop agreements
+        per LAFCO policy on Sphere of Influence amendments and
+        annexations.
+Policy LU-1.4 City-Centered Growth
+Support the concept of "City-Centered Growth" in the Salinas Valley. This
+concept concentrates urban uses in and around South County cities and
+conserves the remainder of the valley for agriculture.
+        Implementing Action LU-1.4.1 – AMBAG Growth Projections.
+        Maintain a General Plan growth area and LAFCO Sphere of
+        Influence that contain a supply of land for urbanization that meets
+        or exceeds AMBAG growth projections.
+        Implementing Action LU-1.4.2 – Regional Planning. Continue to
+        provide local representation to other public agencies, including:
+        AMBAG, LAFCO, the County of Monterey and MBUAPCD.
+        Implementing Action LU-1.4.3 – Utility Prohibition Zones. Specific
+        plans shall include utility and road prohibition areas along the
+        interface of the planned development area and permanent
+        agricultural edge, which in subsequent subdivisions will be
+        dedicated as “no-access” strips.
+2.      Specific Plans and Development Phasing
+Goal LU-2:      Orderly growth and development phasing through the use
+                of Specific Plans
+Policies
+Policy LU- 2.1 Specific Plans Required in General Plan Growth Area
+                                    Page II-51
+
+GONZALES 2010 GENERAL PLAN                                        JULY 2010
+New development outside of the City’s incorporated area as of 2008 shall
+be organized through the use of Specific Plans that contain self-contained
+neighborhoods with the uses prescribed by the applicable land use
+designations shown in the Land Use Diagram.
+       Implementing Action LU-2.1.1 – Neighborhood Residential Specific
+       Plans. Adopt Specific Plans for all areas within the Urban Growth
+       Boundary prior to City approval of development entitlements. Such
+       Specific Plan areas shall be no smaller than 125 acres, and
+       organized into complete neighborhoods each of which is no smaller
+       than 125 acres, no larger than 400 acres, and designed consistent
+       with adopted Neighborhood Design Guidelines and Standards.
+       Smaller properties (i.e., less than 125 acres) may combine with
+       other properties to undertake the development of a Specific Plan or
+       may attach to an existing Specific Plan by gaining City approval of a
+       Specific Plan addendum.
+       Implementing Action LU-2.1.2 – Commercial/Industrial Specific
+       Plans. Adopt Specific Plans for areas designated “Community
+       Commercial,” “Highway Commercial,” Light Industrial/Business
+       Park,” or “Industrial/Manufacturing” prior to City approval of
+       development entitlements. Such Specific Plans shall be organized
+       into one of three Specific Plans areas—the “North Interchange
+                                                        th
+       Area,” the “South Interchange Area,” and the 5 Street Community
+       Commercial Area. In the South Interchange Area, non-residential
+       land north of La Gloria Road may be combined with the Specific
+       Plan prepared for neighborhood residential development
+       immediately north of La Gloria Road. Likewise, in the North
+       Interchange Area, land designated for residential use located west of
+       Gonzales Slough may be combined with the Specific Plan prepared
+       for non-residential uses in the vicinity.
+       Implementing Action LU-2.1.3 – Development Policies and
+       Standards. Use development policies and standards contained in
+       Specific Plans to identify permitted uses, accessory uses,
+       conditionally permitted uses, and prohibited uses within each
+       Specific Plan area. These uses should be consistent with the Land
+       Use category designation definitions in this element as well as the
+       goals and policies of this Plan.
+                                   Page II-52
+
+JULY 2010                                                            LAND USE
+3.       Unified East and West Gonzales
+Goal LU-3:         Stronger ties between the established neighborhoods west of
+                   Highway 101 and the new neighborhoods east of Highway
+                   101.
+Policies
+Policy LU-3.1 East-West Connections
+Strengthen existing connections between the east and west sides of
+Highway 101.
+                                               th
+         Implementing Action LU-3.1.1 – 5 Street Corridor. Redesign the
+           th
+         5 Street corridor into an attractive boulevard that serves as a major
+         “spine” that ties the historic city center to the new community
+         commercial center proposed in the vicinity of Johnson Canyon
+         Road and Herold Parkway, and that substantially improves
+         pedestrian and bicyclist mobility.
+          Implementing Action LU-3.1.2 – Residential Development West.
+         Promote residential development on the west side of the freeway
+         utilizing the Gonzales Redevelopment Agency and other resources.
+         Most opportunities for new housing west of Highway 101 are in the
+         Downtown Mixed Use District and on the few remaining vacant
+         infill or potential redevelopment site.
+Policy LU-3.2 Street Connectivity
+Maintain continuity in the street pattern between the east and west sides of
+the freeway, continuing elements of the "grid" of the original townsite as
+much as possible as the area east of Highway 101 develops. New street
+and block patterns within neighborhoods should form a well connected
+pattern that provides direct travel routes, facilitates walking and biking, and
+provides more than one way of reaching a destination allowing vehicle
+traffic to gently filter through a neighborhood rather than forcing all trips
+onto heavily traveled collectors and arterials.
+         Implementing Action LU-3.2.1 – Address Street Connectivity in
+         Design Guidelines. Ensure that adopted neighborhood design
+                                     Page II-53
+
+GONZALES 2010 GENERAL PLAN                                            JULY 2010
+        guidelines contain guidance addressing street connectivity within
+        and between neighborhoods.
+4.      Attractive, Vibrant Downtown
+Goal LU-4:       A vibrant, well-defined, attractive Downtown that provides
+                 a focus for civic activities, shopping, culture, and services,
+                 and a destination for local residents.
+Policies
+Policy LU-4.1 Downtown as Civic and Cultural Core
+Maintain Downtown Gonzales as the social and cultural core of the
+community, and encourage the locations of businesses and services in the
+Downtown that provide cultural enrichment and extend the hours during
+which Downtown is an active place. New development in the Downtown
+area shall only be permitted where it is compatible in scale and character
+with adjoining uses and will not create adverse impacts on adjoining
+homes and businesses.
+        Implementing Action LU-4.1.1 – Civic Uses Downtown. Maintain
+        civic uses such as City Hall and the Post Office in a central location
+        and avoid creating "east" and "west" branches of such uses.
+        Exceptions shall be made for police and fire stations if response
+        times from a single location would exceed acceptable levels.
+        Implementing Action LU-4.1.2 – Ground-Level Retail. Revise the
+        Gonzales Zoning Ordinance Mixed-Use District to eliminate
+        ground-floor residential uses in the predominantly commercial core
+        area of the Downtown and encourage Downtown projects that
+        contain ground-level retail, service, or public facility development
+        with upper story office or housing development. Such projects are
+        especially encouraged when they rehabilitate existing buildings or
+        add architecturally compatible second stories to existing buildings in
+        the downtown area.
+        Implementing Action LU-4.1.3 – Main Street Character. Revise the
+        Gonzales Zoning Ordinance to encourage Downtown development
+        that strengthens the "Main Street" character of the area and that
+                                    Page II-54
+
+JULY 2010                                                            LAND USE
+       discourages or excludes projects that are inconsistent with that
+       character. Inconsistent projects would include "big box" retailers,
+       auto sales and repair establishments, storage yards, "drive through"
+       restaurants, and other projects which have a scale and design that is
+                         ,
+       not conducive to the goal of maintaining small-town character.
+       Implementing Action LU-4.1.4 – Pedestrian Environment. Revise
+       Downtown development standards to ensure that new projects
+       provide a safe, attractive, and comfortable environment for
+       pedestrians in the Downtown area. Projects should have active
+       pedestrian frontage oriented towards streets and sidewalks.
+       Wherever feasible, parking for new development should be located
+       to the rear of buildings or in on-street spaces along Fourth or Alta
+       Streets rather than in large parking lots in front of buildings and
+       businesses.
+       Implementing Action LU-4.1.5 – Public Amenities. Revise
+       Downtown development standards to ensure that new projects
+       include public amenities such as street trees, benches, and
+       landscaping.
+       Implementing Action LU-4.1.6 – Regulate Conversion of Single
+       Family Use. Enact zoning changes that allow the conversion of
+       single family homes to office, service, and retail uses within the
+       Downtown Mixed Use District, subject to discretionary review.
+       Implementing Action LU-4.1.7 – Maintain both Residential and
+       Commercial Uses. Utilize the Gonzales Redevelopment Agency
+       and other resources to encourage retention of the existing
+       residential and commercial properties within the Downtown Mixed
+       Use District. Inclusion of such properties in this District is not
+       intended to make these uses non-conforming or encourage their
+       replacement with other uses.
+       Implementing Action LU-4.1.8 – Rental Housing Downtown.
+       Revise Downtown development standards to encourage
+       opportunities for rental housing within mixed use projects.
+       Implementing Action LU-4.1.9 – Grant Programs. On an on-going
+       basis, investigate low-interest loans, grants, and other financial
+                                  Page II-55
+
+GONZALES 2010 GENERAL PLAN                                           JULY 2010
+        programs (including the California Main Street Program) which
+        assist the private sector in efforts to rehabilitate Downtown
+        commercial buildings, and provide awnings, landscaping, or other
+        improvements that make Downtown more attractive and
+        economically competitive.
+        Implementing Action LU-4.1.10 – Incentives for Downtown
+        Residential. Provide incentives and other programs to promote the
+        retention and development of rental residential units on the upper
+        floors of buildings in Downtown.
+        Implementing Action LU-4.1.11 – Support Chamber of Commerce.
+        Provide ongoing support to the Gonzales Chamber of Commerce to
+        encourage shopping in Downtown Gonzales.
+5.      Neighborhood Conservation
+Goal LU-5:       Protection of the integrity, scale, cohesiveness, and
+                 character of existing residential neighborhoods.
+Policies
+Policy LU-5.1 Conserve Existing Housing Stock
+Conserve and maintain the existing housing stock and the scale and
+character of existing neighborhoods.
+        Implementing Action LU-5.1.1 – Housing Rehabilitation. Utilize
+        the Gonzales Redevelopment Agency and public grant programs to
+        provide resources and technical assistant that encourage the
+        rehabilitation of deteriorating housing units to current standards of
+        safety, sanitation, and aesthetics.
+        Implementing Action LU-5.1.2 – Neighborhood Protection.
+        Maintain development standards that ensure existing single family
+        neighborhoods are protected from intrusion by higher-density
+        development that is incompatible in scale and character with the
+        neighborhood.
+                                    Page II-56
+
+JULY 2010                                                                                    LAND USE
+           Implementing Action LU-5.1.3 – Code Enforcement. Enact code
+           enforcement measures and programs that do not impose
+           disproportionate hardships on low-income families, disabled
+           persons, or seniors.
+           Implementing Action LU-5.1.4 – Secondary Units. Promote
+           secondary units (in-law apartments) on single family lots as a means
+           of increasing the affordable housing stock provided that the units
+           are compatible with the scale and character of the neighborhood
+           and include adequate provisions for off-street parking.
+6.         Residential Development
+Goal LU-6:              New residential development that is organized into
+                        “neighborhoods” serving as the fundamental building block
+                        for residential growth, that is compatible with the City's
+                        small-town character, and that meets the housing needs of
+                        current and future Gonzales residents.
+Policies
+Policy LU-6.1 Neighborhoods as “Building Blocks”
+Employ a neighborhood-based growth strategy whereby new pedestrian-
+oriented neighborhoods, complete with schools, park and recreation
+facilities, a wide range of housing types, and neighborhood-serving
+commercial services,8 form the basic planning unit or “building block” for
+new residential growth.
+           Implementing Action LU-6.1.1 – Housing Mix in Neighborhoods.
+           Ensure that new Neighborhood Residential development complies
+           with the housing mix requirements described in Table II-3 to ensure
+8
+  Neighborhood-serving commercial may be designed to serve two neighborhoods, and where this is
+the case, one of the neighborhoods might not contain such uses (see Policy LU 8.8). In order to
+maintain a scale appropriate to a residential setting, individual neighborhood commercial uses should
+generally be small-scale, which typically would be less than 5,000 square feet for any individual
+commercial use. Commercial uses may occasionally be larger as appropriate. Mixed commercial uses
+are encouraged within neighborhood centers and should be pedestrian-oriented uses that serve the
+immediately surrounding area. These may include walk-in uses such as restaurants, retail stores,
+health/fitness facilities, personal services, community service organizations, and similar uses. Auto
+oriented uses with drive-through travel lanes are discouraged as they are inconsistent with the
+pedestrian oriented character of neighborhood commercial centers.
+                                                 Page II-57
+
+GONZALES 2010 GENERAL PLAN                                          JULY 2010
+         that a full range of housing types and complementary uses are
+         included within future neighborhoods.
+Policy LU-6.2 Utilize Land Efficiently
+Utilize land efficiently to maintain a compact development pattern,
+enhance walkability, and limit farmland conversion in areas outside the
+identified General Plan growth area.
+         Implementing Action LU-6.2.1 – Establish Minimum Densities.
+         Adopt development codes as part of Specific Plans or separately
+         that establish minimum development densities and discourage
+         construction of housing at substantially lower gross densities than
+         the maximum permitted by the General Plan, particularly on sites
+         designated for medium- and high-density housing. Single-family-
+         detached housing construction in these locations is generally
+         inconsistent with the City's goal of providing a wide range of
+         housing choices. Exceptions should be made for sites where
+         environmental constraints (flood plains, etc.) preclude development
+         at the maximum allowable density. In such instances, only the
+         unconstrained portions of the site should be considered
+         "developable" for purposes of density calculation.
+         Implementing Action LU-6.2.2 – Achieve Minimum Density.
+         Within new Specific Plan areas designated for residential use, ensure
+         that new Neighborhood Residential development achieves an
+         overall residential density between seven (7) and nine (9) dwelling
+         units per gross residential acre. Densities within each Specific Plan
+         neighborhood area may (and should) vary as long as the overall
+         density target is met.
+Policy LU-6.3 Attractive Design
+Require new residential development to be attractively and coherently
+designed consistent with the Neighborhood Design Guidelines and
+Standards.
+         Implementing Action LU-6.3.1 – Design Guidelines. Adopt
+         neighborhood design guidelines that address the appropriate design
+                                    Page II-58
+
+JULY 2010                                                          LAND USE
+        for new residential development. Use the policies in the Community
+        Character Element of this plan to develop design guidelines.
+7.      Commercial Development
+Goal LU-7:      A stronger role for Gonzales as a market center for the
+                Central Salinas Valley.
+Policies
+Policy LU-7.1 Reserve Land for Long-Term Revenue Generation
+Designate and/or otherwise reserve sufficient portions of the uniquely
+situated land in the vicinity of the three Highway 101 interchanges to
+accommodate the City’s long-term need for revenue generation.
+        Implementing Action LU-7.1.1 – Maintain Commercial
+        Designations at Interchanges. Defer requests for amendments to
+        the Land Use Diagram that would reduce the amount of
+        commercial land available at the three Highway 101 interchanges
+        until such time that the next comprehensive General Plan update is
+        undertaken.
+        Implementing Action LU-7.1.2 – Highway Commercial at
+        Interchanges. Direct new highway-commercial and visitor-serving
+        development to the area adjacent to the city’s northern and
+        southern highway interchanges to improve the city’s ability to
+        capture revenue from Highway 101 travelers.
+        Implementing Action LU-7.1.3 – Office Use in Highway
+        Commercial. Discourage office development in the areas
+        designated "Highway Commercial" on the Land Use Diagram. As
+        much as possible, offices should be concentrated in the Downtown
+        Mixed-Use District, in neighborhood centers, and/or in the
+        Community Commercial area planned in the vicinity of Johnson
+        Canyon Road and Fanoe Road.
+                                   Page II-59
+
+GONZALES 2010 GENERAL PLAN                                        JULY 2010
+Policy LU-7.2 New Community Commercial Core Mixed Use
+Development
+Promote new community commercial core mixed use development east of
+Highway 101 that is centrally located and a logical extension of the
+existing downtown.
+        Implementing Action LU-7.2.1 – Community Commercial Core
+        Mixed Use Development East of Highway 101. Establish a
+        community commercial core mixed use area along Johnson Canyon
+        Road east of Herold Parkway. This commercial area is intended to
+        primarily serve as a community and regional destination, as
+        opposed to a highway stopover point for travelers. New uses
+        should provide an aesthetically appealing, pedestrian-friendly
+        environment that promotes socializing, shopping and
+        entertainment. The area should also contain a mix of higher density
+        residential uses designed to complement the commercial uses.
+Policy LU-7.3 Protect Downtown Commercial Uses
+Encourage new commercial development outside of the Downtown Mixed
+Use District to contain uses that do not compete with Downtown or
+adversely affect the viability of Downtown stores and businesses.
+        Implementing Action LU-7.3.1 – Market Studies. Require a market
+        study and fiscal impact assessment for any shopping center of
+        25,000 square feet or greater. The study should address the
+        probable impact of the center on the downtown area and should
+        identify measures to reduce adverse impacts on Downtown. Where
+        appropriate, these measures should be incorporated as conditions
+        of approval for the development.
+Policy LU-7.4 Appropriate Scale and Design for Neighborhood
+Commercial Centers
+Design new neighborhood commercial centers to be an integral part of the
+neighborhood which they serve. Neighborhood commercial development
+contained within a Specific Plan area shall be scaled to serve one or two
+neighborhoods (not the community or region), consistent with adopted
+Neighborhood Design Guidelines and Standards. These uses should be
+                                   Page II-60
+
+JULY 2010                                                           LAND USE
+pedestrian-oriented and serve the immediately surrounding area.
+Appropriate uses include small grocery stores, restaurants, retail stores,
+health/fitness facilities, personal services, community service organizations,
+and similar uses. Where neighborhood commercial uses are scaled to
+serve two neighborhoods they should be located in an area that is central
+to the two neighborhoods along their common edge, so as to provide
+roughly equivalent pedestrian access from each neighborhood. If
+neighborhood commercial uses are scaled to serve two neighborhoods in
+this way, each neighborhood shall still contain a neighborhood center
+located in its approximate geographic center. In this case, such
+neighborhood centers should contain other community-serving uses, such
+as: schools, public services, civic uses, places of worship, community
+centers, small business incubator space, and/or parks.
+        Implementing Action LU-7.4.1 – Design Guidelines to Address
+        Commercial Scale and Design. Adopt neighborhood design
+        guidelines that address the appropriate scale for new neighborhood
+        commercial development. Design themes should be consistent with
+        the character of the uses, the site, and the surrounding land uses
+        and should promote the identity of the center as a neighborhood or
+        community focal point. Use the policies in the Community
+        Character Element of this plan to develop design guidelines.
+8.      Industrial Development
+Goal LU-8:       A larger and more diversified industrial base
+Policies
+Policy LU-8.1 Reserve Land for Job Generation
+Designate land in the vicinity of the north and south Highway 101
+interchanges for commercial and industrial uses in order to accommodate
+the City’s long-term job needs.
+        Implementing Action LU-8.1.1 – Maintain Highway Commercial
+        and Industrial Designations at north and south Interchanges. Avoid
+        amendments to the Land Use Diagram that would reduce the
+        amount of highway commercial, business park, light industrial,
+                                    Page II-61
+
+GONZALES 2010 GENERAL PLAN                                          JULY 2010
+         and/or industrial/manufacturing land available in the vicinity of the
+         north and south Highway 101 interchanges.
+Policy LU-8.2 Promote Local Job Development
+Promote local job development and plan for the financing and provision of
+infrastructure to service industrial areas in conjunction with planning for
+neighborhood residential development.
+         Implementing Action LU-8.2.1 – Infrastructure Funding. Require
+         Neighborhood Residential developers to contribute to the
+         infrastructure necessary to support local jobs creation.
+         Implementing Action LU-8.2.2 – Address Job Development in
+         Neighborhood Residential Specific Plans. Specific Plans for areas
+         designated “Neighborhood Residential” shall address infrastructure
+         financing for one of three commercial/industrial job centers in the
+         General Plan growth area—the North Interchange Area, the South
+                                     th
+         Interchange Area, or the 5 Street Community Commercial Area.
+         Implementing Action LU-8.2.3 – Job Diversification. Utilize the
+         Gonzales Redevelopment Agency and other resources to attract
+         new industries that help diversify the City’s economic base and that
+         provide permanent jobs for local residents.
+Policy LU-8.3 Neighborhood-Compatible Design
+Require developers to design new job centers in such a way that impacts
+on adjacent residential neighborhoods are reduced to the degree
+practicable.
+         Implementing Action LU-8.3.1 – Reduce Adverse Impacts. Modify
+         proposed designs for industrial development as necessary to be
+         attractive and to reduce adverse environmental impacts, particularly
+         noise, air and water pollution, odor, soil and groundwater
+         contamination, traffic, and visual blight to the degree practicable.
+         Implementing Action LU-8.3.2 – Highway Commercial in Industrial
+         Areas. Allow highway-oriented commercial uses in the industrial
+         areas around the South Alta Street interchange provided that such
+                                   Page II-62
+
+JULY 2010                                                               LAND USE
+         uses would not affect the viability of existing and future industrial
+         uses nearby, that such uses would be appropriate and compatible
+         for the site, and that such uses are consistent with the other goals
+         and policies in the General Plan.
+         Implementing Action LU-8.3.3 – Plan for Sewer and Water
+         Expansion. Ensure that adequate water and sewer capacity is
+         available to support all areas designated for industrial development.
+         Implementing Action LU-8.3.4 – Off-Street Parking. Establish off-
+         street parking and storage requirements for new industrial
+         development that promote attractive and compatible design for on-
+         street truck parking and container storage, etc.
+         Implementing Action LU-8.3.5 – Agricultural Industry. Utilize the
+         Gonzales Redevelopment Agency and other resources to promote
+         and support the expansion of existing agricultural industries within
+         the City of Gonzales
+         Implementing Action LU-8.3.6 – Industrial Design Standards.
+         Maintain standards for the design, landscaping, and screening of
+         open storage areas, processing operations, and other industrial
+         activities that promote attractive and compatible development.
+9.       Public Uses
+Goal LU-9:        Attractive, convenient, functional public facilities in
+                  Gonzales.
+Policies
+Policy LU-9.1 Location and Design of Public Uses
+Developers of Specific Plans shall coordinate closely with the Gonzales
+Unified School District and with the City of Gonzales to ensure that new
+school sites are fully compatible with the plans and concerns of both
+agencies. New public uses shall be located and designed to contribute to
+the life and function of neighborhood and community centers.
+                                    Page II-63
+
+GONZALES 2010 GENERAL PLAN                                            JULY 2010
+        Implementing Action LU-9.1.1 – Location of New Schools. Actively
+        pursue joint use planning with the Gonzales Unified School District,
+        and make sure that school site planning implements the
+        neighborhood development and sustainability strategies expressed
+        in the policies and implementing actions of this Element and the
+        Sustainability Element. Locate new schools within or close to
+        neighborhood centers to serve the new development areas east of
+        Highway 101.
+        Implementing Action LU-9.1.2 – Co-Location of Parks and Schools.
+        Establish guidelines for joint use agreements between the City and
+        school district to facilitate the co-location of public parks and public
+        schools.
+        Implementing Action LU-9.1.3 – Community Sports Park. Require
+        Neighborhood Residential developers to contribute, through land
+        dedication or payment of in-lieu fees, at the rate commensurate
+        with standards set forth in Chapter VI, to the development of a new
+        Johnson Canyon Community Sports Park or other community sports
+        park identified by the City.
+        Implementing Action LU-9.1.4 – New Police Substations. Locate
+        new police substations in or close to neighborhood centers to serve
+        the new development areas east of Highway 101.
+        Implementing Action LU-9.1.5 – New Fire Stations. Identify sites
+        for a second and possibly a third fire station in area east of Highway
+        101.
+        Implementing Action LU-9.1.6 – New Library. Work with Monterey
+        County to identify a permanent location for the Gonzales Public
+        Library at a location that maximizes convenience for residents and
+        students.
+Policy LU-9.2 Wastewater Treatment
+Continue to operate the Gonzales Wastewater Treatment Plant and
+maintain opportunities for the eventual expansion of the plant. In addition,
+allow for the development of “package” treatment plants serving individual
+Specific Plan areas.
+                                     Page II-64
+
+JULY 2010                                                            LAND USE
+       Implementing Action LU-9.2.1 – Land for Treatment Facility
+       Expansion. If determined to be necessary, continue to acquire land
+       adjacent to the Gonzales Wastewater Treatment Plant to facilitate
+       the long-term need for expansion of the facility.
+       Implementing Action LU-9.2.2 – Pre-Treatment for Industrial Uses.
+       Adopt a wastewater treatment master plan that evaluates the
+       feasibility of requiring industrial users to pre-treat wastewater as a
+       means of increasing industrial treatment capacity and extending
+       existing plant capacity to serve non-industrial uses.
+                                   Page II-65
+
+GONZALES 2010 GENERAL PLAN            JULY 2010
+                           Page II-66
+                                    Chapter III
+                                 CIRCULATION
+                                 A. Introduction
+1.       What is the Circulation Element?
+The Circulation Element addresses the movement of people and goods
+within and through Gonzales. It is one of the mandated elements of the
+General Plan and contains policies and programs for streets, highways,
+public transit, railroads, bicyclists, and pedestrians. Each of these aspects of
+the city's transportation system will be impacted by the changes in land use
+that are planned in this document. This element summarizes these impacts
+and describes the improvements that will be needed to ensure continued
+mobility in Gonzales.
+The intent of the element is to present policies and action programs for
+future transportation planning. As the city grows and the number of
+vehicles on the streets increases, it will be necessary to improve the street
+system in a safe, efficient, and cost-effective way. It will also become
+necessary to provide alternatives to the automobile, both for the benefit of
+those without cars and for the benefit of the environment. At the same
+time, provisions for parking and traffic safety will be needed to address
+existing problems and future community needs.
+The element also considers future traffic impacts associated with regional
+growth, especially on Highway 101. Growth in freeway traffic must be
+regarded as a regional problem, and the City must work with neighboring
+cities, Monterey County, and regional agencies to develop effective
+solutions.
+2.       Organization of the Element
+The element begins with an explanation of its intent and scope. An
+overview of each component of the existing circulation system is provided,
+including a description of existing traffic conditions. This is followed by a
+discussion of major circulation issues and a description of the circulation
+                                     Page III-1
+GONZALES 2010 GENERAL PLAN                                          JULY 2010
+concept being promoted by the element, including projections of future
+circulation needs based on the Land Use Diagram. The Circulation
+Diagram illustrates the major proposals for road, bicycle, and pedestrian
+improvements. The Diagram is followed by goals and policies to guide
+future circulation decisions and implementing actions.
+3.       Relationship to the Land Use Element
+The circulation system and development pattern of any community,
+including Gonzales, are interdependent. Each pattern of land use generates
+different requirements for mobility and safety. The future circulation system
+must be designed to adequately serve the level of development allowed by
+the plan, encourage and support a wide range of mobility options, and
+connect the existing community with newly developing areas. System
+improvements may include new road connections, traffic signals, road
+widening, roundabouts, traffic calming measures, pedestrian connections,
+realigned highways and roadways, and modified overpasses and
+interchanges. The General Plan must incorporate ways to guide
+development so that the desired circulation system is constructed with the
+minimum expenditure of public funds, while maximizing options for all
+modes of mobility, and with the minimum disruption of existing uses.
+At the same time, the qualities of the existing circulation system are a major
+consideration in designating areas for future development. For instance, the
+Union Pacific Railroad and Highway 101 have both had great impacts on
+past land use decisions in Gonzales. Since the cost of relocating such
+facilities is high, the Land Use Diagram must recognize the opportunities
+and limitations presented by them.
+The link between land use and circulation is further reinforced through the
+use of common population and employment projections in the Land Use
+and Circulation Elements of the General Plan. Table II-3 of the Land Use
+Element projects that "buildout" of the Gonzales 2010 General Plan would
+create about 7,700 new homes and 5,400 new jobs in the City. These
+estimates are used in the Circulation Element to project how many trips will
+be generated by future growth and what types of road improvements will be
+needed.
+                                   Page III-2
+JULY 2010                                              CIRCULATION ELEMENT
+                           B. Circulation Framework
+1.      Streets and Highways
+The street and highway system consists of a regional roadway system that
+connects Gonzales with other cities and regions and a local roadway
+system that interconnects the various parts of the city and provides access
+to the regional roadway system.
+Regional Roadway System
+Gonzales is linked to other cities in the Salinas Valley by U.S. Highway
+101, which runs in a north-south direction through the City. The highway
+is two lanes in each direction with a center median. The City is served by
+interchanges located at North Alta Street and Old Stage Road a mile north
+of downtown, Fifth Street about a quarter-mile east of downtown, and
+South Alta Street and Gloria Road about a mile south of downtown. The
+freeway was constructed as a bypass around the City, removing most
+regional traffic from City streets. A full complement of north- and
+southbound ramps are provided at each interchange, although development
+adjacent to the Fifth Street Interchange has constrained the City’s ability to
+improve this facility.
+Gonzales is also linked to the County roadways system via the following
+two-lane local roads:
+     •  Gonzales River Road, which provides a connection from Alta Street
+        west to River Road (County Route G17), which in turn parallels
+        Highway 101 along the base of the Sierra de Salinas.
+     •  Johnson Canyon Road, which provides an extension of Fifth Street
+        east to Iverson Road and beyond into the Gabilan Mountains.
+     •  Old Stage Road, which runs north from the Highway 101/Alta Street
+        (north) Interchange paralleling Highway 101.
+     •  Gloria Road runs east from Highway 101 to Highway 25 in Central
+        San Benito County, through the hills east of Gonzales.
+                                    Page III-3
+
+GONZALES 2010 GENERAL PLAN                                          JULY 2010
+    •    Iverson Road, which serves the eastern side of the General Plan area
+         and provides a connection from Gloria Road to Johnson Canyon
+         Road and beyond northward skirting the base of the Gabilan
+         Mountains.
+    •    Foletta Road, which serves the northern extents of General Plan area
+         paralleling Highway 101 and connects Gonzales with Chualar to
+         the north.
+Local Roadway System
+The local roadway system includes a grid of north-south and east-west
+streets, with some of the east-west streets extending across Gonzales Slough
+into subdivisions characterized by curvilinear streets and cul-de-sacs. Fifth
+Street continues east from the grid and crosses Highway 101, providing
+access to the newer subdivisions east of the freeway, as well as farms on the
+east side of the Salinas Valley. A network of farm roads forms a large grid
+that includes Associated Lane on the north, and Fanoe Road/Herold
+Parkway closest to and paralleling Highway 101. Gloria and Iverson Roads
+form the south and eastern limits of this local roadway system. Lanini Road
+provides access to the area west of the Union Pacific tracks south of Gloria
+Road. Finally, access into the existing industrial park west of Alta Street is
+provided by Gonzales River Road (mentioned above) and a recently
+improved grade crossing at Fermin Lane.
+Figure III-1 shows the existing network of streets and roads in the Gonzales
+Planning Area.
+                                   Page III-4
+
