@@ -1,0 +1,2388 @@
+City of Bradbury                                                     General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                          Revised-020514
+                General Plan 2012-2030 Update
+          Circulation-Transportation Element
+                                         Table of Contents
+        Topic                                                                    Pg. No.
+Purpose                                                                                       1
+Relationship to Other General Plan Elements                                                  2
+Regional Setting                                                                              2
+    Traffic Impacts                                                                           3
+    Railroad Transportation Systems                                                           4
+    The Metro link                                                                            4
+    Metro Gold Line                                                                           4
+    Air Transportation                                                                        4
+    Mass Transit Bus Systems                                                                  4
+    Foothill Transit                                                                          5
+    Para-Transit                                                                              5
+Local Setting                                                                                 5
+    Emergency Access and Evacuation Plan                                                     8
+    Roadway Standards                                                                         10
+    Street Lights                                                                             12
+    Public Utilities                                                                         12
+Overview                                                                                      12
+Key Goals, Objectives, Policies and Implementation Action Programs                           13
+    Goals                                                                                     13
+    Objectives                                                                                13
+    Policies                                                                                  14
+    Action Programs                                                                           15
+Tables
+None
+Exhibits
+Exhibit C-T No. 1       (Regional Location Map)                                               2
+Exhibit C-T No. 2       (Circulation Plan)                                                    7
+Exhibit C-T No. 3       (Emergency Access and Evacuation Plan)                                9
+Exhibit C-T No. 4       (Roadway Concept Plans)      )                                        11
+                                       Circulation-Transportation - Page No. i
+
+City of Bradbury                                                  General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                          Revised-020514
+              General Plan 2012-2030 Update
+          Circulation-Transportation Element
+Purpose
+State statute requires that the General Plan Circulation-Transportation Element correlate directly
+with the Land Use Element. The Circulation-Transportation Element also has direct relationships
+with the mandated Housing, Open-Space, Noise and Safety Elements. The Circulation-
+Transportation Element must address the following issues:
+        •       Major thoroughfares
+        •       Transportation routes
+        •       Terminals
+        •       Local public utilities and facilities
+The purpose of the General Plan Circulation-Transportation Element is to plan adequate circulation
+systems for the community’s residents. Circulation includes all facilities that direct and
+accommodate motorized vehicles, bicycles and pedestrian movement. Transportation includes
+accommodations for public and privately owned and operated buses, trains and aircraft. Not all
+methods of transportation may be offered or available within the community. However, the
+Circulation-Transportation Element will address or identify the systems that are available to the
+community residents. Emphasis will be made to provide access to all public transportation systems
+by the disabled. The Circulation-Transportation Element should also establish parameters for new
+development to insure that minimum standards are met.
+In 2008 the Legislature adopted Assembly Bill 1358 (Chapter 657) entitled “The California Complete
+Streets Act.” This law requires that as part of their next substantive update to the Circulation
+Element after January 1, 2011, local jurisdictions must plan for the development of multi-modal
+transportation networks. Consistency between regional and local circulation and transportation
+systems is essential. The coordinated regional and local circulation and transportation systems will
+create the desired “Complete Streets Network” envisioned by AB 1358.
+Providing a “Complete Streets Network” has a multitude of benefits that include streets designed for
+safe travel including: bicycle and pedestrian facilities that promote and encourage users to engage
+in healthy transportation alternatives. Availability of facilities that provide alternatives to the use of
+motorized transportation can reduce miles traveled per day which correlates with air quality
+improvements and the reduction of Greenhouse Gas Emissions.
+The State of Californian legislature also enacted Assembly Bill 32 (AB-32) entitled “The Global
+Warming Solutions Act of 2006”. The stated goal is to reduce Greenhouse Gas Emissions (GHG)
+to 1990 levels no later than the year 2020. Companion bill, Senate Bill 375 (SB-375), adopted in
+2008, targets automobiles and light trucks for immediate Greenhouse Gas Emission reduction.
+The City of Bradbury recognizes the benefits of reducing our dependency on automobiles to meet
+our transportation needs. Residents are encouraged to use alternative modes of transportation.
+                                    Circulation-Transportation - Page No. 1
+
+City of Bradbury                                                General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                       Revised-020514
+This Circulation-Transportation Element is meant to be the foundation for the City’s commitment to
+reducing “Vehicles Miles Traveled”. Future development should promote the ideals and principles
+that would reduce the community’s reliance on the automobile.
+Relationship to Other General Plan Elements
+Future traffic volumes will not significantly increase over the next twenty years. Based on the 2009
+National Household Travel Survey prepared by the U.S. Department of Transportation, the average
+vehicle trips per day per household is 9.84. The accepted industry standard for computing the
+number of vehicle trips per day per household is 10 trips.
+The Land Use Element estimates the total potential increase in the number of dwelling units within
+the City will be ninety seven (97). The maximum potential number of dwelling units at “Build-Out”
+condition will be 497. The projected additional vehicle trips per day based on the “Build-Out”
+condition would be nine hundred and seventy (970). The projected total number of vehicle trips per
+day would then be 4,970 or approximately a 24% increase in the number of daily vehicle trips.
+Regional Setting
+The City of Bradbury is nestled against the San Gabriel Mountains northwest of the intersection of
+the San Gabriel River Freeway (I-605) and the Foothill Freeway (I-210). Access ramps at Mount
+Olive Drive, Buena Vista Street and Irwindale Avenue provide direct ingress and egress to the
+freeway system.
+                                            Exhibit C-T No. 1
+                                REGIONAL LOCATION MAP
+                                  Circulation-Transportation - Page No. 2
+
+City of Bradbury                                                General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                       Revised-020514
+Traffic Impacts: The primary traffic impact to Bradbury residents will occur as nearby communities
+experience growth in commercial and industrial development. As nearby communities grow, traffic
+will increase and the Level-of-Service (LOS) at surrounding arterial highway intersections will
+decrease.
+Level of Service (LOS) is a qualitative indicator that is used to describe the operative conditions of a
+roadway. Level of Service is computed using methods documented in the Transportation Research
+Board Publication Highway Capacity Manual. For signalized intersections and all-way-stop-
+controlled intersections (AWSC), delays in movement and LOS are reported as average values for
+the entire intersection. For two-way-stop-controlled intersection (TWSC), the average delays and
+LOS are reported for the “worst-case” movement. The definitions for the various Levels-of-Service
+are described below:
+1. LOS-“A” (Stable Flow) means free-flow conditions with negligible to minimal delays. Excellent
+    progression with most vehicles arriving during the green phase and not having to stop at all.
+    Nearly all drivers find freedom of operation.
+2. LOS-“B” (Stable Flow) means good progression with slight delays. Short cycle-lengths typical.
+    Relatively more vehicles stop than under LOS-“A”. Vehicle platoons are formed. Drivers begin to
+    feel somewhat restricted within groups of vehicles.
+3. LOS-“C” (Stable Flow) means relatively higher delays resulting from fair progression and/or
+    longer cycle lengths. Individual cycle failures may begin to appear. The number of vehicles
+    stopping is significant, although many still pass through without stopping. Most drivers feel
+    somewhat restricted.
+4. LOS-“D” (Approaching Unstable Flow) means somewhat congested conditions. Longer but
+    tolerable delays may result from unfavorable progression, long cycle lengths, and/or high
+    volume-to-capacity ratios. Many vehicles are stopped. Individual cycle failures may be
+    noticeable. Drivers feel restricted during short periods due to temporary back-ups.
+5. LOS-“E” (Unstable Flow) means Congested conditions. Significant delays result from poor
+    progression, long cycle lengths, and high volume-to-capacity ratios. Individual cycle failures
+    occur frequently. There are typically long queues of vehicles waiting upstream of the
+    intersection. Driver maneuverability is very restricted.
+6. LOS-“F” (Forced Flow) means jammed or grid-lock type operating conditions. Generally
+    considered to be unacceptable for most drivers. Zero or very poor progression, with over-
+    saturation or high volume-to-capacity ratios. Several individual cycle failures occur. Queue
+    spillovers from other locations restrict or prevent movement.
+A LOS of “A” refers to a roadway with little or no congestion, LOS “B” refers to very good operation
+with some traffic congestion. LOS “C” refers to good operating roadways with light congestions and
+minor delays. LOS “D” refers to a fair operating condition, with congestion and delay at intersection
+approaches. LOS “E” refers to poor operating conditions with severe congestion and delay and LOS
+“F” refers to a roadway that has jammed or severe stop-and-go traffic conditions.
+The principal east-west arterial roadway serving Bradbury is Huntington Drive. Huntington Drive is
+an improved four-lane arterial highway with raised, landscaped medians and separate left-turn
+lanes. The City of Duarte, Circulation Element (November 2007) listed the Huntington Drive
+roadway as being constructed to a capacity of 32,000 average daily trips (ADT). In November 2005,
+Huntington Drive was operating at a capacity of between 23,000 and 28,000 ADT’s. The roadway
+was operating at a LOS “C” (from Buena Vista east to Highland) and LOS “D/E” along the remaining
+portions of the highway within the City of Duarte. Due to projected growth, the City of Duarte has
+estimated that the conditions for Huntington Drive will continue to worsen. It is anticipated that the
+                                  Circulation-Transportation - Page No. 3
+
+City of Bradbury                                                  General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                       Revised-020514
+Level of Service will be reduced to a LOS “D” from Buena Vista to Highland and a LOS “E/F” for the
+remaining portions of the roadway.
+Royal Oaks Drive, located in the City of Duarte, borders the City’s southern boundary and provides
+east-west access for community residents as well as those just passing through the City of Duarte.
+Royal Oaks Drive is a two lane local street with parking on both sides of the street in many
+residential areas. It connects with Mount Olive Drive on the east and Mountain Avenue on the west.
+The City of Duarte has determined that it has a capacity of 16,000 ADTs. The roadway operates at
+a LOS of “A/B” with ADT volumes ranging from 7,610 to 10,650.
+Mount Olive Drive provides north-south access to the City of Bradbury. Mount Olive Drive north of
+Royal Oaks Drive is a long cul-de-sac street that provides the single point of access for many
+Bradbury residents and residents living in the Duarte Mesa. Mount Olive Drive terminates at the
+200 unit Duarte Mesa neighborhood.
+Railroad Transportation Systems: Several railroad lines operate within the San Gabriel Valley,
+ranging from light rail to freight rail.
+The Metrolink commuter rail system is jointly operated by several regional transit agencies across
+four counties and services both the northern and southern valley regions through two lines that
+connect in downtown Los Angeles to the west and the Inland Empire to the east. Amtrak operates
+interregional trains throughout Southern California, with a single station in the southern valley
+located in the City of Pomona. For the City of Bradbury, the connecting link to this system is the
+Metro Gold Line.
+Metro Gold Line: Los Angeles Metropolitan Transit Authority (Metro) operates the Gold Line light
+rail train connecting the northwestern San Gabriel Valley to Downtown Los Angeles. In the vicinity
+of Bradbury the track runs in the median of the I-210 freeway. The eastern terminus of the line is in
+the City of Pasadena at Madre Street and the I-210. There is a large parking structure there for
+commuters from the foothill communities, like Bradbury to use to ride the train into Downtown Los
+Angeles. The nearest station is currently the Sierra Madre Villa Station in Pasadena, but Metro is
+currently constructing an extension to the line into the City of Azusa, with the ultimate goal of
+extending it even further to the eastern edge of the San Gabriel Valley. The light rail is a vital transit
+link to the region and for the residents of Bradbury, providing access to downtown Los Angeles and
+to other forms of transportation.
+Air Transportation: There are no international or domestic airline service airports in the San
+Gabriel Valley, although there are several general-aviation airports, including Brackett Field in La
+Verne (east) and El Monte Airport in El Monte (south). There are however, several major airports
+near the San Gabriel Valley which are easily accessible to Bradbury residents. Los Angeles
+International Airport is located 39 miles southwest of the City and is accessible via-freeway and
+transit. Ontario International Airport is located 28 miles east of the City and is easily accessible by
+the I-210 and I-10 freeways. Burbank (Bob Hope) Airport is located 25 miles west of the City and is
+easily accessible via the I-210 and I-5 freeways.
+Mass Transit Bus Systems: There are no operating transit routes within the City of Bradbury. The
+closest lines are located in the City of Duarte along Huntington Drive and include Foothill Transit
+line 187 and Metro.
+                                    Circulation-Transportation - Page No. 4
+
+City of Bradbury                                               General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                         Revised-020514
+Foothill Transit operates the following routes through the City of Duarte:
+Route No. 494 - Is a commuter route, traveling west to the El Monte Station where passengers
+transfer to an express bus serving downtown Los Angeles via the I-10 freeway. To the east, the
+route terminates at the San Dimas Park & Ride. This route operates on weekdays only.
+Route No. 187 - This is a local bus route operating seven days a week. The schedule changes on
+the weekend. This route will take you west to Pasadena and east to the Montclair Transportation
+Center. The frequency of scheduled times during peak times is at intervals of 15 minutes.
+Route No. 272 - This is a local bus route operating seven days a week. The schedule changes on
+the weekends. This route originates in Duarte and travels southeast to The Plaza at West Covina
+via the Baldwin Park Metrolink.
+Schedules and information for these routes can be obtained from www.FoothillTransit.org.
+Metro operates one route in Duarte. It originates at the City of Hope in Duarte. Information for this
+route can be obtained by calling the Metro at 1-800-266-6883 or by visiting their website
+at www.metro.net
+Route No. 264 - This is a local route traveling west to Altadena via Santa Anita Fashion Park, and
+the Sierra Madre Gold Line station. This route operates seven days a week. Schedule changes on
+weekends.
+The      City   also    has    access     to    the   City     of   Duarte’s    fixed    route system
+http://www.accessduarte.com/images/stories/City_departments/Administrative
+services/transit/transitmap2004.pdf
+Para-Transit: Monrovia Transit (Dial-a-Ride). The City contracts with the City of Monrovia to
+provide a full demand-responsive transportation service. Dial-a-Ride provides curb-to-curb transit
+service to the general public within the service area. The service area includes: City of Monrovia,
+City of Bradbury, L.A. County unincorporated areas located south of Monrovia, Target (transfer
+point to Duarte Transit) and Walmart in Duarte, Medical locations within a three (3) mile radius of
+Monrovia's City limits, Methodist Hospital in Arcadia; medical offices on Duarte Road in Arcadia;
+medical offices located in Duarte; and the City of Hope in the City of Duarte.
+Local Setting
+The City of Bradbury is comprised entirely of single-family residential detached dwelling units.
+There are no retail commercial, industrial or multi-family uses of land within the City.
+The community is comprised of lots that range in size from the traditional 7,500 square foot
+rectilinear track configuration to large estate uniquely shaped parcels of land containing two to
+seventy acres. The smaller lots including some 2-acre parcels have direct access to the public
+street system. The 5-acre estate parcels and numerous 2-acre sized parcels are located within
+gate guarded neighborhoods. These gate guarded neighborhoods have privately owned and
+maintained streets.
+There are no signalized intersections within the City. There are no arterial highways within the City.
+All of the public and private streets are designated as local or local-collector streets. Lemon
+                                 Circulation-Transportation - Page No. 5
+
+City of Bradbury                                               General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                       Revised-020514
+Avenue, Royal Oaks Drive North and Mount Olive Drive collect all of the local traffic and direct it to
+the arterial highways located in adjacent cities.
+Bradbury is nearly “Built Out” therefore; a substantial increase in traffic generated within the
+community is not expected. In 2010, the average vehicle miles traveled (VMT) was 4,191 miles per
+year per service population. In comparison with similar sized cities such as La Canada Flintridge,
+South Pasadena, Claremont, Glendora, and El Monte, Bradbury ranked fifth.
+The 2010 Census concluded that the City of Bradbury contained 400 dwelling units. Using an
+industry accepted planning standard of ten (10) vehicle trips per day per household the City’s
+consulting traffic engineer estimated that 4,000 daily vehicle trips are generated for the entire
+community. The traffic generating capacity of the City is easily and adequately handled by the local
+public and private streets. The impact created by the City of Bradbury to the surrounding arterial
+highway system is negligible. It is, however, noted that during the morning and evening peak traffic
+hours the signalized intersections along Huntington Drive operate at a somewhat uncomfortable
+level. Traffic accidents on the I-210 Freeway often result in the diversion of traffic to Huntington
+Drive which further impacts the smooth flow of traffic along this and other major highways.
+Recently the Bradbury City Council responded to residents’ concerns regarding speeding on the
+steep Mount Olive Drive public street. Traffic calming improvements have been made to discourage
+speeding. A pedestrian/equestrian trail was constructed on the west side of the street to separate
+pedestrians from vehicular traffic. The capacity of the roadway has not been reduced and it
+adequately accommodates the existing and projected traffic volume.
+                                 Circulation-Transportation - Page No. 6
+
+City of Bradbury                                         General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                              Revised-020514
+                                     Exhibit C-T No. 2
+                               CIRCULATION PLAN
+                           Circulation-Transportation - Page No. 7
+
+City of Bradbury                                              General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                   Revised-020514
+Emergency Access and Evacuation Plan. In accordance with the Disaster Mitigation Act of
+2002, which requires each city to prepare a Natural Disaster Plan, the City of Bradbury adopted a
+Natural Hazard Mitigation Plan on October 19, 2004. The Hazard Mitigation Plan addresses such
+hazards as earthquakes, earth movements, flooding, wildfires and windstorms and multi-hazards, (a
+combination of more than one hazard occurring at the same time). The plan is evaluated annually to
+determine the effectiveness of its programs and to reflect changes in land development or
+programs.
+An important element of the Hazard Mitigation Plan is the Evacuation Plan. In the event of a
+catastrophic event it is extremely important to evacuate the residents, their belongings and their
+animals. Equally important is providing access to the hillside neighbors for emergency “First
+Responders”. Police, Fire and Medical personnel and their equipment must have access to
+minimally accessible hillside areas of the community. The following Emergency Access Plan has
+been reviewed and approved by emergency personnel. Residents are advised of the plan and they
+are encouraged to participate in making the roadways passable during an emergency.
+                                Circulation-Transportation - Page No. 8
+
+City of Bradbury                                         General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                              Revised-020514
+                                     Exhibit C-T No. 3
+              EMERGENCY ACCESS AND EVACUATION PLAN:
+                           Circulation-Transportation - Page No. 9
+
+City of Bradbury                                                 General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                       Revised-020514
+Roadway Standards. The roadway classification system describes the standards for the design of
+each classified roadway. All streets within the City are to be designed and constructed to meet the
+adopted specifications. The only exception is unimproved fire lanes and utility roads. The City does
+not regulate the design and construction of these types of roads.
+The Bradbury Estates Community Services District (CSD) is responsible for the design, approval
+and maintenance of the private streets located within its jurisdictional boundary. The City may
+provide review and suggestions regarding the construction of new private streets within the Estates
+upon request.
+1. Collector Streets: A collector street is intended to facilitate traffic moving between arterial and
+    local streets, generally providing direct access to properties. Collector Streets have a typical
+    pavement width of 35 to 40 feet and contain two travel lanes (one in each direction) On-street
+    parking is often permitted depending on the width of the roadway. Roadways classified as
+    collector streets include: Mount Olive Drive, Royal Oaks Drive North, and Lemon Avenue.
+2. Local Streets (Public): Local public streets provide direct access to individual properties and
+    they are designed to discourage through-traffic. Local Streets have a typical pavement width of
+    35 to 40 feet and contain two travel lanes. On-street parking is generally permitted. Roadways
+    classified as local streets include: Mount Olive Lane, Elda Street, Freeborn Street, Oak Shade
+    Road, Spring Point Drive, Gardi Street, Fairlee Avenue, Woodlyn Lane (the eastern portion
+    only), Braewood Drive and Winston Avenue.
+3. Local Streets (Private): Local streets (private) provide direct access to individual properties
+    located within gate guarded neighborhoods. They are most often cul-de-sac streets and lanes.
+    These private roadways are maintained either by a homeowners association or a community
+    services district. The width of these roadways varies from 15 to 26 feet. On-street parking is
+    generally prohibited. Streets included in this category are: Woodlyn Lane, Bradbury Hills Road,
+    Bradbury Hills Lane, El Cielo Lane, Deodar Lane, Deodar Lane West, Sawpit Lane, Palm Hill
+    Lane, Dove Tail Lane, Barranca Road, Sycamore Lane Oak Mountain Road, Starlite Drive,
+    Ridge Drive, Circle Drive, Old Ranch Road, Bliss Canyon Road Oak Knoll Lane and Long
+    Canyon Road
+4. Fire Roads and Utility Lanes: Fire Roads and Utility Lanes are unimproved, non-paved
+    roadways that vary in width. Public access is discouraged. Roadways included in this category
+    include the Spanish Canyon Fire Road and the Flood Control Access Lane between the
+    Bradbury Debris Basin and the Spinks Canyon Debris Basin.
+                                  Circulation-Transportation - Page No. 10
+
+City of Bradbury                                         General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                              Revised-020514
+                                    Exhibit C-T No. 4
+                         ROADWAY CONCEPT PLANS
+                          Circulation-Transportation - Page No. 11
+
+City of Bradbury                                                 General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                          Revised-020514
+Street Lights: The City of Bradbury has a “Dark Sky” policy. Street lights are not required on
+private streets and roads. The City maintains street lights only on the public streets. The public
+street system was designed and constructed without sidewalks. Certain recent improvements have
+been made along the local collector streets in order to separate pedestrians from the lanes devoted
+to motorized vehicles.
+Public Utilities: Typical urban/suburban energy sources such as natural gas and electricity are
+produced or generated well beyond the City limits of Bradbury.
+•   Southern California Edison Company generates electricity in facilities located more than
+    twenty-five miles from the City. Electricity is transmitted to the City and distributed to the single-
+    family dwellings using a network of overhead utility poles and wires. Electricity use in Bradbury
+    has been reported to be 17,652 kWh per residence per year. The Air Quality Control
+    Management District (AQMD) estimates that the average household in Southern California uses
+    7,300 kWh per year (20 kWh a day per household).
+•   Southern California Gas Company; provides natural gas to the community. Natural gas is
+    imported and distributed via underground pipes.
+•   Verizon Telephone Company; provides landline telephonic communications to the community.
+    The telephone communication system is a network of overhead poles and wires.
+•   Time Warner Communications; provides a landline system that offers direct hard-wire
+    connection for television services. Residents have the option of contracting with companies who
+    provide wireless satellite television service.
+•   California American Water Company; provides domestic potable water service to the
+    community. The network of underground water mainlines also services the fire hydrants located
+    throughout the community. A system of reclaimed water is being expanded each year as part of
+    the water company’s public works program. The water company is aware of the importance of
+    improving the availability of adequate fire flow. A collaborative effort between the City and the
+    water company has resulted in various upgrades of the water system.
+•   Los Angeles County Sewer Maintenance District; is responsible for maintaining the public
+    sewer system within the City. Many of the dwelling units utilize private septic systems.
+    However, as development proposals are submitted to the City the possibility of expanding the
+    public sewer system is explored. The intent is to connect as many dwelling units as possible to
+    the public sewer system.
+•   Los Angeles County Flood Control District; is responsible for maintaining the public storm
+    drain system. Concrete lined channels and large underground storm-drain pipes provide the
+    backbone flood control network. Large agriculture parcels are required to retain surface run-off
+    on-site. The existing storm drain system collects run-off from streets and small parcels of land.
+Overview
+As indicated in the Land Use Element, the City of Bradbury is almost entirely residential with the
+exception of the City Civic Center and Royal Oaks Elementary school. Traffic movement
+throughout the community flows easily and it is directed to arterial highways and freeways located
+in adjacent communities.
+                                  Circulation-Transportation - Page No. 12
+
+City of Bradbury                                                    General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                              Revised-020514
+The single source of traffic congestion occurs at the Royal Oaks Elementary School during peak
+hours and the congestion is exacerbated during periods of inclement weather. A variety of
+pedestrian/equestrian trails are located through the community.
+A well used pedestrian trail is located in the City of Duarte adjacent to Bradbury’s southern
+boundary. Residents have easy access to this trail through a trail system in Bradbury.
+The Bradbury City Council has demonstrated a commitment to providing improved roadway and
+trail facilities that are accessible to all residents.
+Key Goals, Objectives, Policies and Action Programs
+The Circulation-Transportation Element indicates the general location and extent of the existing
+roadways and establishes standards for these roadways. The City has established the following
+goals and policies for circulation and transportation in the City of Bradbury. The implementation
+measures are contained at the end of the Chapter.
+Circulation-Transportation Goals
+     Circulation-Transportation Goal 1:                The Circulation-Transportation Element seeks to
+                                                       maintain safe and efficient circulation systems that
+                                                       do not impact the rural residential character of the
+                                                       City.
+     Circulation-Transportation Goal 2:                Maintain transit programs that do not exceed the
+                                                       City’s annual transit funding allocation or budget.
+     Circulation-Transportation Goal 3:                Inform residents of all available transit programs.
+   Circulation-Transportation Goal 4:                  Support regional rail services such as the METRO
+                                                       Gold Line light rail system.
+     Circulation-Transportation Goal 5:                Promote traffic safety throughout the community
+     Circulation-Transportation Goal 6:                Promote a “Dark Sky” development concept for all
+                                                       circulation systems that is consistent with the City’s
+                                                       rural character.
+Circulation-Transportation Objectives
+     Circulation-Transportation Objective 1:           To accommodate existing traffic patterns and plan
+                                                       for future demand.
+     Circulation-Transportation Objective 2:           Strive for the creation of new transportation
+                                                       facilities for motorists, equestrians, pedestrians,
+                                                       and bicyclists. Emphasize design standards that
+                                                       result in the construction of circulation and
+                                                       transportation systems that are safe and efficient;
+                                    Circulation-Transportation - Page No. 13
+
+City of Bradbury                                                General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                           Revised-020514
+                                                   and sensitive to the needs of the disabled and
+                                                   City’s unique rural residential character.
+Circulation-Transportation Policies
+    Circulation-Transportation Policy 1:           All public roadways and roadway improvements will
+                                                   be constructed to the City of Bradbury local street
+                                                   standards so as to preserve the rural residential
+                                                   character of the City.
+    Circulation-Transportation Policy 2:           Continue inter-jurisdictional relationships with
+                                                   neighboring cities to coordinate the design and
+                                                   implementation of transportation systems.
+    Circulation-Transportation Policy 3:           Explore all available funding sources and
+                                                   opportunities for improving transportation programs
+                                                   and facilities.
+    Circulation-Transportation Policy 4:           Develop a public information/marketing campaign
+                                                   to advertise the availability of transit services to City
+                                                   residents.
+    Circulation-Transportation Policy 5:           Continue to support and work with regional
+                                                   agencies to support the expansion of the Gold Line
+                                                   and other transportation programs and services for
+                                                   the San Gabriel Valley.
+    Circulation-Transportation Policy 6:           Promote enforcement of speed laws and continue
+                                                   to monitor the use of City streets.
+Circulation-Transportation Implementation Action Programs
+The City of Bradbury intends to complete the following items, which address the objectives and
+policies of the Circulation-Transportation Element of the General Plan.
+    Circulation-Transportation Action 1:           Safety: Continue to evaluate traffic calming
+                                                   measures such as speed bumps, bulb-outs, stop
+                                                   signs and other improvements that effectively
+                                                   reduce speed.
+    Circulation-Transportation Action 2:           Light-Rail: Promote improvements that expand
+                                                   access to the Gold Line light-rail and other regional
+                                                   transportation systems for community residents.
+                                                   Examine the feasibility of creating a park-and-ride
+                                                   lot at the Civic Center for use by City residents.
+    Circulation-Transportation Action 3:           Public Information: Develop a marketing program
+                                                   to provide information to residents on the various
+                                                   available transportation services including Dial-A-
+                                                   Ride, Foothill Transit, and the Gold Line. Post this
+                                                   information on the City website.
+                                 Circulation-Transportation - Page No. 14
+
+City of Bradbury                                           General Plan – 2012 – 2030 Update
+Circulation –Transportation Element - Draft -                                    Revised-020514
+   Circulation-Transportation Action 4:       Para-Transit System: Maintain a Dial-a-Ride
+                                              program that does not exceed the City’s annual
+                                              transit funding allocation of budget.
+   Circulation-Transportation Action 5:       Roadway Coordination -             Support roadway
+                                              improvements to intersections of all streets with the
+                                              surrounding arterial highway network. Coordinate
+                                              street improvements with the adjacent cities that
+                                              may result in the improvement of Level-of-Service
+                                              (LOS) at all street intersections.
+   Circulation-Transportation Action 6:       Roadway Improvements – Continue to work with
+                                              the City of Duarte and the Duarte Unified School
+                                              District to identify improvements that will reduce
+                                              traffic congestion and improve pedestrian access to
+                                              Royal Oaks Elementary School during hours of
+                                              operation.
+   Circulation-Transportation Action 7:       Complete Streets Network – Continue to examine
+                                              the existing circulation system in order to identify
+                                              improvements that will lead to improved compliance
+                                              with the “Complete Streets Network” as envisioned
+                                              by AB 1358.
+                            Circulation-Transportation - Page No. 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+City of Bradbury                                                General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                             Revised-020514
+               General Plan 2012-2030 Update
+                      Health and Safety Element
+                                    (Noise and Safety Elements Combined)
+                                       Table of Contents
+         Topic                                                                         Pg. No.
+Noise Chapter
+Purpose                                                                                   1
+Noise Chapter Objective                                                                   2
+Relationship to Other General Plan Elements                                               2
+Overview of Noise Element Issues                                                          2
+Characteristics of Traffic Noise                                                          4
+Existing Noise Environment                                                                4
+Future Noise Environment                                                                  6
+Noise Sensitive Land Uses                                                                 7
+Noise Mitigation Plan                                                                     7
+Key Noise Goals, Objectives, Policies and Action Programs                                 11
+Safety Chapter
+Purpose                                                                                   14
+Safety Chapter Objective                                                                  14
+Relationship to Other General Plan Elements                                               15
+Related Agencies, Laws and Plans                                                          15
+Overview of Safety Chapter Issues                                                         15
+    Fire Hazards                                                                          15
+    Historic Wildfires in the City of Bradbury                                            17
+    Flood Hazards                                                                         18
+    Geologic Hazards                                                                      19
+     Landslides                                                                           19
+    Erosion Hazard                                                                        20
+    Seismic Hazards                                                                       20
+    Ground Rupture                                                                        22
+    Ground Shaking                                                                        22
+    Liquefaction                                                                          22
+    Seiches                                                                               23
+Safety and Emergency Preparedness Plan                                                    25
+    Police Services                                                                       26
+    Fire Services                                                                         26
+    Medical Services                                                                      26
+Peakload Water Supply                                                                     26
+Natural Hazard Mitigation Plan                                                            27
+    Hazardous Waste and Materials Management Program                                      28
+Emergency Preparedness                                                                    28
+    Disaster Area Management                                                              29
+                                         Health and Safety Page No. i
+
+City of Bradbury                                                    General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                                 Revised-020514
+   Alert LA County                                                                            29
+   Specific Needs Disaster Voluntary Registry (SNAP)                                          30
+Evacuation Routes and Reception Centers                                                       31
+Key Safety Goals, Objectives, Policies and Action Programs                                    33
+Tables
+Table H-S Noise No. 1      (Existing Noise Measurements)                                      6
+Table H-S Noise No. 2      (Existing and Future Roadway Noise Levels (CNEL))                  7
+Exhibits
+Exhibit H-S Noise No. 1     (Acoustical Scale)                                                3
+Exhibit H-S Noise No. 2    (Noise Contour Map)                                                10
+Exhibit H-S Safety No. 1   (Fire Hazard Severity Zones)                                       17
+Exhibit H-S Safety No. 2    (Regional Fault Segments)                                         21
+Exhibit H-S Safety No. 3   (City Seismic Hazard Zone Map)                                     24
+Exhibit H-S Safety No. 4   (Emergency Access and Evacuation Plan)                             32
+                                       Health and Safety Page No. ii
+
+City of Bradbury                                            General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                           Revised-020514
+                   Health and Safety Element
+The City of Bradbury Health and Safety General Plan Element consists of the combination of
+the State required Noise Element and Safety Element. The required General Plan Elements
+have been combined for clarity and to eliminate redundancy.
+Noise Chapter
+Purpose
+The Noise Chapter of the Bradbury General Plan Health and Safety Element establishes
+guidelines for controlling noise in the City. The Noise Chapter examines ·the characteristics and
+effects of noise. It describes State and Federal guidelines relating to noise control. An
+evaluation of the existing noise environment is included. This portion of the Health and Safety
+Element contains a discussion of the anticipated future noise environment. The Chapter
+identifies sensitive land uses and potential noise sources that may cause impacts.
+As mandated by the California Government Code Section 65302(f), the Noise Chapter follows
+the guidelines established by the State Office of Planning and Research. Local governments
+must “analyze and quantify” noise levels and the extent of noise exposure through actual
+measurement or the use of noise modeling. Technical data relating to mobile and point sources
+must be collected and synthesized into a set of noise control policies and programs that
+“minimizes the exposure of community residents to excessive noise”. Noise level contours must
+be mapped and the conclusions of the element used as a basis for land use decisions.
+The Noise Chapter must include implementation measures and possible solutions to existing
+and foreseeable noise problems. Furthermore, the policies and standards must be sufficient to
+serve as a guideline for compliance with sound transmission control requirements. The Noise
+Chapter directly correlates to the Land Use, Circulation, Housing and Community Resources
+Elements. Pursuant to State requirements, the Noise Chapter must indicate noise levels from
+traffic along major roads and highways. Noise contours are used to illustrate noise levels in
+areas adjacent to major roadways. The noise contour map identifies existing noise levels in the
+City and noise levels anticipated from projected traffic volumes.
+This Chapter provides a framework within which future planning and noise-related decisions will
+be made and implemented. Development and traffic have a direct bearing on noise in the local
+environment. The community survey conducted as part of General Plan Update found that most
+residents view the relatively quiet and noise free environment of the City as an important
+amenity that must be preserved.
+The Noise Chapter of the Health and Safety Element includes goals, policies and objectives that
+will aid in the creation and maintenance of an acceptable noise environment for the City’s
+residents. The single-family nature of the community is the use of land that creates the least
+noise impacts. Although single-family dwellings create minimal noise generators it is important
+                       Health and Safety                          Page No. 1
+
+City of Bradbury                                            General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                            Revised-020514
+to review the surrounding uses of land that may cause concern to the community. In residential
+areas such as Bradbury major contributors to noise are transportation, construction, garden
+equipment, as well as human and animal services. Additionally, sensitive noise receptors have
+been identified and goals and policies have been created to protect these uses from excessive
+noise impacts.
+Noise Chapter Objective
+The objective of the Noise Chapter is to maintain and preserve the existing quiet and relative
+noise free environment in the City. The effects of noise can be eliminated or reduced through
+regulatory noise controls and responsible land use planning. Noise and land use guidelines
+have been developed by State and Federal agencies including the Federal Highway
+Administration, the Environmental Protection Agency, the Department of Housing and Urban
+Development, the American National Standards Institute, and the State of California.
+Relationship to Other General Plan Elements
+California Planning Law requires that all elements of the General Plan be consistent. While each
+of the General Plan elements could be characterized as independent documents, they are also
+interrelated in the common goal of providing a long-range integrated plan for the ongoing
+development of the City. The Noise Chapter of the Health and Safety Element is most directly
+related to the Land Use, Circulation, Housing and Community Resources Elements.
+Goals, objectives and policies set forth in all of the General Plan elements have been reviewed
+and assessed for internal consistency.
+Overview of Noise Element Issues
+Noise is defined as any unwanted sound. Sound is defined in terms of loudness (amplitude) and
+frequency (pitch). The standard unit of measurement for loudness is the decibel (dB). Since the
+human ear is not equally sensitive to sound at all frequencies, a frequency-dependent rating
+scale rates the level of noise to the sensitivity of the human ear. The A-weighted decibel scale
+(dBA) discriminates against frequencies in a manner approximating to the sensitivity of the
+human ear. Decibels are based on the logarithmic scale, in terms of human response to noise.
+Everyday sounds normally range from 20 dB (very quiet) to 100 dB (very loud).
+The Single Event Noise Exposure Level (SENEL) is the most appropriate noise level-duration
+rating scale for a single noise event. The SENEL is given in decibels. The noise exposure level
+of a single event measured over the time interval between the initial sounds to the final sound
+for which it exceeds the threshold of acceptable noise level. A single event is a solitary
+occurrence such as a train passing by or an aircraft flying overhead (overflight). Examples of
+various sound levels due to varying activities are shown in Exhibit H-S Noise No. 1.
+                       Health and Safety                           Page No. 2
+
+City of Bradbury                                  General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                               Revised-020514
+                               Exhibit H-S Noise No. 1
+                                  Acoustical Scale
+                  Health and Safety                    Page No. 3
+
+City of Bradbury                                             General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                              Revised-020514
+Cumulative noise measurements have been developed to assess community response to noise.
+These scales attempt to include the loudness of each event, the duration of these events, the
+total number of events, and the time of day that these events occur, into one single number
+rating scale. The cumulative noise measurement includes the Equivalent Noise Level (Leq) and
+the Community Noise Equivalent Level (CNEL). The Leq represents the average sound level
+energy for a one-hour period and employs an A-weighted decibel correction, which corresponds
+to the optimal frequency response of the human ear. CNEL is a 24-hour, time-weighted annual
+noise level and is a measure of the overall noise exposure for a 24-hour period. So that, noise
+levels during the evening (7 p.m. to 10 p.m.) are penalized by 5 dB and noise levels at night (10
+p.m. to 7 a.m.) are penalized by 10 dB.
+Environmental factors that impact noise levels include: wind direction and speed; temperature
+and humidity; characteristics of the ground surface; and the presence of turf, shrubbery, and
+trees. This is particularly true where the view of the target roadway is interrupted by isolated
+buildings, bushes, scattered trees, or if the intervening ground is soft or covered with vegetation.
+Another important factor is the location of the source or the receiver. If either the source or the
+receiver is located more than three meters above the ground, the level of the intruding noise will
+be affected. In an area which is relatively flat and free of barriers or impediments, the sound
+resulting from a single source spreads in a spherical manner away from the source (similar to
+the way waves are formed after a rock is thrown into a pond). The sound level decreases by six
+decibels for each doubling of distance or 20-decibels for each factor of ten in distance. This
+applies to fixed noise sources and mobile noise sources which are temporarily stationary, such
+as an idling truck or other heavy equipment operating within a confined area (such as industrial
+processes).
+Characteristics of Traffic Noise
+Generally, it can be shown that a 26 percent increase in traffic volume will cause a 1.0- dBA
+increase in CNEL. Doubling the number of vehicles on a given route increases the adjacent
+noise levels by 3.0-dBA, but changing the vehicle speed has an even more dramatic effect.
+Increasing the vehicle speed from 35 to 45 mph raises the adjacent noise levels approximately
+3.2- dBA. Reducing vehicle speeds from 35 to 30 mph decreases adjacent noise levels by 1.5-
+dBA on major roadways. A speed decrease from 40 mph to 35 mph also reduces adjacent
+noise levels by 1.6- dBA. Consequently, lowering motor vehicle speeds can have a significant
+positive impact in terms of reducing adjacent noise levels.
+Existing Noise Environment
+Bradbury is exclusively zoned and developed with single-family residential detached dwelling
+units. Outdoor noises generated from single-family residences are associated with yard and
+agricultural grove maintenance, barking dogs, children playing, and other typical sounds
+emanating from low density residential communities. Indoor noise includes appliances, music,
+television as well as people and animals. Noise levels acceptable for commercial and industrial
+uses in other communities are not acceptable for this residential community. The large parcels
+have significant setbacks and they generally contain dense landscaping. The result is that
+noises emanating from adjacent uses of land are adequately buffered for the most part. The
+Irwindale Raceway located south of the City of Bradbury has been identified as a noise source
+that has on occasion caused distress to some residents. The City of Irwindale and the Raceway
+officials are aware of the noise impacts created by activities at the Raceway. Efforts have been
+                       Health and Safety                            Page No. 4
+
+City of Bradbury                                             General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                               Revised-020514
+made to reduce the offending noise. Dwelling units constructed within the past several decades
+are well insulated and they use double and triple pane windows. These construction techniques
+substantially reduce the level of sound within the interior of a dwelling unit.
+The highest noise levels within the community can be found adjacent to major arterial roadways
+located beyond the City’s boundary. Local collector streets such as Lemon Avenue, Royal Oaks
+Drive North, Lemon Avenue and Mount Olive Drive are used by City and area residents during
+the morning and evening peak traffic periods. Huntington Drive, a major arterial street, and the
+I-210 and I-605 freeways are the significant sources of noise that have an impact on the
+community. Both freeways are located to the south and beyond the City’s boundary. Since noise
+travels upwards, the impact may be greater on those properties located close to the major
+arterial roads and freeways and to dwellings located on the south-facing slopes.
+Two types of noise sources have been considered: 1) stationary sources; and 2) mobile
+sources. Stationary noise is attributed to air conditioning units, pool equipment, audio or
+television usage. Non-Stationary or mobile noises are usually of short duration such as motor
+vehicles, aircraft, railroads, lawnmowers and power tools. Air conditioning and pool equipment
+noises can be reduced through design measures (placement and screening). The most
+prevalent mobile noise source is vehicular traffic. The major sources of noise within the City are
+associated with transportation-related activities: such as motor vehicles, aircraft, and railroads.
+All of these significant mobile noise generators are located beyond the Bradbury City limits.
+These sources include the Interstate I-210 and I-605 freeways and a railroad that is located
+south of and parallel to the I-210 freeway. Aircraft arriving and departing the City of Los Angeles
+Airport (LAX) are generally high enough and short enough duration so as to not create a noise
+impact for the residents.
+The major traffic noise includes vehicles operating on major arterials that serve the City
+including Royal Oaks Drive (bordering the City) and Huntington Drive, Buena Vista Street,
+Highland Avenue, and Duarte Road. Interstate I-210 freeway generates significant noise levels
+since is it is a constant and consistent noise especially during peak traffic periods. The railroads
+generate higher levels of noise but only for a short duration of time.
+There are no industrial uses in close proximity to the residents of Bradbury. Noise
+measurements taken along Mount Olive Drive and Royal Oaks Drive (City of Duarte General
+Plan 2007) indicated that there was no noise level greater than 65 CNEL.
+Controlled gate-guarded neighborhoods within the City restrict undesirable traffic and thus
+reduce or eliminate significant traffic-related noise. Traffic related noise is minimal within the
+community of Bradbury due to the lack of major arterial roadways. The Bradbury public street
+system is comprised of local and collector streets only. Most dwellings located near the internal
+collector streets and the exterior arterial highways are buffered from intruding noise through the
+use of walls.
+The average residential lot in the City of Bradbury is substantially larger than single-family
+residential lots in adjacent communities. The larger parcels allow for landscape buffering and
+significant separation between dwelling units and setbacks from local streets. The highest
+ambient noise level in the community (64- dBA) is generated by traffic using Royal Oaks Drive
+(located in the City of Duarte). Noise in this area is attributed to traffic south of the old Pacific
+Electric Railroad right-of-way, which is also outside the Bradbury City limits.
+                         Health and Safety                          Page No. 5
+
+City of Bradbury                                                           General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                                                   Revised-020514
+To assess the existing noise environment, field measurements were taken at six locations in the
+City (refer to Exhibit H-S Noise No.2). Two readings were taken at each location, one 10-minute
+reading and one 1-minute reading. The results of the noise survey are summarized below in
+Table HS Noise No.1. The highest noise levels are expected in the southern area of the City.
+This is due to the higher density of development and the presence of through traffic in that area.
+Development in these areas should be subject to detailed noise analysis when there is a
+potential to exceed acceptable noise levels identified in the January 2014 analysis.
+Future Noise Environment
+The Land Use Plan for the City of Bradbury shows that the City will remain exclusively single-
+family residential. This land use is not expected to result in any significant increases in local
+traffic. Thus, future development under the provisions of the Land Use Plan is not likely to result
+in any significant changes in the ambient noise levels of the community.
+Residential development is a noise-sensitive use. Any development along major roadways in
+the City shall be subject to noise evaluation to determine the need for specific noise control
+measures, in order to achieve an acceptable noise environment. Land uses and activities which
+may generate excessive noise shall also be regulated to prevent any adverse effect on the
+City’s future noise environment.
+                                             TABLE H-S Noise No.-1
+                                       Existing Noise Measurements
+                                      EXISTING NOISE MEASUREMENTS
+  Site                                 Location                                    Lmax    L10      L33     L50      L90
+    1        Lemon Ave. west of Winston Ave                                         55       50      50       50       54
+    2        Deodar Ln. near Sycamore Ln.                                           52       50      50       50       54
+    3        Sycamore Ln. near Oak Mtn. Rd.                                         55       52      50       50       45
+    4        Royal Oaks Dr. west of Winston Ave.                                    64       54      50       45       40
+    5        Mount Olive Dr. @ north City boundary                                  61       58      50       50       50
+    6        Mount Olive Dr. at Gardi St.                                           62       60      55       50       50
+Lmax = The Maximum sound level recorded during the noise measurement period.
+L10 = The sound level exceeded 10 percent of the noise measurement period.
+L33 = The sound level exceeded 33 percent of the noise measurement period.
+L50 = The sound level exceeded 50 percent of the noise measurement period.
+L90 = The sound level exceeded 90 percent of the noise measurement period, (also considered as the Background Noise Level).
+The main source of noise in the City is traffic on roadways. Traffic noise affects noise-sensitive
+land uses that may be located along and near these routes. Because of the primarily low density
+residential nature of the City and the presence of many private roads, future development in
+Bradbury is not expected to result in major increases in traffic volumes and noise along City
+streets. Increases in traffic volumes on major roadways are expected to be generated by
+development located outside the City. This will result in increased noise levels along selected
+roadways. Table H-S Noise No.-2 presents the results of a noise modeling analysis based on
+                           Health and Safety                                         Page No. 6
+
+City of Bradbury                                                   General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                                          Revised-020514
+future traffic volumes. It indicates the distance from the roadway centerline to the 65, 60 and 55
+CNEL noise contours.
+                                      TABLE H-S Noise No. 2
+               EXISTING AND FUTURE ROADWAY NOISE LEVELS (CNEL)
+                                            Distance (in feet) from Roadway Centerline to CNEL (Db)
+        Roadway Segment
+                                                                                         CNEL @         Change in
+                                       65 CNEL        60 CNEL           55 CNEL
+                                                                                          50 feet        CNEL (1)
+Mount Olive Dr.
+                                           0              40               90               55              0
+North of Royal Oaks Ln.
+Royal Oaks Dr.
+                                          20              45               80               54              0
+west of Woodlyn Ln.
+Deodar Ln.
+                                           0               0               40               48              0
+north of Woodlyn Ln.
+Note: 1 Changes in CNEL compared noise levels from existing traffic to projected traffic 50 feet from the roadway
+centerline.
+Noise Sensitive Land Uses
+Land uses in Bradbury and the immediate area considered noise sensitive by the State of
+California include: schools, hospitals, rest homes, and long-term care and mental care facilities.
+There are no hospitals rest-homes or long-term medical or mental care facilities within the City
+of Bradbury. The Royal Oaks Elementary School is located in the southeastern corner of the
+City. The Be Royal Oaks (formally Royal Oaks Manor) retirement/assisted living care facility is
+located on Royal Oaks Drive North, east of Braewood Drive. This facility is located adjacent to
+the City of Bradbury in an unincorporated portion of Los Angeles County.
+Noise Mitigation Plan
+Transportation noise is the prevalent noise issued faced by Bradbury residents. Traffic using
+arterial highways and freeways located beyond the City’s jurisdiction poses the most significant
+noise generator that can impact the City’s tranquil and peaceful environment. Peak a.m. and
+p.m. traffic periods generate the most noise. Local governments have little direct control of
+transportation noise at the source. State and Federal agencies have the responsibility to control
+vehicle noise emission levels. The most effective methods cities have to mitigate transportation
+noise on their communities are by use of effective site planning and the construction of noise
+barriers.
+Noise impacts can be mitigated in three basic ways: 1) reduce the sound level of the noise
+generator; 2) increase the distance between the source and the receiver; and 3) insulate the
+receiver. People must be protected from excessive noise from non-transportation sources.
+These impacts are most effectively controlled through the application of the City’s Noise
+Ordinance and the City’s development design guidelines.
+                        Health and Safety                                   Page No. 7
+
+City of Bradbury                                           General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                            Revised-020514
+Existing Noise Regulations. The primary objective of the City of Bradbury Noise Element is to
+maintain and preserve the existing noise free environment. As indicated previously, the effects
+of noise can be eliminated or reduced through regulatory noise controls and responsible land
+use planning. Noise and land use guidelines have been developed by State and Federal
+agencies including the Federal Highway Administration, the Environmental Protection Agency,
+the Department of Housing and Urban Development, the American National Standards Institute,
+and the State of California.
+Noise Control Act In 1972, the Noise Control Act authorized the US Environmental Protection
+Agency (EPA) to publish descriptive data on the effects of noise and establish levels of sound
+"requisite to protect the public welfare with an adequate margin of safety." These levels are
+separated into health (hearing loss levels) and welfare (annoyance levels) with an adequate
+margin of safety. In March 1974, the EPA published information on Levels of Environmental
+Noise Required to Protect Public Health and Welfare with an Adequate Margin of Safety (EPA
+550/9-74.004). According to this publication, 55- dB Ldn is described as the required maximum
+noise level to provide an adequate margin of safety for areas with outdoor uses including
+residences and recreational areas. The EPA report does not establish standards, specifications
+or regulations, but identifies safe levels of environmental noise exposure without consideration
+for the costs to achieve these levels.
+Federal Highway Administration (FHWA) The FHWA adopted and published noise abatement
+criteria for Federally-funded highway construction projects. The FHWA noise abatement criteria,
+basically, establishes an exterior noise goal of 67- dBA Leq for residential land uses and an
+interior goal of 52- dBA Leq for dwellings.
+Department of Housing and Urban Development (HUD) The Department of Housing and
+Urban Development (HUD) has adopted environmental criteria and standards for determining
+project acceptability and necessary mitigation measures to ensure that projects assisted by
+HUD provide a suitable living environment. The standards include noise limits of 65- dB Ldn for
+residential areas.
+California Streets and Highways Code Division 1, Chapter 1, Article 6 of this Code requires
+State funded noise abatement programs for freeway construction or use which will result in
+noise levels exceeding 55- dBA Leq or 52- dBA Leq at existing classrooms, libraries, multi-
+purpose rooms, and pupil personnel services of public and private elementary and secondary
+schools. The noise abatement program may include acoustical treatment, elimination of
+windows, air conditioning, sound buffer structures and other mitigation measures.
+Sound Transmission Control Standards in the California Code of Regulations, Title 24, Part 2
+commonly refered to as the California Building Code and the California Green Building
+Standards Code (California Code of Regulations Title 24, Part 11) establish the minimum
+standards for construction to include remodeling for a variety of dwelling occupancies to include
+single-family detached residential buildings.
+California Motor Vehicle Code The State of California has adopted noise standards for areas
+not regulated by the federal government. State standards regulate noise levels of motor vehicles
+and motor boats, establish noise impact boundaries around airports, regulate freeway noise
+affecting classrooms, sound transmission control, occupational noise control, and identify noise
+                        Health and Safety                         Page No. 8
+
+City of Bradbury                                           General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                             Revised-020514
+insulation standards. The California Motor Vehicle Code sets operational noise limits according
+to the type of vehicle and date of manufacture.
+City Noise Ordinance The City of Bradbury adopted a Noise Ordinance to establish acceptable
+noise levels generated on private property in residential neighborhoods. It is designed to control
+unnecessary, excessive and annoying sounds generated from stationary sources that may
+impact adjacent property. It differentiates between environmental and nuisance noise.
+Environmental noise is measured under a time average period while nuisance noise cannot
+exceed the established Noise Ordinance levels at any time. Chapter 9.06.110 of the Bradbury
+Development Code establishes controls regarding unnecessary, excessive and annoying noise.
+No person shall create or allow the creation of noise on any residential property which causes
+the noise level to exceed the actual measured median ambient noise level, or the following
+presumed ambient noise level, whichever is greater.
+                      Time                               Allowable Noise Level - dBA
+7:00 a.m. to 10:00 p.m.                                               55
+10:00 p.m. to 7:00 a.m.                                               50
+                       Health and Safety                         Page No. 9
+
+City of Bradbury                                  General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                Revised-020514
+                               Exhibit H-S Noise No. 2
+                             NOISE CONTOUR MAP
+                 Health and Safety                     Page No. 10
+
+City of Bradbury                                             General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                            Revised-020514
+Key Noise Goals, Objectives, Policies and Action Programs
+The City’s Noise Control Ordinance provides a means to enforce the existing quiet, noise free
+environment. The City will continue to:
+   •   Incorporate measures into future residential projects which attenuate exterior noise
+       levels in outdoor activity areas to a maximum of 65 CNEL and interior noise levels to a
+       maximum CNEL of 45 dB.
+   •   Establish through the design review process that schools are located and designed so
+       that they comply with the acoustical criteria promulgated by the California Collaborative
+       for High Performance Schools (CHPS).
+   •   Enforce State vehicle noise regulations (Section 23130, 23130.5, 27150, 27151 and
+       38275 of the California Vehicle Code) to curtail the use of vehicles equipped with illegal
+       or faulty exhaust systems and “hot rods” exhibiting tire squeal or excessive exhaust
+       noise.
+   •   Enforce the California Noise Insulation Standards (Title 24 California Building Code) for
+       dwellings to ensure an acceptable maximum interior noise level of 45 CNEL in habitable
+       rooms, and maintain adequate noise insulation.
+   •   Strictly enforce acoustical privacy, consistent with the California Noise Insulation
+       Standards and all existing and future requirements outlined in the State Housing Code,
+       for residential construction.
+   •   Prohibit roosters and peacocks in the City.
+   Noise Goals:
+       Noise Goal 1.           Reduce noise impacts from transportation sources.
+       Noise Goal 2.           Develop measures to address non-transportation noise impacts
+                               such as those that are generated from surrounding commercial
+                               and recreational activities (racetracks, etc.).
+       Noise Goal 3.           Establish land uses which are compatible with existing noise
+                               levels within the community.
+       Noise Goal 4.           Prevent and mitigate the adverse impacts of noise on City
+                               residents.
+   Noise Objectives:
+       Noise Objective 1.      Maintain and reduce where feasible background noise levels
+                               emanating from citywide transportation sources.
+                      Health and Safety                            Page No. 11
+
+City of Bradbury                                           General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                            Revised-020514
+       Noise Objective 2.   Identify and mitigate construction activity and other sources of
+                            noise that may impact the community.
+       Noise Objective 3.   Careful consideration of noise impacts should be a part of all land
+                            use decisions.
+      Noise Objective 4.    Maintain the quiet residential character of the City free from
+                            excessive noise from mobile and fixed source generators both
+                            Citywide and region-wide.
+   Noise Policies:
+       Noise Policy 1.      Ensure noise mitigation measures are included in the design of
+                            new developments.
+       Noise Policy 2.      Encourage the State Department of Transportation (Caltrans) to
+                            continue programs that lead to the reduction of noise levels on the
+                            Interstate I-210 and I-605 freeways.
+       Noise Policy 3.      Continue the City’s street improvement program to help reduce
+                            noise levels.
+       Noise Policy 4.      Encourage the use of acoustical materials in all new residential
+                            developments.
+       Noise Policy 5.      Limit delivery, and truck traffic to designated routes.
+       Noise Policy 6.      Ensure residential developments are designed and mitigated to
+                            achieve a maximum exterior CNEL of 65 dB and a maximum
+                            interior CNEL of 45 dB.
+       Noise Policy 7.      Encourage, support, and enforce all State and Federal legislation
+                            designed to abate and control noise pollution.
+       Noise Policy 8.      Encourage the use of rubberized asphalt for resurfacing streets.
+      Noise Policy 9.       Continuously review the Noise Ordinance to ensure noise-
+                            generating uses are adequately addressed.
+       Noise Policy 10.     Strive to resolve existing and potential conflicts between noise-
+                            generating uses and human activities.
+      Noise Policy 11.      Prohibit significant long-term noise-generating activities on land
+                            located near sensitive noise receptors.
+      Noise Policy 12.      Evaluate the noise impacts generated by existing and future
+                            projects located in surrounding communities that impact or may
+                            impact the Bradbury ambient noise level.
+                   Health and Safety                              Page No. 12
+
+City of Bradbury                                           General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                             Revised-020514
+        Noise Policy 13.       Enforce limits set by the State to control noise levels, particularly
+                               those governing motor vehicles.
+        Noise Policy 14.       Ensure that to the greatest extent possible construction noise
+                               does not cause an adverse impact to the residents of the City.
+Noise Implementation Action Programs:
+The City of Bradbury intends to complete the following items which address the objectives and
+policies of the Noise Element of the General Plan:
+        Noise Action 1:         Review current policies regarding the use of gas-powered
+                                maintenance equipment and consider restricting the type of
+                                equipment used and duration of operation.
+        Noise Action 2:        The City will continue to enforce the noise ordinance to protect
+                               residents from undue disturbance.
+                      Health and Safety                          Page No. 13
+
+City of Bradbury                                            General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                             Revised-020514
+Safety Chapter
+Purpose
+The Bradbury General Plan Health and Safety Element is comprised of two State mandated
+general plan elements (Noise and Safety). The Safety Chapter of the Health and Safety
+Element focuses on those elements of risk to the residents that should be considered in current
+and future development planning.
+The purpose of the Safety Chapter is to protect the community from any unreasonable risks
+associate with the effects of seismically induced surface rupture, ground shaking, ground failure,
+tsunami, seiche, and dam failure; slope instability leading to mudslides and landslides;
+subsidence, liquefaction, and other seismic hazards identified pursuant to Chapter 7.8
+(commencing with Section 2690) of Division 2 of the Public Resources Code, and other hazards
+known to the legislative body; including flooding; and wildland and urban fires.
+The Safety Chapter of the Health and Safety Element includes mapping of known seismic and
+other geologic hazards. It also address evacuation routes, peakload water supply requirements,
+and minimum road widths and clearances around structures, as those items relate to identified
+fire and geologic hazards.
+This Safety Chapter is the primary vehicle for relating local safety planning with the City's land
+use decisions. The City has established land use policies, standards, and designations based
+on among other things the criteria set forth in this Safety Chapter. Additionally, local decisions
+related to zoning, subdivisions, and entitlement permits, for example, will be tied to the Safety
+Chapter’s identification of hazards and hazard abatement provisions. The City of Bradbury
+Safety Chapter examines those issues related to protecting the community from any
+unreasonable risks associated with earthquakes, slope instability, flooding, and fire. The
+Chapter also indicates design standards, such as peakload water supply requirements;
+minimum road widths; and clearances around structures. Finally, the Safety Chapter indentifies
+evacuation routes and emergency reception centers.
+Safety Chapter Objective
+Hazards affecting the City of Bradbury can be divided into two major categories: 1) naturally
+occurring hazards; and 2) manmade hazards. Naturally occurring hazards include earthquakes,
+wildland fires, floods, and slope failure. Chemical contamination, structural fires, transportation
+accidents and air and water pollution are examples of manmade hazards.
+The objective of the Safety Chapter is to enable the City to be sensitive to those natural and
+manmade hazards in future decision making and to be able to respond in a timely manner in the
+event of an emergency. As a result, the following principle serves as the framework for the City
+of Bradbury Safety Chapter: Public safety is the focus of the emergency preparedness plan
+which emphasizes the risks associated with earthquakes, wildfire, flooding, and other manmade
+and natural hazards. In response to the principle, the Safety Chapter provides the foundation for
+a detailed inventory of those risks that need to be considered. This Chapter also establishes
+standards related to public safety.
+                      Health and Safety                          Page No. 14
+
+City of Bradbury                                            General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                              Revised-020514
+Relationship to Other General Plan Elements
+California Planning Law requires that all elements of the General Plan be consistent. While all of
+the General Plan Elements are independent, they are also interrelated. Certain goals and
+policies of one element may also address items that are issues of other elements. This
+integration of issues throughout the General Plan creates a strong basis for the implementation
+of plans, programs and achievement of community goals. The Safety Chapter is most directly
+related to Land Use and Circulation Elements and the Conservation and Open Space Chapters.
+Related Agencies, Laws and Plans
+The following State mandates impact planning and development:
+Colbey-Alquist Floodplain Management Act. The Colbey-Alquist Floodplain Management Act
+encourages local governments to plan, adopt and enforce land use regulations for floodplain
+management, in order to protect people and property from flooding hazards. This Act also
+identifies requirements which jurisdictions must meet in order to receive State financial
+assistance for flood control.
+Alquist-Priolo Earthquake Fault Zoning Act. The Alquist-Priolo Earthquake Fault Zoning Act
+requires the state Geologist to identify earthquake fault zones along traces of both recently and
+potentially active major faults. Cities and counties that contain such zones must inform the
+public regarding zone location.
+Seismic Hazards Mapping Act. Pursuant to the Seismic Hazards Mapping Act, the state
+Geologist compiles maps identifying seismic hazard zones. Development in seismic hazard
+areas is subject to policies and criteria established by the State Mining and Geology Board.
+Additionally, approval of development on a site within a seismic hazard area mandates the
+preparation of a geotechnical report and local agency consideration of compliance with
+applicable state requirements.
+Landslide Hazard Identification Program. The Landslide Hazard Identification Program
+requires the state Geologist to prepare maps of potential landslide zones within urbanizing
+areas.
+Fire Hazards. The threat of wildfires in foothill areas in Southern California has been of concern
+for many years. Recognizing that this concern throughout the State, in 2012 the Legislature
+adopted SB 1241 which requires communities to protect themselves against wildland and urban
+fires by addressing the fire risk in areas of State responsibility and areas designated very high
+fire hazard severity zones.
+Overview of Safety Chapter Issues
+The City of Bradbury has attempted to identify and analyze natural and manmade hazards and
+the associated risks that residents may be subjected to.
+Fire Hazards.       The threat of wildfires in foothill areas in Southern California has been of
+concern for many years. Very high risk for wildfire is evident in areas having steep slopes that
+                      Health and Safety                            Page No. 15
+
+City of Bradbury                                              General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                                Revised-020514
+are covered with chaparral vegetation and where there is limited access for fire control
+equipment. Low risk areas are developed urban areas where fire access is readily available and
+the terrain is relatively flat. Industrial areas, hazardous material users, structures with
+substandard electrical wiring, overhead high voltage power lines, and high pressure gas lines
+are examples of urban fire hazards.
+In order to facilitate immediate firefighting response, the City should have the following
+standards for areas that are located in high or very high fire hazard severity zones:
+    •    There should be sufficient access routes and roads for emergency vehicles and for the
+         evacuation of residents from all areas.
+    •    Adequate access should be provided for all developed areas. All roadways to hazard
+         areas should be of sufficient width to accommodate fire-fighting equipment. Streets
+         should be marked and addresses should be posted in plain view. Adequate water supply
+         should be available and adequate for fire suppression activity.
+The County of Los Angeles Fire Department has identified virtually all of the City of Bradbury as
+a Very High Fire Hazard Severity Zone. All development within this zone should comply with the
+standards set forth in the Fire Department’s Fuel Modification Plan. The three primary
+components needed to reduce fire losses are:
+         1. Implementing building construction methods that reduce building fire hazards,
+         2. Providing adequate defensible space around structures to reduce fuel; and
+         3. Identifying areas where there is a significant risk and a history of significant losses.
+Good defensible space around structures allows adequate area for firefighters to fight a fire and
+avoid injury to personnel and equipment. Terrain, climate conditions, and vegetation interact to
+affect fire behavior.
+Government Code Sections 51175 through 51189 direct the California Department of Forestry
+and Fire Protection (CDF) to map areas of significant fire hazards based on fuels, terrain,
+weather, and other relevant factors. These zones, referred to as Fire Hazard Severity Zones
+(FHSZ), define strategies to reduce the risk associated with wildland fires. As part of this
+mapping effort, areas designated for management by CDF are identified as State Responsibility
+Areas (SRA). Areas managed by local fire departments are identified as Local Responsibility
+Areas (LRA).
+The majority of the City of Bradbury is located within a Very High Fire Hazard Severity Zone
+established by the County of Los Angeles Fire Department and reflected on Exhibit H-S Safety
+No. 1. The entire City lies within a Local Responsibility Area (LRA). Public Resource Code
+(PRC) section 4291 requires that homeowners provide fuel modification to 100 feet around their
+buildings to create a defensible space for firefighters and to protect their homes from wildfires.
+Residents must reduce dry fuel around the perimeter of any structure and comply with the
+adopted codes that provide standards for mitigating fire hazards.
+                       Health and Safety                           Page No. 16
+
+City of Bradbury                                             General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                             Revised-020514
+                                   Exhibit H-S Safety No. 1
+                              FIRE HAZARD SEVERITY ZONES
+Bradbury’s location at the base of the San Gabriel Mountains creates an urban/wildland interface
+that makes Bradbury more susceptible to wildfires than cities that do not border the foothills.
+During community workshops many residents expressed their concern that safety and
+preparedness were the highest priority for the community.
+Historic Wildfires in the City of Bradbury
+1953 Duarte Fire This fire originated between Spinks Canyon and Maddock Canyon in wildland
+area. A total of 561 acres burned in this fire.
+1958 Norum Fire This fire burned in the foothills north of Monrovia, Duarte, Bradbury and Azusa.
+A total of 6,440 acres burned in the Norum Fire.
+1980 Stable Fire On November, 16, 1980 a fire storm that had been fanned by Santa Ana Wind
+conditions swept down from the foothills and destroyed 35 homes in the City of Duarte and 14
+homes in the City of Bradbury. Reports indicated that the fire had moved from the City of Azusa,
+east of the San Gabriel River to the Duarte and Bradbury homes in 8 to 10 minutes, due to a
+strong shift in winds. Immediately after the fire, city and county personnel began taking measures
+                      Health and Safety                            Page No. 17
+
+City of Bradbury                                            General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                             Revised-020514
+to deal with the devastation. A Disaster Assistance Center was established at Duarte City Hall
+and Federal and State agencies were contacted for help. The Los Angeles County Fire District set
+up a mobile command center and the City of Duarte set up an emergency shelter. In the weeks
+that followed the fire, the City established several programs to deal with possible floods and
+mudslides that could occur due to the bare slopes where all vegetation had been burned off. Mud
+diversion structures were constructed, sandbags were distributed, and parking was restricted on
+streets with potential slides.
+2009 Station Fire Since the Stable Fire other large wildland fires have occurred in the
+surrounding communities near Bradbury. The largest being the Station Fire of 2009. The Station
+Fire was the 10th largest wildfire in California history, burning 160,577 acres and killing two
+firefighters since it began in late August. The fire started in the Angeles National Forest near
+the U.S. Forest Service ranger station on the Angeles Crest Highway (State Highway 2). The
+blaze threatened 12,000 structures in the National Forest and the nearby communities of La
+Cañada Flintridge, Glendale, Acton, La Crescenta, Littlerock, Pasadena and Altadena, as well as
+the Sunland and Tujunga neighborhoods of the City of Los Angeles. The fire was predicted to
+burn for months and travel miles to the City of Azusa behind the City of Bradbury. The Station Fire
+burned on the slopes of Mount Wilson, threatening numerous television, radio and cellular
+telephone antennas on the summit, as well as the Mount Wilson Observatory, which includes
+several historically significant telescopes and multi-million-dollar astronomical facilities operated
+by UCLA, USC, UC Berkeley and Georgia State University. In October 2009, the fire went out due
+to a fall rainstorm.
+Flood Hazards          The potential for flooding is generally described in terms of a statistically
+projected frequency. For example, a 100-year flood has a 1.0 percent chance of occurring in a
+given year, while a 500-year flood is one which has a 0.2 percent chance of happening in any
+given year. A 500-year flood would be slightly deeper and cover a greater area than a 100-year
+flood. The San Gabriel River lies east of the City of Bradbury, and it is designed to contain a
+100-year flood. The river is fully operational and is maintained by the U.S. Army Corps of
+Engineers and the Los Angeles County Flood Control District. The construction of San Gabriel
+River improvements in 1947 reduced the local area's risk of flooding. Los Angeles County
+Drainage Area studies performed by the Army Corps of Engineers have shown no deficiencies
+along the San Gabriel River. The elevated nature of the City removes Bradbury from flood
+danger from the San Gabriel River.
+The San Gabriel River is the central backbone of the San Gabriel River Watershed. The
+watershed for the San Gabriel River is one of several coastal watersheds in Southern California
+that drain hundreds of square miles of mountainous and urban lands to the Pacific Ocean. The
+character of the river changes dramatically along its 58-mile journey from Cogswell Dam (near
+the headwaters in San Gabriel Mountains) to its mouth at the Pacific Ocean. On its run to the
+sea, the San Gabriel River passes through 19 different cities. A network of dams and flood
+control measures controls the San Gabriel River. The natural water cycle and flow are
+significantly altered to protect adjacent communities from flood damage and to better use local
+water resources for urban and agricultural water supplies.
+Serious flooding has not been a problem in Bradbury because the low density residential
+development has permitted the retention of natural ground cover which retards serious floods. In
+addition to the natural ground cover, the Bradbury Debris Basin and the Spinks Debris Basin
+and check dams, maintained by the Los Angeles County Flood Control District, also provide the
+                       Health and Safety                          Page No. 18
+
+City of Bradbury                                              General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                                  Revised-020514
+City with protection from large scale floods. A series of concrete lined channels and
+underground storm drains exist within and around the perimeter of the City. These backbone
+storm drain facilities are maintained by the Los Angeles County Flood Control District. The
+City’s large agriculturally zoned and developed parcels either retain surface run-off on-site or it
+is directed to the public facilities by a system of privately owned and maintained drainage
+swales. Minor occurrences concerning water runoff occurred in the past during extremely wet
+years, however privately owned improvements have been made to rectify the local flooding
+issues. These minor flooding problems tend to be localized and primarily relate to very small
+mudslides and small erosion problems in areas where the natural topography had been altered.
+Much of the soil in Bradbury Canyon is of an alluvium base material and it is susceptible to
+runoff problems if the natural ground cover has been removed and not replaced with
+landscaping or other mitigating measures. The City maintains a policy of investigating any
+localized runoff or mudslide problems through the assistance of the City Engineer and the Los
+Angeles County Department of Public Works.
+Since the City of Bradbury has not been studied by the National Flood Insurance Program
+(NFIP) to ascertain flood hazards, it is difficult to estimate if there is an area that might be at risk
+of flooding. The City’s history does not contain any reports of catastrophic flooding that would
+endanger resident’s health or safety. The National Flood Insurance Program (NFIP) designated
+Bradbury as “Zone D” which means that no analysis of flood hazards has been conducted.
+Mandatory flood insurance purchase requirements do not apply, but coverage is available.
+Geologic Hazards            The City of Bradbury is situated along the foothills of the San Gabriel
+Mountains, west of the San Gabriel River as reflected on Exhibit H-S Safety No. 2.
+Geographically, the San Gabriel Mountain Range is made up of two roughly parallel ranges.
+The northern, inland range extends from Mt. Gleason eastward past the 9,000-ft. summit of Mt.
+Waterman and Baden-Powell and terminates near the only summit over 10,000-ft. (Mt. San
+Antonio or Old Mt. Baldy). The range’s major watershed is the San Gabriel River who’s three
+main forks and countless tributaries drain approximately 20 percent of the precipitation in the
+mountains.
+There are geologic conditions within and around the City of Bradbury that could cause problems
+if proper precautions are not taken. The northern mountainous areas of the City are generally
+too steep and bedrock is too unstable for typical construction. Erosion, landslides and ground
+shaking from earthquakes can be severe hazards within these areas. Exhibit H-S Safety No. 3
+identifies the portions of the City of Bradbury that are susceptible to landslide and liquefaction.
+Landslides       Geologic hazards in the City of Bradbury include the potential for landslides,
+erosion, and debris flow and liquefaction in areas with loose soils and high water tables.
+Landslide hazards may involve relatively intact, dense bedrock materials or highly fractured and
+broken, jumbled bedrock. Landslides often occur along pre-existing zones of weakness within
+the bedrock. Local folding of the bedrock adds to the potential for slope failure. However, many
+landslides do not seem to be controlled by the position of the bedding rock relative to the
+topography but by other factors such as rock type and its attendant characteristics (density of
+jointing and fracturing). Landslides have been known to occur in the northern steep sections of
+the City. Other areas of the City may experience landslides should conditions change that
+adversely affect slope stability.
+                       Health and Safety                              Page No. 19
+
+City of Bradbury                                               General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                                Revised-020514
+Erosion Hazard Erosion is the natural process by which earth materials are loosened,
+worn away, decomposed, or dissolved, and transported to another site. Precipitation, runoff,
+running water, and wind are common agents of erosion. The potential for erosion is generally
+low in exposed natural slopes but it greatly increases when slopes have been denuded of all
+ground cover and vegetation. Barren slopes are more susceptible to erosion and subject to riling
+or raveling.
+The potential for debris flow depends primarily on the presence of Colluvium deposits upstream
+and the increase in soil moisture due to heavy rainfall. A debris flow is a fast moving, liquefied
+landslide of unconsolidated, saturated debris that looks like flowing concrete. It is differentiated
+from a mudflow in terms of the viscosity and textural properties of the flow. Flows can carry
+material ranging in size from small stones to large boulders. Often debris flows contain large
+amounts of woody debris such as logs and tree stumps. The soil known as Colluvium is loose
+bodies of sediment that have been deposited or built up at the bottom of a low-grade slope or
+against a barrier. The deposits that collect at the foot of a steep slope or cliff are also known by
+the same name. The Bradbury and Spinks Canyon Debris Basins control debris flows.
+Seismic Hazards            The U.S. Geologic Survey (USGS) is responsible for providing scientific
+information regarding natural hazards and disasters within the United States in order to protect
+and save lives. Geologic events and seismic activity in particular, are the primary natural
+hazards of the community. Earthquakes are caused by violent and abrupt releases of strain built
+up along faults. When a fault ruptures, energy is released in all directions from the source, or
+epicenter, in the form of seismic waves. Earthquakes generate two types of hazards. Primary
+hazards are ground shaking and surface rupture along faults. Secondary hazards result from
+the interaction of ground shaking with existing ground instabilities and include: liquefaction,
+settlement, and landslides.
+The City of Bradbury is located in a seismically active region and in an area of potential fault
+rupture, strong ground shaking, and slope instability. These geologic and seismic hazards can
+affect the integrity of structures and utilities, and in turn can cause severe property damage and
+potential loss of life. In California, faults are common, ranging from small breaks of an inch or
+less, to the significant breaks experienced along the San Andreas Fault which extends for
+hundreds of miles. In addition to size, the age of a fault has a direct bearing on the likelihood of
+generating an earthquake. Many large faults have not moved for millions of years and are
+considered “dead” or inactive.
+The two principal seismic considerations for most cities in Southern California are damage to
+structures due to seismically induced ground shaking and surface rupture along active fault
+traces. Strong ground motions could have a major impact on the City of Bradbury due to the
+proximity and earthquake potential of nearby active faults. The local geologic and topographic
+conditions of Bradbury’s location at the base of the San Gabriel Mountains could either amplify
+or attenuate the seismic waves. Surface ruptures could also have a major impact on the City of
+Bradbury. Surface ruptures occur during an earthquake when movement along an active fault
+breaks the ground surface.
+The City of Bradbury contains two earthquake faults (Exhibit H-S Safety No. 3). The Sierra
+Madre Fault extends through the major portion of the Bradbury along the base of the San
+                        Health and Safety                            Page No. 20
+
+City of Bradbury                                                    General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                                  Revised-020514
+Gabriel Mountains. The Duarte Fault extends across the southern portion of Bradbury and
+bisects an unincorporated County island. The Duarte fault is actually a “segment” of the Sierra
+Madre Fault. Movement along these frontal faults has resulted in the uplift of the San Gabriel
+Mountains. Seismic activity is expected to be a maximum of 7.2 magnitude.
+The Sierra Madre-Cucamonga Fault Zone includes several fault segments extending for over 86
+miles along the southern margin of the San Gabriel Mountains. The two main portions of the
+Sierra Madre-Cucamonga Fault Zone include the Sierra Madre fault to the west and the
+Cucamonga fault to the east. The fault zone is inclined to the north, dipping below the San
+Gabriel Mountains and uplifting them above the Los Angeles Basin. The fault zone was
+responsible for the 1971 6.6 magnitude San Fernando earthquake on its westernmost segment
+near the City of Sylmar. The Sierra Madre fault passes through the northern portions of
+Pasadena, Arcadia, Monrovia, Bradbury, Duarte, Azusa, and portions of San Dimas. The
+locations of the regional faults are shown in Exhibit H-S Safety No. 2.
+The Sierra Madre fault zone is divided into five main segments, labeled with the letters A
+through E, to more easily characterize this fairly complex system. It was not the fault
+responsible for the 1991 Sierra Madre earthquake.
+                        Source: California Institute of Technology, SCEC, 02/07/2012
+                                      Exhibit H-S Safety No. 2
+                                REGIONAL FAULT SEGMENTS
+The most recent surface ruptures are seen on the B and D segments. The least active segment,
+                      Health and Safety                                  Page No. 21
+
+City of Bradbury                                              General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                               Revised-020514
+is the A segment, also known as the Vasquez Creek fault, which runs between the San Gabriel
+fault and the intersection of the B and C segments of the Sierra Madre fault zone. At the junction
+of the C and D segments, the Clamshell - Sawpit Canyon fault splays off from the fault zone,
+toward the northeast (shown in sea green on the map above). It was this fault, not the Sierra
+Madre fault zone itself, that ruptured to produce the Sierra Madre earthquake of 1991.
+One of the strands that make up segment D is known as the Duarte fault, because of its location
+near that community. Segment E represents the easternmost part of this fault zone, and at its
+eastern end, it meets up with several other faults in a complex zone northwest of the City of
+Upland, near the epicenter of the 1990 Upland earthquake. The general trend of the Sierra
+Madre fault zone continues eastward from this point along the base of the San Gabriel
+Mountains, but this eastern continuation is known as the Cucamonga fault zone. The
+Cucamonga fault zone seems to be more active, (has a higher slip rate) than the Sierra Madre
+fault zone.
+Faults are continuously being found by geologists/seismologists within the region. These
+scientists have identified almost 100 faults in the Los Angeles area that are suspected of being
+capable of generating earthquakes with a magnitude of 6.0 or greater. Included within the newly
+discovered faults are faults classified as “blind thrusts”. These faults do not reach the ground
+surface but do connect many of the known surficial faults at depth and under virtually the entire
+Los Angeles, San Fernando and San Gabriel Basins. When a fault ruptures energy spreads in
+the form of seismic waves. Energy waves travel through the earth’s crust and eventually reach
+the ground interface creating surface waves which cause the ground to vibrate up and down
+and side to side. The City of Bradbury may experience some or all of the hazards associated
+with seismic waves including ground rupture, ground shaking, landslides, flooding, and
+liquefaction.
+Ground Rupture represents the primary hazard associated with earthquake since it is the
+initial result of seismic events. Surface rupture poses a difficult seismic problem from an
+engineering standpoint, because it is far more expensive and complicated to design a
+foundation and structure to withstand the displacement of even fractions of a foot than to build
+without consideration of ground rupture. Such ground fractures can cause parallel displacement
+in the foundation, causing buildings to crack and split. Development should be avoided in areas
+of high fault potential.
+Ground Shaking The most significant earthquake action in terms of structural damage and
+loss of life is ground shaking. Ground shaking is the movement of the earth’s surface in
+response to a seismic event. The intensity of the ground shaking and the resultant damages are
+determined by the magnitude of the earthquake, distance from the epicenter and characteristics
+of surface geology. This hazard is the primary cause of the collapse of buildings and other
+structures. Increased hazards from earthquakes occur when the seismic activity occurs in a
+highly urbanized area. The significance of an earthquake’s ground shaking action is directly
+related to the density and type of buildings and the number of people exposed to its effect.
+Liquefaction is a phenomenon involving the loss of shear strength of soil. Liquefaction
+involves a sudden loss in strength of saturated, cohesion soil (mostly sand) which is caused by
+shock or strain, such as generated by an earthquake and results in temporary transformation of
+the soil to fluid mass. If the liquefying layer is near the surface the effects are much like that of
+                       Health and Safety                            Page No. 22
+
+City of Bradbury                                              General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                               Revised-020514
+quicksand on any structure located on it. If the layer is in the subsurface, it may provide a sliding
+surface for the material above it.
+Liquefaction typically occurs in areas where the groundwater surface is less than 30 feet below
+the grounds surface and where the soils are composed of soft fine sand. There are several
+liquefaction zones located in the northern and eastern portions of the City of Bradbury. During
+and after a severe rain event, liquefaction could occur should a moderate severe earthquake
+take place.
+Although, Bradbury has not experienced measurable ground failure due to an earthquake in
+recent years, the potential for damage due to ground failure is still present. Past seismic events
+indicate that the City of Bradbury has been free of major damaging earthquakes for at least 130
+years. However, a number of historic earthquakes have affected the City in varying degrees
+from nonstructural damage (toppling of building contents) to minor structural damage (cracks in
+swimming pools).
+A major earthquake occurring in or near Bradbury may cause injuries and even death, extensive
+property damage, fire, hazardous spills and other hazardous effects that could be aggravated by
+aftershocks and by the secondary effects of fire, hazardous materials/chemicals accidents and
+possible failure of waterways and dams.
+Seiches, or periodic oscillations ("sloshing") of bodies of water such as ponds, lakes, and
+bays, usually occur in moderate to great earthquakes. Seiches may raise and lower a water
+surface from a few inches to several feet, and may occur several thousand miles away from the
+earthquake epicenter.
+                       Health and Safety                           Page No. 23
+
+City of Bradbury                                  General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                Revised-020514
+                              Exhibit H-S Safety No. 3
+                 Health and Safety                     Page No. 24
+
+City of Bradbury                     General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                  Revised-020514
+                BRADBURY SEISMIC HAZARD ZONE MAP
+                 Health and Safety       Page No. 25
+
+City of Bradbury                                              General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                               Revised-020514
+Safety and Emergency Preparedness Plan
+The two existing emergency response plans, the Los Angeles County Disaster Relief Manual
+and Basic Emergency Operations Plan, provide the tools to coordinate the disaster recovery
+operations of County fire control and law enforcement agencies with local agencies and
+governments. The City currently has a number of ordinances, programs and requirements in
+existence pertaining to seismic and fire hazards. Primary among these are the subdivision and
+building permit approval requirements for seismic strengthening and adequate access. The
+State Office of Emergency Services has established three levels of emergency response to
+peacetime emergencies, which are based on the severity of the situation and the availability of
+local resources in responding to that emergency. The three levels of emergency response
+include:
+     •   Level 1:   A minor-to-moderate incident wherein local resources are adequate in
+                    dealing with the current emergency;
+     •   Level 2:   A moderate-to-severe emergency where local resources are not adequate in
+                    dealing with the emergency and mutual aid assistance would be required on
+                    a regional or statewide basis.
+     •   Level 3:   A major disaster where local resources are overwhelmed by the magnitude of
+                    the disaster and State and federal assistance are required.
+Each potential hazard to the public safety has been assessed according to the following levels
+of risk:
+     •   Low Risk:        The level of risk below which no specific action is deemed necessary.
+                          The occurrence of a specific event is unlikely.
+     •   Medium Risk:     The level of risk above which specific action is required to protect life
+                          and property, though the probability of the event taking place is low to
+                          moderate.
+     •   High Risk:       Risk levels are significant and occurrence of a particular emergency
+                          situation is highly probable or inevitable.
+The scope or risk refers to the geographic area that could be potentially affected with the
+occurrence of one of the hazards. The scope of risk includes three levels:
+     •   Local:     The affected geographic area that is directly affected is localized or site
+                    specific;
+     •   Citywide: The affected area includes a significant portion or all of the City;
+     •   Regional: The affected area includes the entire City as well as the surrounding region.
+The low-density character of Bradbury has been mentioned as a positive factor in terms of
+general safety. Any incremental intensification of existing residential uses may, to some degree,
+increase susceptibility to fire and/or seismic events. The expansion of urban uses is preceded
+by, or accomplished in conjunction with, the expansion of infrastructure, and the provisions of a
+wide range of vital services and facilities. Future development plans and proposals for all
+property located within the City to include the 302-acres of privately owned undeveloped hillside
+                       Health and Safety                            Page No. 26
+
+City of Bradbury                                           General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                             Revised-020514
+open space will be scrutinized for compliance with the City’s Safety and Emergency
+Preparedness Plans.
+Police Services. Police protection is provided by the Los Angeles County Sheriff Department.
+The City maintains a contract with the Sheriff’s Department law enforcement services. Although
+the City contracts for a minimum level of service, in times of emergency the Sheriff dedicates all
+available personnel and equipment to address the community’s needs.
+The Duarte Satellite Sub-Station is the launching center for 30 police officers. These officers
+are responsible for providing police services to the City of Duarte, the City of Bradbury and
+surrounding unincorporated areas. The Satellite Sub-Station does not have dispatch or booking
+facilities. The Temple City Sherriff Station is the base of operations location for the region.
+Dispatch and booking facilities are located there.
+Fire Services. Fire protection / Emergency Medical Services are provided to the City by the Los
+Angeles County Consolidated Fire Protection District. The closest Fire Station, No. 44 is located
+at 1105 Highland Avenue in the City of Duarte. The station is staffed with at least seven
+firefighters 24 hours a day. The equipment includes two fire trucks, one patrol vehicle and one
+water tender. Backup paramedic assistance is provided by Station 29 which is located in the
+City of Baldwin Park and Station 32 which is located in the City of Azusa. The City of Monrovia
+Fire Department offers additional mutual-aid when necessary and requested by the County. Los
+Angeles County Fire also provides Hazardous Material services. The U. S. Forest Service in
+San Dimas provides wildfire service in the Angeles National Forest.
+Medical Services. Emergency medical services are available throughout the Los Angeles
+County. Acute care facilities near Bradbury include the Methodist Hospital in Arcadia,
+Huntington Hospital in Pasadena, City of Hope National Medical Center in Duarte, Kaiser-
+Permanente Foundation Hospital in Baldwin Park and Foothill Presbyterian Hospital in
+Glendora.
+Peakload Water Supply
+Peakload water supply is defined as the supply of water available to meet both domestic water
+and fire fighting needs during the particular season and time of day when domestic water
+demand on a water system is at its peak. California American Water provides potable water to
+the City of Bradbury. Potable water is provided from eight wells located in and around
+Bradbury.
+Storage of potable water in the Bradbury service area (which includes portions of the City of
+Duarte) is provided by seven (7) reservoirs of which four (4) are located within the City. The total
+storage capacity is 11.2 million gallons which is the equivalent of about 175% of an average
+day’s demand. All of the reservoirs are covered to reduce evaporation.
+California American Water is seeking entitlements to drill a new water well at its facility located
+on Lemon Avenue. It is anticipated that the new well will be on line by the end of 2014.
+Peakload water supply on August 11, 2005 was 19.5 million gallons. Peakload water demand is
+always highest during the hot summer months. Design capacity is based on the peak demand
+periods.
+                      Health and Safety                          Page No. 27
+
+City of Bradbury                                                General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                                Revised-020514
+Natural Hazard Mitigation Plan
+The City of Bradbury adopted the updated Natural Hazard Mitigation Plan on July 7, 2007 by
+City Council Resolution No. 07-17. The updated plan fulfills the City’s obligation pursuant to the
+Federal Disaster Mitigation Act of 2000. The plan adoption and update process involved the
+participation of all City departments and interested City residents.
+The plan includes the following mitigation goals:
+Protect Life and Property
+    • Implement activities that assist in protecting lives by making homes, infrastructure,
+         critical facilities, and property more resistant to natural hazards.
+    • Reduce losses and repetitive damages for chronic hazard events while promoting
+         insurance coverage for catastrophic hazards.
+    • Improve hazard assessment information and encourage preventative measures for
+         existing development located in areas vulnerable to natural hazards.
+Public Awareness
+    • Develop and implement education and outreach programs to increase public awareness
+         of the risks associated with natural hazards.
+    • Provide information on tools, partnership opportunities, and funding resources to assist
+         in implementing mitigation activities.
+Natural Systems
+    • Balance watershed planning, natural resource management, and land use planning with
+         natural hazard mitigation to protect life, property, and the environment.
+    • Preserve, rehabilitate, and enhance natural systems to serve natural hazard mitigation
+         functions.
+Partnerships and Implementation
+    • Strengthen communication and coordinate participation among and within public
+         agencies, citizens, and local organizations to gain a vested interest in implementation.
+    • Encourage leadership within public and private sector organizations to prioritize and
+         implement local, county, and regional hazard mitigation activities.
+Emergency Services
+    • Establish policy to ensure mitigation projects for critical facilities, services, and
+         infrastructure.
+    • Strengthen emergency operations by increasing collaboration and coordination among
+         public agencies and local organizations.
+    • Coordinate and integrate natural hazard mitigation activities, where appropriate, with
+         emergency operations plans and procedures.
+Hazard mitigation is the responsibility of the City; however the following agencies provide
+support and assistance with preparedness, response, recovery, and administration of funding
+efforts.
+                           Health and Safety                          Page No. 28
+
+City of Bradbury                                             General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                             Revised-020514
+    •   Governor’s Office of Emergency Services (OES) – responsible for disaster mitigation,
+        preparedness, response, recovery, and the administration of federal funds after a major
+        disaster declaration.
+    •   Southern California Earthquake Center (SCEC) – gathers information on earthquakes
+        and releases information to the public to increase earthquake awareness, reduce
+        economic losses, and save lives.
+    •   California Department of Forestry and Fire Protection (CDF or CAL FIRE) – responsible
+        for all aspects of wildland fire protection on private and state owned land. CDF or CAL
+        FIRE administers forest preservation regulations, including landslide mitigation, on non-
+        federally owned land.
+    •   California Division of Mines and Geology (DMG) – responsible for geologic hazard
+        characterization, public education, and reduction of risk of tsunami inundation.
+    •   California Division of Water Resources (DWR) – plans, designs, constructs, operates,
+        and maintains the State Water Project, regulates dams, provides flood protection, and
+        assists in emergency management.
+Hazardous Waste and Materials Management Program The Los Angeles County Fire
+Department Health Hazard Materials Division administers the Unified Hazardous Waste and
+Hazardous Materials Management Regulatory Program for the City of Bradbury. The Unified
+Program consolidates, coordinates, and makes consistent the following hazardous materials
+and hazardous waste programs (Program Elements):
+    •   Hazardous Waste Generation (including on-site treatment under Tiered Permitting).
+    •   Above ground Petroleum Storage Tanks (only the Spill Prevention Control and
+        Countermeasure Plan of “SPCC”).
+    •   Underground Storage Tanks (UST’s).
+    •   Hazardous Material Release Response Plans and Inventories.
+    •   California Accidental Release Prevention Program (Cal ARP)’ and Uniform Fire Code
+        Hazardous Material Management Plans and Inventories.
+Emergency Preparedness
+ 
+Bradbury’s position in Southern California and the San Gabriel Valley makes it susceptible to a
+number of natural disasters and other emergencies.
+As such, the City Council appointed an Emergency Response Committee, a five-member
+advisory body to the Bradbury City Council, to help prepare the community. Commissioners
+serve as a communication link between the community, City Council and staff regarding issues
+pertaining to Emergency Preparedness. Members of the Committee are hands-on volunteers
+who assist in the emergency operation and in the emergency related programs and services
+offered to the community.
+The specific and primary purpose of the Commission is to:
+        A. Assess and define emergency needs;
+        B. Locate and publicize available resources;
+                      Health and Safety                           Page No. 29
+
+City of Bradbury                                              General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                              Revised-020514
+         C. Conduct exercises, manage responses and oversee simulated, actual or impending
+             emergencies when called upon to do so by the Mayor, Mayor Pro-Tem or City
+             Manager.
+Commissioners serve for a term of four years, beginning July 1st and ending June 30th and are
+eligible upon request to serve one additional consecutive term, for a total of eight years.
+Most members of the Committee are CERT (Community Emergency Response Team) trained.
+These volunteers are educated about disaster preparedness for hazards that may impact the
+area and in basic disaster response skills, such as fire safety, light search and rescue, team
+organization, and disaster medical operations. CERT members can assist others in their
+neighborhood or workplace following an event when professional responders are not
+immediately available to help.
+Additionally, the City of Bradbury has implemented the Connect-CTY service to provide the City
+the ability to communicate with residents regarding time-sensitive matters, such as unforeseen
+events or emergencies.
+With the Connect-CTY system, the City can quickly contact residents by telephone, cell phone,
+text message or e-mail regarding urgent and important information. For example, in the event
+of an emergency, the City can quickly let residents know what to do or where to go for services.
+Only authorized City officials are allowed to send messages. Other non-emergency messages
+can be sent by e-mail regarding upcoming meetings, events or workshops.
+Disaster Area Management. During World War II, the National Civic Defense Program was
+activated. The Los Angeles County and the local military authorities quickly recognized that the
+size and complexity of the County would require a unique management structure to effectively
+coordinate war-related activities amongst the County, cities, private sector and other agencies.
+Civil Defense Areas were formed and each area was supervised by an Area Coordinator. After
+the war, Civil Defense transformed into Disaster Management with an emphasis on planning,
+training, exercising and public education for earthquakes, fires, floods, severe weather events
+and epidemics. The City of Bradbury resides in the “Area D” area of responsibility. Other cities
+in “Area D” include Arcadia, Azusa, Baldwin Park, City of Industry, Claremont, Covina, Diamond
+Bar, Duarte, El Monte, Glendora, Irwindale, La Puente, La Verne, Monrovia, Pomona,
+Rosemead, West Covina, Temple City, Walnut, South El Monte, Sierra Madre, and San Dimas.
+There are eight Disaster Management Areas; each has a coordinator to work with cities and
+partner agencies to assist their emergency management activities and to act as a liaison
+between local government and county, state and federal agencies.
+City Staff meets with cities within this area of responsibility once a month to discuss topics such
+as federal reporting and reimbursement after a disaster, incident command, working with
+minorities, the disabled and the underserved community, public relations and emergency
+evacuation. The City also participates in a monthly county-wide radio check with “Area D”
+Coordinators.
+Alert LA County. Alert LA County is an emergency mass notification system established by
+Los Angeles County to contact County residents and businesses via recorded phone messages,
+text messages or e-mail messages in case of emergencies. The system will be used by the
+County’s Emergency Operations Center to notify residents and businesses of emergencies or
+                       Health and Safety                           Page No. 30
+
+City of Bradbury                                              General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                              Revised-020514
+critical situations and provide information regarding necessary actions, such as
+evacuations. The system uses the telephone companies’ 911 database and is able to contact
+land-line telephone numbers, whether listed or unlisted. If the call is picked up by an answering
+machine, the system will leave a recorded message. If the number called is busy or does not
+answer, the system will redial the number in an attempt to deliver the message. The system is
+also TTY/TDD compatible.
+Alert LA County uses 911 databases; therefore, only land-line numbers are automatically
+included in the system. To be notified at a cellular phone or receive an e-mail notification, a
+person must register the cellular phone number and/or e-mail address. Each cellular number
+and/or e-mail address can only be associated with one street address in the system. The
+registered telephone number and e-mail address will be contacted only when the street address
+it is associated with is impacted by a disaster or emergency.
+Specific Needs Disaster Voluntary Registry (SNAP). The purpose of Specific Needs
+Disaster Voluntary Registry (SNAP) is to facilitate the planning and implementation of disaster
+response by first-responder agencies to Specific Needs persons living in the County of Los
+Angeles. The registry is a project of the Los Angeles County Office of Emergency Management
+in cooperation with other cities and agencies in the Los Angeles County disaster response
+operational area.
+If a person living in Los Angeles County has any of the following conditions which might impede
+their abilities to evacuate a building, travel to or stay safely in an emergency evacuation center,
+or to securely shelter in place without assistance, they should enroll in the program:
+     •   Physical disabilities
+     •   Cardiac and/or respiratory circumstances
+     •   Developmental disabilities
+     •   Emotional or psychiatric disabilities
+     •   Deafness or hearing loss
+     •   Blindness or severe vision loss
+     •   Speech impairments
+     •   Short-term disabilities
+     •   Reliance on technologies that use electricity
+     •   Using medications
+     •   Participation in a home delivery program
+     •   Need specialized paratransit vehicles
+     •   Experience seizures
+     •   Immune system deficiencies
+     •   Communicable diseases
+Should a disaster strike in the area, this registry will be used to enhance the efficiency of those
+agencies called upon to respond, including the Los Angeles County Sherriff’s and Los Angeles
+County Fire Departments.
+                        Health and Safety                            Page No. 31
+
+City of Bradbury                                               General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                                  Revised-020514
+Evacuation Routes and Reception Centers
+Emergency preparedness includes the designation of evacuation routes and emergency
+facilities. The following facilities are delineated in Exhibit H-S Safety No. 4 and the following
+rules apply:
+Primary Evacuation Routes. The roads are to be kept open at all times. In the event of
+temporary closure due to maintenance and/or construction, the Fire Department is to be
+notified.
+Reception Centers. The Bradbury Civic Center (600 Winston Avenue, Bradbury, CA 91008)
+and the City of Duarte Community Center (1600 Huntington Drive, Duarte, CA 91010) will serve
+as Reception Centers for disseminating information, collection points, distribution centers, etc.
+Local Emergency Operations Center (EOC). The Bradbury Civic Center will serve as the local
+EOC, the alternate site is City of Duarte Community Center until such time the County of Los
+Angeles designates another local facility.
+Critical Facilities. Certain public facilities require special consideration because of the number
+of persons located in the facility at any one-time. Only one critical facility is located within the
+City (Royal Oaks Elementary School). The Be Royal Oaks (a senior assisted living facility) is
+located adjacent to the City in the County unincorporated area.
+The evacuation routes in the City and those facilities that will serve as collection/information
+centers are located on Exhibit H-S Safety No. 4. The Emergency Evacuation Plan does not
+apply to normal day-to-day emergencies and the well-established and routine procedures used
+in coping with such emergencies. In the event of a serious hazard which would require the
+evacuation of Bradbury residents, the following streets would be used as primary evacuation
+routes:
+     •    Mount Olive Drive.
+     •    Woodlyn Lane (gates will be opened to permit exiting at Royal Oaks Drive, North). The
+          access gate located near Mount Olive Drive will be used by “First Responders” to gain
+          access to the Woodlyn Lane neighborhood.
+     •    Deodar Lane (gates at Wild Rose, Barranca, and Woodlyn Lane will be opened to permit
+          exiting from the Bradbury Estates neighborhood.
+     •    Winston Avenue and the Lemon Avenue access to the Flood Control Channel will be
+          used as access points for “First Responders”.
+Evacuation will be handled by Los Angeles County safety personnel under contract to the City
+(i.e., Fire, Sheriff, etc.). In a major disaster, mutual aid sources in adjacent jurisdictions are likely
+to be fully committed to their own needs, and there may be substantial delays in the request and
+transport of assistance from more distant locations. Ingress to and egress from the City is likely
+to be inhibited by damage caused by the disaster and related congestion. Effective disaster
+preparedness will require the concerted efforts of City personnel, contracted first responders
+and residents. Not only must effective plans and procedures be in effect, but those plans should
+be tested and improved through disaster preparedness exercises.
+                         Health and Safety                            Page No. 31
+
+City of Bradbury                                  General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                Revised-020514
+                              Exhibit H-S Safety No. 4
+                 Health and Safety                     Page No. 32
+
+City of Bradbury                    General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                 Revised-020514
+            EMERGENCY ACCESS AND EVACUATION PLAN
+                 Health and Safety      Page No. 33
+
+City of Bradbury                                         General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                          Revised-020514
+Key Safety Goals, Objectives, Policies and Action Programs
+Safety Goals:
+       Safety Goal 1.          To protect the citizens, their property and public facilities from
+                               natural and man-made hazards.
+       Safety Goal 2.          To establish, maintain, and develop awareness on the part of
+                               all residents of Bradbury as to how to react and protect
+                               themselves and each other, in the event of a natural or man-
+                               made hazard or disaster.
+       Safety Goal 3.          To achieve a greater sense of citizen satisfaction with the
+                               safety services within the community, through constantly
+                               monitoring the effective and efficient staffing of safety service
+                               personnel.
+       Safety Goal 4.          To minimize the risk to persons and property due to seismic
+                               activity.
+       Safety Goal 5.          To minimize the risk to lives and property due to fire hazards.
+       Safety Goal 6.          To minimize the risk to persons and property due to the use
+                               and storage of hazardous materials.
+       Safety Goal 7           Protect the community from floods and landslides.
+       Safety Goal 8           Assure that existing and new development addresses fire
+                               protection in a proactive and preventative way.
+Safety Objectives:
+       Safety Objective 1.     Prepare the community for expected or unexpected disasters
+                               resulting from natural or manmade causes.
+       Safety Objective 2.     Prepare the residents of Bradbury to be aware of potential
+                               hazards and disasters and to be prepared to be self reliant for
+                               at least seven-days in the event of a disaster.
+       Safety Objective 3.     Communicate with Bradbury residents through all available
+                               media that safety personnel are properly trained to provide
+                               assistance in the event of a disaster.
+       Safety Objective 4.     Implement the City’s Hazard’s Mitigation Plan in a timely
+                               manner.
+                   Health and Safety                           Page No. 34
+
+City of Bradbury                                          General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                           Revised-020514
+       Safety Objective 5.      Reduce the possibility of hazardous materials becoming a
+                                health and safety issue within the community.
+       Safety Objective 6.      Assure that potential flooding and landslide hazards are
+                                reviewed during new development.
+       Safety Objective 7.      Ensure that adequate service levels of fire protection are
+                                maintained in the City.
+Safety Policies:
+       Safety Policy 1.         Support community programs that train volunteers to assist
+                                “First Responders” in the implementation of the Hazard
+                                Mitigation Plan programs.
+       Safety Policy 2.         Implement precautionary measures in high risk areas to
+                                reduce injury and loss of property caused by natural or
+                                manmade hazards.
+       Safety Policy 3.         Review all development proposals for compliance with
+                                established hazard avoidance criteria.
+       Safety Policy 4.         Provide adequate levels of service to ensure that the residents
+                                are protected to the best of the City’s ability from natural and
+                                manmade disasters.
+       Safety Policy 5.         Cooperate with Federal, State and County agencies
+                                responsible for the enforcement of all health and safety laws
+                                and regulations.
+       Safety Policy 6.         Establish and maintain a variety of media sources to enable
+                                interactive safety awareness and preparedness educational
+                                opportunities for the residents.
+       Safety Policy 7.         Obtain materials and support the dissemination of written
+                                information to all Bradbury households regarding minimizing or
+                                avoiding hazards within the home.
+       Safety Policy 8.         Provide opportunities to continually advise and update
+                                community residents regarding actions and activities they
+                                should engage in after a significant natural or manmade
+                                disaster.
+       Safety Policy 9.         Support continuing review and updating of the City’s Disaster
+                                Preparedness Program manual.
+       Safety Policy 10.        Work closely with adjacent cities, County, State and Federal
+                                agencies to inform, monitor and communicate the presence of
+                                wild animals.
+                    Health and Safety                           Page No. 35
+
+City of Bradbury                                              General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                               Revised-020514
+        Safety Policy 11.          Maintain and evaluate the level of safety services available to
+                                   the community.
+        Safety Policy 12.          Regulate development in accordance with State statutes in
+                                   areas prone to seismic hazards.
+        Safety Policy 13.          Continue to support “mutual assistance” agreements between
+                                   local and State fire fighting agencies.
+        Safety Policy 14.          Continue to support programs to reduce fire hazards within the
+                                   community.
+        Safety Policy 15.          Provide appropriate fire-fighting equipment, personnel and
+                                   peakload water supply.
+        Safety Policy 16.          Provide access to potable water for emergency purposes.
+        Safety Policy 17.          Regulate and monitor, to the extent possible, the delivery, use
+                                   and storage of hazardous materials within the City.
+        Safety Policy 18.          Require all existing and new development to install and
+                                   maintain adequate smoke detection systems.
+        Safety Policy 19.          All new development to install fire sprinkler systems.
+        Safety Policy 20.          Require that all new development incorporate sufficient
+                                   measures to mitigate flood and landslide hazards including but
+                                   not limited to on-site drainage systems and grading of site to
+                                   minimize storm-water runoff.
+Safety Implementation Action Programs:
+The City of Bradbury intends to complete the following items which address the objectives and
+policies of the Safety Element of the General Plan:
+        Safety Action 1.           Assure that the land use element recognizes and addresses
+                                   seismic threats.
+        Safety Action 2.           Promote public education about fire safety at home.
+        Safety Action 3.           Promote public education about disaster preparedness.
+        Safety Action 4.           Update the hillside development standards which include fire
+                                   prevention design measures.
+        Safety Action 5.           Continue to make emergency and disaster preparedness a
+                                   community priority.
+                      Health and Safety                            Page No. 36
+
+City of Bradbury                                       General Plan 2012 – 2030 Update
+Health and Safety Element – Draft -                                         Revised-020514
+       Safety Action 6.        Update and review the Emergency Operation Plan annually.
+       Safety Action 7.        City staff to continue to work with the LACFD on brush
+                               removal and weed abatement from April to June.
+       Safety Action 8.        Conduct public outreach on wildfire prevention awareness.
+       Safety Action 9         Promote voluntary efforts of tree trimming and brush and weed
+                               abatement.
+       Safety Action 10.       Maintain and update the multi-hazard emergency plan for the
+                               City.
+       Safety Action 11.       Continue support and participation with the Emergency
+                               Response Committee.
+                   Health and Safety                          Page No. 37
+
+City of Bradbury                                          General Plan – 2012 – 2030 Update
+Housing Element - Draft –                                                    Revised 020514
+             General Plan 2012-2030 Update
+                             Housing Element
+The City of Bradbury prepared a General Plan Housing Element 2008 and the City Council
+adopted the Element October 20, 2009 (Resolution No. 09-35.CC). The State of California
+Department of Housing and Community Development (HCD) certified the Housing Element as
+meeting the provisions of the State Planning Law.
+Because the cycle for preparation and updating the Housing Element differs from the cycle
+associated with the review and modification of the remaining mandated elements of the City’s
+General Plan, the Housing Element has been prepared as a separate document and it is not
+part of this General Plan 2012–2030 Update.
+In order to obtain a copy of the City of Bradbury Housing Element please contact the City at 600
+Winston Avenue, Bradbury, CA 91008, (626) 358-3218.
+                                         Housing - Page No. 1
+
+City of Bradbury                                                       General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                               Revised-020514
+              General Plan 2012-2030 Update
+                                   Land Use Element
+                                          Table of Contents
+         Topic                                                                               Pg. No.
+Purpose                                                                                            1
+History                                                                                            1
+Relationship to Other General Plan Elements                                                        1
+Planning Boundary & Sphere of Influence                                                            1
+Local Setting                                                                                      3
+Existing Land Use                                                                                  4
+Land Use Designations                                                                              4
+Development                                                                                        8
+    Existing Development                                                                           8
+         The Bradbury Estates                                                                      8
+         The Woodlyn Lane Improvement Association                                                  8
+         The Bradbury Hills Road and Lane Association                                              8
+         ublic Facilities                                                                          8
+    Future Development Potential                                                                   8
+         Category 1                                                                                9
+         Category 2                                                                                10
+         Category 3                                                                                11
+    Total Build-Out                                                                                12
+         Accessory Dwelling Units                                                                  13
+Key Land Use Goals, Objectives, Policies and Action Programs                                       14
+    Mission Statement                                                                              14
+    Vision Statement                                                                               14
+    Land Use Goals                                                                                 14
+    Land Use Objectives                                                                            15
+    Land Use Policies                                                                              15
+    Land Use Action Programs                                                                       15
+Tables
+Table LU No.1          (Land Use Designations and Zoning)                                          5
+Table LU No. 2         (Category 1 - Open Space Privately Owned Undeveloped Parcels)               10
+Table LU No. 3         (Category 2 – Vacant Undeveloped Residential Parcels)                       10
+Table LU No. 4         (Category 3 – Underutilized Parcels)                                        11
+Exhibits
+Exhibit LU No. 1       (Sphere of Influence)                                                       3
+Exhibit LU No. 2       (Existing Land Use Map)                                                     6
+Exhibit LU No. 3       (Land Use Map)                                                              7
+Exhibit LU No. 4       (Vacant Undeveloped Parcels)                                                12
+Exhibit LU No. 5       (Underutilized Parcels)                                                     13
+                                                     Land Use-Page No. i
+
+City of Bradbury                                          General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                      Revised-020514
+            General Plan 2012 – 2030 Update
+                             Land Use Element
+Purpose:
+The purpose of the General Plan Land Use Element is to plan for and shape the future physical
+development of Bradbury. State Planning Law requires that General Plans establish land use
+designations for various areas in the plan, as well as standards for population density and
+building intensity. The Land Use Element serves as a guide for future development. The
+Element’s relationship to other General Plan components is central for many aspects. Land use
+decisions influence: 1) capacity and service levels for transportation and utility systems; 2)
+housing availability; 3) preservation of resources; and 4) long-term effects related to economic
+prosperity.
+History:
+The City of Bradbury incorporated July 26, 1957. The boundaries lie within the northern part of
+the Rancho Azusa de Duarte, originally a 6,596-acre Mexican Land Grant given in 1841 to
+Andres Duarte. The original rancho included all of Bradbury and portions of the surrounding
+cities. It was developed and subdivided into 40+ acre parcels in the 1870’s. Around 1883 Lewis
+Leonard Bradbury acquired 2,750 acres of the rancho which comprises the present day cities of
+Bradbury and Duarte.
+The population of Bradbury has grown from 518 in 1957 to 1,048 in 2010. The City is divided
+into five council districts representing the various distinctive areas of this unique community.
+The boundaries of the council districts are adjusted every ten years based on the most current
+census population data.
+Relationship to other General Plan Elements
+The Land Use Element responds to detailed State statutory requirements and it has a broad
+scope. Land Use issues overlap those of all of the other general plan elements. This element is
+internally consistent with the goals, objectives and policies contained in all of the remaining
+general plan elements.
+Planning Boundary & Sphere of Influence:
+As required by State Law, this Land Use Element contains text and maps that designate the
+future use and reuse of land and standards for residential density within the City and its Sphere
+of Influence. The General Plan Land Use Map, contained in this Element, graphically represents
+the City’s vision for future development, enhancement and conservation. The planning
+                                           Land Use - Page No. 1
+
+City of Bradbury                                          General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                        Revised-020514
+boundaries of the City are identified in Exhibit LU No.1 and they include the existing
+jurisdictional boundary and the City’s Sphere of Influence Area.
+The Sphere of Influence includes four (4) parcels of land that are currently located in the City of
+Monrovia but within the legal authority of the Bradbury Estates Community Service District
+(CSD). These four parcels include portions of two developed residential estate sites that are
+located in the Bradbury Estates. Additionally, the main entrance to the Bradbury Estates,
+including the guard house, is located in the City of Monrovia. It is the City of Bradbury’s position
+that these four tax assessor parcels should logically be part of the City of Bradbury and should
+be subject to the development policies of this jurisdiction rather than the policies of the City of
+Monrovia. The physical extension of the City of Bradbury to the right-of-way of Wild Rose
+Avenue should be pursued with the Local Agency Formation Commission (LAFCO) and the City
+of Monrovia in the future.
+Cities are required to enact and develop policies designed to promote logical and orderly
+development. Pursuant to Senate Bill SB 244 (adopted in 2011 and enrolled as Chapter 513),
+prior to the next housing element due date (February 2014 for Bradbury), cities and counties are
+required to update of their land use element to identify county islands adjacent to their city within
+their planning boundaries when, in doing so, it promotes logical development. To comply with
+SB 244, the planning boundaries for the City should include the 17-acre County Island, “Be
+Royal Oaks” retirement/skilled nursing facility. Since the property is a multi-family residential
+skilled nursing facility and the site is developed and urban services are provided by the same
+agencies utilized by the City of Bradbury no unexpected impacts to the City of Bradbury are
+anticipated.
+The City of Bradbury has not and does not include multi-family residential zones, development
+concepts or policies. The annexation of the Be Royal Oaks retirement/skilled nursing facility
+has been previously considered by Planning Commissions and City Councils. The concept of
+annexing this County Island into the City of Bradbury has been considered, reviewed and
+discarded as a potential expansion of the City of Bradbury. However, if future City Councils
+determine that annexation of this multi-family residentially developed property is appropriate
+then detailed studies and analysis of the potential impacts would prepared for consideration
+before any action is undertaken.
+The Bradbury General Plan Existing Land Use Map (Exhibit LU No. 2) identifies the existing
+uses of land as of the date of adoption of this General Plan 2012-2030 Update. The General
+Plan Land Use Map (Exhibit LU No. 3) designates the desired land use pattern, development
+density and intensity envisioned for this planning period. The desired development of land
+uses is implemented by the application of the various zone districts set forth in the City’s
+Development Code. Development density and intensity is established by the regulations and
+standards contained in each of the City’s zone districts.
+                                           Land Use - Page No. 2
+
+City of Bradbury                                          General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                       Revised-020514
+                                         Exhibit LU No. 1
+                                  SPHERE OF INFLUENCE
+Local Setting:
+The City of Bradbury is a single-family residential community comprised of 1,216-acres of land
+(1.9 square miles). The community is almost fully developed with a variety of single-family
+detached residential dwelling units and accessory buildings and structures. Other land uses
+consisting of non-developable open-space and miscellaneous public uses include: the 1.06–
+acre Civic Center; the 13-acre Royal Oaks Public Elementary School; 49.67-acres devoted to
+flood control debris basins owned and operated by the Los Angeles County Flood Control
+District; the 4.06-acres of privately owned land dedicated as open space; and 3.36-acres owned
+by California Water Company and used for water reservoirs.
+The south/southeastern half of the City is divided in parcels ranging in size from 7,500 square
+feet to two (2) acres. The north/northwestern half of the City consists of large estate size parcels
+                                           Land Use - Page No. 3
+
+City of Bradbury                                            General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                      Revised-020514
+of land. The estate zoned parcels range in size from two (2) acres to seventy (70) acres. Many
+of the parcels are located within areas of steep hillsides.
+There are eight (8) large parcels of land comprising approximately 302-acres which are located
+in the northern portion of the City adjacent to the City of Monrovia/Angeles National Forest that
+appear to have average slopes that range from 24% to 56.66% based on a cursory review of
+internet maps and the existing topographical maps on file with the City. The City recognizes
+that the eight (8) parcels of land, as they currently exist, have the opportunity to be developed
+with one (1) main dwelling unit and one (1) accessory dwelling per parcel in accordance with the
+A-5 SP development standards as set forth in the City’s Development Code. This General Plan
+Update therefore uses development of 16 additional dwelling units as a realistic development
+number for planning purposes for this area. For the purposes of this General Plan Update and
+pending future detailed development and environmental feasibility studies these 302-acres of
+undeveloped land are recognized as privately owned Open-Space subject to the City’s Hillside
+Development Standards as set forth in the Development Code.
+Limited access to this 302-acre area, lack of urban utilities and the potential existence of
+sensitive ecological areas and species may render these parcels very difficult or potentially
+economically infeasible for residential estate development. It should be noted that residential
+development of this area is not limited to the 16 units; development density may be increased
+through the utilization of land division and development concepts, such as clustered
+development, that can be developed through a specific plan. The subject property owners may
+at their volition file development applications with the City in accordance with the provisions of
+applicable ordinances and policies for such development. Any development of these 302-acres
+requires the preparation, review and approval of a Specific Plan. Due to the severe site
+constraints it is anticipated that special development design considerations will have to be
+examined in order to provide adequate access to future building sites.
+Existing Land Uses:
+An analysis of the City’s existing land uses identified seven categories: 1) Single-Family
+Residential; 2) Public Facilities; 3) Education; 4) Open Space, Privately Owned-Undeveloped; 5)
+Vacant; 6) Water Reservoir; and 7) Open-Space-Dedicated. Table LU No. 1 contains the area
+tabulations for the various existing land uses. Exhibit LU No. 2 depicts the location of the
+various existing land uses.
+Land Use Designations:
+The City’s zoning, which will not be changed by the General Plan Update, implements the
+community’s long-standing desire to retain its rural, low-density single-family residential
+character. The entire City of Bradbury is zoned for single-family detached residential
+development with only one exception for Open-Space areas that are used for public facilities,
+flood control debris and disposal areas water reservoirs, and privately owned and dedicated
+open-space areas.
+                                           Land Use - Page No. 4
+
+City of Bradbury                                                  General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                          Revised-020514
+The following General Plan land Use designations are reflected in Figure LU-3:
+•   Agriculture/Estate Residential – Five Acres: This category refers to agricultural uses of
+    land and large estate residential development on parcels at least five-acres in size.
+•   Agriculture/Estate Residential – Two Acres: This category refers to agricultural uses of
+    land and smaller estate residential development on parcels at least two-acres in size.
+•   Agriculture/Estate Residential – One Acre: This category refers to agricultural uses of
+    land and estate residential development on parcels at least one-acre in size.
+•   Single-Family – 20,000 square feet: This category refers to single-family residential uses
+    on lots containing a minimum area of 20,000 square feet.
+•   Single-Family – 7,500 square feet: This category refers to single-family residential
+    development on lots containing a minimum of 7,500 square feet.
+•   Retirement Home – Unincorporated Area located within the City’s Sphere of Influence
+    containing an existing multi-family residential retirement skilled nursing community of
+    approximately 130 dwelling units.
+•   Public Facilities– Areas used for public purposes including schools, water reservoirs and
+    the City’s Civic Center.
+•   Open Space, Flood Control – Areas owned and operated by the Los Angeles County
+    Flood Control District for flood control purposes.
+•   Open Space, Privately Owned – Dedicated – Privately owned property that is dedicated
+    as open space in perpetuity.
+•   Open Space, Privately Owned Undeveloped – Undeveloped privately owned land that
+    may be developed but is considered as difficult and possibly economically infeasible for
+    residential development at the density of one dwelling unit per five acres.
+                                              TABLE LU NO. 1
+                                LAND USE DESIGNATIONS AND ZONING
+  Permitted Land Use                             Zoning                      Acres        Land Use
+                                                                                         Designation
+                                 R-7,500 Single-family Residential             8.00         R-7,500
+                                 R-20,000 Single-family Residential           43.84        R-20,000
+Single-Family Residential
+                                 A-1 Agriculture Residential Estate          104.00            A-1
+                                 A-2-Agriculture Residential Estate          195.94            A-2
+                                 A-5-Agriculture Residential Estate          490.78            A-5
+                                 A-5 (SP) Agriculture Residential Estate-                  Open Space
+                                 Specific Plan                               302.19      Privately Owned
+                                                                                          Undeveloped
+Public Facilities - Education      R-20,000 Single-Family Residential         13.10      Public Facilities
+Public Facilities -Civic Center     A-1 Agriculture Residential Estate         1.06      Public Facilities
+Public Facilities –
+Water Reservoir
+                                            O-S (Open Space)                  3.36       Public Facilities
+Public Facilities –                                                                     Open Space Flood
+Spinks Debris Disposal Area
+                                            O-S (Open Space)                  36.47           Control
+Public Facilities –                                                                     Open Space Flood
+Bradbury Debris Basin
+                                            O-S (Open Space)                  13.20           Control
+Open-Space Privately                                                                       Open Space
+Owned-Dedicated
+                                   O-S-SP (Open Space-Specific Plan)          4.06          Dedicated
+Total Area                                                                    1,216
+                                                 Land Use - Page No. 5
+
+City of Bradbury                             General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                     Revised-020514
+                                                                             
+                            Exhibit LU No. 2
+                    EXISTING LAND USE MAP- 2012
+                              Land Use - Page No. 6
+
+City of Bradbury                             General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                     Revised-020514
+                            Exhibit LU No. 3
+                      LAND USE MAP -2012 - 2030
+                              Land Use - Page No. 7
+
+City of Bradbury                                            General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                     Revised-020514
+Development:
+Existing Development:
+Almost the entire City is developed with single-family detached residential dwelling units.
+Publically owned property consists of the Civic Center; Royal Oaks Public Elementary School;
+Los Angeles County Flood Control District owned Flood Control Debris Basins and Channels;
+and privately owned Water Reservoirs. The 2010 Census reported that the City of Bradbury
+had 400 dwelling units and a population of 1,048. It was reported that forty-six (46) dwelling
+units were vacant. The reported average household size was 3.1 persons per dwelling unit.
+There are three unique and distinct neighborhoods in the City known as the Bradbury Estates,
+the Woodlyn Lane Improvement Association and the Bradbury Hills Road and Lane Association.
+The remaining residential areas are traditional single-family detached residential neighborhoods
+that are accessed from public streets.
+The Bradbury Estates is a gated community consisting of large residential parcels ranging in
+size from two to seventy-acres in size. A unique feature of this community is that it is under the
+jurisdiction of a Community Services District (CSD) which was formed on December 28, 1995.
+The CSD has the stated responsibility to:
+     •   Equip and maintain additional security services above and beyond that provided by the
+         Los Angeles County Sheriff to protect and safeguard life and property; and
+     •   The construction, opening, widening, extending, straightening, surfacing, and
+         maintaining in whole or part of any street in the district; and
+     •   The construction and improvement of bridges, culverts, curbs, gutters, drains and works
+         incidental thereto.
+The Woodlyn Lane Improvement Association is a gated community consisting of large
+residential parcels usually having a minimum of two-acres of land area.
+The Bradbury Hills Road and Lane Association is a gated community consisting of large
+residential parcels usually having a minimum of two-acres. There are seventeen (17) residential
+parcels that have access to the private streets, Bradbury Hills Road and Bradbury Hills Lane.
+Public Facilities: Royal Oaks Public Elementary School is located within the City’s corporate
+boundary and it occupies 13-acres located at the extreme southeast corner of the City. This
+school is operated by the Duarte Unified School District.
+The Civic Center is located at 600 Winston Avenue in the south central portion of the City and
+the entire 1.06-acre site is dedicated for public use. The Civic Center contains a recently
+constructed 2,400 square foot facility that includes offices and a multi-purpose room that has
+been designed for meetings and civic functions.
+Future Development Potential:
+The undeveloped parcels within the City fall within three categories. Category 1 consists of eight
+(8) parcels of land comprising approximately 302-acres. These parcels are located in the
+                                           Land Use - Page No. 8
+
+City of Bradbury                                           General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                      Revised-020514
+northern most portion of the City and are subject to the City’s Hillside Development Standards
+as set forth in the Development Code which severely restricts grading of slopes which are in
+excess of 10%. Category 2 consists of 67.82 acres comprising 24 parcels which are vacant and
+more easily developable for single-family detached residential dwellings. Category 3 consists of
+5 underutilized parcels which could support additional development.
+Category 1 is comprised of a 302-acre area consisting of eight (8) parcels located in the City’s
+northern boundary adjacent to the City of Monrovia and the Angeles National Forest (see
+Exhibit LU No. 4). The General Plan Land Use Map identifies this area as Open Space,
+Privately Owned Undeveloped (see Exhibit LU No. 3), having a maximum density of one
+dwelling unit per five acres. The area has been zoned A-5 SP (Agriculture/Residential 5-acre
+minimum, Specific Plan). Each parcel may be developed with one main dwelling and one
+accessory dwelling unit and would provide for a projected increase of 16 units and 50 persons.
+Any development or further subdivision of the 302-acres would be subject to review and
+approval of a specific plan. Associated environmental studies will address the impacts and
+mitigation measures associated with any such future development and proposed increase in
+residential density or population over that set forth herein. The area has been reported to
+contain hillside slopes that range from 24% to over 50%; numerous prominent ridgelines;
+Blueline streams; earthquake induced landslide zones; lack of existing public or private
+vehicular access; lack of existing public utilities, and habitat that could include sensitive or
+endangered flora and fauna. These development constraints lead one to consider that
+development of the area is physically and economically difficult. This area is further restricted by
+being located in an area designated as a Very High Fire Hazard Severity Zone in compliance
+with California State Law. If so desired a Specific Plan could be submitted to the City for
+consideration of the area’s maximum development density potential. Use of this steep hillside
+potentially environmentally sensitive area could include the creation of a conservation
+conservancy/easement; the use of development right transfer strategies, and cluster
+development concepts, at the owner’s option.
+Any development in this area would be subject to the hillside development standards that are
+applicable to any site that consists of two-acres of land area having an average slope exceeding
+10%. The intent of the hillside development standards is to preserve the pristine hillside
+mountainous topography. Grading of the hillside property is restricted and controlled. The
+nature and extent of the grading and development restrictions are based on the average slope
+of the parcel under consideration.
+                                           Land Use - Page No. 9
+
+City of Bradbury                                             General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                            Revised-020514
+                                           TABLE LU NO. 2
+                                              CATEGORY 1
+         OPEN SPACE PRIVATELY OWNED UNDEVELOPED HILLSIDE PARCELS
+                                                             Potential     Potential    Total    Average
+                                                                            nd
+         Parcel No.      Area.       Zone       Land Use       DU’s        2   DU’s      DU’s      Slope
+1.     8527-001-001       41.40    A-5 (SP)    Estate 5-Ac      1              1           2      37.45%
+2.     8527-001-008       70.00    A-5 (SP)    Estate 5-Ac      1              1           2      34.00%
+                                               Estate 5-Ac                                 2      56.66%
+3.     8527-001-009       20.54    A-5 (SP)                     1              1
+                                               Estate 5-Ac                                 2      44.23%
+4.     8527-001-010       59.19    A-5 (SP)                     1              1
+                                               Estate 5-Ac                                 2      32.74%
+5.     8527-001-012       59.30    A-5 (SP)                     1              1
+                                               Estate 5-Ac                                 2      28.65%
+6.     8527-005-001        8.37    A-5 (SP)                     1              1
+                                               Estate 5-Ac                                 2      42.01%
+7.     8527-005-002        1.03    A-5 (SP)                     1              1
+                                               Estate 5-Ac                                 2      24.03%
+8.     8527-005-004       42.36    A-5 (SP)                     1              1
+Total                   302.19                                  8              8          16          -
+Category 2 is comprised of twenty-four (24) vacant undeveloped residentially designated and
+zoned parcels. All of these sites are considered as appropriate for development for single-
+family detached residential dwelling units. (See Exhibit LU No. 4.) The identified vacant
+developable residential parcels on the 67.82 acres could theoretically yield 27 main dwelling
+units and 26 second dwelling units for a total of 53 additional dwelling units for a projected
+population of 165 persons for this category.
+                                          TABLE LU NO. 3
+                                              CATEGORY 2
+                     - VACANT UNDEVELOPED RESIDENTIAL PARCELS -
+                                                                Potential    Potential     Potential
+                                                                                     nd
+             Parcel No.     Parcel       Zone      Land Use    No. of Main   No. of 2    Total No. of
+                             Size                              Dwellings     Dwellings    Dwellings
+    1.    8527-002-023          5.58      A-5    Estate 5-Ac        1            1            2
+    2.    8527-004-020          2.12      A-5    Estate 5-Ac        1            1            2
+    3.    8527-006-019          4.96      A-2    Estate 2-Ac        1            1            2
+    4.    8527-007-023          0.39      A-2    Estate 2-Ac        1            1            2
+    5     8527-007-024          1,96      A-2    Estate 2-Ac        1            1            2
+    6.    8527-007-025          2.14      A-2    Estate 2-Ac        1            1            2
+    7.    8527-007-026          2.32      A-2    Estate 2-Ac        1            1            2
+    8.    8527-007-027          2.87      A-2    Estate 2-Ac        1            1            2
+                                              Land Use - Page No. 10
+
+City of Bradbury                                              General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                         Revised-020514
+    9.   8527-016-009         8.01     A-2     Estate 2-Ac         3          3           6
+    10.  8527-016-019         2.03     A-2     Estate 2-Ac         1          1           2
+    11.  8527-016-035         1.35     A-2     Estate 2-Ac         1          1           2
+    12.  8527-016-036         2.18     A-2     Estate 2-Ac         1          1           2
+    13.  8527-016-037         1.18   A-2 (SP)  Estate 2-Ac         1          0           1
+    14.  8527-016-039         1.29   A-2 (SP)  Estate 2-Ac         1          0           1
+    15.  8527-021-011         1.54     A-2     Estate 2-Ac         1          1           2
+    16.  8527-021-044         1.13     A-1     Estate 1-Ac         1          1           2
+    17.  8527-024-032           5.3    A-5     Estate 5-Ac         1          1           2
+    18.  8527-025-035         2.05     A-5     Estate 5-Ac         1          1           2
+    19.  8527-026-006         2.90     A-5     Estate 5-Ac         1          2           3
+    20.  8527-026-033         2.40     A-5     Estate 5-Ac         1          1           2
+    21.  8527-026-034 &       2.29     A-5     Estate 5-Ac         1          1           2
+         8527-026-036
+    22.  8527-029-001         2.54     A-5     Estate 5-Ac         1          1           2
+    23.  8527-029-017         7.16     A-5     Estate 5-Ac         1          1           2
+    24.  8527-023-012         2.13     A-1     Estate 1-Ac         2          2           4
+    Total                   67.82                                 27         26          53
+Category 3 is comprised of 5 underutilized parcels which also have potential for development of
+single-family detached residential dwellings. The identified underutilized parcels could
+theoretically yield 12 main dwelling units and 16 second dwelling units for a total of 28 additional
+dwelling units for a projected population of 87 persons over the 33.83 acres making up this
+category. (See Exhibit LU No. 5.)
+                                         TABLE LU NO. 4
+                                           CATEGORY 3
+                                  - UNDERUTILIZED PARCELS -
+            Parcel No.     Parcel     Zone       Land Use        Potential  Potential   Total No.
+                            Size                                  No. of   No. of 2nd   Potential
+                                                                  Units       DU’s        DU’s
+    1.   8527-021-041     12.40-ac     A-1    Estate –               6           7         13
+                                              1 unit per acre
+    2.   8527-023-020      2.75 ac     A-1    Estate –               1           2          3
+                                              1 unit per acre
+    3.   8527-023-021      3.80-ac     A-1    Estate –               2           3          5
+                                              1 unit per acre
+    4.   8527-002-014      12.8-ac     A-5    Estate –               1           2          3
+                                              0.2unit per-acre
+    5.   8527-003-035      2.08 ac     A-1    Estate –               2           2          4
+                                              1 unit per acre
+    Total                33.83 ac                                   12          16         28
+                                            Land Use - Page No. 11
+
+City of Bradbury                                          General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                      Revised-020514
+Total Build-Out:
+The follow exhibits (LU No. 4 and LU No. 5) locate the vacant undeveloped parcels of land and
+the underutilized parcels capable of supporting additional dwelling units. The total projected
+dwelling unit buildout capacity for the City of Bradbury is ninety-seven (97) additional dwelling
+units. The existing dwelling unit count is 400, but according to the 2010 census, only 354 units
+were occupied, providing for an 11.5% vacancy rate. Under current conditions the projected
+maximum dwelling unit count would be 497 which would include main and accessory dwellings.
+The 2010 federal Census indicates that the average household size in the City of Bradbury is
+3.1 persons. The projected maximum population of the City would then be 497 dwellings
+multiplied by the average household size of 3.1 for a total buildout population of 1,541 persons.
+                                        Exhibit LU No. 4
+                        VACANT UNDEVELOPED PARCELS
+                                          Land Use - Page No. 12
+
+City of Bradbury                                        General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                Revised-020514
+                                       Exhibit LU No. 5
+                             UNDERUTILIZED PARCELS
+   Accessory Dwelling Units – Accessory Dwelling Units or living quarters provide
+   opportunities for affordable housing. Accessory living quarters identified in Section
+   9.03.010.020(A) “Definitions” of the City’s Development Code include:
+   1. Single Room Occupancy Units (SRO's) defined as living accommodations that may be
+       provided to house personnel involved in the care and maintenance of the primary
+                                         Land Use - Page No. 13
+
+City of Bradbury                                             General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                         Revised-020514
+        dwelling or the associated on-site farming activity. SRO’s are also known as servant or
+        domestic quarters, groom’s quarters or pool houses.
+     2. Second Dwelling Units defined as attached or detached dwelling units inclusive of
+        complete kitchen facilities. The maximum size of the permitted dwelling units is
+        determined by the zone in which the unit is to be located and range from 1,200 square
+        feet in the R-7,500 zone to 2,500 square feet in the A-5 zone.
+     3. Guesthouse is defined as living accommodations that do not include complete kitchen
+        facilities.
+     4. Bunk Houses designed to house individuals associated with the on-site farming
+        activities. Such facilities shall not include complete kitchen facilities.
+     5. Groom’s Quarters designed to house individuals associated with the on-site care of
+        animals. Such facilities shall not include complete kitchen facilities.
+     6. Servant or Domestic Quarters defined as an attached single-room occupancy (SRO)
+        dwelling that does not include kitchen facilities.
+     7. Pool Houses defined as an attached or detached single-room occupancy (SRO)
+        dwelling that does not include kitchen facilities.
+     8. Granny House to be defined as an attached or detached dwelling unit designed for
+        occupancy by one or two adult individuals over the age of 62 provided that such dwelling
+        does not contain complete kitchen facilities.(Government Code Section 65852.1)
+     Second dwelling units are permitted within all residential zones. The City is committed to
+     providing living accommodations for all economic segments of the population.
+     Currently there are 79 accessory dwelling units located throughout the City. Construction of
+     accessory living quarters is encouraged at every opportunity.
+Key Land Use Goals, Objectives, Policies and Action Programs
+Mission Statement: Preserving Rural Tranquility is a policy as relevant now as it was
+decades ago when it was initially adopted. The mission statement provides guidance to local
+decision makers in the implementation of the community’s land use policies.
+Vision Statement: The City of Bradbury recognizes its unique single-family residential
+character and by maintaining fiscally responsible governance and development policies shall
+strive to provide a stable and sustainable rural community balancing preservation of natural
+open space with the needs of its residents for a quiet and safe place to live and raise their
+families.
+Land Use Goals
+     Land Use Goal 1:             The Land Use Element maintains the existing rural residential
+                                  character of the City. The element designates the general
+                                  location, distribution, and extent of existing and permitted
+                                  development.
+     Land Use Goal 2:             Preserve the identity, image and environmental quality of the
+                                  hillside and open space areas in perpetuity by enforcing the
+                                  Hillside Development Standards
+                                              Land Use - Page No. 14
+
+City of Bradbury                                          General Plan - 2012 – 2030 Update
+Land Use Element – DRAFT –                                                     Revised-020514
+Land Use Objectives
+    Land Use Objective 1:    To maintain the existing character of the community and to
+                             preserve those environmental resources and amenities that make
+                             the City of Bradbury a desirable place to live.
+Land Use Policies
+    Land Use Policy 1:      The residential character of the community and environmental
+                             resources important to the City will be maintained.
+Land Use Action Programs:
+The City of Bradbury intends to complete the following items which address the objectives and
+policies of the Land Use Element of the General Plan:
+    Land Use Action 1:       Encourage as much hillside preservation as possible through the
+                             use of conservation easements, acquisition efforts by
+                             conservation organizations or preservation as natural preserves
+                             that promote the protection of natural hillsides as open-space in
+                             perpetuity.
+    Land Use Action 2:       Work with the City of Monrovia to adjust the common municipal
+                             boundaries to expand the City of Bradbury to the edge of the Wild
+                             Rose Avenue right-of-way to be consistent with the legal
+                             boundaries of the Bradbury Estates Community Services District.
+    Land Use Action 3:       Revise the City’s Design Guidelines to promote sustainable
+                             building and development design alternatives.
+    Land Use Action 4:       Encourage the homeowner associations to consider the update or
+                             adoption of design guidelines for their respective jurisdictions.
+    Land Use Action 5:       Engage the community and the homeowner associations to
+                             explore the need to control development intensity including but not
+                             limited to re-examination of lot coverage definitions, relationship of
+                             setbacks and building height and the ratio of main dwelling unit
+                             footprints to the total parcel size.
+    Land Use Action 6:       Perform a biennial review of the Hillside Development Standards
+                             and update if necessary to carry out the goals of the General Plan.
+                                          Land Use - Page No. 15
+

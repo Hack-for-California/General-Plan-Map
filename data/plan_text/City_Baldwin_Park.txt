@@ -1,0 +1,2296 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         City of Baldwin Park
+ Health and Sustainability Element
+Initial Study | Negative Declaration
+                   Lead Agency:
+                City of Baldwin Park
+                 Planning Division
+            14403 East Pacific Avenue
+           Baldwin Park, California 91706
+               Consultant to the City:
+              MIG | Hogle-Ireland, Inc.
+              169 N. Marengo Avenue
+            Pasadena, California 91101
+                   October 2014
+
+- This document is designed tor double-sided printing 
+TABLE OF CONTENTS
+1 Introduction .................................................................................................................................................................... 1 
+1.1 – Purpose of CEQA ...................................................................................................................................................... 1 
+1.2 – Public Comments ....................................................................................................................................................... 2 
+1.3 – Availability of Materials .............................................................................................................................................. 3 
+2 Project Description ........................................................................................................................................................ 5 
+2.1 – Project Title ................................................................................................................................................................ 5 
+2.2 – Lead Agency Name and Address .............................................................................................................................. 5 
+2.3 – Contact Person and Phone Number .......................................................................................................................... 5 
+2.4 – Project Location ......................................................................................................................................................... 5 
+2.5 – Project Sponsor’s Name and Address ....................................................................................................................... 5 
+2.6 – General Plan Land Use Designation .......................................................................................................................... 5 
+2.7 – Zoning District ............................................................................................................................................................ 6 
+2.8 – Project Description ..................................................................................................................................................... 6 
+2.9 – Surrounding Land Uses ............................................................................................................................................. 8 
+2.10 – Environmental Setting .............................................................................................................................................. 8 
+2.11 – Required Approvals ................................................................................................................................................. 9 
+2.12 – Other Public Agency Whose Approval is Required .................................................................................................. 9 
+3 Determination ...................................................................................................................... Error! Bookmark not defined. 
+3.1 – Environmental Factors Potentially Affected ................................................................ Error! Bookmark not defined. 
+3.2 – Determination.............................................................................................................. Error! Bookmark not defined. 
+4 Evaluation of Environmental Impacts ........................................................................................................................ 15 
+4.1 – Aesthetics ................................................................................................................................................................ 15 
+4.2 – Agriculture and Forest Resources............................................................................................................................ 16 
+4.3 – Air Quality ................................................................................................................................................................ 18 
+4.4 – Biological Resources ............................................................................................................................................... 21 
+4.5 – Cultural Resources .................................................................................................................................................. 23 
+4.6 – Geology and Soils .................................................................................................................................................... 25 
+4.7 – Greenhouse Gas Emissions .................................................................................................................................... 28 
+4.8 – Hazards and Hazardous Materials ........................................................................................................................... 32 
+4.9 – Hydrology and Water Quality ................................................................................................................................... 34 
+4.10 – Land Use and Planning.......................................................................................................................................... 38 
+4.11 – Mineral Resources ................................................................................................................................................. 39 
+4.12 – Noise ...................................................................................................................................................................... 40 
+4.13 – Population and Housing ......................................................................................................................................... 45 
+4.14 – Public Services ...................................................................................................................................................... 46 
+4.15 – Recreation.............................................................................................................................................................. 48 
+4.16 – Transportation and Traffic ...................................................................................................................................... 50 
+4.17 – Utilities and Service Systems ................................................................................................................................. 53 
+4.18 – Mandatory Findings of Significance ....................................................................................................................... 56 
+5 References.................................................................................................................................................................... 57 
+5.1 – List of Preparers....................................................................................................................................................... 57 
+5.2 – Persons and Organizations Consulted..................................................................................................................... 57 
+
+LIST OF TABLES
+Table 1 Land Use Designation ............................................................................................................................................ 6
+Table 2 Health and Sustainability Element Framework ...................................................................................................... 7
+Table 3 Health and Sustainability Performance Measures ................................................................................................. 7
+Table 4 Human Reaction to Vibration ............................................................................................................................... 41
+Table 5 City of Baldwin Park Noise Ordinance Standards ................................................................................................ 42
+Table 6 Common Construction Vibration .......................................................................................................................... 43
+LIST OF EXHIBITS
+Exhibit 1 Regional and Vicinity Map .................................................................................................................................. 11
+
+                                                                                                1 INTRODUCTION
+The City of Baldwin Park (Lead Agency) proposes to adopt and implement a new element in the City’s General Plan: the
+Baldwin Park Health and Sustainability Element. The Health and Sustainability Element is an integral component of the
+General Plan, as it addresses future efforts to improve community health and sustainability. The goals, policies, and
+actions contained in the Health and Sustainability Element will provide ongoing direction to decision-makers in the
+annual budget process and will help the public understand the framework for improving local environmental conditions
+and promoting healthy living practices for current and future residents. The approval of the new Health and Sustainability
+Element constitute a project that is subject to review under the California Environmental Quality Act (CEQA) 1970 (Public
+Resources Code, Section 21000 et seq.), and the State CEQA Guidelines (California Code of Regulations, Section
+15000 et. seq.).
+This Initial Study has been prepared to assess the short-term, long-term, and cumulative environmental impacts that
+could result from the proposed residential subdivision.
+This report has been prepared to comply with Section 15063 of the State CEQA Guidelines, which sets forth the required
+contents of an Initial Study. These include:
+          A description of the project, including the location of the project (See Section 2);
+          Identification of the environmental setting (See Section 2.10);
+          Identification of environmental effects by use of a checklist, matrix, or other methods, provided that entries on
+           the checklist or other form are briefly explained to indicate that there is some evidence to support the entries
+           (See Section 4);
+          Discussion of ways to mitigate significant effects identified, if any (See Section 4);
+          Examination of whether the project is compatible with existing zoning, plans, and other applicable land use
+           controls (See Section 4.10); and
+          The name(s) of the person(s) who prepared or participated in the preparation of the Initial Study (See Section
+           5).
+1.1 – PURPOSE OF CEQA
+The body of state law known as CEQA was originally enacted in 1970 and has been amended a number of times since
+then. The legislative intent of these regulations is established in Section 21000 of the California Public Resources Code,
+as follows:
+The Legislature finds and declares as follows:
+a) The maintenance of a quality environment for the people of this state now and in the future is a matter of statewide
+      concern.
+b) It is necessary to provide a high-quality environment that at all times is healthful and pleasing to the senses and
+      intellect of man.
+c) There is a need to understand the relationship between the maintenance of high-quality ecological systems and the
+      general welfare of the people of the state, including their enjoyment of the natural resources of the state.
+d) The capacity of the environment is limited, and it is the intent of the Legislature that the government of the State
+      takes immediate steps to identify any critical thresholds for the health and safety of the people of the state and take
+      all coordinated actions necessary to prevent such thresholds being reached.
+e) Every citizen has a responsibility to contribute to the preservation and enhancement of the environment.
+f) The interrelationship of policies and practices in the management of natural resources and waste disposal requires
+      systematic and concerted efforts by public and private interests to enhance environmental quality and to control
+      environmental pollution.
+g) It is the intent of the Legislature that all agencies of the state government which regulate activities of private
+      individuals, corporations, and public agencies which are found to affect the quality of the environment, shall
+City of Baldwin Park Health and Sustainability Element                                                                      1
+
+Introduction
+      regulate such activities so that major consideration is given to preventing environmental damage, while providing a
+      decent home and satisfying living environment for every Californian.
+The Legislature further finds and declares that it is the policy of the State to:
+h) Develop and maintain a high-quality environment now and in the future, and take all action necessary to protect,
+      rehabilitate, and enhance the environmental quality of the state.
+i)    Take all action necessary to provide the people of this state with clean air and water, enjoyment of aesthetic,
+      natural, scenic, and historic environmental qualities, and freedom from excessive noise.
+j)    Prevent the elimination of fish or wildlife species due to man's activities, ensure that fish and wildlife populations do
+      not drop below self-perpetuating levels, and preserve for future generations representations of all plant and animal
+      communities and examples of the major periods of California history.
+k) Ensure that the long-term protection of the environment, consistent with the provision of a decent home and
+      suitable living environment for every Californian, shall be the guiding criterion in public decisions.
+l)    Create and maintain conditions under which man and nature can exist in productive harmony to fulfill the social and
+      economic requirements of present and future generations.
+m) Require governmental agencies at all levels to develop standards and procedures necessary to protect
+      environmental quality.
+n) Require governmental agencies at all levels to consider qualitative factors as well as economic and technical
+      factors and long-term benefits and costs, in addition to short-term benefits and costs and to consider alternatives to
+      proposed actions affecting the environment.
+A concise statement of legislative policy, with respect to public agency consideration of projects for some form of
+approval, is found in Section 21002 of the Public Resources Code, quoted below:
+    The Legislature finds and declares that it is the policy of the state that public agencies should not approve projects as
+    proposed if there are feasible alternatives or feasible mitigation measures available which would substantially lessen
+    the significant environmental effects of such projects, and that the procedures required by this division are intended
+    to assist public agencies in systematically identifying both the significant effects of proposed projects and the feasible
+    alternatives or feasible mitigation measures which will avoid or substantially lessen such significant effects. The
+    Legislature further finds and declares that in the event specific economic, social, or other conditions make infeasible
+    such project alternatives or such mitigation measures, individual projects may be approved in spite of one or more
+    significant effects thereof.
+1.2 – PUBLIC COMMENTS
+Comments from all agencies and individuals are invited regarding the information contained in this Initial Study. Such
+comments should explain any perceived deficiencies in the assessment of impacts, identify the information that is
+purportedly lacking in the Initial Study or indicate where the information may be found. All comments on the Initial Study
+are to be submitted to:
+                                                       Amy Harbin, AICP
+                                                          City Planner
+                                          City of Baldwin Park, Planning Department
+                                     14403 East Pacific Avenue, Baldwin Park, CA 91706
+                                                     626.960.4011 ext. 475
+                                                   aharbin@baldwinpark.com
+Following a 30-day period of circulation and review of the Initial Study, all comments will be considered by the City of
+Baldwin Park prior to adoption.
+2                                                                      City of Baldwin Park Health and Sustainability Element
+
+                                                                                                                 Introduction
+1.3 – AVAILABILITY OF MATERIALS
+All materials related to the preparation of this Initial Study are available for public review. To request an appointment to
+review these materials, please contact:
+                                                       Amy Harbin, AICP
+                                                          City Planner
+                                        City of Baldwin Park, Planning Department
+                                   14403 East Pacific Avenue, Baldwin Park, CA 91706
+                                                    626.960.4011 ext. 475
+                                                  aharbin@baldwinpark.com
+City of Baldwin Park Health and Sustainability Element                                                                      3
+
+Introduction
+             
+4              City of Baldwin Park Health and Sustainability Element
+
+                                                                           2 PROJECT DESCRIPTION
+2.1 – PROJECT TITLE
+City of Baldwin Park Health and Sustainability Element 2014
+2.2 – LEAD AGENCY NAME AND ADDRESS
+City Baldwin Park
+14403 East Pacific Avenue
+Baldwin Park, CA 91706
+2.3 – CONTACT PERSON AND PHONE NUMBER
+Amy Harbin, AICP
+City Planner
+626.960.4011 ext. 475
+aharbin@baldwinpark.com
+2.4 – PROJECT LOCATION
+The City of Baldwin Park Health and Sustainability Element applies to all zoning districts and land use designations in
+the General Plan within the municipal boundaries of the City of Baldwin Park. The City of Baldwin Park is located in the
+County of Los Angeles and is bounded by the cities of Irwindale to the north, West Covina to the southeast,
+unincorporated Los Angeles County land and the Industry to the south, and El Monte to the west. The San Bernardino
+Freeway (Interstate 10) on the south side of the City and the San Gabriel River Freeway (Interstate 605) to the east
+provide regional access. The planning area encompasses approximately 4,337 acres. Exhibit 1 (Regional and Vicinity
+Map) illustrates the City’s location within Los Angeles County and its local context.
+2.5 – PROJECT SPONSOR’S NAME AND ADDRESS
+City of Baldwin Park
+Community Development Department
+14403 East Pacific Avenue
+Baldwin Park, California 91706
+2.6 – GENERAL PLAN LAND USE DESIGNATION
+All existing land use designations listed in the City of Baldwin Park General Plan are subject to implementation of the
+Health and Sustainability Element. Land use designations densities (Table 1, Land Use Designations) and descriptions
+are listed below:
+City of Baldwin Park Health and Sustainability Element                                                                 5
+
+Project Description
+                                                                          Table 1
+                                                               Land Use Designation
+                                                                      Maximum Permitted
+                                                                                                       Average Density or Intensity
+                          Land Use Designation                    Density or Intensity (du/ac
+                                                                                                         (DU per net acre or FAR)
+                                                                              or FAR)
+                 Single-Family Residential                                 0 to 8.7 du/ac                           7.8 du/ac
+                 Garden Multi-Family                                      8.8 to 12 du/ac                          10.8 du/ac
+                 Multi-Family Residential                                12.1 to 20 du/ac                           18 du/ac
+                 Neighborhood Commercial                                     0.60 FAR                              0.30 FAR
+                 General Commercial                                          2.00 FAR                              0.25 FAR
+                 Mixed Use Commercial                                        1.50 FAR                              0.35 FAR
+                 Mixed Use Residential                                        30 du/ac                              30 du/ac
+                 Commercial-Industrial                                       1.00 FAR                              0.30 FAR
+                 General Industrial                                          0.75 FAR                              0.45 FAR
+                 Public Facility                                              1.00 (a)                               0.20 (a)
+                 Parks                                                           (b)                                   N/A
+                 Streets and other Right-of-way                                 N/A                                    N/A
+                 Note: (a) Flood control and other rights-of-way are excluded from these development intensity standards.
+                       (b) Due to the open space nature of this use, no development has been assigned.
+                    Source: Baldwin Park 2020 General Plan, Land Use Element
+2.7 – ZONING DISTRICT
+All existing zone districts are subject to implementation of the Health and Sustainability Element.
+2.8 – PROJECT DESCRIPTION
+The City of Baldwin Park (Lead Agency) proposes to adopt and implement the Baldwin Park Health and Sustainability
+Element. The Health and Sustainability Element is an integral component of the City’s General Plan as it addresses
+future efforts to improve community health and sustainability through land use, mobility, parks and recreation, and other
+policy directives. The Element will provide ongoing direction to decision-makers in the annual budget process and will
+help the public understand the framework for improving local environmental conditions and promoting healthy living
+practices for current and future residents.
+The Baldwin Park Health and Sustainability Element is organized around the framework outlined below. Within this
+framework (Table 2, Health and Sustainability Element Framework), Baldwin Park has identified goals, policies, and
+implementation actions to move the community toward the City’s goal of providing a healthier community and local
+environment. The City will annually review the performance measures (Table 3, Health and Sustainability Performance
+Measures) to track progress towards increasing environmental sustainability, economic prosperity, and health outcomes
+across the City.
+6                                                                                      City of Baldwin Park Health and Sustainability Element
+
+                                                                                                                    Project Description
+                                                                     Table 2
+                                                Health and Sustainability Element Framework
+                      City                                        Environment                                   Health
+-    Compact and Equitable                           -   Reduce, Reuse, Recycle, and          -   Parks: Places to Play and Relax
+     Development                                         Compost                              -   Move It! Recreation for All Life
+-    Getting Around: Walking, Biking and             -   Energy Conservation and Alternative      Stages
+     Using Transit                                       Energy                               -   Health Education: It Starts with the
+-    Modern and Green Infrastructure                 -   Being Water Wise                         Kids
+-    Community Safety                                -   Appreciating and Enhancing the       -   Access to Healthy Foods
+                                                         City’s Natural Features              -   Eat Local: Community Gardens and
+                                                     -   Contributing to Improved Air Quality     Urban Agriculture
+                                                     -   Addressing Climate Change            -   Addressing Health Care Needs
+                                                     -   Good Chemistry: Environmentally      -   Health Buildings and Place
+                                                         Friendly Products
+Source: Health and Sustainability Element.
+                                                                     Table 3
+                                              Health and Sustainability Performance Measures
+                                     Draft Performance Measures                                             Annual Goal
+    Miles of on-street bikeways defined by streets with clearly marked or signed
+                                                                                                        Increase by one mile
+    bicycle accommodation
+    Miles of streets with pedestrian accommodation                                                      Increase by one mile
+    Number of missing or non-compliant curb ramps along streets that are repaired                                10
+    Number of street trees planted                                                                               20
+    New street projects that are multi-modal                                                    All (as consistent with master plan)
+    Number and severity of pedestrian-vehicle and bicycle-vehicle crashes                             Decrease by 10 percent
+    Number of pedestrian-vehicle and bicycle-vehicle fatalities                                                 Zero
+    Baldwin Park Unified School District students physical activity levels (Fitnessgram
+                                                                                                       Increase by 10 percent
+    data)
+    Sales tax revenue                                                                                 Increase by two percent
+    CalEnvironScan pollution rankings                                                                 Decrease by five percent
+    Chronic disease                                                                                   Decrease by five percent
+           Source: Health and Sustainability Element
+The following are the goals contained in the draft Health and Sustainability Element.
+         Goal HS-1.         Create a Healthy and Sustainable Baldwin Park.
+         Goal HS-2.         Provide for compact, walkable neighborhoods and business districts both within and beyond
+                            Downtown.
+         Goal HS-3.         Create an attractive, safe, efficient network of pedestrian, bicycling, and transit routes.
+         Goal HS-4.         Increase the efficiency and sustainability of public and private infrastructure in Baldwin Park.
+         Goal HS-5.         Design the physical environment in Baldwin Park to positively influence human behavior, reduce
+                            crime, and increase people on the streets.
+City of Baldwin Park Health and Sustainability Element                                                                                 7
+
+Project Description
+       Goal HS-6.     Increase composting, recycling, and source reduction citywide to meet or exceed the mandates of
+                      AB 939.
+       Goal HS-7.     Reduce greenhouse gas emissions citywide by reducing energy use and reliance on fossil fuels.
+       Goal HS-8.     Achieve a high level of water conservation, and continue to improve the quality of local
+                      groundwater.
+       Goal HS-9.     Protect and enhance natural features in Baldwin Park to beautify the City, take advantage of
+                      ecological services, and build a community connection to the larger ecosystem.
+       Goal HS-10. Improve indoor and outdoor air quality.
+       Goal HS-11. Be a local leader in reducing greenhouse gas emissions and managing climate change.
+       Goal HS-12. Improve health and decrease pollution by using environmentally friendly products and practices.
+       Goal HS-13. Provide residents of all ages with a range of safe and accessible opportunities for recreation and
+                      physical activities.
+       Goal HS-14. Provide opportunities for all residents to improve their physical health and well-being, particularly
+                      the most vulnerable populations.
+       Goal HS-15. Ensure a high degree of targeted health education among Baldwin Park youth to support active
+                      lifestyles, nutrition, and preventative health measures.
+       Goal HS-16. Ensure availability and convenient access to healthy and affordable foods for all residents.
+       Goal HS-17. Provide for a local food system that bolsters the economy, supports local agriculture, promotes
+                      healthy lifestyles, educates the community, and connects Baldwin Park residents to local food
+                      sources.
+       Goal HS-18. Baldwin Park will have land use and development patterns and recreational programs that
+                      encourage healthy, active living for all ages.
+       Goal HS-19. Demonstrate Baldwin Park’s commitment to sustainability through progressive use of green
+                      building policies, practices, and technologies.
+2.9 – SURROUNDING LAND USES
+The project encompasses the entire City of Baldwin Park. The City of Baldwin Park is located in the County of Los
+Angeles and is bounded by the cities of Irwindale to the north, West Covina to the southeast, unincorporated Los
+Angeles County land and the Industry to the south, and El Monte to the west.
+2.10 – ENVIRONMENTAL SETTING
+Baldwin Park is located in the San Gabriel Valley, approximately 15 miles east of downtown Los Angeles. The San
+Gabriel Foothills and Los Angeles National Forest lie in the distance to the north, with the Los Angeles Basin to the east,
+south, and west. The City is traversed by two interstate freeways: I-10 to the south and the I-605 to the west. Baldwin
+Park is highly urbanized and built out, with a suburban character. Cities surrounding Baldwin Park are also fully
+development and with similar character.
+8                                                                     City of Baldwin Park Health and Sustainability Element
+
+                                                                                                  Project Description
+2.11 – REQUIRED APPROVALS
+The City Council must approve a General Plan Amendment to incorporate the Health and Sustainability Element into the
+General Plan.
+2.12 – OTHER PUBLIC AGENCY WHOSE APPROVAL IS REQUIRED
+None
+City of Baldwin Park Health and Sustainability Element                                                              9
+
+Project Description
+                    
+10                    City of Baldwin Park Health and Sustainability Element
+
+                                                                         Project Description
+                                                       Exhibit 1
+                                               Regional and Vicinity Map
+City of Baldwin Park Health and Sustainability Element                                    11
+Project Description
+                    
+12                    City of Baldwin Park Health and Sustainability Element
+
+                                                                                           3 DETERMINATION
+3.1 – ENVIRONMENTAL FACTORS POTENTIALLY AFFECTED
+The environmental factors checked below would be potentially affected by this project, involving at least one impact that
+is a ‘Potentially Significant Impact’ as indicated by the checklist on the following pages.
+           Aesthetics                                Agriculture Resources                    Air Quality
+           Biological Resources                      Cultural Resources                       Geology /Soils
+           Greenhouse Gas Emissions                  Hazards & Hazardous Materials            Hydrology / Water Quality
+           Land Use / Planning                       Mineral Resources                        Noise
+           Population / Housing                      Public Services                          Recreation
+                                                                                              Mandatory Findings of
+           Transportation/Traffic                    Utilities / Service Systems
+                                                                                              Significance
+3.2 – DETERMINATION
+          I find that the proposed project COULD NOT have a significant effect on the environment, and a NEGATIVE
+          DECLARATION will be prepared.
+          I find that although the proposed project could have a significant effect on the environment, there will not be a
+          significant effect in this case because revisions in the project have been made by or agreed to by the project
+          proponent. A MITIGATED NEGATIVE DECLARATION will be prepared.
+          I find that the proposed project MAY have a significant effect on the environment, and an ENVIRONMENTAL
+          IMPACT REPORT is required.
+          I find that the proposed project MAY have a ‘potentially significant impact’ or ‘potentially significant unless
+          mitigated’ impact on the environment, but at least one effect 1) has been adequately analyzed in an earlier
+          document pursuant to applicable legal standards, and 2) has been addressed by mitigation measures based
+          on the earlier analysis as described on attached sheets. An ENVIRONMENTAL IMPACT REPORT is required,
+          but it must analyze only the effects that remain to be addressed.
+          I find that although the proposed project could have a significant effect on the environment, because all
+          potentially significant effects (a) have been analyzed adequately in an earlier EIR or NEGATIVE
+          DECLARATION pursuant to applicable standards, and (b) have been avoided or mitigated pursuant to that
+          earlier EIR or NEGATIVE DECLARATION, including revisions or mitigation measures that are imposed upon
+          the proposed project, nothing further is required.
+ ___________________________________________________________                        _______________________________
+ Amy Harbin, AICP, City Planner                                                     Date
+City of Baldwin Park Health and Sustainability Element                                                                   13
+
+Determination
+              
+14              City of Baldwin Park Health and Sustainability Element
+
+                                            4 EVALUATION OF ENVIRONMENTAL IMPACTS
+4.1 – AESTHETICS
+   Would the project:
+                                                                                       Less Than
+                                                                 Potentially                             Less Than
+                                                                                    Significant with                        No
+                                                                 Significant                             Significant
+                                                                                       Mitigation                         Impact
+                                                                   Impact                                  Impact
+                                                                                     Incorporation
+   A)      Have a substantial adverse effect on a
+           scenic vista?
+   B)      Substantially damage scenic resources,
+           including, but not limited to, trees, rock
+           outcroppings, and historic buildings
+           within view from a state scenic highway?
+   C)      Substantially degrade the existing visual
+           character or quality of the site and its
+           surroundings?
+   D)      Create a new source of substantial light
+           or glare which would adversely affect
+           day or nighttime views in the area?
+A)      No Impact. A scenic vista is defined by a generally uninterrupted view of the horizon, creating an aesthetic
+        viewpoint. Scenic vistas can be impacted by development in two ways. First, a structure may be constructed that
+        blocks a vista. Second, the vista itself may be altered (i.e., development on a scenic hillside). There are no scenic
+        vistas visible from anywhere in Baldwin Park. Therefore, implementation of the Health and Sustainability Element
+        could not affect or otherwise directly disturb a scenic vista.1 No impact would occur.
+B)      No Impact. No State or County designated scenic highways exist in Baldwin Park; therefore scenic resources as
+        seen from such highways would not be impacted. Because the City is largely built out, the visual character of the
+        City is suburbanized; therefore scenic resources such as rock outcropping or distinctive trees will not be impacted.
+        The General Plan has identified several structures and buildings as locally significant throughout the City. The
+        project does not include any development activity. Thus, no impact will result.
+C)      No Impact. The project does not involve any development activity. Any improvements associated with Health and
+        Sustainability Element policies will be limited to planting of trees, upgrade of park facilities, and installation of low-
+        impact development (LID) infrastructure. The “greening” of the City will have a positive impact on community visual
+        character. No adverse impact will result.
+D)      Less Than Significant Impact. The project does not involve any development activity. Goal HS-5 promotes
+        physical design to reduce crime and increase the number of people on streets. Policy 5.01 encourages the use of
+        appropriate lighting to create safe environments. These goals and policies may result in small amounts of lighting
+        added to public areas to influence human behavior. However, any lighting installed as a result of this goal is
+        anticipated to be minimal and would be in compliance with City of Baldwin Park lighting standards. Therefore, this
+        impact will be less than significant.
+1 California Department of Transportation. California Scenic Highway Mapping System. Los Angeles County.
+www.dot.ca.gov/hq/LandArch/scenic_highways/index.htm [August 25, 2014]
+City of Baldwin Park Health and Sustainability Element                                                                          15
+
+Evaluation of Environmental Impacts
+4.2 – AGRICULTURE AND FOREST RESOURCES
+  In determining whether impacts to agricultural resources are significant environmental effects, lead agencies may refer
+  to the California Agricultural Land Evaluation and Site Assessment Model (1997) prepared by the California Dept. of
+  Conservation as an optional model to use in assessing impacts on agriculture and farmland. In determining whether
+  impacts to forest resources, including timberland, are significant environmental effects, lead agencies may refer to
+  information compiled by the California Department of Forestry and Fire Protection regarding the state’s inventory of
+  forest land, including the Forest and Range Assessment Project and the Forest Legacy Assessment project; and forest
+  carbon measurement methodology provided in Forest Protocols adopted by the California Air Resources Board. Would
+  the project:
+                                                                      Potentially         Less Than        Less Than          No
+                                                                      Significant      Significant with    Significant     Impact
+                                                                         Impact           Mitigation         Impact
+                                                                                        Incorporation
+  A)      Convert Prime Farmland, Unique Farmland, or
+          Farmland of Statewide Importance (Farmland),
+          as shown on the maps prepared pursuant to the
+          Farmland Mapping and Monitoring Program of
+          the California Resources Agency, to non-
+          agricultural use?
+  B)      Conflict with existing zoning for agricultural use,
+          or a Williamson Act contract?
+  C)      Conflict with existing zoning for, or cause
+          rezoning of, forest land (as defined in Public
+          Resources Code section 12220(g)), timberland
+          (as defined by Public Resources Code section
+          4526), or timberland zoned Timberland
+          Production (as defined by Government Code
+          section 51104 (g))?
+  D)      Result in loss of forest land or conversion of
+          forest land to non-forest use?
+  E)      Involve other changes in the existing
+          environment which, due to their location or
+          nature, could result in conversion of Farmland to
+          non-agricultural use or conversion of forest land
+          to non-forest use?
+A)       No Impact. Baldwin Park does not contain any land designated as Prime Farmland, Unique Farmland, or
+         Farmland of Statewide Importance according to the California Department of Conservation, Division of Land
+         Resource Protection. No impact will occur.2
+B)       No Impact. Baldwin Park allows for agricultural and horticultural cultivation within the Open Space Zone. Baldwin
+         Park does not contain any existing land under Williamson Act contracts. The proposed Health and Sustainability
+         Element encourages healthy lifestyles by identifying areas for community gardens and processes for implementing
+         community gardens. These policies would provide the opportunity to local residents to grow produce. Action HS-
+         17.6 of Goal HS-17 states that revisions to the zoning standards will be made to permit small-scale agriculture for
+2 California Department of Conservation. Farmland Mapping and Monitoring Program. Los Angeles County Important Farmland 2010.
+ftp://ftp.consrv.ca.gov/pub/dlrp/FMMP/pdf/2010/los10.pdf [August 26, 2014]
+16                                                                            City of Baldwin Park Health and Sustainability Element
+
+                                                                                           Evaluation of Environmental Impacts
+         private properties, including front-yard food gardens. These policies would not conflict with any existing agricultural
+         zoning and will not conflict with a Williamson Act contract . No impact will occur.3
+         Goal HS-17               Provide for a local food system that bolsters the economy, supports local agriculture,
+                                  promotes healthy lifestyles, educates the community, and connects Baldwin Park
+                                  residents to local food sources.
+         Action HS-17.6           Revise zoning standards to permit small-scale agriculture on private properties, including
+                                  front-yard food gardens.
+C)       No Impact. Baldwin Park does not contain any land designated or zoned as forest land (as defined in Public
+         Resources Code section 12220(g)), timberland (as defined by Public Resources Code section 4526), or timberland
+         zoned Timberland Production (as defined by Government Code section 51104 (g)). No impact will occur.
+D)       No Impact. Due to the urban character of Baldwin Park, there is no forest land. Therefore, there will be no loss of
+         forest land or conversion of forest land as a result of implementation of the proposed Health and Sustainability
+         Element.
+E)       No Impact. There are no agricultural operations or forest land within the City. No impact related to the conversion
+         of agricultural or forest lands will occur.
+3 California Department of Conservation. Agricultural Preserves 2004: Williamson Act Parcels, Los Angeles County, California.
+ftp://ftp.consrv.ca.gov/pub/dlrp/wa/LA_11_12_WA.pdf [August 26, 2014]
+City of Baldwin Park Health and Sustainability Element                                                                       17
+Evaluation of Environmental Impacts
+4.3 – AIR QUALITY
+ Where available, the significance criteria established by the applicable air quality management or air pollution control
+ district may be relied upon to make the following determinations. Would the project:
+                                                            Potentially           Less Than         Less Than            No
+                                                           Significant        Significant with      Significant       Impact
+                                                             Impact               Mitigation          Impact
+                                                                                Incorporation
+ A)     Conflict with or obstruct implementation of
+        the applicable air quality plan?
+ B)     Violate any air quality standard or contribute
+        substantially to an existing or projected air
+        quality violation?
+ C)     Result in a cumulatively considerable net
+        increase of any criteria pollutant for which
+        the project region is non-attainment under
+        an applicable federal or state ambient air
+        quality standard (including releasing
+        emissions which exceed quantitative
+        thresholds for ozone precursors)?
+ D)     Expose sensitive receptors to substantial
+        pollutant concentrations?
+ E)     Create objectionable odors affecting a
+        substantial number of people?
+A)    No Impact. The City of Baldwin Park is located within the South Coast Air Basin (basin) under the jurisdiction of
+      the South Coast Air Quality Management District (SCAQMD). SCAQMD and the Southern California Association of
+      Governments (SCAG) are responsible for formulating and implementing the Air Quality Management Plan (AQMP)
+      for the basin. The AQMP is a series of plans adopted for the purpose of reaching short- and long-term goals for
+      those pollutants the basin is designated as a “nonattainment” area because it does not meet federal and/or State
+      Ambient Air Quality Standards (AAQS). To determine consistency between the project and the AQMP, the project
+      must comply with all applicable SCAQMD rules and regulations, comply with all proposed or adopted control
+      measures, and be consistent with the growth forecasts utilized in preparation of the Plan.
+      A significant impact could occur if the proposed project conflicts with or obstructs implementation of the South
+      Coast Air Basin 2012 AQMP. Conflicts and obstructions that hinder implementation of the AQMP can delay efforts
+      to meet attainment deadlines for criteria pollutants and maintaining existing compliance with applicable air quality
+      standards. Pursuant to the methodology provided in Chapter 12 of the 1993 SCAQMD CEQA Air Quality
+      Handbook, consistency with the South Coast Air Basin 2012 AQMP is affirmed when a project: 1) does not
+      increase the frequency or severity of an air quality standards violation or cause a new violation and 2) is consistent
+      with the growth assumptions in the AQMP. Consistency review is presented below.
+     1.      The project does not involve any development activity. Thus, no impacts will result from Health and
+             Sustainability Element adoption and implementation.
+     2.      The CEQA Air Quality Handbook indicates that consistency with AQMP growth assumptions must be
+             analyzed for new or amended General Plan elements, Specific Plans, and “significant projects.” Significant
+             projects include airports, electrical generating facilities, petroleum and gas refineries, designation of oil drilling
+             districts, water ports, solid waste disposal sites, and off-shore drilling facilities. The project consists of a
+18                                                                       City of Baldwin Park Health and Sustainability Element
+
+                                                                                                   Evaluation of Environmental Impacts
+             General Plan amendment to adopt the proposed Health and Sustainability Element; therefore consistency
+             analysis is required.
+     The Health and Sustainability Element identifies programs and strategies to encourage compact development within
+     Downtown, create more pedestrian friendly, bicycle friendly, and less auto centric streets, and promote activities and
+     opportunities for a healthier lifestyle for the local community, including the use of multi-modal and alternative
+     transportation methods. The Health and Sustainability Element builds upon planning initiatives started by the City in
+     2002 with adoption of the new General Plan. This proposed Element was crafted to take goals from the Land Use
+     and Urban Design Element, Circulation Element, Open Space and Conservation Element, and Air Quality Elements
+     further and identified concrete implementation actions to achieve the goals set forth in the Health and Sustainability
+     Element. Thus, this project is in compliance with the goals and initiatives contained in the Baldwin Park 2020
+     General Plan.
+     SCAG provides population projection estimates in five-year increments from 2005 to 2035. According to the latest
+     growth forecast (2012), SCAG estimates that the City will have a population of 82,200 and the County will have a
+     population of 11,353,000 in 2035.4 SCAG growth projections are utilized as the basis for both the Regional
+     Transportation Plan (RTP) and the AQMP. Build-out of the General Plan will accommodate a population of 85,291
+     persons in 2020, slightly higher than projected by SCAG, and thus provides sufficient residential land uses to
+     accommodate growth projections for the City. The project indicates that there will be efforts in revitalizing the
+     Downtown area which will result in a higher-intensity of residential and commercial uses in the area but the project
+     does not involve any development activity or uses that would increase the number of vehicle trips or miles traveled
+     in the City. The proposed project will not conflict with the AQMP; therefore no impacts will occur.
+B)    No Impact. Because the proposed Health and Sustainability Element does not authorize any development project
+      or land altering activity that will involve construction of new or redevelopment projects, it will not result in any direct
+      emissions that could contribute to an existing or potential violation of an air quality standard. The Health and
+      Sustainability Element will have no effect on rules and procedures governing assessment or control of air pollutant
+      emissions.
+      The proposed Health and Sustainability Element will not directly result in construction of any development or
+      infrastructure; however, future development as foreseen in the General Plan will be supported by the policies of the
+      Health and Sustainability Element. This development will result in short-term criteria pollutant emissions. Short-term
+      criteria pollutant emissions will occur during site preparation, grading, building construction, paving, and painting
+      activities associated with new development. Emissions will occur from use of equipment, worker, vendor, and
+      hauling trips, and disturbance of onsite soils (fugitive dust).
+      However, the proposed Health and Sustainability Element does not propose any land use changes that were not
+      foreseen in the General Plan; therefore, this development has been analyzed and accounted for in the General
+      Plan. Additionally, pursuant to CEQA, short-term, project-specific construction-related emissions will be analyzed
+      for consistency with the General Plan analysis on a project-level basis as development proposals are submitted.
+      Mitigation will be applied, where necessary. Such mitigation typically includes requirements for use of low-VOC
+      paints, installation of diesel particulate filters on older construction equipment, and limitations on hauling distances
+      and/or daily trips.
+      Any future proposed development project will also be subject to SCAQMD’s rules and regulations. The Baldwin
+      Park General Plan Air Quality Element includes goals and policies that encourage mixed-use development and
+      pedestrian-oriented design to reduce pollutant emissions. With application of SCAQMD rules and General Plan Air
+      Quality goals and policies, no new or more significant impacts relative to air quality standards will result from
+      implementation of the Health and Sustainability Element beyond those analyzed in the General Plan EIR. The
+4 Southern California Association of Governments. Adopted Growth Forecast. http://www.scag.ca.gov/forecast/index.htm [August 26, 2014]
+City of Baldwin Park Health and Sustainability Element                                                                                 19
+
+Evaluation of Environmental Impacts
+        proposed Health and Sustainability Element is consistent with the AQMP (see Section 4.3.a) and future
+        development projects supported by the Health and Sustainability Element will be subject to environmental review to
+        ensure that daily criteria pollutant thresholds will not be exceeded. The project does not involve any development
+        activity; therefore no impact will occur.
+C)      No Impact. SCAQMD has prepared an Air Quality Management Plan (AQMP) to set forth a comprehensive and
+        integrated program that will lead the Basin into compliance with the federal 24-hour PM2.5 air quality standard, and
+        to provide an update to the SCAQMD’s commitments toward meeting the federal 8-hour ozone standards. The
+        Basin is currently in non-attainment for State and Federal criteria pollutants ozone, nitrogen dioxide and fine
+        particulate matter (PM2.5 and PM10).5
+        The project does not authorize construction or development of any buildings or structures. New development
+        facilitated by the Health and Sustainability Element will be subject to the City’s standard development review
+        process and is required to comply with SCAQMD rules and regulations aimed at reducing construction-related
+        pollutant emissions, including fugitive dust and other particulates, as well as reactive organic compounds and other
+        ozone precursors found in paints and other coatings.6 Considering that the proposed Health and Sustainability
+        Element is consistent with the development projections of the Baldwin Park General Plan and the breadth of
+        existing standards and regulations, implementation of the proposed Health and Sustainability Element policies and
+        implementation programs will not change or otherwise interfere with the regional pollutant control strategies of the
+        AQMP. Because the project will not involve any construction or development activity, no impacts will occur.
+D)      No Impact. Common sensitive receptors include children under age 14, the elderly over age 65, athletes, and
+        people with cardiovascular and chronic respiratory diseases. The project promotes planning initiatives and
+        programs that encourage healthy, active living for all ages such as local recreational programs, compact
+        development for increase walkability, and pedestrian and bicycle friendly streets. These initiatives and programs
+        will likely accommodate children and the elderly; however, the proposed Health and Sustainability Element does
+        not authorize construction or redevelopment of any buildings or structures. Future development will be subject to
+        the City’s standard development review process pursuant to State CEQA statutes and guidelines which will ensure
+        that any future development projects developed will provide adequate protection for residents from any local air
+        pollution sources. The project will have no impacts on sensitive receptors.
+E)      No Impact. According to the CEQA Air Quality Handbook, land uses associated with odor complaints include
+        agricultural operations, wastewater treatment plants, landfill, and certain industrial operations (such as
+        manufacturing uses that produce chemicals, paper, etc). Odors are typically associated with industrial projects
+        involving the use of chemicals, solvents, petroleum products, and other strong-smelling elements used in
+        manufacturing processes, as well as sewage treatment facilities and landfills. Residential and commercial land
+        uses constructed pursuant to the Health and Sustainability Element typically do not create objectionable odors. No
+        new odor sources will result from adoption or implementation of the proposed Health and Sustainability Element
+        because it does not authorize construction of any new projects, redevelopment of any existing property, or any
+        particular infrastructure construction project. No impact will occur.
+5 United States Environmental Protection Agency. The Green Book Nonattainment Areas for Criteria Pollutants.
+www.epa.gov/oar/oaqps/greenbk/index.html [August 26, 2014]
+6 City of Baldwin Park. General Plan Environmental Impact Report. September 2002.
+20                                                                           City of Baldwin Park Health and Sustainability Element
+
+                                                                                Evaluation of Environmental Impacts
+4.4 – BIOLOGICAL RESOURCES
+ Would the project:
+                                                      Potentially    Less Than        Less Than           No
+                                                      Significant Significant with    Significant      Impact
+                                                        Impact       Mitigation          Impact
+                                                                   Incorporation
+ A)     Have a substantial adverse effect, either
+        directly or through habitat modifications,
+        on any species identified as a candidate,
+        sensitive, or special status species in local
+        or regional plans, policies, or regulations,
+        or by the California Department of Fish
+        and Game or U.S. Fish and Wildlife
+        Service?
+ B)     Have a substantial adverse effect on any
+        riparian habitat or other sensitive natural
+        community identified in local or regional
+        plans, policies, regulations, or by the
+        California Department of Fish and Game
+        or US Fish and Wildlife Service?
+ C)     Have a substantial adverse effect on
+        federally protected wetlands as defined by
+        Section 404 of the Clean Water Act
+        (including, but not limited to, marsh, vernal
+        pool, coastal, etc.) through direct removal,
+        filling, hydrological interruption, or other
+        means?
+ D)     Interfere substantially with the movement
+        of any native resident or migratory fish or
+        wildlife species or with established native
+        resident or migratory wildlife corridors, or
+        impede the use of native wildlife nursery
+        sites?
+ E)     Conflict with any local policies or
+        ordinances protecting biological
+        resources, such as a tree preservation
+        policy or ordinance?
+ F)     Conflict with the provisions of an adopted
+        Habitat Conservation Plan, Natural
+        Community Conservation Plan, or other
+        approved local, regional, or state habitat
+        conservation plan?
+City of Baldwin Park Health and Sustainability Element                                                          21
+
+Evaluation of Environmental Impacts
+A)      Less Than Significant Impact. Baldwin Park is predominately suburban in nature, with limited to no natural habit
+        for special status species.7 Implementation of the Health and Sustainability Element does not involve any
+        development activity that has not been previously analyzed in the General Plan EIR. Therefore, it is unlikely the
+        Health and Sustainability Element will not impact any species identified as candidate, sensitive, or special status
+        species in local or regional plans, policies, or regulations, or by the California Department of Fish and Wildlife
+        Service. This impact is less than significant.
+B)      No Impact. Walnut Creek Wash and the Walnut Creek Nature Park are located in Baldwin Park.8 Implementation
+        of the Health and Sustainability Element does not involve any development activity along Walnut Creek Wash or a
+        Walnut Creek Nature Park. The Health and Sustainability Element does not involve any development activity that
+        has not been previously analyzed in the General Plan EIR and will not have a substantial adverse effect on any
+        riparian habitat or other sensitive natural community identified in local or regional plans, policies, regulations, or by
+        the California Department of Fish and Game or US Fish and Wildlife Service.9 No impact will occur.
+C)      No Impact. The National Wetlands inventory has no data for the City of Baldwin Park; thus, it does not identify any
+        wetlands as defined by Section 404 of the Clean Water Act within the City boundaries.10 No impact to Section 404
+        wetlands from the proposed Health and Sustainability Element will occur.
+D)      No Impact. Biological resources in Baldwin Park are limited due to the suburban nature of the City and
+        surrounding area.11 There are no migratory wildlife corridors or nature wildlife nursery sites within the City. The
+        proposed Health and Sustainability Element does not involve any construction or development activity that has not
+        been previously analyzed in the General Plan EIR and will not interfere with the movement of any native resident or
+        migratory fish or wildlife species or with established native resident or migratory wildlife corridors or impede the use
+        of native wildlife nursery sites. There will be no impact.
+E)      Less Than Significant Impact. City of Baldwin Park Ordinance 153.165.090 governs tree preservation and
+        protection. City of Baldwin Park Ordinance 97.131 governs the removal of City trees in parkways by private
+        individuals. These ordinances require a tree removal permit prior to any removal of trees in the City. The project
+        does not involve any development activity. Any tree removal resulting from future development activities will be
+        subject to the environmental review and compliance with the ordinance. Therefore, there will be no conflict with any
+        local policies or ordinances protecting biological resources; therefore, this impact will be less than significant.
+F)      No Impact. According to the Conservation Plans and Agreements Database, no Habitat Conservation Plans or
+        Natural Community Conservation Plans apply within the planning area.12 No impact will occur.
+7 City of Baldwin Park. General Plan. November 2002.
+8 City of Baldwin Park. General Plan. November 2002.
+9 California Department of Fish and Game. Natural Community Conservation Planning (NCCP). http://www.dfg.ca.gov/habcon/nccp/status.html
+[August 26, 2014]
+10 U.S. Fish & Wildlife Service. National Wetlands Inventory. http://www.fws.gov/wetlands/Data/State-Downloads.html [August 26, 2014]
+11 City of Baldwin Park. General Plan. November 2002
+12 U.S. Fish & Wildlife Service. Conservation Plans and Agreements Database.
+http://ecos.fws.gov/conserv_plans/PlanReportSelect?region=8&type=HCP [August 26, 2014]
+22                                                                               City of Baldwin Park Health and Sustainability Element
+                                                                                                 Evaluation of Environmental Impacts
+4.5 – CULTURAL RESOURCES
+  Would the project:
+                                                                 Potentially        Less Than             Less Than          No
+                                                                 Significant     Significant with         Significant     Impact
+                                                                   Impact           Mitigation              Impact
+                                                                                  Incorporation
+  A)     Cause a substantial adverse change in the
+         significance of a historical resource as
+         defined in '15064.5?
+  B)     Cause a substantial adverse change in the
+         significance of an archaeological resource
+         pursuant to '15064.5?
+  C)     Directly or indirectly destroy a unique
+         paleontological resource or site or unique
+         geologic feature?
+  D)     Disturb any human remains, including those
+         interred outside of formal cemeteries?
+A)      No Impact. A number of buildings with historic, cultural, architectural, community, and aesthetic value exist
+        throughout Baldwin Park13 and the City recognizes these historic resources are an important part of the community.
+        The Baldwin Park Zoning Code contains a Historic Resources Code that protects and encourages the preservation
+        of City’s heritage. The General Plan also contains goals to promote historic preservation of culturally significant
+        buildings. As the Health and Sustainability Element does not authorize construction or redevelopment of any
+        buildings or structures, there will be no impacts.
+        Goal 8.0       Promote the preservation of historic resources in Baldwin Park.
+        Policy 8.1     Implement provisions contained in the City’s Historic Resources Code to protect historically significant
+                       structures.
+        Policy 8.2     Encourage restoration of historic structures.
+B)      No Impact. Although the City of Baldwin Park is built out, the presence of significant subsurface archaeological
+        resources is always a possibility in areas where only surface inspections have taken place. Implementation of the
+        proposed Health and Sustainability Element will not involve development activity therefore ground-disturbing
+        activities will not occur. No impact will occur.
+C)      No Impact. The City of Baldwin Park is located on the San Gabriel Valley Groundwater Basin.14 Soils of the basin
+        consist of unconsolidated to semi-consolidated alluvium deposited by streams flowing out of the San Gabriel
+        Mountains. These alluvial deposits are too young geologically to contain scientifically significant fossils in their
+        original, undisturbed location and therefore are not considered paleontologically sensitive. Thus, paleontological
+        resources could not be uncovered. In addition, the project will not involve development activity. No impact could
+        occur.
+D)      No Impact. The proposed Health and Sustainability Element does not authorize any construction of new projects
+        or redevelopment of existing sites, and therefore will not result in any direct impacts to human remains. Procedures
+        to notify the County Coroner and Native American representatives, as required by California Health and Safety
+13 City of Baldwin Park. General Plan. November 2002.
+14 CIVILTEC Engineering Inc. Valley County Water District 2010 Urban Water Management Plan. June 2011.
+City of Baldwin Park Health and Sustainability Element                                                                           23
+
+Evaluation of Environmental Impacts
+     Code Section 7050.5, will be followed should human remains be found during the course of any future development
+     project constructed pursuant to the proposed Health and Sustainability Element. The project does not involve any
+     development activity therefore no impact will occur.
+24                                                             City of Baldwin Park Health and Sustainability Element
+                                                                                 Evaluation of Environmental Impacts
+4.6 – GEOLOGY AND SOILS
+ Would the project:
+                                                        Potentially    Less Than         Less Than         No
+                                                        Significant Significant with     Significant     Impact
+                                                          Impact       Mitigation          Impact
+                                                                     Incorporation
+ A)    Expose people or structures to potential
+       substantial adverse effects, including the
+       risk of loss, injury, or death involving:
+ i)    Rupture of a known earthquake fault, as
+       delineated on the most recent Alquist-Priolo
+       Earthquake Fault Zoning Map issued by the
+       State Geologist for the area or based on
+       other substantial evidence of a known fault?
+       Refer to Division of Mines and Geology
+       Special Publication 42.
+ ii)   Strong seismic ground shaking?
+ iii)  Seismic-related ground failure, including
+       liquefaction?
+ iv)   Landslides?
+ B)    Result in substantial soil erosion or the loss
+       of topsoil?
+ C)    Be located on a geologic unit or soil that is
+       unstable, or that would become unstable as
+       a result of the project, and potentially result
+       in on- or off-site landslide, lateral spreading,
+       subsidence, liquefaction or collapse?
+ D)    Be located on expansive soil, as defined in
+       Table 18-1-B of the Uniform Building Code
+       (1997), creating substantial risks to life or
+       property?
+ E)    Have soils incapable of adequately
+       supporting the use of septic tanks or
+       alternative waste water disposal systems
+       where sewers are not available for the
+       disposal of waste water?
+City of Baldwin Park Health and Sustainability Element                                                           25
+
+Evaluation of Environmental Impacts
+A.i,ii) No Impact. According to the State of California Department of Conservation, no Alquist-Priolo Fault Hazard Zones
+        are located within the City of Baldwin Park. No impacts related to fault rupture could occur.15
+A.iii) No Impact. According to the Baldwin Park General Plan EIR, the southwest portion of the City is located in a
+        liquefaction hazard zone.16 As noted above, the City of Baldwin Park is located within a seismically active region of
+        Southern California. Liquefaction hazards occur in areas where groundwater exists near the ground surface.
+        According to the General Plan EIR, the depth to groundwater is more than 50 feet, resulting in low potential for
+        liquefaction. Future development could expose residents and structures to risks associated with liquefaction. The
+        project does not involve construction or development activity. Any future development will be subject to the City’s
+        standard development review process and will require investigation for liquefaction potential. Because the project
+        does not authorize development, no impact will occur.
+A.iv) No Impact. According to the General Plan EIR, the City of Baldwin Park is not susceptible to dangers from slope
+        instability because the terrain is relatively flat. Therefore, the proposed Health and Sustainability Element will not
+        involve development activity and will not expose people or structures to potential substantial adverse effects,
+        including risk of loss, injury or death involving landslides. No impact will occur.
+B)      Less than Significant Impact. Erosion is the condition in which the earth’s surface is worn away by the action of
+        water and wind. The City of Baldwin Park is relatively flat and built out. Because the City is primarily built out and
+        covered by urban landscaping or impermeable surfaces, the potential for soil erosion or loss of topsoil of topsoil is
+        minimal. Future development is subject to standard development review process pursuant to City and CEQA
+        regulations. Therefore, to the proposed Health and Sustainability Element policies will not result in the substantial
+        loss of topsoil or substantial erosion. Impacts will be less than significant.
+C)      Less than Significant Impact. Liquefaction and seismically induced settlement or ground failure are generally
+        associated with strong seismic shaking in areas where ground water tables are at relatively shallow depths (within
+        50 feet of the ground surface) and/or when the area is underlain by loose, cohesion less deposits. During a strong
+        ground shaking event, saturated, cohesion less soils may acquire a degree of mobility to the extent that the
+        overlying ground surface distorts. In extreme cases, saturated soils become suspended in groundwater and
+        become fluid-like. Seismic settlement often occurs when loose to medium dense granular soils settle during ground
+        shaking, and can cause structural damage to buildings when settlement is non-uniform. Such ground settlement
+        hazards may be identified by on-site geologic investigations that are required of individual developments.
+        According to the General Plan EIR, the depth to groundwater is more than 50 feet. Therefore, the potential for
+        liquefaction hazard is low, even in areas that have been designated as being subject to liquefaction (see Section
+        3.6.a.iii above). There are no known ongoing or planned large-scale extractions of groundwater, gas, oil, or
+        geothermal energy that will cause subsidence within Baldwin Park. Therefore, impacts associated with subsidence
+        will be less than significant.
+        Lateral spreading is unlikely to occur within the City due to the lack of topography and unchannelized waterbodies.
+        Topsoil, recent alluvium, and weathered bedrock are typically porous and may be subject to hydro-collapse;
+        therefore, these materials can be considered unsuitable for the support of engineered fills and structures. General
+        Plan Public Safety Element Policy 1.2 requires the implementation of Uniform Building Code seismic safety
+        standards for the construction of new buildings. In addition, the California Building Code requires all new
+        development to have a site specific geology report prepared by a registered geologist or soils expert and submitted
+        to the City for review, which will ensure impacts related to expansive soils will be evaluated on a project-by-project
+        basis. The project will not involve development activity. Any future development will be subject to compliance with
+15 State of California Department of Conservation. Alquist-Priolo Earthquake Fault Zone Maps. http://www.quake.ca.gov/gmaps/ap/ap_maps.htm
+[August 26, 2014]
+16 City of Baldwin Park. General Plan Environmental Impact Report. September 2002.
+26                                                                            City of Baldwin Park Health and Sustainability Element
+
+                                                                                       Evaluation of Environmental Impacts
+      Public Safety Policy 1.2 of the General Plan and the California Building Code to ensure potential impacts of
+      liquefaction will be less than significant.
+D)    Less than Significant Impact. Expansion and contraction of volume can occur when expansive soils undergo
+      alternating cycles of wetting (swelling) and drying (shrinking). During these cycles, the volume of the soil changes
+      markedly and can cause structural damage to building and infrastructure if the potentially expansive soils were not
+      considered in project design and construction. Compaction of loose soils and poorly consolidated alluvium occur as
+      a result of strong seismic shaking. The amount of compaction may vary from a few inches to several feet and may
+      be significant in areas of thick soil cover. Topsoil, recent alluvium, and weathered bedrock are typically porous and
+      may be subject to hydro-collapse; therefore, these materials can be unsuitable for the support of engineered fills
+      and structures.
+      Unconsolidated to semi-consolidated alluvium underlie Baldwin Park. Therefore, these soils are considered
+      potentially expansive. The proposed Health and Sustainability Element does not involve construction or
+      development activity and future developments are subject to the City’s standard development review process. The
+      CBC requires that a soil and geological report be prepared for any development, including future development.
+      Presence of expansive soils and identification of measures to eliminate this constraint (such as removal and
+      replacement with suitable engineered materials) will be determined through site-specific geotechnical evaluations
+      to be conducted as part of the City’s routine development review procedures. Such routine procedures will apply to
+      all future development projects. As such, potential impacts associated with expansive soils will be less than
+      significant.
+E)    No Impact. The City of Baldwin Park is served by the Los Angeles Sanitation District with a network of sewer lines.
+      Septic tanks are not used in the City. No impact will occur.
+City of Baldwin Park Health and Sustainability Element                                                                   27
+
+Evaluation of Environmental Impacts
+4.7 – GREENHOUSE GAS EMISSIONS
+                                                                    Potentially           Less Than           Less Than           No
+                                                                    Significant       Significant with        Significant       Impact
+                                                                      Impact              Mitigation            Impact
+                                                                                       Incorporation
+  A)     Generate greenhouse gas emissions, either
+         directly or indirectly, that may have a significant
+         impact on the environment?
+  B)     Conflict with an applicable plan, policy or
+         regulation adopted for the purpose of reducing
+         the emissions of greenhouse gases?
+A)     Less than Significant Impact. Climate change is the distinct change in measures of climate for a long period of
+       time. Climate change is the result of numerous, cumulative sources of greenhouse gas emissions all over the
+       world. Natural changes in climate can be caused by indirect processes such as changes in the Earth’s orbit around
+       the Sun or direct changes within the climate system itself (i.e. changes in ocean circulation). Human activities can
+       affect the atmosphere through emissions of greenhouse gases (GHG) and changes to the planet’s surface. Human
+       activities that produce GHGs are the burning of fossil fuels (coal, oil and natural gas for heating and electricity,
+       gasoline and diesel for transportation); methane from landfill wastes and raising livestock, deforestation activities;
+       and some agricultural practices.17
+       Greenhouse gases differ from other emissions in that they contribute to the “greenhouse effect.” The greenhouse
+       effect is a natural occurrence that helps regulate the temperature of the planet. The majority of radiation from the
+       Sun hits the Earth’s surface and warms it. The surface in turn radiates heat back towards the atmosphere, known
+       as infrared radiation. Gases and clouds in the atmosphere trap and prevent some of this heat from escaping back
+       into space and re-radiate it in all directions. This process is essential to supporting life on Earth because it warms
+       the planet by approximately 60° Fahrenheit. Emissions from human activities since the beginning of the industrial
+       revolution (approximately 250 years ago) are adding to the natural greenhouse effect by increasing the gases in the
+       atmosphere that trap heat, thereby contributing to an average increase in the Earth’s temperature. Greenhouse
+       gases occur naturally and from human activities. Greenhouse gases produced by human activities include carbon
+       dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and
+       sulfur hexafluoride (SF6). Since 1750, it is estimated that the concentrations of carbon dioxide, methane, and
+       nitrous oxide in the atmosphere have increased over 36 percent, 148 percent, and 18 percent, respectively,
+       primarily due to human activity. Emissions of greenhouse gases affect the atmosphere directly by changing its
+       chemical composition while changes to the land surface indirectly affect the atmosphere by changing the way the
+       Earth absorbs gases from the atmosphere.
+       The proposed Health and Sustainability Element does not involve construction or development activity. The
+       proposed Health and Sustainability Element does not propose any land use changes that were not foreseen in the
+       General Plan; therefore, any GHG emissions resulting from this development have been analyzed and accounted
+       for in the General Plan EIR. Any future development will be subject to the City’s standard development review
+       process which includes measuring GHG emissions. GHG emissions for potential development can be quantified
+       utilizing the California Emissions Estimator Model (CalEEMod) to determine if the project could have a cumulatively
+       considerable impact related to greenhouse gas emissions. A numerical threshold for determining the significance of
+       greenhouse gas emissions in the South Coast Air Basin has not officially been adopted by the SCAQMD. Individual
+       projects may be required to have a greenhouse gas emissions inventory prepared to determine if individual projects
+       exceed applicable screening or impact thresholds and will thus potentially contribute substantially to climate change
+17 United States Environmental Protection Agency. Frequently Asked Questions About Global Warming and Climate Change. Back to Basics. April
+2009.
+28                                                                           City of Baldwin Park Health and Sustainability Element
+
+                                                                                                  Evaluation of Environmental Impacts
+        and associated impacts. Adoption and implementation of the Health and Sustainability Element will not generate
+        GHG emissions, either directly or indirectly, that may have a significant impact on the environment as the project
+        does not authorize construction activity or new development. No impact will occur.
+B)      Less than Significant Impact. Significant impacts will occur if the proposed project conflicted with or interfered
+        with implementation of any existing GHG reduction plan that is projected to achieve greenhouse gas reduction
+        targets. The two primary reduction plans are California Air Resources Board (CARB) Scoping Plan and SCAG’s
+        Regional Transportation Plan/Sustainable Communities Strategy (RTP/SCS) as discussed below.
+        California Air Resources Board Scoping Plan (AB32)
+        The CARB Scoping Plan is the comprehensive plan to reach the GHG reduction targets stipulated in AB32. The
+        key elements of the plan are to expand and strengthen energy efficiency programs, achieve a statewide renewable
+        energy mix of 33 percent, develop a cap-and-trade program with other partners in the Western Climate Initiative
+        (includes seven states in the United States and four territories in Canada), establish transportation-related targets,
+        and establish fees.18 CARB estimates that implementation of these measures will reduce GHG emissions in the
+        state by 136 MMTCO2E by 2020; therefore, implementation of the Scoping Plan will meet the 2020 reduction target
+        of 80 MMTCO2E, which is a reduction of 27 percent compared to the projected business as usual 507 MMTCO2E.
+        Many of the strategies identified in the Scoping Plan are not applicable at the General Plan or project level, such as
+        long-term technological improvements to reduce emissions from vehicles. Some measures are applicable and
+        supported by the project, such as provision of mixed-use developments. Finally, while some measures are not
+        directly applicable, the project will not conflict with their implementation. The reduction measures are grouped into
+        18 action categories. The reduction measures and their consistency with AB32 Scoping Plan are described, as
+        follows:
+        1. California Cap-and-Trade Program Linked to Western Climate Initiative Partner Jurisdictions.
+              Implement a broad-based California cap-and-trade program to provide a firm limit on emissions. Link the
+              California cap–and-trade program with other Western Climate Initiative Partner programs to create a regional
+              market system to achieve greater environmental and economic benefits for California.19 Ensure California’s
+              program meets all applicable AB 32 requirements for market-based mechanisms. These programs involve
+              capping emissions from electricity generation, industrial facilities, and broad-scoped fuels. The project does
+              not involve any such uses.
+        2. California Light-Duty Vehicle Greenhouse Gas Standards. Implement adopted Pavley standards and
+              planned second phase of the program. Align zero-emission vehicle, alternative and renewable fuel and vehicle
+              technology programs with long-term climate change goals. This measure is not applicable as this is a
+              statewide measure establishing vehicle emissions standards.
+        3. Energy Efficiency. Maximize energy efficiency building and appliance standards, and pursue additional
+              efficiency efforts including new technologies, and new policy and implementation mechanisms. Pursue
+              comparable investment in energy efficiency from all retail providers of electricity in California (including both
+              investor-owned and publicly owned utilities). The Health and Sustainability Element promotes energy-efficient
+              building design, as well as implementation of existing building and other codes regulating minimum energy,
+              water, and waste efficiency consistent with 2011 CALGREEN requirements and will thus be consistent and not
+              interfere with this program.
+        4. Renewables Portfolio Standards. Achieve 33 percent renewable energy mix statewide by 2020. This
+              establishes the minimum statewide renewable energy mix and is not applicable at a City level or below for
+18 California Air Resources Board. Climate Change Scoping Plan. December 2008.
+19 California Air Resources Board. California GHG Emissions – Forecast (2002-2020). October 2010.
+City of Baldwin Park Health and Sustainability Element                                                                            29
+
+Evaluation of Environmental Impacts
+              implementation. The proposed Health and Sustainability Element will not interfere with the implementation of
+              this program.
+        5. Low Carbon Fuel Standard. Develop and adopt the Low Carbon Fuel Standard. This measure is not
+              applicable to a City as this establishes reduced carbon intensity of transportation fuels.
+        6. Regional Transportation-Related Greenhouse Gas Targets. Develop regional greenhouse gas emissions
+              reduction targets for passenger vehicles. As is detailed below, the proposed Health and Sustainability Element
+              will not conflict with and will support the implementation of SCAG’s RTP/SCS to achieve the required GHG
+              reduction goals by 2020 and 2035 based on consistency with growth projections. The Health and Sustainability
+              Element, as well as the Baldwin Park General Plan, includes policies to reduce vehicle miles traveled by
+              encouraging mixed-use, infill, an improved jobs-housing balance, and alternative modes of transportation.
+        7. Vehicle Efficiency Measures. Implement light-duty vehicle efficiency measures. This measure is not
+              applicable to a city as this identifies measures such as minimum tire-fuel efficiency, lower friction oil, and
+              reduction in air conditioning use.
+        8. Goods Movement. Implement adopted regulations for the use of shore power for ships at berth. Improve
+              efficiency in goods movement activities. Identifies measures to improve goods movement efficiencies such as
+              advanced combustion strategies, friction reduction, waste heat recovery, and electrification of accessories.
+              The proposed Health and Sustainability Element will not result in the development of uses that will involve the
+              movement of goods and therefore will not interfere with eventual implementation.
+        9. Million Solar Roofs Program. Install 3,000 megawatts of solar-electric capacity under California’s existing
+              solar programs. Sets goal for use of solar systems throughout the state. The proposed Health and
+              Sustainability Element will not interfere with but instead will directly support installation of alternative energy
+              sources through City policies and programs.
+        10. Medium- and Heavy-Duty Vehicles. Adopt medium-duty (MD) and heavy-duty (HD) vehicle efficiencies.
+              Aerodynamic efficiency measures for HD trucks pulling trailers 53-feet or longer that include improvements in
+              trailer aerodynamics and use of rolling resistance tires were adopted in 2008 and went into effect in 2010.20
+              Future, yet to be determined improvements, includes hybridization of MD and HD trucks. The proposed Health
+              and Sustainability Element will not result in development of industrial uses and therefore will not interfere with
+              implementation of this program.
+        11. Industrial Emissions. Require assessment of large industrial sources to determine whether individual
+              sources within a facility can cost-effectively reduce greenhouse gas emissions and provide other pollution
+              reduction co-benefits. Reduce greenhouse gas emissions from fugitive emissions from oil and gas extraction
+              and gas transmission. Adopt and implement regulations to control fugitive methane emissions and reduce
+              flaring at refineries. These measures are applicable to large industrial facilities (> 500,000 MTCO2E/YR) and
+              other intensive uses such as refineries. The proposed Health and Sustainability Element will not result in the
+              development of these facilities and therefore will not interfere with implementation.
+        12. High Speed Rail. Support implementation of a high speed rail system. This is not applicable as the Health
+              and Sustainability Element has no bearing on high speed rail facilities.
+        13. Green Building Strategy. Expand the use of green building practices to reduce the carbon footprint of
+              California’s new and existing inventory of buildings. The Baldwin Park Health and Sustainability Element
+              promotes energy efficient building design as well as implementation of existing building and other codes
+20 California Air Resources Board. Scoping Plan Measures Implementation Timeline. October 2010.
+30                                                                          City of Baldwin Park Health and Sustainability Element
+
+                                                                                       Evaluation of Environmental Impacts
+           regulating minimum energy, water, and waste efficiency consistent with 2011 CALGREEN requirements and
+           will thus be consistent and not interfere with this program.
+      14. High Global Warming Potential Gases. Adopt measures to reduce high global warming potential gases.
+           The proposed Health and Sustainability Element will not directly result in generation of high global warming
+           potential gases, and will not interfere with implementation of any future changes in air conditioning, fire
+           protection suppressant, or other emission requirements.
+      15. Recycling and Waste. Reduce methane emissions at landfills. Increase waste diversion, composting and
+           other beneficial uses of organic materials, and mandate commercial recycling to move toward zero-waste.
+           The proposed Health and Sustainability Element is consistent with this program because the project includes
+           programs to increase composting and recycling and reduce waste.
+      16. Sustainable Forests. Preserve forest sequestration and encourage the use of forest biomass for sustainable
+           energy generation. The 2020 target for carbon sequestration is 5 million MTCO2E/YR. This measure is not
+           applicable as the City does not contain any areas defined as forest.
+      17. Water. Continue efficiency programs and use cleaner energy sources to move and treat water. The proposed
+           Health and Sustainability Element is consistent since development that could occur under it will include use of
+           low-flow fixtures and water-efficient landscaping per State and local requirements.
+      18. Agriculture. In the near-term, encourage investment in manure digesters and at the five-year Scoping Plan
+           update determine if the program should be made mandatory by 2020. The proposed Health and Sustainability
+           Element encourages development of community gardens, but does not involve any large-scale agricultural
+           activity.
+      As summarized above, the proposed Health and Sustainability Element will not conflict with Regional
+      Transportation-Related GHG targets or any of the other provisions of the Scoping Plan. The proposed Health and
+      Sustainability Element in fact supports four of the action categories through energy efficiency, green building,
+      recycling/waste, and water conservation through these proposed and current policies.
+      Regional Transportation Plan/Sustainable Communities Strategy (SB375)
+      The 2012 Regional Transportation Plan/Sustainable Communities Strategy and the goals, policies, and programs
+      included within it are projected to obtain and exceed applicable GHG reduction targets of eight percent by 2020
+      and 13 percent by 2035. Projected reductions by the RTP/SCS are nine percent by 2020 and 16 percent by 2035.
+      Ultimately, the RTP/SCS is keyed to implement the requirements of AB32 at the regional level. For a program-level
+      analysis, if the proposed Health and Sustainability Element is consistent with the assumptions of the RTP/SCS,
+      then long-term development within the planning area will meet regional reduction targets. Furthermore, long-term
+      development will meet the broader statewide reduction goals of 1990 levels by 2020 and 80 percent beyond that by
+      2050. The proposed Health and Sustainability Element will, therefore, not contribute substantially to climate change
+      impacts if it is consistent with the regional and statewide climate change planning efforts.
+      The Health and Sustainability Element includes sections discussing potential energy conservation opportunities,
+      including increased densities within the Downtown area, programs to increase composting and recycling to reduce
+      energy consumption and waste, and policies to encourage use of alternative energy sources. Implementation of the
+      Health and Sustainability Element will promote healthier and more sustainable lifestyles for the City through its
+      goals, policies, and program actions that are consistent with all applicable plans aimed at reducing GHG emissions.
+      The project will not involve construction activity or new development. Impacts will be less than significant.
+City of Baldwin Park Health and Sustainability Element                                                                  31
+Evaluation of Environmental Impacts
+4.8 – HAZARDS AND HAZARDOUS MATERIALS
+                                                           Potentially         Less Than           Less Than        No
+                                                           Significant      Significant with       Significant   Impact
+                                                             Impact            Mitigation            Impact
+                                                                             Incorporation
+  A)   Create a significant hazard to the public or the
+       environment through the routine transport,
+       use, or disposal of hazardous materials?
+  B)   Create a significant hazard to the public or the
+       environment through reasonably foreseeable
+       upset and accident conditions involving the
+       release of hazardous materials into the
+       environment?
+  C)   Emit hazardous emissions or handle
+       hazardous or acutely hazardous materials,
+       substances, or waste within one-quarter mile
+       of an existing or proposed school?
+  D)   Be located on a site which is included on a list
+       of hazardous materials sites compiled
+       pursuant to Government Code Section
+       65962.5 and, as a result, would it create a
+       significant hazard to the public or the
+       environment?
+  E)   For a project located within an airport land use
+       plan or, where such a plan has not been
+       adopted, within two miles of a public airport or
+       public use airport, would the project result in a
+       safety hazard for people residing or working in
+       the project area?
+  F)   For a project within the vicinity of a private
+       airstrip, would the project result in a safety
+       hazard for people residing or working in the
+       project area?
+  G)   Impair implementation of or physically
+       interfere with an adopted emergency
+       response plan or emergency evacuation plan?
+  H)   Expose people or structures to a significant
+       risk of loss, injury or death involving wildland
+       fires, including where wildlands are adjacent
+       to urbanized areas or where residences are
+       intermixed with wildlands?
+A-B) No Impact. The Baldwin Park Health and Sustainability Element is a policy document intended to promote
+     healthier and more sustainable lifestyles for the Baldwin Park community through various goals, policies, and
+     program actions aimed at compact development in the Downtown area, complete streets, reduction of GHG
+     emissions, more recreational activity for all ages, and so forth. The project will not involve development activity that
+     were not foreseen in the General Plan and therefore, analyzed and accounted for in the General Plan EIR. The
+     proposed Housing Element will not conflict with any hazardous materials regulations and will not exempt any future
+32                                                                  City of Baldwin Park Health and Sustainability Element
+
+                                                                                                    Evaluation of Environmental Impacts
+        housing from the City’s programs to control and safely dispose of hazardous materials and wastes or to reduce the
+        volume of wastes requiring landfill disposal. Thus, no impact will result.
+C)      No Impact. The Health and Sustainability Element will not involve development activity and will not generate
+        hazardous air emissions and will not involve the handling of any acutely hazardous substances or wastes. Thus,
+        the project will not result in impacts related to the presence of any hazardous materials or emissions within one
+        quarter mile of a school. No impact will occur.
+D)      Less than Significant Impact. According to the databases maintained as the Cortese List, one site within the City
+        boundaries is identified on the Department of Toxic Substances Control (DTSC) Hazardous Waste and Substances
+        Site List or the State Water Resources Control Board (SWRCB) list of cleanup sites.21 There is potential soil and/or
+        groundwater contamination due to a leaking underground storage tank (LUST) at a site along Los Angeles Street.
+        The LUST site is OSFA Enterprises located at 13623 Los Angeles Street. A site assessment was performed in
+        September 1989, but no further action is noted.22 The project will not involve development activity. Any future
+        development at potential building or community garden sites will be s subject to the City’s standard environmental
+        review process that will include identification of any contaminated sites and implementation of appropriate cleanup
+        and disposal procedures, if needed. Impacts will be less than significant.
+E)      No Impact. The City of Baldwin Park is not located within an airport land use plan influence area. The El Monte
+        Airport is located approximately 1.8 miles from the southwestern border of the city. The proposed Health and
+        Sustainability Element will not involve development activity therefore no impact will occur.23
+F)      No Impact. There are no private airstrips within the vicinity of the City of Baldwin Park. There will be no impact.24
+G)      No Impact. The Baldwin Park General Plan establishes policies regarding adequate emergency response in the
+        event of a disaster, including Public Safety Policy 1.3 that requires the implementation of emergency procedures
+        contained in the City’s Multi-hazard Functional Plan and Supplemental Emergency Preparedness Plans. The
+        Health and Sustainability Element will not change or interfere with the emergency response plans of the City and
+        does not propose any alteration to vehicle circulation routes that could interfere with such plans. In accordance with
+        City policies, the City will review all development proposals to determine the possible impacts of each development
+        on emergency services. No impact will occur.
+        Policy 1.3     Continue to implement emergency procedures contained in the City’s Multi-hazard Functional Plan and
+                       Supplemental Emergency Preparedness Plans.
+H)      No Impact. Baldwin Park is not located within a Fire Hazard Severity Zone, as documented on the latest maps
+        prepared by the California Department of Forestry and Fire Protection.25 Due to the urban character of Baldwin
+        Park and the surrounding area, there are no wildland conditions in the City. No impact will occur.
+21 California Environmental Protection Agency. Cortese List Data Resources/ www.calepa.ca.gov/SiteCleanup/CorteseList/ [August 27, 2014]
+22 California Station Water Resources Control Board. GeoTracker. https://geotracker.waterboards.ca.gov/ [August 27, 2014]
+23 Los Angeles Department of Regional Planning. Airport Land Use Commission. http://planning.lacounty.gov/aluc/maps [August 27, 2014]
+24 Los Angeles Department of Regional Planning. Airport Land Use Commission. http://planning.lacounty.gov/aluc/maps [August 27, 2014]
+25 California Department of Forestry and Fire Protection. Fire Hazard Severity Zones Maps.
+http://www.fire.ca.gov/fire_prevention/fire_prevention_wildland_zones.php [August 27, 2014]
+City of Baldwin Park Health and Sustainability Element                                                                                   33
+
+Evaluation of Environmental Impacts
+4.9 – HYDROLOGY AND WATER QUALITY
+                                                          Potentially       Less Than       Less Than          No
+                                                          Significant    Significant with   Significant    Impact
+                                                            Impact          Mitigation        Impact
+                                                                          Incorporation
+ A)   Violate any water quality standards or waste
+      discharge requirements?
+ B)   Substantially deplete groundwater supplies or
+      interfere substantially with groundwater
+      recharge such that there would be a net deficit
+      in aquifer volume or a lowering of the local
+      groundwater table level (e.g., the production
+      rate of pre-existing nearby wells would drop to
+      a level which would not support existing land
+      uses or planned uses for which permits have
+      been granted)?
+ C)   Substantially alter the existing drainage pattern
+      of the site or area, including through the
+      alteration of the course of a stream or river, in a
+      manner which would result in substantial
+      erosion or siltation on- or off-site?
+ D)   Substantially alter the existing drainage pattern
+      of the site or area, including through the
+      alteration of the course of a stream or river, or
+      substantially increase the rate or amount of
+      surface runoff in a manner which would result
+      in flooding on- or off-site?
+ E)   Create or contribute runoff water which would
+      exceed the capacity of existing or planned
+      stormwater drainage systems or provide
+      substantial additional sources of polluted
+      runoff?
+ F)   Otherwise substantially degrade water quality?
+ G)   Place housing within a 100-year flood hazard
+      area as mapped on a federal Flood Hazard
+      Boundary or Flood Insurance Rate Map or
+      other flood hazard delineation map?
+ H)   Place within a 100-year flood hazard area
+      structures which would impede or redirect flood
+      flows?
+ I)   Expose people or structures to a significant risk
+      of loss, injury or death involving flooding,
+      including flooding as a result of the failure of a
+      levee or dam?
+ J)   Inundation by seiche, tsunami, or mudflow?
+34                                                                City of Baldwin Park Health and Sustainability Element
+
+                                                                                                 Evaluation of Environmental Impacts
+A)     Less than Significant Impact. The project is a policy document that facilitates the production of residential and
+       commercial uses within the Downtown area and does not include any components that will change or conflict with
+       water quality regulations or any waste discharge standards. All new development projects must comply with the
+       City’s local procedures to control storm water runoff to prevent violations of regional water quality standards, in
+       accordance with its co-permittee obligations under the countywide municipal storm water permit program, a
+       component of the NPDES program of the federal Clean Water Act. New project proposals will be required to
+       comply with Chapter 52 of the Municipal Code, which contains regulations to meet federal and State water quality
+       requirements related to storm water runoff. General Plan Open Space and Conservation Policy 5.4 requires the
+       continued enforcement of municipal NPDES Permit to protect and improve the quality of local and regional
+       groundwater resources available to the City. Impacts will be less than significant.
+       Policy 5.4       Continue enforcement of municipal National Pollutant Discharge Elimination System (NPDES)
+                        Permit to protect water quality within the San Gabriel River watershed.
+B)     Less than Significant Impact. Potable water in the City of Baldwin Park is provided by three water companies:
+       Valley County Water District (VCWD), San Gabriel Valley Water Company, and Valley View Mutual Water
+       Company (VMWC). VCWD is the largest water supplier in the City and serves approximately 55,000 people in parts
+       of Baldwin Park and neighboring cities. Its main water source is wells beneath the district’s service area from the
+       Upper San Gabriel Groundwater Basin, including four wells in Baldwin Park. The San Gabriel Valley Water
+       Company supplies water exclusively from groundwater wells to customers in Baldwin Park and surrounding cities.
+       Most of the wells are located in Baldwin Park and El Monte, and six of the company’s reservoirs serve Baldwin
+       Park. VCWD supplies water to approximately eight percent of Baldwin Park’s population.
+       VCWD has not reached its maximum capacity for water production from wells. Baldwin Park makes up
+       approximately 48 percent of the VCWD. Total water use in 2010 was 8,313 acre feet per year (AFY) for the entire
+       VCWD service area in 2010 and is projected to increase to 9,536 AFY in 2025. According to the 2010 Urban Water
+       Management Plan, VCWD is capable of meeting all demand scenarios with its current supply including normal
+       year, single dry year, and multiple dry year supply and demand conditions.26
+       The Urban Water Management Plan indicated that sufficient water supplies are available to protect existing and
+       future water needs within the VCWD service area. The existing water supply is sufficient to meet widespread
+       demand without substantially lowering groundwater levels. The City has identified the protection and conservation
+       of its existing and future water resources within the General Plan, Open Space and Conservation Element policies
+       listed below.
+       Goal 5.0       Conserve and protect groundwater supply and water resources.
+       Policy 5.1    Encourage water conservation through education, use of drought tolerant landscapes, and water-
+                     conserving technology.
+       Policy 5.2    Promote the use of native plant material in landscapes and drought tolerant trees, especially in
+                     landscapes of City properties.
+       Policy 5.3     Encourage use and production of reclaimed water.
+       In addition, Goal HS-8 of the Health and Sustainability Element also aims to protect and conserve groundwater
+       levels through various means. Policies are listed below. As the project does not involve development activity that
+       was not foreseen in the General Plan, any water usage resulting from this development has been analyzed and
+       accounted for in the General Plan EIR. Therefore, impacts related to groundwater recharge and depletion will be
+       less than significant.
+26 CIVILTEC Engineering Inc. Valley County Water District 2010 Urban Water Management Plan. June 2011.
+City of Baldwin Park Health and Sustainability Element                                                                           35
+
+Evaluation of Environmental Impacts
+        Goal HS-8 Achieve a high level of water conservation, and continue to improve quality of local
+                       groundwater.
+        Policy 8.01 Promote drought-tolerant landscaping and water conservation technologies and techniques
+        Policy 8.02 Protect and restore above and below ground water bodies from the negative impacts of stormwater
+                       pollution.
+C)      Less than Significant Impact. The City of Baldwin Park is largely developed. Wind and water both cause erosion
+        that could be deposited in local or regional washes and other water bodies. Due to the urbanized nature of the City,
+        future development will not substantially alter the drainage pattern of the area, and will not result in substantial
+        erosion or siltation on or off site. The project will not involve development activity. Future development proposed
+        pursuant to the Health and Sustainability Element will be required to implement standard on-site drainage controls
+        and storm water conveyance devices to direct any drainage appropriately, during construction and operation of
+        future projects. Impacts related to erosion and siltation will be less than significant.
+D)      Less than Significant Impact. Due to the developed nature of the City, future development will not substantially
+        alter the drainage pattern of the area, and will not substantially increase the rate of surface run-off that will cause
+        flooding on or off site. The Health and Sustainability Element does not authorize construction of development and
+        also includes policies and program actions that promote reduction of impervious surfaces in the City. Thus, impacts
+        associated with on- or off-site flooding will be less than significant.
+        Goal HS-8 Achieve a high level of water conservation, and continue to improve quality of local
+                       groundwater.
+        Policy 8.03 Reduce the amount of impervious surfaces in the City through selection of materials, site planning, and
+                       street design.
+E)      Less than Significant Impact. Residential and commercial development in a built-out area typically do not
+        generate significant water pollutants through point discharges but do contribute to water quality impacts due to
+        community-wide and regional urban runoff. The project does not authorize the construction or development of new
+        structures. New development projects associated with the implementation of the proposed Health and
+        Sustainability Element will be required to ensure project-specific and citywide drainage systems have adequate
+        capacity to accommodate new development. The Zoning Code includes design and maintenance guidelines such
+        as requiring parking lots to be designed in a manner that collects surface runoff consistent with the requirements of
+        the NPDES permit. Compliance with the City’s Municipal Code Chapter 52: Storm Water and Urban Runoff
+        Pollution Prevention and the Zoning Code design standards relating to drainage will ensure drainage system
+        capacity impacts are less than significant.
+F)      No Impact. The proposed Health and Sustainability Element does not authorize construction or redevelopment of
+        any development and will not result in any new or more extensive sources of water pollutants. No other impacts to
+        water quality will occur.
+G)      No Impact. The City is not located within a 100-year flood hazard area and the National Flood Insurance Program
+        rate maps classify all of Baldwin Park as Area C, with little chance of flooding. No impact will occur.27
+H)      No Impact. The City is not located within a 100-year flood hazard area and the National Flood Insurance Program
+        rate maps classify all of Baldwin Park as Area C, with little chance of flooding. The project does not involve
+27 City of Baldwin Park. General Plan. September 2002.
+36                                                                       City of Baldwin Park Health and Sustainability Element
+
+                                                                                           Evaluation of Environmental Impacts
+        development activity; future development will be reviewed at the individual project level to ensure that structures
+        will not impede or redirect flood flows. Therefore, no impact will occur.28
+I)      Less than Significant Impact. The City could be subject to inundation if the Santa Fe Dam were to fail. The Army
+        Corps of Engineers flood emergency plan data indicate that failure of the Santa Fe Dam will result in the entire City
+        of Baldwin Park being flooded. Water depths will range from 2 to 12 feet, with shallow depths located at a farther
+        distance from the dam. According to the Baldwin Park General Plan, flooding as a result of the failure of this dam is
+        considered unlikely due to the method of construction and the dam’s past performance during previous
+        earthquakes. Thus, less than significant impacts are anticipated. The project will not authorize construction activity
+        or new development. Future development will be subject to comply with the goals and policies of the General Plan
+        that serve to reduce potential impacts related to flooding. Flooding risk is addressed in the City’s Multi-hazard
+        Functional Plan and Supplemental Emergency Preparedness Plans. Compliance with the General Plan Public
+        Safety Element goals and policies and the City’s Multi-hazard Functional Plan and Supplemental Emergency
+        Preparedness Plans will reduce flood impacts to less than significant.
+        Goal 2.0       Protect Baldwin Park residents, the work force, and visitors from flood hazards.
+        Policy 2.1     Work in cooperation with the Los Angeles County Department of Public Works to identify and construct
+                       needed local and regional storm drain improvements to relieve localized flooding problems.
+        Policy 2.2     Maintain the City’s Multi-hazard Functional Plan and Supplemental Emergency Preparedness Plans in
+                       a current and continual state of readiness to respond to flooding, as well as other emergencies.
+J)      No Impact. A tsunami is a large wave that generates in the ocean, generally from an earthquake, and builds
+        intense strength and height before impacting a coast. Baldwin Park is not subject to impacts from a tsunami
+        because it is not located near an ocean or sea. A seiche is the process by which water sloshes outside its
+        containing boundaries, generally due to an earthquake. This generally occurs with uncovered, above-ground
+        reservoirs. According to the General Plan, Baldwin Park is not exposed to seiche hazards because the project
+        area is not located near a lake, reservoir, or other open body of water. Mudflows require a slope, water, and
+        unconsolidated soil to occur. The project area is not subject to mudflows because the entire City does not contain
+        steep slopes. No impacts will occur.
+28 City of Baldwin Park. General Plan. September 2002.
+City of Baldwin Park Health and Sustainability Element                                                                     37
+
+Evaluation of Environmental Impacts
+4.10 – LAND USE AND PLANNING
+  Would the project:
+                                                                Potentially             Less Than           Less Than              No
+                                                                Significant         Significant with        Significant         Impact
+                                                                   Impact              Mitigation             Impact
+                                                                                     Incorporation
+  A)     Physically divide an established community?
+  B)     Conflict with any applicable land use plan,
+         policy, or regulation of an agency with
+         jurisdiction over the project (including, but
+         not limited to the general plan, specific plan,
+         local coastal program, or zoning ordinance)
+         adopted for the purpose of avoiding or
+         mitigating an environmental effect?
+  C)     Conflict with any applicable habitat
+         conservation plan or natural community
+         conservation plan?
+A)     No Impact. The proposed Health and Sustainability Element sets forth goals, policies, and program actions to
+       encourage healthier and more sustainable lifestyles for Baldwin Park through compact development in the
+       Downtown area, complete streets, and recreational activities for all ages and does not authorize the construction of
+       new structures or development. Implementation of the Health and Sustainability Element will not provide for new
+       infrastructure systems such as new roadways or flood control channels that will divide or disrupt established
+       neighborhoods. No impact will occur.
+B)     No Impact. The Baldwin Park Health and Sustainability Element sets forth policies to encourage healthier and
+       more sustainable communities consistent with adopted policies established in the General Plan. The Health and
+       Sustainability Element does not involve construction and development activity or include any goals, policies, or
+       programs that will conflict with adopted General Plan goals and policies to mitigate environmental effects. The
+       Health and Sustainability Element is consistent with and will complement and further the goals of the adopted City
+       of Baldwin General Plan. No impact will occur.
+C)     No Impact. According to the Conservation Plans and Agreements database, there are no Habitat Conservation
+       Plans or Natural Community Conservation Plans located in the City of Baldwin Park.29 No impact will occur.
+29 U.S. Fish & Wildlife Service. Conservation Plans and Agreements Database. http://ecos.fws.gov/conserv_plans/public.jsp [August 27, 2014]
+38                                                                           City of Baldwin Park Health and Sustainability Element
+
+                                                                                                Evaluation of Environmental Impacts
+4.11 – MINERAL RESOURCES
+  Would the project:
+                                                                 Potentially          Less Than         Less Than       No
+                                                                 Significant       Significant with     Significant   Impact
+                                                                    Impact            Mitigation          Impact
+                                                                                    Incorporation
+  A)      Result in the loss of availability of a known
+          mineral resource that would be of value to
+          the region and the residents of the state?
+  B)      Result in the loss of availability of a locally-
+          important mineral resource recovery site
+          delineated on a local general plan, specific
+          plan or other land use plan?
+A)      No Impact. State guidelines require that the City of Baldwin Park and other cities establish policies within their
+        General Plans to manage identified mineral resource areas of statewide or regional significance. The location and
+        level of importance of these mineral resource areas is determined by the California Department of Conservation,
+        California Geological Survey. Since 1982, all of Baldwin Park has been designated by the State Geologist as a
+        Mineral Resource Zone 2 (MRZ-2) where “adequate information indicates that significant mineral deposits are
+        present or where it is judged that a high likelihood for their presence exists.” Given the MRZ-2 designation and the
+        active extraction activities in surrounding areas, it is highly likely that mineral resources exist in Baldwin Park.
+        However, the City is largely built out with urban uses that are incompatible with mineral extraction and/or surface
+        mining activities. Thus, the Health and Sustainability Element and General Plan policies do not provide for mining
+        activity to occur. In a regional context, potential resources in Baldwin Park are limited in extent and inaccessible
+        due to urbanization; thus, impacts on aggregate resources are not considered significant.30
+B)      No Impact. Neither the General Plan nor any other City planning documents identify any locally important mineral
+        resource recovery sites within the City. No impact will occur.31
+30 City of Baldwin Park. General Plan Environmental Impact Report. September 2002.
+31 City of Baldwin Park. General Plan Environmental Impact Report. September 2002.
+City of Baldwin Park Health and Sustainability Element                                                                          39
+
+Evaluation of Environmental Impacts
+4.12 – NOISE
+   Would the project result in:
+                                                                     Potentially           Less Than         Less Than        No
+                                                                     Significant       Significant with      Significant    Impact
+                                                                       Impact              Mitigation           Impact
+                                                                                        Incorporation
+   A)     Exposure of persons to or generation of noise
+          levels in excess of standards established in
+          the local general plan or noise ordinance, or
+          applicable standards of other agencies?
+   B)     Exposure of persons to or generation of
+          excessive groundborne vibration or
+          groundborne noise levels?
+   C)     A substantial permanent increase in ambient
+          noise levels in the project vicinity above levels
+          existing without the project?
+   D)     A substantial temporary or periodic increase in
+          ambient noise levels in the project vicinity
+          above levels existing without the project?
+   E)     For a project located within an airport land use
+          plan or, where such a plan has not been
+          adopted, within two miles of a public airport or
+          public use airport, would the project expose
+          people residing or working in the project area
+          to excessive noise levels?
+   F)     For a project within the vicinity of a private
+          airstrip, would the project expose people
+          residing or working in the project area to
+          excessive noise levels?
+Fundamentals of Sound and Environmental Noise
+Noise can be defined as unwanted sound. Because the City is fully urbanized, the primary noise source in the
+community is traffic noise.
+Sound (and therefore noise) consists of energy waves that people receive and interpret. Sound pressure levels are
+described in logarithmic units of ratios of sound pressures to a reference pressure, squared. These units are called bels.
+In order to provide a finer description of sound, a bel is subdivided into ten decibels, abbreviated dB. To account for the
+range of sound that human hearing perceives, a modified scale is utilized known as the A-weighted decibel (dBA). Since
+decibels are logarithmic units, sound pressure levels cannot be added or subtracted by ordinary arithmetic means For
+example, if one automobile produces a sound pressure level of 70 dBA when it passes an observer, two cars passing
+simultaneously would not produce 140 dB. In fact, they would combine to produce 73 dBA. This same principle can be
+applied to other traffic quantities as well. In other words, doubling the traffic volume on a street or the speed of the traffic
+will increase the traffic noise level by 3 dBA. Conversely, halving the traffic volume or speed will reduce the traffic noise
+level by 3 dBA. A 3 dBA change in sound is the level where humans generally notice a barely perceptible change in
+sound and a 5 dBA change is generally readily perceptible.32
+32 California Department of Transportation. Basics of Highway Noise: Technical Noise Supplement. November 2009.
+40                                                                             City of Baldwin Park Health and Sustainability Element
+
+                                                                                                               Evaluation of Environmental Impacts
+Noise consists of pitch, loudness, and duration; therefore, a variety of methods for measuring noise has been developed.
+According to the California General Plan Guidelines for Noise Elements, the following are common metrics for measuring
+noise:33
+        LEQ (Equivalent Energy Noise Level): The sound level corresponding to a steady-state sound level containing the
+        same total energy as a time-varying signal over given sample periods. LEQ is typically computed over 1-, 8-, and
+        24-hour sample periods.
+        CNEL (Community Noise Equivalent Level): The average equivalent A-weighted sound level during a 24-hour
+        day, obtained after addition of five decibels to sound levels in the evening from 7:00 P.M. to 10:00 P.M. and after
+        addition of ten decibels to sound levels in the night from 10:00 P.M. to 7:00 A.M.
+        LDN (Day-Night Average Level): The average equivalent A-weighted sound level during a 24-hour day, obtained
+        after the addition of ten decibels to sound levels in the night after 10:00 P.M. and before 7:00 A.M.
+CNEL and LDN are utilized for describing ambient noise levels because they account for all noise sources over an
+extended period of time and account for the heightened sensitivity of people to noise during the night. LEQ is better
+utilized for describing specific and consistent sources because of the shorter reference period.
+Fundamentals of Environmental Groundborne Vibration
+Vibration is sound radiated through the ground. The rumbling sound caused by the vibration of room surfaces is called
+groundborne noise. The ground motion caused by vibration is measured as particle velocity in inches per second, and in
+the U.S. is referenced as vibration decibels (VdB).
+The background vibration velocity level in residential and educational areas is usually around 50 VdB. The vibration
+velocity level threshold of perception for humans is approximately 65 VdB. A vibration velocity level of 75 VdB is the
+approximately dividing line between barely perceptible and distinctly perceptible levels for many people. Sources within
+buildings such as operation of mechanical equipment, movement of people, or the slamming of doors causes most
+perceptible indoor vibration. Typical outdoor sources of perceptible groundborne vibration are construction equipment,
+steel-wheeled trains, and traffic on rough roads. If a roadway is smooth, the groundborne vibration from traffic is rarely
+perceptible. The range of interest is from approximately 50 VdB, which is the typical background vibration velocity level,
+and 100 VdB, which is the general threshold where minor damage can occur in fragile buildings.
+The general human response to different levels of groundborne vibration velocity levels is described in Table 4 (Human
+Reaction to Vibration).
+                                                                              Table 4
+                                                             Human Reaction to Vibration
+                         Vibration Velocity Level                                                   Human Reaction
+                                     65 VdB                               Approximate threshold of perception for many people.
+                                                                          Approximate dividing line between barely perceptible and
+                                     75 VdB                               distinctly perceptible. Many people find that transportation-
+                                                                          related vibration at this level is unacceptable.
+                                                                          Vibration acceptable only if there are an infrequent number of
+                                     85 VdB
+                                                                          events per day.
+            Source: Federal Transit Administration, Transit Noise and Vibration Impact Assessment, May 2006.
+33 California Governor’s Office of Planning and Research. General Plan Guidelines. 2003.
+City of Baldwin Park Health and Sustainability Element                                                                                         41
+
+Evaluation of Environmental Impacts
+A)    Less than Significant Impact. The primary contributor to ambient noise in the planning area is traffic, particularly
+      from major roadways such as Interstate 10 (I-10) and Interstate 605 (I-605). The proposed Health and
+      Sustainability Element does not authorize construction of new structures or development. Future development
+      proposed pursuant to the Health and Sustainability Element has been analyzed and accounted for in the General
+      Plan EIR. Additionally, this future development will be subject to the City’s standard development review process.
+      To determine if future development will be exposed to ambient noise levels in excess of the noise level standards
+      established in Baldwin Park, noise levels from future traffic volumes have been estimated and compared to the
+      City’s noise level standards. The Baldwin Park General Plan identifies standards for residential land uses and noise
+      compatibility, as summarized in Table 5 (City of Baldwin Park Noise Ordinance Standards).
+                                                                    Table 5
+                                              City of Baldwin Park Noise Ordinance Standards
+                        Zone                              Allowable Noise Level (dBA)                        Time of Day
+                     Residential                                      55                              7:00 A.M. – 7:00 P.M. (Day)
+                     Residential                                      50                          7:00 P.M.. – 10:00 P.M. (Evening)
+                     Residential                                      45                            10:00 P.M. – 7:00 A.M. (Night)
+                    Commercial                                        65                      7:00 A.M. – 10:00 P.M. (Day and Evening)
+                    Commercial                                        55                             7:00 P.M. – 7:00 A.M. (Night)
+                      Industrial                                      65                                       Anytime
+   Source: City of Baldwin Park, Zoning Code, April 2012
+      Future development will be subject to standard environmental review pursuant to CEQA and the City’s local
+      implementation procedures. This typically includes preparation of a project-specific noise impact analysis to
+      determine if the development will be exposed to excessive noise levels and identify appropriate mitigation. The
+      most common type of exterior mitigation involves barriers that could include walls. Interior noise levels will be
+      controlled through common building techniques, particularly in specifying window requirements with minimum
+      standard transmission coefficient. Impacts related to exposure of persons to ambient noise levels in excess of
+      identified standards will be less than significant with implementation of the noise policies in the Baldwin Park
+      General Plan and Zoning Code.
+      Future development pursuant to the proposed Health and Sustainability Element is subject to the policies of the
+      existing General Plan designed to minimize noise impacts to residential properties. Noise policies will be
+      implemented during the City’s standard environmental review process during the entitlement process for future
+      developments. Impacts to new development related to noise levels in excess of established standards and
+      permanent increase in ambient noise will be less than significant with implementation of General Plan policies,
+      Zoning Code requirements, and State interior noise standards.
+B)    Less than Significant Impact. Vibration can impact people, structures, and sensitive equipment. The primary
+      concern related to vibration and people is the potential to annoy those working and residing in the area. Vibration
+      with high enough amplitudes can damage structures (such as crack plaster or destroy windows). Groundborne
+      vibration can also disrupt the use of sensitive medical and scientific instruments such as electron microscopes.
+      Implementation of the proposed Health and Sustainability Element will not involve development activity and does
+      not include uses that cause vibration. However, the General Plan EIR analyzed and accounted for future buildout of
+      land uses in the City and included mitigation measures that the City would apply to development. Additionally, any
+      future development will be subject to the City’s standard development review process.
+      Groundborne vibration generated by construction projects is usually highest during pile driving, rock blasting, soil
+      compacting, jack-hammering, and demolition-related activities. Next to pile driving, grading activity has the greatest
+42                                                                           City of Baldwin Park Health and Sustainability Element
+
+                                                                                           Evaluation of Environmental Impacts
+      potential for vibration impacts if large bulldozers or large trucks are used. Future development, once constructed,
+      do not utilize machinery that will generate substantial amounts of vibration. However, the construction of future
+      potential developments could utilize machinery that will generate substantial amounts of ground vibration.
+      Construction of future development is not likely to require rock blasting considering the built-out character of the
+      area or pile driving because the area is not subject to liquefaction hazards; however, jack hammering will also likely
+      be required for demolition activities.
+      Table 6 (Common Construction Vibration) summarizes vibration levels from common construction equipment.
+      Impacts to structures can occur from 0.08 PPV to 2.00 PPV depending on the duration of the vibration and the age
+      of the structure. Similarly, human annoyance to vibration can occur from 0.01 PPV to 2.00 PPV depending on the
+      duration.
+                                                                        Table 6
+                                                     Common Construction Vibration
+                                           Equipment                            PPV (in/sec at 25ft)
+                                Crack-and-Seat Operations                              2.400
+                                        Vibratory Roller                               0.210
+                                        Large Bulldozer                                0.089
+                                        Caisson Drilling                               0.089
+                                        Loaded Trucks                                  0.076
+                                          Jackhammer                                   0.035
+                                        Small Bulldozer                                0.003
+                       Source: California Department of Transportation 2004
+      Vibration impacts are temporary and rare except in cases where large equipment is used near existing, occupied
+      development. Construction noise and associated vibration will be controlled through the time restrictions currently
+      established in the City’s Noise Control requirements. Section 130.37E of the Municipal Code requires that
+      construction activity and equipment maintenance is limited to the hours between 7:00 A.M. to 7:00 P.M. These
+      restrictions will minimize potential annoyance impacts to nearby residential development during sensitive evening
+      and noise hours. Noise and vibration impacts will be evaluated on a project-by-project basis pursuant to CEQA and
+      the City’s local implementation procedures. Vibration is difficult to control and the best methods for mitigation are
+      avoidance. Typical vibration mitigation includes routing and placement of equipment to maximize distance to
+      receptors and use of alternative equipment, such as use of drilled pile drivers as opposed to impact drivers.
+      Subsurface dampeners can also be utilized to reduce groundborne vibration. As the project will not involve
+      construction of new structures and any future development pursuant to the Health and Sustainability Element will
+      be subject to comply with local environmental review procedures, impacts related to exposure to groundborne
+      vibration will be less than significant.
+C)    Less than Significant Impact. The project will create a significant noise impact if it causes an adopted noise
+      standard to be exceeded for the project site or for adjacent receptors. The proposed Health and Sustainability
+      Element does not involve construction of new development and will not increase residential densities and
+      commercial intensities that were not foreseen in the General Plan. Therefore the project will not increase ambient
+      noise from traffic or operational sources beyond those analyzed in the General Plan EIR. Impacts will be less than
+      significant.
+D)    Less than Significant Impact. The Health and Sustainability Element does not authorize development on any
+      particular site but does include policies that could facilitate future development. Future development pursuant to the
+      proposed Health and Sustainability Element will result in periodic noise outdoors associated with landscaping
+City of Baldwin Park Health and Sustainability Element                                                                     43
+
+Evaluation of Environmental Impacts
+     activities, solid waste and recycling pick-up, and people talking outside on the common areas in commercial
+     spaces. Typical periodic noise associated with housing is solid waste pick-up and deliveries at commercial portions
+     of mixed-use developments. These are common noises in an urban setting.
+     Temporary increase in local noise levels will be associated with construction activities to new development.
+     Construction noise will be controlled through the time restrictions currently established in the City’s Noise Control
+     requirements (Section 130.37E of the Municipal Code). Furthermore, future development will be subject to the
+     City’s standard environmental review procedures to ensure that temporary and periodic noise is assessed and
+     mitigated, if necessary. Continued enforcement of the City’s noise restrictions and environmental review
+     procedures will ensure temporary and periodic noise impacts associated with new development will be less than
+     significant.
+E)   No Impact. The City of Baldwin Park is not located within an Airport Land Use Plan. No impact will occur.
+F)   No Impact. There are no private airstrips in the vicinity of Baldwin Park. No impact will result.
+44                                                                  City of Baldwin Park Health and Sustainability Element
+
+                                                                                       Evaluation of Environmental Impacts
+4.13 – POPULATION AND HOUSING
+  Would the project:
+                                                            Potentially        Less Than         Less Than        No
+                                                            Significant     Significant with     Significant    Impact
+                                                              Impact           Mitigation          Impact
+                                                                             Incorporation
+  A)    Induce substantial population growth in an
+        area, either directly (for example, by
+        proposing new homes and businesses) or
+        indirectly (for example, through extension of
+        roads or other infrastructure)?
+  B)    Displace substantial numbers of existing
+        housing, necessitating the construction of
+        replacement housing elsewhere?
+  C)    Displace substantial numbers of people,
+        necessitating the construction of replacement
+        housing elsewhere?
+A)    Less than Significant Impact. Population growth is a complex interaction among immigration, emigration, birth,
+      deaths, and economic factors. The proposed Health and Sustainability Element is designed to promote healthier
+      and more sustainable lifestyles for the community through various goals, policies, and program actions but does
+      not involve construction of new structures or development. The project intends to promote compact development
+      within the Downtown area, increase the number of complete streets to facilitate walkability, bicycle and transit use,
+      and more recreational activities. The goals and policies in the Health and Sustainability Element are consistent with
+      other Elements in the Baldwin Park General Plan. As the Health and Sustainability Element is consistent with the
+      other Elements in the General Plan, the increase in population from future development project resulting from
+      Health and Sustainability Element policies is within the growth assumptions estimated by SCAG and analyzed by
+      the General Plan EIR. Therefore, implementation of the Health and Sustainability Element will not induce growth
+      beyond that already planned. Impacts will be less than significant.
+B)    Less than Significant Impact. The proposed Health and Sustainability Element is designed to promote healthier
+      and more sustainable lifestyles for the community through various goals, policies, and program actions. The City is
+      urbanized and largely built out. The Health and Sustainability Element proposes to encourage revitalization of the
+      Downtown area by promoting higher-intensity residential and commercial land uses to encourage compact
+      development but does not authorize construction or development activity that would displace substantial numbers
+      of existing housing, necessitating the construction of replacement housing elsewhere. Thus, impact will be less
+      than significant.
+C)    Less than Significant Impact. The proposed Health and Sustainability Element will not directly displace any
+      people because the project does not authorize the demolition or conversion of any residential development. The
+      Health and Sustainability Element will encourage higher-intensity residential and commercial uses in the Downtown
+      area. The Downtown area is already urbanized with residential and commercial uses and the project does not
+      propose changes to any existing development or land. To accommodate higher-intensity residential and
+      commercial uses, underutilized parcels may be developed with uses that promote the goals of the Health and
+      Sustainability Element. However, any land use changes resulting in redevelopment has been analyzed and
+      accounted for in the General Plan EIR. The proposed Health and Sustainability Element will not influence economic
+      factors, such as the relocation of a large employment base to a different region that could require the construction
+      of new housing. Impacts will be less than significant.
+City of Baldwin Park Health and Sustainability Element                                                                  45
+
+Evaluation of Environmental Impacts
+4.14 – PUBLIC SERVICES
+  Would the project result in substantial adverse physical impacts associated with the provision of new or physically
+  altered governmental facilities, need for new or physically altered governmental facilities, the construction of which
+  could cause significant environmental impacts, in order to maintain acceptable service ratios, response times or
+  other performance objectives for any of the public services:
+                                                                Potentially        Less Than           Less Than           No
+                                                                Significant     Significant with       Significant       Impact
+                                                                  Impact           Mitigation             Impact
+                                                                                 Incorporation
+  A)         Fire protection?
+  B)         Police protection?
+  C)         Schools?
+  D)         Parks?
+  E)         Other public facilities?
+A-E) Less than Significant Impact. The Baldwin Park Health and Sustainability Element sets forth goals, policies and
+      program actions to encourage healthier and more sustainable lifestyles through compact development in the
+      Downtown area, complete streets, programs for reduction of waste, water use, and GHG emissions, and additional
+      recreational activities for the residents that are consistent with adopted General Plan polices. The project does not
+      propose development activity that was not foreseen in the General Plan, and has been analyzed and accounted for
+      in the General Plan EIR. Future development constructed pursuant to Health and Sustainability Element will
+      incrementally increase the need for fire and police protection, schools, and parks. The General Plan EIR indicates
+      that build-out of the land use plan will result in significant impacts to parks, schools, fire, police, and library services.
+      Fire and Police Services
+      The following Public Safety Element policies are designed to ensure adequate provision of public services in
+      response to long-term growth. Property taxes and other special taxes paid by future property owners will also
+      support the incremental expansion of public services as the population in the City grows. Impacts to fire and police
+      services will be less than significant.
+      Goal 5.0      Provide a safe environment for the community of Baldwin Park.
+      Policy 5.1    Periodically evaluate levels of service to ensure Baldwin Park has appropriate levels of police service.
+      Policy 5.2    Continue the City’s aggressive program of Community Based Policing to enhance public awareness
+                    and participation in crime prevention.
+      Policy 5.3    Continue to cooperate with the Los Angeles County Sheriff’s Office, along with other nearby police
+                    departments, to provide back-up police assistance in emergency situations.
+      Policy 5.4    Promote the use of defensible space concepts (e.g. site and building lighting, visual observation of
+                    open spaces, secured areas) in project design to enhance public safety.
+      Schools
+      Any impact on the provision of school services created by buildout of development resulting from the General Plan,
+      including the Health and Sustainability Element is mitigated through the payment of development impact fees
+      pursuant to the Leroy F. Green School Facilities Act. With payment of required fees, impact will be less than
+      significant.
+      Parks
+      The provision of parks is guided by the policies of the General Plan Open Space and Conservation Element that
+      promotes the long-term increase in parkland and recreational facilities implemented utilizing a number of financing
+46                                                                      City of Baldwin Park Health and Sustainability Element
+
+                                                                                        Evaluation of Environmental Impacts
+      strategies (see below). The City requires dedication of land or payment of a fee in lieu thereof or a combination of
+      both as a condition of approval for residential subdivisions. The purpose of the dedication and/or fee is to provide
+      parks and recreation facilities. Dedication and/or payment of the fee will help to reduce potential impacts of future
+      residential development on parks and recreational facilities. In addition, the General Plan policies and
+      implementation measures will assist in reducing the impact on parks. Impacts will be less than significant.
+      Goal 3.0      Ensure that parks are accessible and safe for their users and compatible with adjacent
+                    residences and commercial uses.
+      Policy 3.1    Ensure that all parks are adequately illuminated for safe use at night.
+      Policy 3.2    Provide for the supervision of park activities, and promote enforcement of codes restricting illegal
+                    activity.
+      Policy 3.3    Continue coordination of park security between the Recreation and Community Services Department
+                    and the Police Department to ensure that they are adequately patrolled.
+      Policy 3.4    Restrict and control nighttime park use so that adjacent residences are not adversely affected.
+      Goal 4.0      Ensure that the costs of park and recreation facilities and programs are borne by those who
+                    benefit and contribute to additional demands.
+      Policy 4.1    Require that developers contribute to provide parks and recreational facilities to offset additional
+                    demands brought about by new development.
+      Policy 4.2    Pursue the utilization of various state and county funding mechanisms to provide additional funding
+                    resources.
+      Policy 4.3    Establish a formal mechanism by which the City may accept gifts and dedications of parks and open
+                    space.
+      Policy 4.4    Encourage the development of recreation programs by non-City public and private sports
+                    organizations to involve more children and adults in outdoor recreation activity. Use volunteers to
+                    operate and maintain programs whenever possible.
+      The Health and Sustainability Element promotes healthier and more sustainable lifestyles through various goals,
+      policies, and actions including improving and providing more park space to provide additional opportunities for
+      recreation and physical activities. Implementation of Goal HS-13 (listed in Section 4.15) of the Health and
+      Sustainability Element will also reduce the impacts on parks to less than significant.
+      Other Public Facilities – Libraries
+      The City of Baldwin Park is served by one public library; Baldwin Park Library. The Baldwin Park Library, located at
+      4181 Baldwin Park Boulevard, is part of the Los Angeles County library system. This allows for seamless borrowing
+      within the County of Los Angeles. The 15,555-square foot library includes a meeting room, children’s area, teen
+      space, book drop for 24-hour accessible returns, and a reading room. The library is currently under renovation and
+      will reopen September 2, 2014. With the renovations, the library will adequately serve the City. Impacts will be less
+      than significant.
+City of Baldwin Park Health and Sustainability Element                                                                   47
+
+Evaluation of Environmental Impacts
+4.15 – RECREATION
+                                                               Potentially          Less Than        Less Than          No
+                                                               Significant      Significant with     Significant      Impact
+                                                                 Impact             Mitigation         Impact
+                                                                                  Incorporation
+   A)     Would the project increase the use of
+          existing neighborhood and regional parks or
+          other recreational facilities such that
+          substantial physical deterioration of the
+          facility would occur or be accelerated?
+   B)     Does the project include recreational
+          facilities or require the construction or
+          expansion of recreational facilities which
+          might have an adverse physical effect on the
+          environment?
+A)      Less than Significant Impact. The City of Baldwin Park maintains six City-owned parks totaling 26 acres. These
+        include one community park, the 12 acre Morgan Park located in the Central Business District, and five
+        neighborhood parks, Central Park West, Barnes Park, Roadside Park, Walnut Creek Nature Park, and Syhre Park.
+        Residents also have access to approximately 169 acres of joint-use school playground facilities. In addition to the
+        City parks, residents have access to County regional parks within and near the City. The National Recreation and
+        Parks Association (NRPA) established a guideline of 2.5 acres of public park service and facilities.34 With a
+        population of approximately 76,635 (2013 Census count), the City should have approximately 192 acres of parks.
+        Based on the 27 acres of public park land, Baldwin Park has about 0.35 acres of park space per 1,000 residents,
+        which is significantly less than NRPA recommendations. Therefore, the City has an existing deficiency.
+        The proposed Health and Sustainability Element does not authorize the construction of new structures or
+        development. Any development that would occur has been analyzed and accounted for in the General Plan EIR.
+        Future development constructed pursuant to the project will be subject to local environmental and development
+        review procedures. As a condition of approval for new development, the City requires dedication of land or payment
+        of a fee in lieu or a combination of both. The purpose of the dedication and/or fee is to provide parks and recreation
+        facilities. Dedication and/or payment of the fee help to reduce potential impacts of future development on parks and
+        recreational facilities. Any future development will be required to pay development impact fees; thus, deterioration
+        to existing parks and recreation facilities will be less than significant as a result of future development because
+        parks and recreation facilities will be incrementally expanded or new facilities built to meet future demand. In
+        addition, the following existing General Plan Open Space and Conservation policies require the preservation of
+        existing park space, encourage diverse recreational programs, and require developers to contribute to parks and
+        recreational facilities.
+        Goal 1.0       Provide and maintain adequate parks and open space.
+        Policy 1.1     Preserve all existing park space, and provide improvements to enhance utilization.
+        Policy 1.2     Establish as a priority for funding the acquisition and development of parks and recreational facilities in
+                       neighborhoods where there are a shortage of parks.
+        Policy 1.3     Pursue acquisition of property through purchase or donation to create mini-parks where it is not
+                       possible to acquire sufficient acreage for neighborhood parks.
+        Policy 1.4     Continue to work cooperatively with the Baldwin Park Unified School District to maintain and expand
+                       playground use.
+34 City of Baldwin Park. General Plan. November 2002.
+48                                                                        City of Baldwin Park Health and Sustainability Element
+
+                                                                                       Evaluation of Environmental Impacts
+      Goal 2.0     Provide a diversity of recreational programs to meet the needs of all individuals and groups in
+                   Baldwin Park.
+      Policy 2.1   Conduct ongoing needs assessment and evaluation of demands for recreational activities, and modify
+                   programs where necessary to meet these demands.
+      Policy 2.2   Notify City residents of the types of recreation and programs available, and encourage their
+                   participation.
+      Policy 2.3   Incorporate areas for both active and passive recreation in parks and facilities, and ensure that these
+                   are accessible to all age groups, as practical.
+      Goal 4.0     Ensure that the costs of park and recreation facilities and programs are borne by those who
+                   benefit and contribute to additional demands.
+      Policy 4.1   Require that developers contribute to provide parks and recreational facilities to offset additional
+                   demands brought about by new development.
+      Policy 4.2   Pursue the utilization of various state and county funding mechanisms to provide additional funding
+                   resources.
+      Policy 4.3   Establish a formal mechanism by which the City may accept gifts and dedications of parks and open
+                   space.
+      Policy 4.4   Encourage the development of recreation programs by non-City public and private sports
+                   organizations to involve more children and adults in outdoor recreation activity. Use volunteers to
+                   operate and maintain programs whenever possible.
+      The Health and Sustainability Element promotes healthier and more sustainable lifestyles through various goals,
+      policies, and actions including improving and providing more park space to provide additional opportunities for
+      recreation and physical activities. Implementation of Goal HS-13 of the Health and Sustainability Element will also
+      reduce the impacts on parks to less than significant.
+      Goal HS-13             Provide residents of all ages with a range of safe and accessible opportunities for
+                             recreation and physical activities.
+      Policy 13.01           Prioritize the maintenance and expansion of existing parks, recreation facilities, and open
+                             space amenities.
+      Policy 13.02           Build new park spaces and recreational facilities that respond to the community’s changing
+                             demographics.
+      Policy 13.03           Facilitate pedestrian, bicycle, and transit connections to new and existing parks and
+                             recreational facilities to enhance use and access.
+B)    Less than Significant Impact. The Health and Sustainability Element does not authorize the development of
+      parks and recreation facilities on any particular site but does include policies that could facilitate development of
+      future public parks and recreation facilities. Future construction of recreation facilities pursuant to the
+      implementation of the Health and Sustainability Element will be subject to the City’s standard environmental review
+      process pursuant to CEQA. As mentioned in Section 4.14, the City also applies their parkland dedication/in lieu fee
+      to ensure park facilities within the City do not substantially deteriorate from development within the City, including
+      that which may come from the implementation of the Health and Sustainability Element. Impacts related to the
+      potential construction of future parks and recreation facilities, as they relate to the Health and Sustainability
+      Element, will be less than significant.
+City of Baldwin Park Health and Sustainability Element                                                                    49
+
+Evaluation of Environmental Impacts
+4.16 – TRANSPORTATION AND TRAFFIC
+  Would the project:
+                                                           Potentially        Less Than        Less Than          No
+                                                           Significant     Significant with    Significant      Impact
+                                                             Impact           Mitigation         Impact
+                                                                            Incorporation
+  A)   Conflict with an applicable plan, ordinance or
+       policy establishing measures of effectiveness
+       for the performance of the circulation system,
+       taking into account all modes of transportation
+       including mass transit and non-motorized
+       travel and relevant components of the
+       circulation system, including but not limited to
+       intersections, streets, highways and freeways,
+       pedestrian and bicycle paths, and mass
+       transit?
+  B)   Conflict with an applicable congestion
+       management program, including, but not
+       limited to level of service standards and travel
+       demand measures, or other standards
+       established by the county congestion
+       management agency for designated roads or
+       highways?
+  C)   Result in a change in air traffic patterns,
+       including either an increase in traffic levels or
+       a change in location that results in substantial
+       safety risks?
+  D)   Substantially increase hazards due to a
+       design feature (e.g., sharp curves or
+       dangerous intersections) or incompatible uses
+       (e.g., farm equipment)?
+  E)   Result in inadequate emergency access?
+  F)   Conflict with adopted policies, plans, or
+       programs regarding public transit, bicycle, or
+       pedestrian facilities, or otherwise decrease the
+       performance or safety of such facilities?
+A)   Less than Significant Impact. The Health and Sustainability Element does not propose any changes to General
+     Plan land use policy. The General Plan estimates that 60 percent of the increase in traffic over time is expected to
+     be generated by new development. Although the project does not propose any specific construction or
+     development activity, development that may occur under the Health and Sustainability Element has been analyzed
+     and accounted for in the General Plan EIR. Issues associated with ambient growth and traffic will be monitored by
+     the City and mitigated on a project-by-project basis.. Future development will be subject to local environmental
+     review procedures that include traffic assessments. Where traffic studies are required, they will identify project-
+     specific traffic generation, traffic distribution, impacted intersections and roadways, project-specific fair-share
+     improvement fees, and applicable regional transportation fees. General Plan Circulation Element policies maintain
+     level of services standards and goals, as well as encourage land use and circulation planning to support the use of
+50                                                                 City of Baldwin Park Health and Sustainability Element
+
+                                                                                        Evaluation of Environmental Impacts
+      alternative transportation. Policies in the Health and Sustainability Element support the maintenance and reduction
+      of level of service standards and goals by promoting compact development in the Downtown area, increasing
+      number of complete streets in the City to encourage walkability, increase bicycle and transit use, and reduce
+      dependence of automobiles. Impacts related to substantial traffic congestion will be less than significant with
+      implementation of the following existing Circulation Element and proposed Health and Sustainability Element goals
+      and policies.
+      Circulation Element Goals and Policies
+      Policy 1.1    Develop and maintain the local circulation system illustrated in General Plan Figure C-1.
+      Policy 1.2    Require significant new land use developments to prepare traffic studies using intersection analyses to
+                    detail potential traffic impacts.
+      Policy 1.3    Where project-level traffic studies support the need for added street segment capacity, pursue
+                    alternatives to avoid widenings including land restriping, peak hour parking restrictions, and/or similar
+                    less intensive and costly measures.
+      Policy 1.4    Maintain as a goal the provision of service levels at intersections along arterial highways at Level of
+                    Service “D” or better during morning and evening peak travel periods.
+      Policy 1.5    Adopt five-year Capital Improvement Programs that identify street and related improvements required
+                    to ensure smooth traffic flow.
+      Policy 1.6    Continue to automate traffic signals and to develop an integrated traffic signal control system.
+      Policy 1.7    Monitor growth within the City and its impacts on the City street system, and make improvements as
+                    needed consistent with five-year capital improvement plans.
+      Policy 1.8    Develop a modified standard for local residential streets that allows narrower streets to be designed
+                    and constructed within areas designated as pedestrian districts and for residential subdivisions.
+      Goal 3.0      Encourage increased use of public transportation.
+      Policy 3.1    Work with the MTA to establish bus stops at appropriate locations throughout the City to adequately
+                    serve retail, employment, rail and other public gathering areas.
+      Policy 3.2    Provide lighted, sheltered bus stops to encourage transit use.
+      Policy 3.3    Continue to support the City Transit system which serves to provide a viable alternative to the
+                    automobile and to reduce traffic trips.
+      Policy 3.4    Project convenient access to and adequate parking for the City’s Metrolink station to increase
+                    utilization of the Metrolink system by both commuters and visitors to the Baldwin Park area.
+      Goal 4.0      Accommodate alternative modes of transportation in land use and circulation planning.
+      Policy 4.1    Provide for a Citywide bicycle path system consistent with General Plan Figure C-4 that can be
+                    implemented in a safe and efficient manner.
+      Policy 4.2    Continue funding City programs which provide for sidewalk construction in residential neighborhoods
+                    where sidewalks do not exist and are desired by local residents.
+      Health and Sustainability Element Goals and Policies
+      Goal HS-2 Provide for compact walkable neighborhoods and business districts both within and beyond
+                    Downtown.
+      Policy 3.01 Build a network of complete streets that provides space for living, walking, and biking – not just for
+      driving.
+      Policy 3.02 Promote bicycling as a primary mode of transportation and as part of a larger transportation system.
+      Policy 3.04 Promote and expand transit service throughout the City, especially in underserved areas.
+City of Baldwin Park Health and Sustainability Element                                                                    51
+
+Evaluation of Environmental Impacts
+B)      Less than Significant Impact. The Congestion Management Program (CMP) is administered by the Los Angeles
+        County Metropolitan Transportation Authority (Metro). The CMP establishes a service goal of LOS E or better on all
+        CMP roadway segmenst. CMP facilities within Baldwin Park include I-10 and I-605. The proposed Health and
+        Sustainability Element does not involve construction or development activity that has not been analyzed and
+        accounted for in the General Plan EIR. Any future development will be required to prepare a traffic impact analysis
+        to determine if it creates i a substantial change to the level of service. For purposes of the CMP, substantial
+        changes for freeway segments are defined as an increase or decrease of 0.10 in demand to capacity (D/C) ratio
+        and a corresponding change in LOS.35 The City will determine if a traffic impact analysis is required as part of the
+        City’s standard project review process and determine potential future impacts to CMP facilities. Impacts related to
+        level of service standards on CMP facilities will be less than significant.
+C)      No Impact. The proposed Health and Sustainability Element is focused on achieving healthy and sustainable
+        objectives and does not authorize any construction that will result in the need to redirect or otherwise alter air traffic
+        patterns. Furthermore, the proposed Health and Sustainability Element will not result in substantial population
+        growth that could significantly increase air traffic. Therefore, the project will have no air traffic impacts.
+D)      No Impact. The project does not involve the construction of any roadway but will have an effect on the City’s street
+        and site design standards. The Health and Sustainability Element encourages street design to increase the number
+        of complete streets within the City of Baldwin Park by supporting traffic-calming improvements such as improved
+        roadway design, clearly marked crosswalks and bike lanes, speed bumps, median islands, and other traffic-calming
+        measures. Other potential programs include improvements to shading, lighting, and signage.36 These programs,
+        however, will not substantially increase hazards due to design features or incompatible uses but will help reduce
+        hazards and increase pedestrian, bicycle, and vehicular safety. No impact will occur.
+E)      Less than Significant Impact. The project does not involve any road construction or any development activity
+        and thus will not obstruct or restrict emergency access to or through the City. Future development facilitated by
+        implementation of the Health and Sustainability Element policies will be subject to local site plan review. In
+        conjunction with the review and approval of building permits, the County Fire Department reviews all plans to
+        ensure compliance with all applicable emergency access and safety requirements. With continued application of
+        project review procedures, impacts involving emergency access will be less than significant.
+F)      No Impact. The proposed Health and Sustainability Element policies and programs will not conflict with or have an
+        effect on any local or regional policies involving support of alternative transportation. The Health and Sustainability
+        Element does not conflict with General Plan transportation policies that support public transit and will not interfere
+        with the current or future goals involving the local bus systems or Metrolink transit options. In addition, the project
+        encourages walking, bicycling, and the use of public transit. The project will have no impact on alternative
+        transportation plans.37
+35 Los Angeles County Metropolitan Transit Authority. 2010 Congestion Management Program. 2010.
+36 City of Baldwin Park. Draft Health and Sustainability Element. August 2014.
+37 City of Baldwin Park. General Plan. September 2002.
+52                                                                             City of Baldwin Park Health and Sustainability Element
+
+                                                                                              Evaluation of Environmental Impacts
+4.17 – UTILITIES AND SERVICE SYSTEMS
+   Would the project:
+                                                                Potentially           Less Than         Less Than        No
+                                                                Significant       Significant with      Significant    Impact
+                                                                   Impact             Mitigation          Impact
+                                                                                    Incorporation
+   A)    Exceed wastewater treatment requirements of
+         the applicable Regional Water Quality Control
+         Board?
+   B)    Require or result in the construction of new
+         water or wastewater treatment facilities or
+         expansion of existing facilities, the
+         construction of which could cause significant
+         environmental effects?
+   C)    Require or result in the construction of new
+         storm water drainage facilities or expansion of
+         existing facilities, the construction of which
+         could cause significant environmental effects?
+   D)    Have sufficient water supplies available to
+         serve the project from existing entitlements
+         and resources, or are new or expanded
+         entitlements needed?
+   E)    Result in a determination by the wastewater
+         treatment provider which serves or may serve
+         the project that it has adequate capacity to
+         serve the project’s projected demand in
+         addition to the provider’s existing
+         commitments?
+   F)    Be served by a landfill with sufficient permitted
+         capacity to accommodate the project’s solid
+         waste disposal needs?
+   G)    Comply with federal, state, and local statutes
+         and regulations related to solid waste?
+A)     Less than Significant Impact. Wastewater treatment services for the City of Baldwin Park are provided by Los
+       Angeles County Sanitation District (LACSD). Wastewater treatment requirements for the Los Angeles County
+       Sanitation District treatment facilities are established by the Los Angeles Regional Water Quality Control Board
+       (RWQCB).38 These treatment requirements establish pollutant limits for effluent discharges to receiving waters.
+       The project will not result in construction of new structures or development that requires additional wastewater
+       treatment services that was not accounted for and analyzed in the General Plan EIR. Future housing development
+       pursuant to the proposed Health and Sustainability Element will result in typical residential wastewater discharges,
+       and will not require new methods or equipment for treatment that are not currently permitted for the existing
+       treatment plants. The project will not result in an increase in wastewater to such an extent that RWQCB treatment
+       requirements cannot be met. Future development will not interfere with compliance with RWQCB wastewater
+       treatment requirements; thus, no impacts will be less than significant.
+38 Los Angeles Regional Water Quality Control Board. LARWQCB Basin Plan. June 1994.
+City of Baldwin Park Health and Sustainability Element                                                                        53
+
+Evaluation of Environmental Impacts
+B)      Less than Significant Impact. The proposed Health and Sustainability Element will not involve construction or
+        development activity. Future development pursuant to the project will incrementally increase water demand and
+        wastewater discharges. Wastewater is treated at the San Jose Creek Water Reclamation Plant near the City of
+        Whittier, where it is treated and reused as groundwater recharge and irrigation of parks, schools, and greenbelts.
+        LACSD indicates that presently no deficiencies or significant treatment capacity limitations exist within their
+        facilities. According to LACSD, the district has adequate capacity to accommodate development associated with
+        implementation of the proposed project.39
+        The Los Angeles County Department of Public Works, Sewer Maintenance Division, and the Baldwin Park
+        Engineering Division consider the sewer line system adequate to handle foreseeable future development. The City
+        will identify the need for expansion of water and wastewater facilities, such as water and sewer mains, as needed,
+        on a project-by-project basis during its standard environmental review process. Any environmental impacts related
+        to the construction or expansion of water or wastewater facilities will be analyzed and mitigated for at the time of
+        development. The City has adopted policies in the General Plan to reduce potential growth-related impacts
+        associated with future development. With adherence to the policies identified in the existing General Plan Open
+        Space and Conservation Element, impacts related to the expansion of water and wastewater facilities will be less
+        than significant.
+        Policy 1.1     Work closely with local water and sewer districts in determining and meeting community needs for
+                       water and sewer service.
+        Policy 1.2     Permit development densities and intensities no higher than the City’s ability to provide the necessary
+                       public services, utilities, street capacities, and recreational opportunities required for the areas affected
+                       by development.
+C)      Less than Significant Impact. The proposed Health and Sustainability Element is focused on achieving local
+        health and sustainability objectives and does not authorize any construction that will result in the need of new storm
+        water drainage facilities or the expansion of existing facilities. Drainage improvements are constructed on a project-
+        by-project basis. Construction of drainage devices will be subject to standard construction requirements for erosion
+        control and water quality requirements. Future development built pursuant to the proposed Health and
+        Sustainability Element and accounted for and analyzed in the General Plan EIR will comply with existing standards
+        and regulations for conveyance of stormwater; thus, impacts to the environment from construction of storm drain
+        infrastructure will be less than significant.
+D)      Less than Significant Impact. Potable water in Baldwin Park is provided by three water companies: Valley
+        County Water District (VCWD), San Gabriel Valley Water Company, and Valley View Mutual Water Company
+        (VVMWD). VCWD is the largest water supplier and serves approximately 55,000 people. VCWD has the capacity
+        to produce 15 million gallons of water per day (mgd). However, the average production is 7 to 8 mgd. Water
+        supplied by VCWD is from wells at a depth of approximately 600 feet in the Upper San Gabriel Groundwater Basin.
+        The proposed Health and Sustainability Element will not result in any population growth or additional demand on
+        water supplies as it does not authorize the construction of new development. The Element will guide development
+        to achieve healthier and more sustainable lifestyles through compact development, complete streets, programs to
+        reduce GHG emissions, and increased opportunities for recreation and physical activities. Future development has
+        been previously accounted for and analyzed in the General Plan EIR and will be subject to the City’s standard
+        environmental review process pursuant to CEQA. Therefore, the proposed Health and Sustainability Element will
+        not result in the need for new or expanded water supplies, and impact will be less than significant.40
+E)      Less than Significant Impact. Wastewater treatment requirements are established by the Los Angeles RWQCB.
+        The proposed Health and Sustainability Element is a policy-based document that encourages healthy and
+39 City of Baldwin Park. General Plan Environmental Impact Report. September 2002.
+40 City of Baldwin Park. General Plan Environmental Impact Report. September 2002.
+54                                                                            City of Baldwin Park Health and Sustainability Element
+
+                                                                                        Evaluation of Environmental Impacts
+      sustainable objectives and does not authorize the construction of new structures or development. The City will
+      review future development pursuant to the project as part of the standard environmental review process to
+      determine adequate capacity to serve the discharge needs in comparison to treatment plant capacity. Impacts
+      related to wastewater treatment capacity are anticipated to be less than significant.
+F)    Less than Significant Impact. The El Sobrante Landfill in Corona, operated by the County Sanitation Districts of
+      Los Angeles County, is the primary destination for solid waste collected in Baldwin Park. The current capacity for
+      the landfill is approximately 16,054 tons per day of solid waste. The landfill is currently 12% filled with a remaining
+      capacity of 145,530,000 tons from its maximum permitted capacity of 184,930,000 tons and anticipates a closing
+      date of January 1, 2045. Other landfills are also available to serve the City. The Chiquita Canyon Sanitary Landfill,
+      located in Castaic, has a permitted daily capacity of 6,000 tons per day and a total capacity of 63,900,00 cubic
+      yards, with a remaining capacity of 29,300,000 cubic yards. The Chiquita Canyon Landfill is estimated to close in
+      2019. Regional plans are underway to transport waste by rail to landfill sites in the desert areas to the east.
+      Compliance with existing General Plan Open Space and Conservation policies (see below) and County waste
+      reduction programs and policies will reduce the volume of solid waste entering landfills. The project does not
+      involve construction or development activities not accounted for and analyzed in the General Plan EIR; therefore, it
+      will not generate amounts of solid waste that will impact the landfills serving the City. Individual development
+      projects within the City will be required to comply with applicable State and local regulations, thus reducing the
+      amount of landfill waste by at least 50 percent. The Health and Sustainability Element also includes the section
+      “Reduce, Reuse, Recycle, and Compost” which aims to increase composting, recycling and source reduction
+      citywide to meet and exceed the mandates of the AB 939 (California Recycling Laws). Implementation of the
+      project will help reduce solid waste citywide. Impacts related to sufficient landfill capacity are anticipated to be less
+      than significant.
+      Open Space and Conservation Element Goals and Policies
+      Goal 7.0       Reduce the amount of solid waste produced in Baldwin Park.
+      Policy 7.1     Implement goals and policies contained in the City’s Household Hazardous Waste and Source
+                     Reduction and Recycling Elements as mandated by AB939, as amended.
+      Policy 7.2     Maximize public awareness of all source reduction and recycling programs.
+      Policy 7.3     Encourage composting of organic materials and recycling in general as an alternative to waste
+                     disposal.
+      Policy 7.4     Encourage participation in local and County waste disposal programs for such household hazardous
+                     waste items as automotive products, paints, chemicals, tires, and batteries.
+      Health and Sustainability Element Goals and Policies
+      Policy 6.01 Encourage residents and businesses to take an active role in reducing consumption and increase the
+                     recycling, reuse, and composting of materials.
+      Policy 6.02 Reduce consumption and increase recycling and reuse of materials in City operations.
+G)    No Impact. Residential waste collection in Baldwin Park is disposed of in regional landfills, as described above.
+      The proposed Health and Sustainability Element does not authorize the construction of new structures or
+      development. All new development will be required to comply with State mandates and City regulations regarding
+      reduction/recycling of household waste. None of the proposed policies inherent in the proposed Health and
+      Sustainability Element will have any effect upon or result in any conflicts with solid waste disposal regulations. No
+      impact will occur.
+City of Baldwin Park Health and Sustainability Element                                                                       55
+
+Evaluation of Environmental Impacts
+4.18 – MANDATORY FINDINGS OF SIGNIFICANCE
+                                                           Potentially         Less than         Less than            No
+                                                           Significant      Significant with    Significant         Impact
+                                                             Impact            Mitigation          Impact
+                                                                             Incorporation
+ A)    Does the project have the potential to
+       degrade the quality of the environment,
+       substantially reduce the habitat of a fish or
+       wildlife species, cause a fish or wildlife
+       population to drop below self-sustaining
+       levels, threaten to eliminate a plant or animal
+       community, reduce the number or restrict the
+       range of a rare or endangered plant or animal
+       or eliminate important examples of the major
+       periods of California history or prehistory?
+ B)    Does the project have impacts that are
+       individually limited, but cumulatively
+       considerable?
+ C)    Does the project have environmental effects
+       which will cause substantial adverse effects
+       on human beings, either directly or indirectly?
+A)   Less than Significant Impact. The results of the preceding analysis indicate that the proposed project will have
+     no effect upon sensitive biological, historical, or paleontological resources, and will not result in significant impacts
+     to archaeological resources with mitigation incorporated. There will be no impact to scenic vistas and less than
+     significant impacts to visual character and resources. The proposed Health and Sustainability Element is a policy-
+     based document that encourages healthy and sustainable objectives. Because the project will not authorize any
+     plan to develop new development or to redevelop existing sites and will not change existing City land use policy
+     regarding locations or intensities of residential development, it will not result in any effects that will degrade the
+     quality of the environment. The City hereby finds that impacts related to degradation of the environment will be less
+     than significant, that no impacts to biological and cultural resources will occur.
+B)   Less than Significant Impact. Cumulative effects resulting from full implementation of the City’s residential land
+     use policies were evaluated in the General Plan EIR. The proposed Health and Sustainability Element does not
+     involve construction or development activity and will not change any of these policies and does not propose any
+     specific development or redevelopment project that could contribute to short-term or long-term cumulative impacts
+     that were not addressed sufficiently in the General Plan EIR. The Health and Sustainability Element does not have
+     any changes to land use designations; thus is consistent with the project analyzed in the General Plan EIR. The
+     City thereby finds that the contribution of the proposed project to cumulative impacts will be less than significant.
+C)   Less than Significant Impact. As supported by the preceding environmental evaluation, the project will not result
+     in substantial adverse effects on human beings. Under each environmental consideration addressed in the
+     preceding analysis, the proposed project is considered to have little or no adverse impacts on people and the
+     environment. Based on the analysis in this Initial Study, the City finds that direct and indirect impacts to human
+     beings will be less than significant.
+56                                                                   City of Baldwin Park Health and Sustainability Element
+
+                                                               5 REFERENCES
+5.1 – LIST OF PREPARERS
+City of Baldwin Park
+Community Development Department
+Planning Division
+14403 East Pacific Avenue
+Baldwin Park, CA 91706
+        Amy Harbin, AICP, City Planner
+MIG | Hogle-Ireland
+169 N. Marengo Avenue
+Pasadena, California 91101
+626-744-9872
+        Laura Stetson, AICP, Principal
+        Christopher Brown, Director of Environmental Services
+        Olivia Chan, Project Associate
+        Anita Au, Project Assistant
+5.2 – PERSONS AND ORGANIZATIONS CONSULTED
+None
+City of Baldwin Park Health and Sustainability Element                    57
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

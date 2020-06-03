@@ -1,0 +1,1800 @@
+
+MARTINEZ GENERAL PLAN
+                     CITY OF MARTINEZ
+                  MARTINEZ, CALIFORNIA
+_________________________________________________________
+Please refer to the Appendix in the back of this booklet for General
+Plan Map Amendments from 1973 to January 2010.
+CITY COUNCIL
+James Thelen, Mayor
+John Sparacino, Vice Mayor
+James Krause
+Elwon Lance
+Ted Radke
+Leland Walton, City Manager
+CITY PLANNING COMMISSION
+Floyd McBeth, Chairman
+Gene Edwards, Vice-Chairman
+Mel Carone
+Robert Hilson
+Pat Keller
+Ronald Parini
+Willard Atkinson
+Barry Whittaker, Planning Director
+1973
+INTRODUCTION
+PREFACE                                                     10.1
+INTRODUCTlON                                                10.2
+FORMAT                                                      10.3
+GENERAL PLAN ELEMENTS
+GOVERNMENTAL JURISDICTION                                   20.0
+PURPOSE                                                     20.1
+GOVERNMENTAL JURISDICTION MAP                              F20.1
+SPHERE OF INTEREST                                          20.2
+SPHERE OF INFLUENCE                                         20.3
+POLICIES                                                    20.4
+LAND USE ELEMENT                                            21.0
+PURPOSE                                                     21.1
+LAND USE POLICY MAP                               Land Use Map 1
+OPEN USE AREAS                                              21.2
+RESIDENTIAL USES                                            21.3
+    Protected Neighborhoods                                21.31
+    Hill Residential Areas                                 21.32
+    Medium Density                                         21.33
+    High Density                                           21.34
+RESIDENTIAL LAND USE DENSITY TABLE                         F21.2
+COMMERCIAL USES                                             21.4
+lNDUSTRIAL USES                                             21.5
+COMMUNITY FACILITY USES                                     21.6
+OPEN SPACE ELEMENT                                          22.0
+PURPOSE                                                     22.1
+OPEN SPACE AND CONSERVATION POLICY ZONES MAP               F22.1
+OPEN SPACE AND CONSERVATION POLICY ZONES                    22.2
+SPECIFIC OPEN SPACE AND CONSERVATION POLICIES MAP          F22.2
+PERMANENT OPEN SPACE LANDS POLICIES                         22.3
+CONSERVATION LANDS POLICIES                                 22.4
+ALHAMBRA CREEK ENHANCEMENT PLAN                             22.A
+PARKS AND RECREATION ELEMENT                       23.0
+PURPOSE                                            23.1
+POLICIES                                           23.2
+SAFETY ELEMENT                                     24.0
+PURPOSE                                            24.1
+SEISMIC AND GEOLOGIC HAZARDS MAP                  F24.1
+POLIClES                                           24.2
+     Seismic Hazards                              24.21
+     Other Geologic Hazards                       24.22
+     Fire Hazards                                 24.23
+     Flood Hazards                                24.24
+HOUSING ELEMENT                                    25.0
+CIRCULATION ELEMENT                                26.0
+GROWTH MANAGEMENT ELEMENT                         26A.0
+SCENIC ROADWAYS ELEMENT                            27.0
+PURPOSE                                            27.1
+SCENIC ROADWAYS                                    27.2
+POLICIES                                           27.3
+NOISE ELEMENT                                      28.0
+COMMUNITY FACILITIES ELEMENT                       29.0
+CHILD CARE COMPONENT                               29.1
+DRAINAGE COMPONENT                                 29.2
+SPECIFIC AREA PLANS
+CENTRAL MARTINEZ                                   30.0
+INTRODUCTION                                       30.1
+CENTRAL MARTI NEZ SPECIFIC AREA PLAN MAP Land Use Map 1
+GOALS                                              30.2
+COMMERCIAL AND CENTRAL BUSINESS DISTRICT           30.3
+   Purpose                                        30.31
+   Commercial Policies                            30.32
+   Central Business District Policies             30.33
+   County Government Policies                     30.34
+   Industrial Policies                            30.35
+CIRCULATION                                                   30.4
+Purpose                                                      30.41
+Policies                                                     30.42
+Programs                                                     30.43
+HOUSING                                                       30.5
+     Purpose                                                 30.51
+     Policies                                                30.52
+     Zoning Density Regulations (a)                          F30.2
+     Zoning Density Regulations (b)                          F30.3
+OPEN SPACE/CONSERVATION                                       30.6
+     Purpose                                                 30.61
+     Policies                                                30.62
+WATERFRONT                                                    30.7
+     Purpose                                                 30.71
+     Policies                                                30.72
+     Programs – Conservation and Maps                       30.731
+     Programs – Upgrading the Waterfront and Marina         30.732
+     Programs – Improving Access                            30.733
+MIXED USE DISTRICTS                                           30.8
+ALHAMBRA HILLS SPECIFIC AREA PLAN                             31.0
+INTRODUCTION                                                  31.1
+Alhambra Hills Specific Area Plan Map               Land Use Map 1
+GOALS                                                         31.2
+POLICIES                                                      31.3
+      Hillslopes in Relation Surroundings                    31.31
+      Hilltop Plateau                                        31.32
+      Housing Density                                        31.33
+      Land Use                                               31.34
+      Land Management                                        31.35
+      Site and Building Design                               31.36
+HIDDEN LAKES SPECIFIC AREA PLAN                               32.0
+INTRODUCTION                                                  32.1
+HIDDEN LAKES SPECIFIC AREA PLAN MAP                 Land Use Map 1
+GOALS                                                         32.2
+LAND USE AND DEVELOPMENT POLICIES                             32.3
+HOUSING                                                       32.4
+     General Policies                                        32.41
+     Specific Policies                                       32.42
+CIRCULATION                                                   32.5
+     Policies                                                32.51
+PARK DEDICATION                                               32.6
+TRAILS                                                        32.7
+     Policies                                                32.71
+PLAN REVIEW                                                   32.8
+     Policies                                                32.81
+
+JOHN MUIR SPECIFIC AREA PLAN                                      33.0
+INTRODUCTION                                                      33.1
+MAJOR GOALS                                                       33.2
+LAND USE                                                          33.3
+JOHN MUIR SPECIFIC AREA PLAN MAP                        Land Use Map 1
+    Residential Use Policies                                     33.31
+    Commercial Use Policies                                      33.32
+    Administrative and Professional Office Use Policies          33.33
+    Open Space and Community Facilities Policies                 33.34
+    Circulation Use Policy                                       33.35
+DESIGN REVIEW POLICIES                                            33.4
+BUCHANON FIELD AIRPORT PLANNING AREA                              33.5
+IMPLEMENTATION POLICES                                            33.6
+JOHN MUIR SPECIFIC AREA PLAN – 1985 UPDATE                        33.7
+
+10.1 PREFACE
+The General Plan of the City of Martinez is organized into three sections. The first
+section introduces the premises which guided the formation of the plan. It explains the
+legal authority under which the plan was executed and presents the particular format
+selected to organize the plan.
+The second section – The General Plan Elements – contains subsections summarizing
+individual planning elements as authorized under Article 5 of the California Planning and
+Zoning Law. (Cal. Govt. Code 65300) Although most of these are required by law for all
+cities and counties, other elements are included which in the judgment of the city relate
+to its physical development and welfare. Each element of the plan defines the broad
+goals of the city within that realm and sets policies to achieve those goals. Policies are
+both general and specific, aimed at promoting balanced, safe and integrated
+development throughout Martinez.
+The third section is entitled Specific Area Plans. As its name suggests, this section
+treats selected areas of the city in greater depth. Although based on the policies of the
+General Plan Elements, these plans express refinements warranted by specific sub-
+area planning needs. Specific area plans govern land use and resource conservation,
+site design, building, development phasing, circulation, community services, and public
+facilities. They should also include all detailed regulations, conditions, and programs
+necessary to implement General Plan policies at the sub-area level.
+Both the General Plan Elements and the Specific Area Plans are accompanied by maps
+and charts which give a graphic representation of the policies as stated. Reference to
+these charts will aid in visualizing the regulations and changes proposed by this
+document.
+The loose leaf format for the General Plan is designed to facilitate updating of the Plan
+without the need to reproduce portions not amended. In this way the General Plan
+becomes a flexible document, one that can reflect changes in conditions and values as
+they occur. Since this General Plan will undergo periodic reviews, all users should
+consult with the City prior to using this document for official or legal purposes in order to
+ascertain all approved changes. Individuals on the City’s mailing list will receive
+amendments as they are made available.
+
+10.2 INTRODUCTION
+As a city grows over time, it faces new problems and new situations. Some of these are
+clearly affairs internal to the city. More likely than not, they are matters which involve the
+city in a network of influences and forces extending to surrounding regions. And
+although cities of similar size, age and location may share a certain commonality of
+concerns, nevertheless, each city treats its concerns according to its own scheme. By
+evaluating past and present strengths and weaknesses and articulating its aspirations
+for the future, each city lays an individual foundation for the pattern of things to come.
+What to retain, encourage or prevent, where to restrict, when to promote, how to
+improve are all decisions which must be made.
+The formulation of a city's general plan provides the opportunity to make those
+decisions and shape development for the future. Through the process of citizen
+participation, proposals and ideas are entertained, discussed and refined until a set of
+acceptable recommendations is achieved. The plan has several characteristics. It is a
+tightly structured framework of goals, policies and programs which fosters maintenance
+and rational use of the plan because the success of programs can be directly tested
+against the goals they are meant to achieve. It is continuous, for goals and policies are
+reviewed and adjusted as community values and needs change over time. It is
+comprehensive because it seeks to integrate all community needs and basic aims with
+which local government is concerned. And it should be internally consistent in defining
+relationships and advocating courses of action.
+In combination with appropriate zoning ordinances to enforce the policies, the
+General Plan represents the community's power to insure that its concerns are
+addressed. The quality of the natural environment, the character of the older
+sections of the city, the availability of choices for employment, recreation and
+housing, the role of the city as county seat, the efficiency and safety of circulation
+are all issues of concern to citizens of Martinez which are presently dealt with in
+this General Plan.
+Of course the plan must remain flexible, capable of reflecting changes in population,
+knowledge and technology. Above all, it must continue to be responsive to a
+changing citizen conception of the best interest of the city.
+10.3 FORMAT
+The format selected for the presentation of the Martinez General Plan and Specific Area
+Plans is designed to make it manageable and useful to the diverse public which will
+consult it. The document is laid out so that its organization will read clearly. Each of the
+three major sections is identified by a decimal number. The introductory section is given
+in the 10 series; the General Plan Elements are listed in the 20 series; Specific Area
+Plans appear in the 30 series.
+                                                                                             .
+Within each of the three major series the organizational breakdown is made evident by
+the numbering system. General Plan Elements are each assigned a number of equal
+weight within the 20 series. For example, Land Use appears as 21, Housing appears as
+25. Sub-sections of the different elements are ordered and numbered correspondingly.
+Statements about purposes, goals, policies and programs are distinguished with sub-
+statements presented hierarchically according to their referents. Maps and charts which
+pertain to the various sections appear in the appropriate sequence and are numbered
+and indexed in a fashion similar to the written text. The 30 series of Specific Area Plans
+parallels the General Plan series in organization. Each of the Specific Area Plans
+constitutes a separate sub-system within which goals, policies and programs are
+arranged by the indexing system.
+This system of organization establishes an immediate coherency and internal
+consistency for the document. It makes for particular ease in locating the City's policy on
+a given issue, for not only is each element of the General Plan and Specific Area Plans
+clearly listed in the Table of Contents, but policies are also indexed by topic in the Policy
+Index found at the end of the document.
+In addition, the format allows for amendments and expansions. New plan elements or
+policy statements can be added in the appropriate position simply by assigning them a
+number in sequence. A continual and accurate updating of the document is made
+possible by a method which dates policy entries. The date appearing on the bottom right
+hand corner indicates the most recent date of all policies and amendments contained on
+a particular page.
+20 GOVERNMENTAL JURISDISTION
+20.1 PURPOSE
+The geographical extent of local government interest and influence must be clearly
+expressed to facilitate sound government practices. Actual municipal boundaries must
+be viewed in terms of both the local sphere of interest and local sphere of influence
+when formulating rational goals and policies and programs for their effectuation, as well
+as when promoting efficient intergovernmental coordination.
+F20.1 The Governmental Jurisdiction map is shown in Figure F20.1.
+20.2 SPHERE OF INTEREST
+The Martinez sphere of interest encompasses a broad area highly important to goals for
+environmental quality and the policies of the Open Space and Conservation Element of
+the Martinez General Plan. This boundary is indicated on Figure F20.1 and is generally
+defined as follows: On the west and southwest by the drainage shed of the Alhambra
+Creek Drainage Basin; at its northwestern extent by a line described as the eastern
+drainage boundary of "Little Bull Valley" and follows to its termination with the Carquinez
+Straits shoreline. This shoreline continues eastward as the northern boundary and ends
+generally at the confluence of the Pacheco Creek. The eastern boundary passes
+through the general vicinity of the lowlands just east of Interstate Route 680, and
+continues southerly until Highway 4. Along the balance of the eastern boundary and
+southern boundaries the respective city boundaries of Concord and Pleasant Hill
+generally form the boundary with an indefinite line linking Taylor Boulevard to the
+southernmost tip of the Alhambra drainage basin in the vicinity of Briones Regional Park
+serving as the balance of the southern boundary.
+20.3 SPHERE OF INFLUENCE
+The Martinez sphere of influence as defined by the Local Agency Formation
+Commission approximates the probable ultimate physical boundaries and service area
+of the city of Martinez and is intended to facilitate the orderly formation and
+development of local agencies and their service areas. This boundary should provide
+guidance in matters related to the annexation of territories and the formation of special
+districts. The sphere of influence boundary is depicted on Figure F20. 1. It aligns with
+the sphere of interest boundary except along the western boundary as shown.
+20.4 POLICIES
+20.41 All developed, but presently unincorporated areas within the sphere of
+influence should be annexed to the City of Martinez to ensure an equitable tax
+distribution and cohesive neighborhood units for public service purposes.
+20.42 All new development within the sphere of influence should be required to annex
+to the City of Martinez prior to development and development allowed only where pro-
+vision of necessary public services can be provided without adverse fiscal effects on the
+City. For example, construction in areas with severe geologic constraints resulting in
+excessive ongoing public maintenance cost should not be permitted. Similarly,
+development should be directed towards those areas in which there already exists
+unused capacity in various public services such as water supply facilities, sewer
+collection facilities and schools. In outlying areas whose existing levels of public
+facilities are inadequate, new development should be permitted only at a scale sufficient
+to economically support major extensions or expansions of public service and facilities.
+20.43 Land remaining in major open space use, where not an integral part of
+contiguous urban development, should continue to be under county jurisdiction,
+provided that the county shall prohibit any use of the land inconsistent with the Martinez
+General Plan. It shall be the intent of the City Council to establish a joint City-County
+planning agreement to achieve this end and seek new state legislation to ensure
+implementation of the City's open space policy in adjoining and presently urbanized
+lands.
+20.44 Water service and sanitary sewer service should not be extended to
+development which does not conform to the General Plan and growth staging
+conditions therein.
+20.45 Water service shall not be extended to out-of-City properties unless the
+environmental and land use impacts of the provision of that water and of the
+development to be served on the City and its residents are adequately mitigated
+through conditions imposed by the jurisdiction having land use control over said
+properties, and if such impacts are not so mitigated, then the City shall impose such
+conditions on the provision of such water so as to satisfactorily reduce or eliminate said
+impacts, or deny water service altogether.
+21 LAND USE ELEMENT
+21.1 PURPOSE
+The Land Use Element represents the pattern of uses established by the other general
+plan elements and policies. It serves as the primary means of ensuring integration of
+these policies with land use policies relating to residential, commercial and industrial
+facilities and their land, locational and public service needs. The Land Use Policy Map
+designates the location of the major land uses components. Complementary policies
+are set forth below.
+21.1 The Land Use Policy map is shown in Land Use Map 1.
+21.2 OPEN USE AREAS
+21.21 Land to remain for open uses is designated Public Permanent Open Space or
+Open Space/Conservation Use Land. These designations shall apply where the
+following conditions are prevalent: natural conditions such as steep or potentially
+unstable slope, hazardous geologic conditions, watershed stability and floods hazard,
+seismic hazard, and fire hazard, which constitute major constraints to development or
+threats to life and property, where soils, land forms, vegetation, watersheds, creekways,
+and water bodies combine to provide either a significant habitat for wildlife or
+agricultural resource and where land forms, vegetation, waterways and surfaces
+constitute a major scenic and recreational resource which should be preserved either
+for purposes of public use or protection and shaping of the scenic setting of the
+community.
+21.22 Zoning and other regulatory powers shall be used to maintain open space use
+where there are substantial threats to life and property or where private open space
+uses are appropriate. Appropriate private open space uses include agricultural, grazing,
+open space recreational uses such as camp facilities, or residential uses where such
+uses and related facilities such as roads and parking areas constitute less than two
+percent of the entire land area where the balance of the land is retained in a natural
+state or agricultural state.
+21.23 Dedication shall be required for open spaces having scenic, recreation or
+habitat value where natural and man-made conditions permit economic use of a
+sufficient portion of the land holding with lower open space values. The balance shall
+be developed in accordance with other general plan policies.
+                                                                                          L
+                                                                                          ,
+21.24 Public acquisition shall be used to obtain lands intended primarily for community-
+wide or regional recreational needs when the lands intended for these public purposes
+constitute either the major portion or substantial share of the readily buildable land
+within an individual property holding.
+21.25 A community-wide public trail system shall be provided for as shown in the Land
+Use Policy Map.
+21.26 It is the policy of the City of Martinez to recognize the Briones Agricultural
+Preserve which includes all lands to the west of the Martinez City limits. The Briones
+Agricultural Preserve recognizes the agricultural, grazing, open space and parkland
+uses of this area within the Briones Hills between the west county communities and the
+central county communities and in order to retain these lands for agricultural and open
+space uses the City agrees to a policy of non-annexation to urban services and non-
+annexation to City incorporation which would lead to urban development. The City
+supports the County and other Cities in requesting the Local Agency Formation
+Commission of Contra Costa County to continue to act in a manner consistent with the
+preservation of these lands for agricultural and other open space purposes. This policy
+is not intended to affect the property rights of land owners under the existing General
+Plan and zoning, including the right to apply for subdivisions of 5 acres or greater.
+21.3 RESIDENTIAL USES
+Four types of residential areas are established by the Land Use Policy Map. Gross
+residential land use densities as related to dwelling unit site area requirements are
+shown in F21.2.
+21.31 PROTECTED NEIGHBORHOODS
+21.311 Existing neighborhoods shall retain their present housing roles and the existing
+residential character preserved and enhanced. Non-residential uses, other than those
+providing services primarily to residents within the neighborhoods, shall be prohibited.
+21.312 To respect the established physical patterns of these neighborhoods, new
+residential structures should be similar in scale and type of accommodations to
+existing units.
+21.32 HILL RESIDENTIAL AREAS
+21 .321 All land designated for residential use with slopes in excess of ten percent shall
+be developed in a manner which respects the site's natural features and protects
+against natural hazards common to most hill area sites in Martinez. Allowable
+residential density shall be governed by the City's slope density ordinance. Use of
+planned unit development approach is made mandatory in order that conditions unique
+to each site can be considered.
+21.322 A wide variety of housing types shall be permitted.
+21.323 The final selection of the housing type shall be determined on the basis of best
+preserving the scenic quality of these hill areas and protecting against hazards. Within
+hill residential areas, the residential structures themselves should be visually
+subordinate to the natural setting.
+21.324 Land pockets with slopes from 0-10% shall be R-1 designated for development
+at a density of 4 to 6 dwelling units per gross residential acre until such time as more
+definitive studies can be undertaken for these areas.
+F 21.2 RESIDENTAIL LAND USE DENSITIES AS RELATED TO DWELLING UNIT
+SITE AREA REQUIREMENTS
+Dwelling Units per Gross Acre             Required Site Area per Dwelling Unit
+Residential Use Areas:
+1 to 6 units                              40,000 to 6,000 square feet per unit
+6 to 12 units                             6,000 to 3,500 square feet per unit
+12 and over 12 units                      less than 3,500 square feet per unit
+Open Space/Conservation Use or Environmentally Sensitive Lands:
+0 to 1 units                              Within the Alhambra Creek Watershed
+                                          40,000 square feet per unit or greater
+                                          with larger site area requirements typical
+                                          of the zone, unless otherwise specified
+                                          in a Specific Plan.
+0 to 2 units                              Outside the Alhambra Creek Watershed
+                                          20,000 square feet per unit or greater.
+21.33 MEDIUM DENSlTY RESIDENTIAL AREAS
+21.331 Residential development with densities up to twelve dwelling units per gross
+acre shall be permitted in portions of the community not constrained by existing
+residential development or natural conditions. The primary purpose shall be to
+promote a citywide housing stock which provides for a range in housing cost and
+type.
+21.332 The allowable density of the Medium Density Residential Area shall permit
+townhouses or garden apartments.
+21.34 HIGH DENSITY RESIDENTIAL AREAS
+21.341 Residential development of up to twenty units per gross acre shall be
+permitted in appropriate areas close to shopping, transportation and other public
+services. In the Downtown Specific Plan area up to forty-three dwelling units per gross
+acre shall be permitted. The primary purpose is provision of housing accommodations
+to serve the needs of Martinez residents.
+21.342 A supply of moderate income housing shall be made available.
+21.4 COMMERCIAL USES
+21.41 The city should provide adequate land area of appropriate type and location to
+meet the marketing requirements of the merchant and the shopping needs of the
+community and central Contra Costa County. All commercial development, both
+present and future, must meet the highest standards of design, safety and
+convenience.
+21.42 Convenient neighborhood commercial facilities should be provided at a scale
+consistent with contemporary merchandising practices.
+21.43 Additional commercial development should be permitted in neighborhood centers
+only when it adds to the convenience of living in that neighborhood. New commercial
+areas should be designated only where such use is essential to the convenience of
+neighborhood residents.
+21.44 Expansion of existing centers or additions of new centers beyond that which
+can be supported by local market conditions should be prevented.
+21.45 Professional and business services which complement the health service role
+performed by Martinez should be accommodated. Adequate locations for the many
+professional and business functions needed to support the City's population and work
+force must be available.
+21.46 Professional and Administrative Office uses may be located as transition areas
+between Commercial—Retail and Service areas and other less intense land uses, such
+as Residential. These uses may also be located along major thoroughfares on sites in
+residential areas which are unsuitable for residential use. When a Professional and
+Administrative site adjoins a residential area, special attention shall be given in the
+Design Review process to ensure compatibility with the residential area.
+21.5 INDUSTRIAL USES
+21.51 Expansion of the petroleum refining and related industries must proceed in an
+orderly fashion and be consistent with protection of the community's air, water, scenic
+and fiscal resources.
+21.6 COMMUNITY FACILITIES USES
+21 .61 Residential growth should be channeled in a manner which promotes the best
+utilization of existing public facilities, but only in those areas where new residential
+development is compatible with the open use policies of this plan.
+
+21.7 MIXED USE DISTRICTS
+21.71 There are three mixed use districts designated on the General Plan. All are
+located within the Central Martinez Planning Area. In each case the designation
+indicates that there are mixed uses existing within the districts, and that the uses are, or
+can be compatible. As with other designations within the Central Martinez Planning
+Area, the thrust of these designations is to preserve the existing character of the area
+and of the community, while allowing a gradual conversion to more feasible or more
+beneficial uses. Each area mixes residential reflecting the older predominant use of the
+area, with more intensive uses, such as offices, commercial, or both.
+21.72 The keys to successful mixing of land uses in these areas will be providing
+compatibility with the existing lower intensity uses (principally residential) and
+preserving as many of the older residential structures as feasible.
+21.73 Non-residential uses in mixed use districts should be limited to those which do
+not generate significant vehicular traffic. Such additional traffic would both make the
+area a less desirable place to continue to live and would create the need for larger
+parking areas, not aesthetically compatible with the residential uses.
+21.74 Essential parking should be provided in any new use or change in use. Persons
+employed on the site should be able to park on the site; otherwise employees will
+contribute to heavy on-street parking, further detracting from the residential quality.
+Likewise, visitor parking should be provided to the extent necessary for the same
+reason. Parking areas, however, should be restricted to the minimum necessary for the
+conduct of the business, consistent with Section 21.73.
+21.75 To the extent feasible existing residential structures should be preserved and
+renovated with changes in use, for it is these structures which give the districts their
+character and charm. New structures should be of residential scale, both size and
+materials. Materials for new buildings, therefore, should be wood, stucco, or similar.
+The institutional effect of concrete and masonry block or brick should be avoided.
+Buildings should have appropriate glazing areas, both because exterior light has energy
+and psychological benefits to interior users and because windows are part of a
+residential scene.
+21.76 Parking areas should be treated as to not detract from the residential scene.
+This requires minimum-sized area, and maximum setbacks from the street. Setbacks
+should not be less than the front or side yard setbacks of the neighboring structures.
+Setbacks should be planted with residential-type ground covers, trees and shrubs.
+Shrubs should be used to conceal, or at least soften views of the parked cars and
+parking areas from the street and from neighboring properties.
+21.77 Signs for non-residential uses should be of minimum necessary size, low height,
+subtle colors, and utilize wood materials in its construction. Signs should be located in
+a manner to provide the necessary notice, without detracting from the residential scene.
+21.8 RESEARCH AND DEVELOPMENT USES
+21.81 Research and Development shall be planned in such a manner so as to be as
+compatible with existing residential development as possible.
+21.82 High quality “campus” type design shall be utilized in any Research and
+Development use.
+21.83 Any plan shall be consistent with Open Space policies of this plan and shall use
+open space to provide adequate buffering to any adjacent land use.
+
+22 OPEN SPACE ELEMENT
+22.1 PURPOSES
+Natural resources and processes are highly interrelated. The elements which deal with
+the natural resource system have therefore been integrated into a single section of the
+general plan. The purposes served by the individual elements as mandated by state law
+have been incorporated into policy which considers their systemic nature. Open Space
+policies must assure the continued availability of land for the production of food and
+fiber, the enjoyment of scenic beauty, recreation and for the use and protection of
+natural resources. Conservation policies are meant to assure the conservation,
+development and utilization of natural resources including water, forests, soils, rivers,
+harbors, fisheries, wildlife, minerals and other natural resources. A complete discussion
+of the supporting material upon which these policies are based is found in the Open
+Space and Conservation Plan.
+This policy framework details the Open Space and Conservation Policy Zones which
+have been adopted on an area-wide basis and sets the policies which apply to specific
+locations and environments.
+F 22.1 The Open Space and Conservation Policy Zones map is shown in Figure F22.1.
+22.2 POLICY ZONES
+22.21 The Alhambra Valley Conservation Zone should remain essentially devoted to
+open space land use. Agriculture, especially rangeland, recreation and low density
+residential uses subordinate to the landscape are appropriate. This area is potentially
+hazardous with respect to landslides, earthquakes and fires. It is important to watershed
+conservation and the control of flooding along the Alhambra Creek and possesses
+natural vegetation and wildlife habitat resources, valuable scenic amenity and
+agricultural land value.
+22.22 The Franklin Canyon Conservation Zone should remain essentially devoted
+to open space land use. Agriculture, especially rangeland, recreation and low
+density development where appropriate to the setting are all appropriate uses. This
+area is potentially hazardous with respect to landslides, earthquakes and fires. It is
+important to watershed conservation and the control of flooding along the Alhambra
+Creek and possesses natural vegetation and wildlife habitat resources, valuable
+scenic amenity and agricultural land value.
+22.23 The North Contra Costa Waterfront Zone should remain essentially unimproved
+and devoted to open space land use. Recreation and limited industrial development
+compatible with the wetland habitat and other natural conditions present are appropriate
+uses. Land use within this zone is also governed by the regulations of other
+governmental agencies. Most of this area is comprised of the marshes and mudflats of
+the waterfront area which have high value as natural habitats and as scenic and
+recreational areas.
+22.24 The Hidden Lake Hills-Alhambra Hills Zone requires the application of the
+Planned Unit development approach in order to provide residential open space and
+services in a manner compatible with the natural landscape. Slope instability and steep
+slopes are present while the natural landform is the primary environmental asset.
+F 22.2 The specific Open Space and Conservation Policies map is shown in
+Figure F22.2.
+22.3 PERMANENT OPEN SPACE LANDS POLICIES
+22.31 Land within the Franklin fault zone (Calaveras Fault) should be dedicated to
+open space use such as Briones Regional Park and the Williamson Act Agricultural
+Preserve Lands which presently occupy portions of the fault zone.
+22.32 The Creekway of the Alhambra Creek should be dedicated to public open space
+land use.
+22.33 Land subject to landslide hazard or of excessively steep slope should be
+dedicated to public or private permanent open space use.
+22.34 The area within the Briones Agricultural Preserve should be dedicated to open
+space land use.
+22.4 CONSERVATION LANDS POLICIES
+22.41 Large scale alteration of the topography to accommodate incompatible
+development patterns is prohibited to prevent severe erosion and hydrologic hazard.
+22.42 In all hilly areas, grading practices for drainage purposes should restore
+natural patterns of surface water run-off with respect to volume of flow.
+22.43 Grading alterations should not induce or accelerate natural channel
+grading, sheet erosion, gullying and other forms of erosion.
+22.44 All woodlands and marshes should be conserved and protected from
+degradation, destruction or deleterious encroachment. Where development occurs,
+site plans should be required to maximize retention and preservation of these
+vegetative resources.
+22.45 Any tree removal required by development should be based upon a selective
+thinning program utilizing the principles of natural plant succession.
+22.46 Development within areas dominated by oak species should avoid damage to
+their sensitive root crowns by grading practices.
+22.47 The riparian vegetation of the Alhambra Creek is an important community as set
+and must be preserved and enhanced.
+22.48 Within the Alhambra Creek Drainage Basin factors which could contribute to in-
+creased run-off rates of surface water should be prevented or regulated. Such factors
+include overgrazing, logging, clearing, burning and other activities which could reduce
+vegetation cover, as well as the construction of impermeable surfaces over permeable
+soil and geologic areas or the removal of permeable soils by extensive grading and
+scraping practices.
+22.49 Within the Alhambra Creek Basin, sites in the first and second order tributary
+sub-basins should be developed for flood retention purposes and for additional
+recreation or livestock watering uses where appropriate. Retention dam sites should be
+chosen with due consideration to soil and geologic conditions related to slide hazard.
+22.50 All other waterways and their banks should be protected from encroachment and
+degradation and restored or enhanced visually through appropriate landscaping where
+deemed necessary. Integration of these into park or trail systems and other common
+open spaces should be required as a condition for development of adjoining lands.
+22.51 Hill areas greater than 30% slope shall not be developed, except as set forth in A
+& B below, and except on an existing lot of record where only one single family house is
+proposed and there is no building site under 30% slope. In such cases, development
+shall only be allowed if it can be demonstrated that significant alteration of the
+topography will be minimized and that hazards to public safety will not be incurred. This
+prohibition will protest public safety and soils, safeguard watershed areas and
+waterways, and preserve the natural scenic setting of the community as determined by
+its landforms. This policy shall be applied as part of all specific area plans, area plans,
+and/or specific plans adopted as part of, or pursuant to, this general plan, and need not
+be restated or repeated in such plans.
+A.      Where no alternative exists, roads connecting development area may pass over
+        areas of over 30% slope, subject to approval by the Planning Commission.
+        Grading shall be limited to that necessary for the road or the minimum amount
+        which will create the most natural appearing contours. If such grading creates
+        buildable areas, residential development fronting the road may be permitted
+        subject to approval by the Planning Commission.
+B.      Small areas of 30% and over slope entirely surrounded by areas under 30%
+        slope may be developed. Small infringements on areas of over 30% slope may
+        be permitted where the existing topography of the majority of the building area
+        and area to be graded are under 30% slope.
+22.A ALHAMBRA CREEK ENHANCEMENT PLAN
+Pursuant to Resolution No. 160-92, adopted by City Council October 26, 1992, the
+Open Space/Conservation Element of the General Plan is amended by: a) adding the
+“Alhambra Creek Enhancement Plan – The Greenways” and b) adopting the remainder
+of the Alhambra Creek Enhancement Plan, bound separately, as a guideline for in
+implementation of the goals and objectives identified in the Integrated Greenway Plan
+below:
+       INTEGRATED GREENWAY PLAN
+       The Draft Enhancement Plan reflects an integrated approach to the design of a creekside
+       greenway. The trails, habitat enhancements and bank stabilization designs proposed have been
+       developed together so that each individual element supports the other. The greenway will unite
+       the City with its creek and reestablish a natural, self-sustaining landscape. A continuous trail
+       system will connect the neighborhoods with downtown, schools, parks and with the regional
+       recreational trail network. People will be encouraged to walk or bicycle in safety to the downtown,
+       with opportunities to stop and enjoy the restored natural setting. Educational exhibits will be
+       available to describe the natural processes of the creek, its historic importance and the process of
+       habitat restoration and bank stabilization. The improved habitat will bring a rich biological
+       diversity into the center of Martinez. Stabilization treatments for the channel, its banks and the
+       adjacent properties will work in concert with habitat restoration and will accommodate trail
+       construction.
+       GOALS AND OBJECTIVES
+       The City of Martinez has gathered the community, consultants and staff to create a vision for the
+       creek. One of the first steps was to develop the goals and objectives to guide the process of
+       creating this vision. The goals and objectives were developed from the record of citizen input on
+       past and current creek planning, from consultation with the City Staff, and after a thorough
+       analysis of the existing conditions within the study area.
+       The goals and objectives provide a summary of the desires of the community and the
+       recommendations of the consultants with regard to enhancement of Alhambra Creek. Each goal
+       has been listed here accompanied by related objectives and a discussion of the way in which the
+       Enhancement Plan responds to that goal.
+       Goal 1:       Create a greenway corridor along Alhambra Creek which balances the community
+                     desires for public access, natural area restoration, wildlife habitat value
+                     enhancement, flood protection and bank stabilization.
+                     Objectives:
+                        Develop a planting program along the riparian corridor that will support wildlife
+                         and fish habitat restoration.
+                        Develop a tree planting program consistent with the riparian corridor planting for
+                         streets and other open spaces adjacent to the creek, to visually enhance the
+                         spaces, provide shade and widen the riparian corridor.
+                        Limit and control public access in sensitive wildlife habitat areas.
+                        Provide natural and artificial barriers to habitat impacts in high public use areas.
+       Alhambra Creek is a prime candidate for creation of a restored greenway corridor in the one mile
+
+stretch of the study area. Restoration and wildlife value enhancement can be achieved with
+some modification of the creek banks, removal of invasive exotic vegetation, and revegetation
+with native plants. Public access has been carefully integrated with the goals of bank
+stabilization, revegetation and wildlife protection. Where the disturbance to wildlife would be
+excessive, public access is restricted or curtailed. A continuum of natural and urban experiences
+is provided within the greenway corridor.
+Goal 2:       Create an access and enhancement plan which maintains the privacy and security of
+              creekside properties and residents and the safety of those using the creek.
+              Objectives:
+                 Develop a public access system which is easily monitored for the safety of the
+                  users.
+                 Develop a public access system which encourages active use by residents and
+                  visitors, and minimal conflict with property owners.
+                 Develop measures to secure the safety and privacy of residents, students and
+                  property owners where a public trail or overlook occurs near a residence or
+                  school.
+To protect the privacy and security of property owners, access to the banktop is primarily
+restricted to existing public property. The few parcels where access is recommended on private
+property occur mainly in the downtown area where owners may benefit commercially from the
+presence of trail users or an enhanced creek environment.
+Providing for the safety of those visiting the creek is an important security concern. The
+recommended trail system can be monitored from public streets or populated areas.
+Goal 3:       Improve the habitat values for wildlife in the riparian corridor and for fish in the creek.
+              Objectives:
+                 Preserve the existing healthy riparian habitat.
+                 Establish an overall vegetation management plan that supports the habitat
+                  restoration, bank stabilization, flood capacity, and aesthetic enhancement goals.
+                 Enhance and restore fish habitat values in the creek.
+                 Widen the riparian and marsh zones beyond the narrow channel corridor
+                  wherever possible, creating buffer/transition zones between the creek and urban
+                  areas.
+                 Buffer fish and wildlife habitat from public use and other urban adverse impacts.
+                 Create guidelines for consistent bank stabilization treatments for public and
+                  private land along Alhambra Creek. Treatments should improve habitat values
+                  and aesthetic quality of the creek.
+                 Improve water quality, minimize water quality hazards and protect public safety.
+The riparian corridor is currently quite narrow and isolated from surrounding habitats. Improving
+habitat values for fish and wildlife can be accomplished primarily by reestablishing and expanding
+the layered vegetation canopy of the riparian corridor. This revegetation provides habitat for
+animals, with a variety of native plants offering shelter and food. In addition, trees will provide a
+
+dense canopy over the creek, shading it and reducing water temperatures for fish. In many
+stretches of the creek, where natural banks have been stabilized with manmade structures and
+the vegetation removed, alternative means of bank stabilization which include revegetation and
+wildlife enhancement are recommended. Hazardous waste sites which could potentially leak into
+the creek, affecting water quality and public safety have been identified in the Plan. In the
+downstream reaches, alternative means of expanding the wetland habitats are explored.
+Goal 4:      Create an access and enhancement plan that maintains or improves, where possible,
+             the existing level of flood protection along the creek.
+             Objectives:
+                 Conduct a detailed hydraulic study of the project area to ensure that the
+                  treatments recommended as part of this Enhancement Plan do not alter existing
+                  flood levels.
+                 Develop a monitoring and maintenance program of the enhancement work for
+                  Alhambra Creek for debris and silt build-up and invasive vegetation in
+                  conjunction with the City maintenance program.
+                 Where possible, widen the creek to increase the flood capacity without
+                  decreasing minimum summertime depth critical for fish.
+                 Reduce the flood potential of constrained reaches or “bottlenecks” such as the
+                  Southern Pacific Railroad bridge.
+                 Create a flexible Enhancement Plan to accommodate possible future flood
+                  control projects.
+The detailed hydrologic study and monitoring and maintenance programs mentioned in the
+objectives are not a part of this project and should be conducted separately.
+As a part of this project, the existing flood hazard has been reviewed. The Plan is not intended to
+create new solutions to the flooding problem, but should maintain or improve, where possible, the
+existing level of flood protection. This issue comes into play where revegetation is suggested in
+the creek channel, reducing the flood capacity. When revegetation is suggested it should be
+balanced by increasing the flood conveyance.
+At the Southern Pacific Railroad bridge, where the creek’s flow is most constricted, several
+alternatives are suggested for improving the flow capacity to at least equal that of the new
+upstream bridges.
+Goal 5:      To the extent consistent with wildlife habitat, flood protection and public safety, create
+             a safe route for pedestrians and bicyclists along the greenway corridor linking the
+             neighborhoods, existing trails, public open spaces and the downtown commercial
+             core of the City of Martinez.
+             Objectives:
+                 Create a publicly accessible trail system which follows the creek where possible.
+                 Where the creekside trail cannot accommodate bicycles, develop a separate trail
+                  adjacent to the creek for cyclists.
+Because the creek runs through the center of town, it forms a natural link between the residential
+area, the downtown and the waterfront, providing an excellent opportunity for a pedestrian
+corridor. Since the creek corridor is too narrow to accommodate a combined bicycle/pedestrian
+
+trail, it is recommended that bicycle trails be developed in city streets, reserving the creekside trail
+for pedestrians.
+Regional bicycle routes and hiking trails such as the Bay Area Ridge Trail pass through Martinez.
+Connections between these regional trails and the greenway corridor are recommended along
+City streets, encouraging visitors to explore the downtown area.
+Goal 6:         Create public, creek related educational options throughout the greenway corridor.
+                Objectives:
+                   Near the Junior High School, provide secured access to the streambed, thereby
+                    creating an outdoor laboratory for use in public school and adult education.
+                   Where appropriate, and consistent with wildlife habitat goals, create overlooks at
+                    the banktop with educational exhibits explaining the history and ecology of the
+                    creek.
+                   Develop methods to increase community awareness of the creek.
+                   Where possible, provide a banktop trail which will allow pedestrians to stroll
+                    along the creek corridor without disturbing the riparian habitat.
+Along the creek, as it moves from freshwater stream to brackish and saltwater marsh, alternative
+locations for educational exhibits are suggested at special stations or overlooks. At the upstream
+end of the study area, on the Junior High School property, an outdoor classroom is suggested in
+the hillside above the top of bank, with a trail leading into the creek (with a locked gate for
+security), continuing up the stream to provide direct views of aquatic life. The outdoor classroom
+and trail are intended to be used by the school or other organized groups on a closely monitored
+basis. The process of restoration itself can be educational, as Martinez residents witness and
+participate in the revegetaiton and bank stabilization efforts.
+Goal 7:         Enhance the economic health of the downtown area through the creek enhancement
+                process.
+                Objectives:
+                   Promote creek related uses which will attract visitors to the downtown area, such
+                    as restaurants, shops and parks.
+                   Encourage the modification of existing creekside buildings and outdoor spaces,
+                    where appropriate, to improve their relationship to the creek. Improvements
+                    could include new doors and windows to provide views and access to the creek,
+                    and creekside patios.
+                   Encourage creek-related development of under-utilized public and private
+                    creekside parcels. Appropriate improvements would include the development of
+                    creek-related open spaces such as parks, markets or landscaped parking lots.
+                    All development should include wildlife habitat enhancements of the riparian
+                    zone.
+Creation of a greenway can stimulate further revitalization of the downtown. Bicycle and
+pedestrian trails will provide a new transportation corridor drawing people to the downtown
+commercial area. As shown in the plan, modification of creekside buildings and properties can
+stimulate more commercial activity. For example, at the old theater property at Ward and Ferry
+Streets, the owner could renovate the existing building and create a plaza-like open space near
+the creek, encouraging pedestrians to pass along the creek while visiting the theater. Similarly
+
+the auto showroom on Ward Street and the south side of the Old City Hall building could be
+renovated to take advantage of the sunny open areas overlooking the creek.
+MAINTENANCE AND MONITORING
+An important issue implicit in the goals above is that of maintenance and monitoring of the creek,
+keeping it free of debris, maintaining the existing and future bank stabilization structures, as well
+as the vegetation along the corridor and the future trails and overlooks. The greenway and trail
+will be a new open space resource of the City requiring ongoing maintenance. In the Hydrology
+and Bank Stabilization and the Habitat Restoration and Enhancement sections of this report,
+maintenance and monitoring recommendations are made.
+PHASING AND PRIORITIES
+The Enhancement Plan is a vision for the creek which will be realized in phases over a period of
+time. The Plan can be broken down into discrete projects which may be funded individually and
+taken through the steps of design refinement, construction documents and implementation. In
+general, first priority projects should be high visibility improvements on public land. Such projects
+can be completed without the need for land purchases. Fortunately, a good deal of property
+along the creek is owned by the City, County, or the school district.
+Because the Enhancement Plan is integrated in its approach to access, habitat enhancement and
+bank stabilization, improvements to each segment of the creek should incorporate all of those
+aspects at once. Construction of trails or overlooks should occur along with changes to the creek
+banks and revegetation, as recommended by the Plan.
+Access improvements can occur in two overall phases. The first phase would include all sidewalk
+improvements and street tree planting for the trail, as well as the high visibility improvements to
+the City-owned parking lots with corresponding development of the areas adjacent to the creek.
+In addition, the changes recommended on school district property, such as the outdoor classroom
+and the trail in the creekbed could be part of the first phase. These enhancements should be
+comprehensive and include educational exhibits, bank stabilization and revegetation as
+recommended in the Plan. The second phase of access improvements would involve projects
+where private ownership of creekside property or privacy of adjacent residents may be an issue.
+The trail behind the Senior Housing connecting the Senior Center with the existing and proposed
+housing, would be second phase projects. Also in this category are the recommended changes
+to the land around the Southern Pacific railroad.
+In the areas of hydrology and bank stabilization, two top priorities will be to adopt a creek
+ordinance, and to conduct hydraulic studies to establish the existing channel capacity in
+Alhambra Creek. Information on existing channel capacity will be necessary before any
+modifications in the channel configuration or any significant revegetation within the channel can
+occur. In addition, water quality testing should be conducted, and sources of pollution, including
+the hazardous waste sites mentioned above, should be fully identified, investigated and removed.
+Along the banks where there is no access proposed, bank stabilization improvement will occur as
+the need arises or as funds become available.
+Habitat restoration, like bank stabilization, should occur in tandem with access improvements in
+the same area. In other areas where there are no access improvements on public property,
+revegetation may occur as funding becomes available. Where revegetation is recommended on
+private property adjacent to the creek, planting must occur with concurrence (and participation) of
+the owner and technical assistance from the City.
+Implementation of the Enhancement Plan will require the ongoing commitment of volunteers and
+staff to continue their involvement as “creek keepers”. Ultimately the creation of the greenway as
+envisioned in the goals must be a cooperative venture among the public entities, dedicated
+citizens and staff, and the private property owners along the creek.
+
+23 PARKS AND RECREATION ELEMENT
+23.1 PURPOSE
+The Parks and Recreation element establishes a comprehensive system of areas and
+public sites for diverse forms of recreation. Policies guiding the location, acquisition and
+development of suitable sites within the City seek to ensure that a balanced system of
+park and recreational facilities is available to all residents.
+23.2 POLICIES
+23.21 Recreation-park sites should be multiple use facilities which provide educational,
+recreational and park opportunities for all residents.
+23.22 Both beauty and efficient use should be major considerations in the design of
+recreation-park areas in order to encourage maximum use of these centers and to
+improve the physical environment of the community.
+23.23 Each recreation-park site should be centrally located within the area it is planned
+to serve and should be accessible to all residents in the area.
+23.24 Recreation-park sites should be acquired adjacent to existing and proposed
+school sites.
+23.25 Recreation-park sites should be selected so as to be adaptable to changing
+recreational requirements of the users.
+23.26 Recreation-park sites acquired by the City should be dedicated and protected
+from diversion to non-recreational purposes.
+23.27 Recreation-park sites should be acquired or reserved well in advance of the
+development of the area even if at present they do not lie within existing City
+boundaries.
+23.28 Recreation-park standards should be met by acquiring sufficient land even if
+present financial resources limit early development.
+23.29 The waterfront should be further developed to take advantage of its potential as
+a shoreline recreation area where a variety of outdoor recreational activities can take
+place in a protected setting.
+23.30 It is the policy of the City of Martinez to provide a variety of parks and
+recreational facilities to meet the recreational needs of the community through the
+development of a well-balanced park and trail system. It is recognized that new
+development will increase the need for park and recreational uses. Therefore, it is the
+policy of the City of Martinez to ensure that new development shall be responsible for
+providing facilities to serve this new growth. In order to implement this policy, the City
+shall require new development to finance the full cost of park and recreational
+improvements required as a result of such development. Fees may be accepted by the
+City to finance the required improvements in-lieu of construction of those improvements.
+24 SAFETY ELEMENT
+24.1 PURPOSE
+Two safety elements are required by law to safeguard the community. The seismic
+safety element specifically identifies and appraises areas subject to earthquake hazards
+and sets forth appropriate regulations. Factors such as susceptibility to surface rupture,
+ground shaking and ground failures and effects of seismically induced flooding must all
+be taken into account.
+The overall safety element complements the seismic safety element by identifying
+hazards due to landslides, fire, flooding and other geological factors and by requiring
+emergency services to relieve and withstand these hazards.
+F 24.1 The Seismic and Geologic Hazards map is shown in Figure F24.1.
+24.2 POLICIES
+24.21 SEISMIC HAZARDS
+24.211 Development shall be barred from the Franklin Fault Zone, which includes
+traces of the main fault, branches, and secondary sub-parallels, a one thousand foot
+band centering on the contiguous adjacent, north-south trending Briones Fault, the
+Concord Fault zone, and all slopes indicated to possess severe landslide potential
+which fall within this corridor and would thus be subject to intense disturbance.
+24.212 Development shall be precluded along any fault trace where surface rupture is
+deemed possible. Fault traces which are considered to be inactive should be evaluated
+for special foundation problems prior to the construction of any buildings, utilities, roads,
+or paving on or across their trace.
+24.213 The City shall adopt structural design criteria and codes and other programs
+applicable to other seismic effects, specifically, liquefaction of ground materials, seismic
+response of such unconsolidated geologic formations as alluvial deposits and collapse-
+hazard buildings and other seismic-induced failures of existing structures.
+24.22 OTHER GEOLOGIC HAZARDS AND CONSTRAINTS
+24.221 Construction of buildings, roads and utilities in landslide prone hillsides should
+be prohibited.
+24.222 All slopes which are over 30% in grade shall be precluded from development
+except as stated in Section 22.51.
+ 24.223 Construction in areas containing soils with high "shrlnk-swelI" properties will
+ require employment of special foundation techniques to offset these effects.
+ 24.224 The use of septic tanks, tile filter fields, or sewerage ponds in areas where
+ soil conditions constitute a severe limitation for such practices should be precluded for
+ reasons of public health.
+ 24.225 Areas where moderate soil limitations are present must be studied on a site
+ specific basis with respect to technique and density suitability.
+ 24.23 FIRE HAZARDS
+ 24.231 The build-up of scrub type plant communities (Chaparral and Northern Coastal
+ Scrub) should be cleared or thinned periodically to curb the fire threat they pose.
+ 24.232 Scrub vegetation should be especially cleared from woodlands to remove this
+ cause of major woodland fire.
+24.233 The invasion of grassland by "Baccaharis" (a highly fire prone plant community)
+should be prevented by retaining grazing on rangelands and integrating grazing
+practices within developed areas.
+24.24 FLOOD HAZARDS
+24.241 Programs for flood control of Alhambra Creek should treat problems of public
+safety and natural conservation in an integrated approach. All of the following are
+appropriate measures for controlling flooding: upstream land use controls,
+preservation of vegetation and woodlands, creekside parks and trail systems,
+preservation of the water way’s natural features where possible, channel and
+embankment improvements in reaches where channel capacity is restricted, diversion
+of flood waters through drainage improvements, upstream flood detention dams and
+flood water diversion.
+
+25 HOUSING ELEMENT
+The 2001-2007 Housing Element is separately bound; approved by the City Council on
+July 20, 2005; Resolution No. 085-05.
+26 CIRCULATION ELEMENT
+The 1992 Circulation Element is separately bound; approved by the City Council on
+February 24, 1992; Resolution No. 28-92.
+26A GROWTH MANAGEMENT ELEMENT
+The 1992 Growth Management Element is separately bound; approved by the City
+Council on May 18, 1992; Resolution No. 73-92.
+27 SCENIC ROADWAYS ELEMENT
+27.1 PURPOSE
+The Scenic Roadway Element provides for the establishment and development of
+scenic roads and regulates the enhancement and protection of their scenic appearance.
+Actions to implement the scenic roadway element include regulation of land use,
+landscaping and architectural design, detailed land site planning, control of outdoor
+advertising, and coordination of roadway, drainage, lighting, traffic signals, and road
+sign improvements.
+27.2 SCENIC ROADWAYS
+The following roadways are designated as scenic roadways for Martinez.
+27.21 Extension of the existing Crockett to Martinez waterfront scenic drive from its
+present terminus and the western City boundary to a new terminus at the junction of
+Marina Vista Drive and Route 680. Continued eastward extension of this Route along
+the Carquinez Straits should be given further consideration by the County and State.
+27.22 California State Highway Route 4, from its eastern junction with Route 680 to its
+western terminus with Interstate 80 should be developed to scenic highway standards.
+The visual quality of the portion of the highway within the City will aid greatly in
+distinguishing Martinez from the subregion.
+27.23 Alhambra Avenue from its junction with Taylor Boulevard to its intersection with
+California State Highway Route 4. This main north-south arterial is an important
+gateway to the City deserving special attention in order to retain and enhance its scenic
+qualities. Extension of the scenic roadway designation through the urban area to a
+junction with the waterfront scenic drive should be evaluated further.
+27.24 Alhambra Valley Road from its junction with Alhambra Avenue westward to its
+junction with Interstate 80. A low capacity scenic rural roadway is appropriate and
+compatible with the scenic amenities along this east-west Coast range road. Treatment
+of the roadway through the Alhambra Valley is especially crucial to the overall visual
+quality of this scenic resource.
+27.25 Reliez Valley Road from its junction with Alhambra Valley Road, southeast to its
+junction with Grayson Road, through to the junction with Taylor Boulevard. The pastoral
+qualities of this road should be preserved with special regard to the scenic unity of the
+Alhambra Valley.
+27.3 POLICIES
+27.31 All billboards shall be prohibited along scenic roadways.
+27.32 Scenic roadways shall be assigned the highest priority for utility under grounding
+funds.
+27.33 Curbside parking should be prohibited wherever feasible to eliminate disruption
+of the visual scene caused by parked vehicles.
+27.34 Sides of the roadway should be fully landscaped in accordance with the
+established character of the areas. In non-urbanized areas, plant materials and
+placement of these materials should be consistent and integrated with the native
+vegetation. Within urbanized areas more formal landscaping and use of exotic or
+introduced plant species is appropriate.
+27.35 Where luminaries are provided they should be consistent in scale with neighbor-
+hood buildings or landscape features. The basic intent shall be to subordinate these
+vertical elements to surrounding conditions.
+27.36 Buildings sited along the scenic roadways shall be placed at a sufficient distance
+from the roadway to ensure retention of the major scenic attributes associated with the
+respective roadway section. The selection of building materials, colors and signing shall
+also be consistent with this aim.
+28 NOISE ELEMENT
+The 1985 Noise Element is separately bound; approved by the City Council on
+November 20, 1985; Resolution No. 194-85.
+29 COMMUNITY FACILITIES ELEMENT
+29.1 CHILD CARE COMPONENT
+Child Care Policy Statement
+It is the policy of the City of Martinez to assist and encourage the development of
+adequate, affordable and quality child care. It is recognized there is a need for child
+care for all age groups, however the City recognizes the special need for infant and
+after-school care. The City recognizes that the provision of child care requires a public-
+private partnership and that the role of the City is to establish land use policies to
+promote the establishment of child care facilities. It is the developers’ role to address
+the child care impact caused by development. It is the policy of the City to require
+developers to mitigate their development’s impacts through the provision of capital
+facilities or in some special circumstances, through fees in lieu of providing facilities.
+Further, it is the policy of the City to support the principle of parental choice for child
+care and the need for a variety of options available in the community, including schools,
+child care centers, family day care homes, employment sites and along or near transit
+routes. The City of Martinez encourages the participation of parents, providers, public
+officials and employers in the planning and decision-making process relating to the
+provision of child care facilities.
+29.2 DRAINAGE COMPONENT
+Drainage Policy Statement
+It is the policy of the City of Martinez to protect and enhance the natural resources
+associated with creeks and their riparian zones without jeopardizing the public health,
+safety and welfare. It is recognized that new development may increase the amount of
+storm water runoff and/or create new drainage patterns. Therefore, it is a policy of the
+City of Martinez to ensure that new development pays its fair share of the costs related
+to increased runoff created by development. In order to achieve this policy, the City
+shall require new development to finance the full costs of drainage improvements
+necessary to accommodate projected peak flows due to development. Mitigation fees
+may be required by the City to finance the required improvements in-lieu of construction
+of those improvements.
+
+30 CENTRAL MARTINEZ SPECIFIC AREA PLAN
+30.1 INTRODUCTION
+Central Martinez maintains an “old town” character which distinguishes it from outlying
+suburbs. The special problems of this district, in terms of housing, circulation, the
+nature of the commercial center and County seat, also set the Central Area apart from
+other sections of the City. The Specific Area Plan for Central Martinez formulates goals
+and policies expressly designed to guard the character of the City’s older sections while
+guiding the evolution of the functions at the City core.
+F30.1 The Central Martinez Specific Area Plan map is shown in Land Use Map 1.
+30.2 GOALS
+30.21 Preserve and enhance the environment, physical structures and services in a
+manner which respects the special small town character, quality, and amenity of “old”
+Martinez.
+30.22 Limit the development of available land and new structures in accordance with
+the express policies of the general plan for Central Martinez and the predominant
+character of surrounding uses.
+30.23 Establish adequate controls for the location, function and design of structures
+and facilities required to improve the economic and social life of the community.
+30.24 Secure open space and conservation areas both around and within the
+urbanized area of Central Martinez, afford relief from the urban environment, ensure
+neighborhood identity, protect scenic vistas and provide for active and passive
+recreation.
+30.25 Guarantee all citizens physical well-being, intellectual, social and cultural
+development, and a choice of stable residential neighborhoods and personal privacy.
+30.26 Achieve a visually pleasing community in which structure and surroundings are
+related in a harmonious and functional pattern while eliminating unattractive elements
+and arresting deterioration.
+30.27 Strengthen essential municipal services and consolidate the civic, commercial
+and recreational roles now played by Central Martinez to make optimum use of land and
+to increase resident and regional use of community facilities and the natural assets of
+the area.
+
+30.3    COMMERCIAL AND CENTRAL BUSINESS DISTRICT
+30.31 PURPOSE
+Varied commercial activities are vital not only to the economic health but also to the
+quality of life in a city. Direct benefits are realized by community residents who are
+employed by local retail, service and wholesale commercial establishments. Needed
+goods and services are made available and accessible. Tax revenues produced by
+commercial establishments contribute to and can finance improved levels of service for
+the entire community.
+Opportunities for employment and tax revenues can be increased by expanding the
+industrial base in Martinez. Since, however, indiscriminate industrial growth can
+jeopardize the quality of the environment, careful guidance and proper sitting of
+industries is imperative to promote a better life for residents.
+The central business district has been profoundly affected in recent years by the
+continuing expansion of County government. Hosting the seat of County government
+for Contra Costa has brought a sharp rise in government land use and employment, but
+has created problems as well. Any further expansion of County facilities must be
+closely evaluated to ensure that it conforms to environmental, residential and
+commercial objectives set by the community. The commercial and central business
+district section of the Specific Area Plan oversees these concerns.
+30.32 COMMERCIAL POLICIES
+30.321 The City and the business community should capitalize on the emerging
+specialty nature of existing Martinez outlets by aggressively encouraging further
+specialty-retail, professional, financial and government service establishments and by
+providing public amenities to complement these service functions.
+30.322 A sign ordinance with a reasonable amortization provision should be prepared
+and design and landscaping criteria for all future commercial development should be
+applied to all proposals.
+30.323 Loading docks, trash collection areas, open storage lots and other unsightly
+areas should be concealed and screened from view.
+30.324 The central business district should be strengthened by consolidating retail and
+service establishments while discouraging additional development of strip facilities
+along Alhambra Avenue.
+30.325 Additional commercial development should be permitted in neighborhood
+convenience centers only when it adds to the convenience of living in that neighborhood
+and when the design features and traffic patterns of the center will not detract from the
+neighborhood. New commercial areas shall similarly be designated only where they are
+essential to the convenience of neighborhood residents.
+30.326 Future commercial development should be located where it will best serve the
+convenience of shoppers and the needs of the surrounding trade areas.
+30.33 CENTRAL BUSINESS DISTRICT POLICIES
+30.331 A program to beautify and bring focus to the central business district should be
+undertaken. Market conditions, investment constraints and aesthetic considerations all
+suggest that the unique quality, potential attractiveness and special amenity offered by
+the Central Martinez downtown area can be enhanced through programs of limited
+scale which capitalize upon the recreation/leisure/visitor trade.
+30.332 Broad scale clearance programs aimed at eliminating commercial blight and
+“importing” substantial members of new residents into the central business district
+cannot be justified in market terms and would tend to impair the very qualities which
+distinguish Martinez from other commercial centers. Attention should be focused upon
+the commercially blighted blocks which encircle the core central business district, for the
+purpose of containing incompatible commercial and industrial uses and consolidating
+and upgrading parcels now badly deteriorated.
+30.333 Main Street and the immediate vicinity should be improved by sponsorship of a
+program which emphasizes increased off-street parking, the establishment of
+greenways and possible street closures. The overall thrust should be to improve the
+attraction of the area to pedestrian shoppers, and to subordinate the emphasis on
+vehicles that now exists.
+30.334 The strong market support for increased specialty goods and service outlets, for
+expansion of first class eating and drinking establishments, and for the growth of related
+leisure-based commercial activity within the central business district is reinforced by
+park and recreational uses at the waterfront. Merchants should organize and sponsor a
+study of consumer preferences based upon forecasted increases in visitor days to the
+Central Martinez area.
+30.335 Expansion of community and cultural facilities adjacent to and within the central
+business district should be planned.
+
+30.34 COUNTY GOVERNMENT POLICIES
+30.341 The City and the County should keep mutually informed about significant
+planning decisions and other proposed public actions which affect Martinez.
+30.342 An agenda of current unresolved planning problems including, but not limited to,
+parking, traffic circulation, and current County space requirements should be developed
+and discussed by City and County staff for the purpose of arriving at mutually
+acceptable solutions. Other actions which may affect the City of Martinez can be
+anticipated.
+30.343 The County should be discouraged from encroaching further into developed
+residential neighborhoods or taking any action that threatens the stability and value of
+privately owned parcels.
+30.344 The viability of the County Master Plan and existing County policy toward
+creation of a concentrated civic center complex should be examined and prevailing plan
+assumptions reviewed.
+30.345 Any future expansion of County government shall respect the need to upgrade
+and consolidate uses within the central business district through careful site selection of
+professional and office space.
+30.346 Height, bulk and uses of proposed governmental structures shall conform to the
+character of the community.
+30.35 INDUSTRIAL POLICIES
+30.351 Adequate land for industrial growth and development should be provided. It is
+the policy of the City to encourage and assist existing industry to relocate away from the
+southern perimeter of the waterfront.
+30.352 The City should consider further annexation to the east of the current Martinez
+City Limits to provide space for expansion of industry.
+30.353 Industrial expansion accompanied by adverse environmental impact will not be
+permitted.
+30.354 Acceptability of any industry shall be based upon its demonstrated ability to
+conform to performance standards set by the City.
+30.355 Architecture of some merit and landscaping of building sites and parking areas
+should be required; according to design and landscaping criteria for industrial sites.
+30.356 Industry should be located in a manner that protects both the adjacent land
+uses and the industry itself.
+      30.3561 Industrial areas should be located close to major traffic arteries to
+      minimize heavy traffic through the urban area.
+      30.3562 Health, safety and maintenance standards should be vigorously
+      enforced against industrial concerns whose practices endanger the community.
+      30.3563 Industrial areas which front directly on residential areas should be
+      landscaped and screened.
+      30.3564 Industrial activities commonly considered undesirable, but necessary,
+      should be identified. These may be located with minimum public exposure, but
+      with direct access to major arterials.
+30.4     CIRCULATION
+30.41 PURPOSE
+The major thoroughfares in Central Martinez serve mainly to transport traffic between
+residential areas and the surrounding regional highways, and between the county
+facilities and the regional highways.
+30.42 POLICIES
+30.421 Transportation planning should be undertaken as an integral element of the
+General Plan, in accordance with stated community goals, and for the benefit of the City
+as a whole.
+30.422 The Martinez circulation system should provide a network for all types of
+movement, including automobile, bicycle, pedestrians, and equestrian routes. Martinez
+should be provided with an efficient vehicular circulation system with a variety of streets
+designated according to primary use.
+30.423 Street capacity should be restricted in areas designated for retention in open
+space use, and thereby aid in discouraging further urbanization.
+30.424 Existing and planned residential areas should be protected from intrusion by
+major traffic movements.
+30.425 Adjustments to the General Plan are shown in Land Use Map 1 and are
+enacted as follows:
+         30.4251 The proposed construction of a four lane thoroughfare along the east
+         side of the County building at Willow Street is deleted due to incompatibility with
+         the quality and stability of the adjacent residential area. If necessary and
+         appropriate for local circulation in this area, 2-lane streets might be provided on
+         property presently owned by the County.
+         30.4252 The Pine Street connection between California State Highway Route 4
+         and Marina Vista should be decreased from a proposed 4 lanes to 2 lanes to
+         protect the stability and residential amenity of the Pine Street area. The
+         extension of Pine Street from Shell Avenue to Vista Way should be considered
+         during the environmental impact review for development in this area.
+         30.4253 The planned connection between Pine Street and Court Street at Brown
+         Street should be deleted, and Pine Street north of Brown Street utilized as the
+         more heavily traveled north-south street of the pair.
+         30.4254 The F Street extension into the Franklin Hills should be deleted from the
+         Circulation Element.
+         30.4255 A joint organization of City and County representatives should
+         investigate the opportunities of providing parking in the waterfront General
+        Development Area connected to downtown by an overpass over the Southern
+        Pacific railroad tracks with provision for 2 vehicular lanes, and a pedestrian path.
+        This project could provide long-term parking for County use on weekdays,
+        weekend and evening parking for recreation users, and a safe, reliable means of
+        access to the waterfront.
+30.426 A trail for pedestrians and bicyclists should extend along Alhambra Creek and
+link the waterfront recreation and parks area to a number of community facilities
+including the Martinez Primary and Junior High Schools, the proposed park and
+community center at “A” Street, the County Public Housing Area and Montecito
+Elementary School. The trail should extend along Alhambra Way to the PG&E right-of-
+way. This will establish a trail connection to Canyon Way on the west, will lead on to
+the California Riding and Hiking Trail at the John Muir Home and will provide a
+continuous trail into the Franklin Hills.
+30.427 The City should support the efforts of the Local Mass Transit Agency to
+implement a public transit system connecting to BART. A large section of Central
+Martinez should be included in any program linking downtown Martinez to the BART
+station in Concord. Major destinations should include the Shell Company industrial
+area, the County office complex and the downtown commercial areas, the County
+Hospital and the Veteran’s Hospital. Local Mass Transit Agency service will consist of
+fixed-route buses, “dial-a-bus” or both.
+30.43 PROGRAMS
+30.431 A regularized program of traffic measurement should be established, at least for
+the major thoroughfares, to provide a basis for rational planning of the Martinez traffic
+system.
+
+30.5   HOUSING
+30.51 PURPOSE
+The housing stock in the central area of the City provides a stable supply of units for a
+number of fixed or limited income persons, most of them long-time residents of
+Martinez. Although essentially sound, the supply of housing needs to be improved, in
+quantity as well as quality.
+30.52 POLICIES
+30.521 A program of selective restoration and rehabilitation should be undertaken
+given the condition of existing housing in Central Martinez.
+30.522 Areas which encircle the central business district, now underutilized or in light
+industrial and commercial use, may be converted to residential use of appropriate
+density and structure type. This should increase the housing supply and should
+eliminate the threat of visual and structural blight to adjacent residential neighborhoods.
+30.523 Existing neighborhoods shall retain their present housing roles and their
+existing residential character shall be preserved and enhanced. Dissimilar building
+types shall not be permitted.
+       30.5231 The amenity of areas made up largely of single family structures should
+       be preserved.
+       30.5232 Incremental replacement or repair of structures in poor condition should
+       be provided for.
+       30.5233 Upgrading of selected blighted blocks now principally in nonresidential
+       use, but owned by Martinez residents, should be encouraged.
+       30.5234 Future residential construction within neighborhoods shall be based
+       upon controls on the number of units allowed per parcel, maximum lot size and
+       structure height.
+30.524 New construction of multi-family housing should be encouraged to meet the
+present demand and to “reconstruct” blighted areas, where such construction will not
+threaten the character of existing neighborhoods. An incentive system offering bonuses
+in exchange for larger site area, landscaping and special architectural quality should be
+adopted.
+
+
+30.53 PROGRAMS
+30.531 Voluntary programs of upgrading are urged. Neighborhood homeowner groups
+would form the backbone for self-help programs assisted by the City. Technical
+assistance, bulk purchase of building supplies, low interest loan guarantees and other
+support should be provided by the City.
+30.532 New construction should be reviewed to ensure its compatibility with the
+neighborhood. The following guidelines are applicable.
+       30.5321 Provide a variety of housing types in selected areas where proposed
+       new construction can be tied to surrounding use.
+       30.5322 Prohibit the construction of apartment units in neighborhoods where
+       single family homes predominate.
+       30.5323 Set ceilings for permissible lot coverage in residential areas to prevent
+       crowding units on small parcels and loss of open areas.
+       30.5324 Set height restrictions to prohibit two-story structures over parking
+       facilities in any, but the most densely developed areas.
+       30.5325 Protect the integrity of central neighborhoods by permitting only new
+       construction which respects the scale of existing housing.
+30.533 The following classification system of residential areas is adopted to safeguard
+neighborhoods and regulate new construction. (See Figure F30.2)
+       30.5331 Group 1 designation allows only single family structures on sites of
+       6,000 square feet or more. This designation shall apply to existing residential
+       areas which match these conditions and to new development in some areas on
+       the east and south sides of the Central Martinez Planning Area.
+       30.5332 Groups 2 designation sets a minimum lot size of 4,000 square feet/unit
+       for all future construction, but permits flexibility to allow incremental growth. This
+       designation shall apply to housing in the northwest section of the Central
+       Martinez Planning Area where smaller sites and greater densities are common.
+       (See Land Use Map 1)
+       30.5333 Group 3 designation provides for multi-family structures within a
+       restricted range of units per lot where minimum requirements of square footage
+       of site per unit are met. This designation shall apply to the area around City Hall
+       and elsewhere as shown on the Central Martinez Specific Area Plan map, Land
+       Use Map 1.
+       30.5334 Group 4 designation defines multi-family areas where there is a special
+       need for market inducements to aid reconstruction or where it is desirable to
+permit additional development in more recently developed sections of the
+Planning Area, as in the area east of Alhambra Avenue near California State
+Highway Route 4.
+30.5335 The City may consider through a Planned Unit Development (P.U.D.)
+process up to 40 units per acre for low/moderate income Senior housing in
+locations where it can be accommodated without imposing adverse impacts to
+the existing area.
+
+30.6   OPEN SPACE/ CONSERVATION
+30.61 PURPOSE
+Open Space/Conservation lands of Central Martinez are defined on the same basis as
+the Open Space Conservation lands of the General Plan. Lands within these categories
+are subject to various regulations which safeguard their value as natural resources.
+Within the Central Area of Martinez, controls over the use and disposition of the land
+take the form of selective development standards, dedication requirements and outright
+public acquisition.
+30.62 POLICIES
+30.621 The Franklin Hills sub-area, extending from the Carquinez Straits to California
+State Highway Route 4 between urban Martinez and the western edge of the study
+area, are designated Environmentally Sensitive Lands or Public Permanent Open
+Space as shown in Land Use Map 1. Most of the area is composed of slopes that
+exceed a 30% grade and are either too steep for development or would require
+extensive study and careful design to ensure safe development. Ridge areas of less
+than 30% slope are either isolated from reasonable street access or are of major visual
+importance to the Downtown. The Franklin Hills sub-area of the Central Martinez
+Specific Area Plan is shown in Land Use Map 1.
+       30.621.1 In this area limited residential development on an individual site basis
+       may be appropriate if certain environmental impacts can be mitigated. Each
+       application for residential development shall be accompanied by the following
+       items:
+       A.     Applications for rezoning and development plan approval shall be
+              processed concurrently. Each application shall contain documentation by
+              the appropriate professionals hired by the applicant that each and every
+              significant environmental impact (including cumulative impacts) identified
+              in the Franklin Hills Environmental Impact Report (EIR) has been
+              thoroughly investigated for the site in question and can be mitigated to an
+              insignificant level. Site-specific and cumulative mitigation measures shall
+              be designed in sufficient detail to allow preliminary cost estimates to be
+              also included in the application.
+       B.     Prior to acceptance of the application as complete, all portions of this
+              application shall be reviewed for completeness and accuracy by City staff
+              and appropriate City consultants. The cost of this review shall be paid by
+              the applicant.
+       C.     No application shall be accepted for a proposal which exceeds a density
+              of one unit per half-acre of land under 30% slope and under 350 ft.
+              elevation, and one unit per ten acres over 350 feet elevation. A slope
+              density map meeting Zoning Ordinance requirements shall be submitted
+              with each application.
+        D.     No application shall be accepted for a site which does not have, or provide
+               as part of the development proposal, access to a fully-improved public
+               street meeting all City requirements including those relating to length and
+               number of lots served by a cul-de-sac.
+        30.621.2 All of the Franklin Hills sub-area shall be zoned to a zone district
+        consistent with this Plan.
+30.622 Two small areas of slopes of 30% or greater grade are designated Open Space
+lands, namely that parcel of land in the center of the study area but outside the city
+limits between Shell Avenue and Alhambra Creek and that parcel immediately north of
+California State Highway Route 4 and east of Alhambra Way.
+30.623 The city should acquire a 6.3 parcel of land bordered on the north by Soto
+Street, on the south by Arch Street, on the west by Alhambra Creek and the east by a
+steep slope in its natural state. Renovation of the existing structure as a community
+center should be undertaken.
+30.624 Open Space and Conservation Zone lands within the Central Martinez Specific
+Plan Area will be governed by one or more of the following procedures.
+        30.6241 Zone for private agricultural or grazing land.
+        30.6242 Permit selective development which would prohibit construction in
+        specified areas where there is a demonstrable hazard to public safety, potential
+        drainage and erosion problems or potentially adverse impacts of development
+        upon the environmental or economic balance and character or other area. Any
+        developer should be required to assume the costs of necessary engineering,
+        environmental, economic and other studies to validate the suitability of the
+        proposed development in light of these factors.
+        30.6243 Require dedications for those portions of developable land which have
+        special open space/conservation value.
+        30.6244 Acquire land for public use when the benefits of open
+        space/conservation land are not available through other means or where
+        intensive public use is expected.
+        30.6245 The developer shall bear the costs of added services and utilities
+        whenever possible.
+30.625 All privately-owned land formerly designated as Open Space, Parks and
+Recreation land shall be redesignated as Environmentally Sensitive Lands. All publicly-
+owned land in the same category shall be redesignated as Permanent Public Open
+Space
+30.7    WATERFRONT
+30.71 PURPOSE
+The Martinez waterfront is a singular natural asset which can play a significant role as a
+major recreation and conservation area for local residents and the region. By arresting
+gradual deterioration of the waterfront and realizing its full potential, the city can re-
+establish a focal point of historical importance to the community and provide an impetus
+for a range of civic improvement projects.
+30.721 POLICIES
+The waterfront lands require a comprehensive planning approach. Public decisions
+affecting the waterfront should be guided by respect for the integrity and compatibility of
+uses permitted and maintained at this location.
+30.722 The highest priority should be assigned to conservation, park and recreational
+uses at the waterfront. Contemplated uses should include: an expanded and improved
+boat marina, fishing pier(s), water-oriented commercial/recreational establishments,
+scenic routes, hiking and bicycling pathways, and areas for both active and passive
+recreational pursuits.
+30.723 Marshes and mudflats along the waterfront should be maintained and
+reconditioned to conserve wildlife and flora, to abate air and water pollution and to
+afford recreational opportunities.
+30.724 Existing industrial and non-water-related commercial activities should be
+concentrated, attractively maintained and screened from view. Ultimately, incompatible
+waterfront uses should be relocated to other suitable locations.
+30.725 Acreage of suitable stability and location should be placed in a general
+development area for uses including expanded active recreation, the relocation of
+compatible commercial or parking.
+30.726 Obnoxious practices and uses which are inconsistent with the proposed water-
+front should be discontinued and made illegal. All waterfront lessees and owners
+should be required to adhere to appropriate design and maintenance standards. All
+planned uses should conform to a unified design and development guide.
+30.727 Public access to the waterfront should be expanded through the provision of
+well-designed and safe pedestrian elevated crossings, and, if indicated, vehicular
+crossings.
+30.728 Sponsors of public and commercial recreational facilities should be clustered
+and concentrated to permit joint use of facilities, preserve open space and provide a
+greater range of choice for users.
+30.729 The City should aggressively seek financial support and cooperation from public
+agencies and qualified private investment to realize the objectives set forth in the
+proposed waterfront plan.
+30.73 PROGRAMS
+30.731 Conservation and Parks
+      30.7311 Marshes of the waterfront should be joined with other areas which are
+      generally unstable and of poor quality as foundations for construction to form a
+      conservation area.
+      30.7312 Properties with relatively stable foundation or capable of fill at a
+      reasonable cost, both vacant and in use, should be designated for further special
+      study.
+      30.7313 Natural screening should be provided around the C.C.C.S.D. pumping
+      station, across the north side of the Telfer Tank Line property, along the east side
+      of North Street to screen in the General Development Area at this point, along
+      the Shell property line and the Southern Pacific railroad tracks.
+      30.7314 The existing outdoor recreation area and baseball field at Embarcadero
+      and North Court Street occupies Reclamation Area VI and should remain to form
+      the southern boundary of the conservation area at this point. The desirability of
+      expanding recreational uses across North Court Street into a wider perimeter of
+      active areas should also be considered.
+      30.7315 The waterfront should provide a point of intersection for regional hiking,
+      horseback riding and bicycling trails. Trailhead facilities, such as parking,
+      restrooms, picnic tables, etc. should be provided on adjacent land.
+      30.7316 Fishing piers on piles or floats should be built to increase the
+      attractiveness of the regional recreation area.
+      30.7317 Additional outdoor recreation uses, for bocci courts, picnic areas,
+      playing fields, etc. and public facilities, should be sited in relation to conservation
+      lands to ensure a permanent, natural environment for these activities.
+30.732 Upgrading the Waterfront and Marina Environments
+      30.7321 Non-marine oriented commercial establishments located along North
+      Court Street should upgrade their sites to conform to the park and recreational
+      uses planned for the waterfront and/or relocated and set back from the marina
+      access road within the General Development Area adjacent to the railroad tracks.
+      Ultimately, non-compatible commercial uses should be relocated away from the
+      waterfront entirely. Use of spoils basins should be carefully managed and
+      grading carried out to conceal the visual blight caused by roadside dumping.
+      30.7322 Further development of the properties west of Alhambra Creek should
+      be discouraged. Properties adjacent to the Southern Pacific right-of-way
+      presently support developments of one type or another that are unsuitable for
+      conservation generally. These properties are Reclamation Areas I, V, and VI, the
+      Cannery property and the property on North Berrellessa.
+      30.7323 All structures on the cannery property should be removed, excepting
+      the three warehouses. This land area should be used to provide a paved parking
+      area for users of a regional trail system. The three warehouses to be retained
+      have vaulted wooden ceilings and house expansive floor space, both features
+      offer great potential for public use, including regional fairs, indoor sports, etc.
+      30.7324 Marina-related uses should be consolidated in an intensive Marina
+      Development Area immediately adjacent to the Marina.
+      30.7325 Pine Street or North Court Street should be extended to connect
+      directly with the Marina.
+      30.7326 The visual identity of the Marina Development Area should be bolstered
+      by fixing its boundaries and carrying through a unifying paving and landscaping
+      scheme. This will ensure an obvious east west connection of marshlands in
+      conservation use and will strengthen the concept of the Marina complex as a
+      “island” for boating and fishing activities within the conservation area.
+30.733 Improving Access
+      30.7331 A railroad crossing with gate should be provided at Pine Street or North
+      Court Street. The present Ferry Street Crossing should be closed. This change
+      would improve general accessibility to the marina and commercial areas and
+      would discourage development in the western section of the waterfront. Joint
+      use parking by the County in Reclamation Areas I and V should be undertaken in
+      connection with this crossing.
+      30.7332 An elevated auto access route to the waterfront will not be necessary if
+      the waterfront is to be used primarily for conservation and recreational purposes,
+      and Reclamation Areas I and V are to accommodate uses of a low intensity.
+      However, if increased automobile use will be generated by Marina expansion or
+      joint-use parking, an elevated crossing may be required and desirable.
+      30.7333 For the safety and convenience of users of waterfront conservation land
+      and the continuity of a regional trails system, elevated crossing of the railroad for
+      pedestrians, equestrians and bicyclists should be provided.
+
+30.8 MIXED USE DISTRICTS
+30.81 There are three mixed use districts designated on the General Plan. All are
+located within the Central Martinez Planning Area. In each case the designation
+indicates that there are mixed uses existing within the districts, and that the uses are, or
+can be compatible. As with other designations within the Central Martinez Planning
+Area, the thrust of these designations is to preserve the existing character of the area
+and of the community, while allowing a gradual conversion to more feasible or more
+beneficial uses. Each area mixes residential; reflecting the older predominant use of
+the area, with more intensive uses, such as offices, commercial, or both.
+30.82 The keys to successful mixing of land uses in these areas will be providing
+compatibility with the existing lower intensity uses (principally residential) and
+preserving as many of the older residential structures as feasible.
+30.83 Non-residential uses in mixed use districts should be limited to those which do
+not generate significant vehicular traffic. Such additional traffic would both make the
+area a less desirable place to continue to live and would create the need for larger
+parking areas, not aesthetically compatible with the residential uses.
+30.84 Essential parking should be provided in any new use or change in use. Persons
+employed on the site should be able to park on the site; otherwise employees will
+contribute to heavy on-street parking, further detracting from the residential quality.
+Likewise, visitor parking should be provided to the extent necessary for the same
+reason. Parking areas, however, should be restricted to the minimum necessary for the
+conduct of the business, consistent with Section 21.73.
+30.85 To the extent feasible existing residential structures should be preserved and
+renovated with changes in use, for it is these structures which give the districts their
+character and charm. New structures should be of residential scale, both size and
+materials. Materials for new buildings, therefore, should be wood, stucco, or similar.
+The institutional effect of concrete and masonry block or brick should be avoided.
+Buildings should have appropriate glazing areas, both because exterior light has energy
+and psychological benefits to interior users and because windows are part of a
+residential scene.
+30.86 Parking areas should be treated as to not detract from the residential scene.
+This requires minimum-sized areas, and maximum setbacks from the street. Setbacks
+should not be less than the front or side yard setbacks of the neighboring structures.
+Setbacks should be planted with residential-type ground covers, trees and shrubs.
+Shrubs should be used to conceal, or at least soften views of the parked cars and
+parking areas from the street and from neighboring properties.
+30.87 Signs for non-residential uses should be of minimum necessary size, low height,
+subtle colors, and utilize wood materials in its construction. Signs should be located in
+a manner to provide the necessary notice, without detracting from the residential scene.
+31 ALHAMBRA HILLS SPECIFIC AREA PLAN
+        NOTE: Pursuant to Resolution No. 56-87, adopted by the City Council on
+        May 6, 1987 approving the 1987 Alhambra Hills Specific Plan, “properties
+        within the 1973 Alhambra Hills Specific Area Plan and not within the new
+        Specific Plan Area shall remain with the jurisdiction of this 1973 Alhambra
+        Hills Specific Plan.”
+31.1    INTRODUCTION
+The natural form of the Alhambra Hills site features a hilltop plateau concealed from
+below by a series of lower ridgelines. This situation provides a unique opportunity for
+hilltop development which does not intrude on the visual character of the surrounding
+area. The purpose of the Alhambra Hills Plan is to specify policies for conservation and
+development which will permit development to occur without diminishing the natural
+form or scenic attributes of the hill.
+F31.1 The Alhambra Hills Specific Area Plan map is shown in Land Use Map 1.
+31.2 GOALS
+31.21 TO PRESERVE THE NATURAL FORM AND VISUAL QUALITY OF THE HILL.
+31.22 TO INSURE THAT FUTURE DEVELOPMENT WILL ENHANCE THAT FORM
+AND QUALITY.
+
+31.3    POLICIES
+31.31 HILL SLOPES IN RELATION TO SURROUNDINGS
+31.311 Retain major tree and vegetation masses. These occur, for the most part,
+along drainage channels and ravines in the steeper sections of the site, in what would
+not normally be considered developable areas.
+31.312 Retain the upper grassy slopes which form a natural part of the typical
+California hill and provide a contrast to wooded areas.
+31.313 Retain ravines and natural water drainage channels, wherever possible.
+31.314 Preserve as much of the natural crestline as possible. Roads and buildings
+should be located so that they are not silhouetted against the sky, either back from, or
+below, the natural crest as viewed from below. Because the interface of woodland and
+meadow is an ecologically delicate area, care must be taken to safeguard, or re-
+establish, the balance between the two when sitting structures.
+31.315 Retain or provide for corridors or channels of trees and greenery leading up
+from peripheral roads to hilltops. These are necessary to provide unifying visual links
+between the low, flat areas and the hilltop, and to prevent a hilltop projecting out of a
+sea of rooftops.
+31.316 Locate roads and building sites to cause as little disturbance as possible to
+existing topography and vegetation. Extensive grading, such as would be required for
+roadways on steep grades, should be avoided.
+31.317 Provide for a future link-up through the site to the Briones Regional Park and
+the State hiking and riding trail systems.
+31.318 Retain or provide for selected scenic viewing points especially of Carquinez
+Strait and Mount Diablo. Any development should take advantage of this resource.
+31.32 HILLTOP PLATEAU
+31.321 Retain as much of the hilltop meadow as possible.
+31.322 Preserve trees surrounding the hilltop meadows, important to the natural
+crestline and essential to the isolated character of the upper meadows. These trees are
+not only an important part of the natural crestline, but are essential to the pleasant
+sense of isolation, so much a part of the quality of the upper meadows.
+31.323 Preserve individual high points or knolls along the spine of the hill as viewing
+points and as landmarks on the relatively undifferentiated upper meadows.
+31.33 HOUSING DENSITY
+31.331 The required site area per dwelling unit in the 0-10% slope category is to be
+7,500 square feet per unit.
+31.332 The allowable residential density as determined by the proposed slope-density
+formula should be modified further to consider accessibility factors. Lands which can be
+served only by cul-de-sac in excess of 1000 feet, or roadways traversing slopes in
+excess of 30%, should be excluded from the slope-density calculations. For example,
+an isolated plateau which can be served only by a cul-de-sac longer that 1000 feet or a
+roadway requiring cut-and-fill on slopes in excess of 30%, would be considered
+unbuildable. Thus, the allowable density as calculated from the slope-density formula
+could not be transferred to another portion of that site. Similarly, slopes in excess of
+40% are considered unbuildable and excluded from the slope density calculations.
+31.333 Incentives to provide higher open space and recreation standards, and other
+public benefit should be considered. For example, on the Alhambra Hills site a
+maximum overall development of approximately 1,300 dwelling units is suggested if
+developed totally in traditional single-family detached homes. An increase up to a
+maximum density of approximately 1,800 units is recommended, if an improved site
+plan and improved public open space and recreation facilities can be provided by
+clustering of development.
+31.34 LAND USE
+31.341 The site should be largely limited to residential uses.
+31.342 The small scale neighborhood convenience shopping facility is a suitable and
+desirable use in the hilltop area.
+31.343 Small scale retail facilities at the Reliez Valley and Alhambra Avenue entry
+points to the site should be permitted only if development of a hilltop convenience
+center is unfeasible.
+31.344 Small scale professional office uses are acceptable at the entry points to the
+site, if sited so as not to restrict traffic movement and designed to fit into the natural
+setting and the residential character of the area.
+31.345 Private recreational facilities, such as tennis and/or swim club are compatible
+uses in the residential area.
+31.35 LAND MANAGEMENT
+31.351 Adequate provisions should be made for management and maintenance of the
+natural areas, specifically dedication and maintenance by the city, by a homeowner's
+association or by a special park assessment district.
+31.352 Management practices should include provisions for fire protection sensitive to
+the value of the natural setting and maintenance programs for the grasslands once
+grazing is eliminated.
+31.36 SITE AND BUILDING DESIGN
+31.361 Consistency in development should be sought together with variation in the
+design of individual units. Common building materials, colors, and landscape materials
+should be used for groups of structures which are seen as a unit. Such visual units
+usually consist of structures fronting on a common roadway or greenway or areas which
+are seen as a group when viewed from a higher elevation. Within such visual units
+variations in the structural forms, e.g., height, roof shape, etc .should be permitted but
+minimized.
+31.362 Building materials and colors used in a visual unit should either be of natural
+materials and earth colors so as to blend into the natural setting or be of lighter colors,
+which provide a contrast with the natural setting. Bright colors whether warm or cool,
+should be confined to small detail elements or reserved for use in identifying specific
+elements of special community importance. In the Alhambra Hill site, use of natural
+materials and earth colors is recommended for the upper meadow and crestline areas,
+to reduce the visual impact of development as seen from below.
+31.363 Low and moderate height luminairs should be employed throughout the area to
+help retain a sense of the natural features. This is especially critical in the hill and up-
+per meadow portions of the site. The quality of nighttime lighting may be color
+differentiated, with warm lighting used in primarily pedestrian areas, and color corrected
+white lighting for more auto oriented corridors.
+31.364 A clear demarcation should be provided where private open space adjoins
+common open space preserved in natural greenery and planting. Walls, fencing, or
+hedges may be used for this purpose. This permits the individual home dweller to
+exercise whatever landscaping creativity he may possess while still preserving the
+natural appearance of the overall setting. When fencing is used, it should be of some
+natural material rather than of such obtrusive materials as chain link or overly
+patterned concrete blocks.
+31.365 Building groups should be sited to provide the maximum direct exposure of
+residents to common open spaces free from traffic. There should be as direct a
+relationship as possible between building groups and common open spaces, so that
+pedestrian movements from homes to open spaces do not conflict with or cross auto
+traffic movements.
+31.366 Common open spaces should be designed as part of an overall greenway
+system, providing easy and generally traffic-free pedestrian access to all parts of the
+site.
+31.367 The visual impact of parking areas should be minimized by accommodation of
+parking in small lots, incorporating parking in buildings, use of paving materials which
+blend into the overall site design, use of changes in level, abundant landscaping, earth
+berms, and other similar visual devices.
+31.368 Where building forms such as townhouses or garden apartments are used,
+uninterrupted facades in excess of 75 feet should be avoided by providing variations
+in the building alignment.
+31.369 Hillside and crestline building should be sited, designed and landscaped so
+that, when viewed from below, the supporting columns, piers and building undersides
+are not visually dominant.
+32 HIDDEN LAKES SPECIFIC AREA PLAN
+32.1 INTRODUCTION
+The Hidden Lakes area consists of 565 acres of undeveloped pasture lands largely
+surrounded by subdivisions. With its natural knolls and ridges on the south and
+southwest and its unique “hidden valley” running through the eastern portion, the study
+area includes areas of open space will suited for preservation. The specific area plan
+responds to this opportunity by setting forth the methods and policies to guide
+preservation. The plan includes sections devoted to Land Use and Development, Open
+Space and Conservation, Housing, Circulation and Trails. Aspects of the natural terrain
+and vegetation of the site, the impact of the existing developments upon the study area
+and the impact of the development of the Study Area upon existing developments are
+considered. In addition, consideration is given to existing and proposed traffic
+circulation networks, water and sewer systems and school district faculties.
+F 32.1 The Hidden Lakes Specific Area Plan map is shown in Land Use Map 1
+32.2 GOALS
+32.21 TO PRESERVE LARGE MASSES OF NATURAL PERMANENT OPEN SPACE
+AREAS FOR THEIR ECOLOGICAL, ENVIRONMENTAL, AESTHETIC AND
+RECREATIONAL VALUE TO THE HEALTH, SAFETY AND WELFARE OF PRESENT
+AND FUTURE RESIDENTS.
+32.22 TO CONSERVE THE NATURAL FORM AND VISUAL QUALITY OF THE LAND
+AND VEGETATION.
+32.23 TO INSURE THAT FUTURE DEVELOPMENT WILL PRESERVE AND
+ENHANCE THESE QUALITIES, WHILE MEETING NEEDS FOR HOUSING.
+
+32.3    LAND USE AND DEVELOPMENT POLICIES
+32.31 The major portion of the site area shall be retained for open space use, primarily
+preserved as public open space, with a portion preserved in private ownership.
+32.32 The existing golf course is an appropriate use within the Plan area.
+32.33 Clustered residential developments of regulated densities are appropriate for a
+portion of the plan area.
+32.34 Proposed development must be compatible with the Specific Area Plan with
+respect to natural terrain and vegetation, architectural and site design quality, adequacy
+of access and traffic impact.
+32.341 Roads and buildings should be located in a manner which minimizes
+disturbance of the natural terrain and vegetation.
+32.342 Architecture should be of high quality. Building designs consistent with the
+nature of the area and which provide maximum flexibility in the site and grading should
+be utilized.
+32.343 Designs for the development areas should include facilities to assure that the
+existing ponds are not polluted from surface runoff from the developments during
+construction, and their early years, before an adequate and complete ground cover has
+been reestablished. Geologic analysis of each development area should be required to
+assess its role in recharging the subsurface water supply serving the springs which
+supply the ponds with essential fresh water. Necessary steps and precautions should
+be required to assure that this water source is not threatened or diminished.
+32.344 Densities higher than R-1-7500 should be granted only for proposed
+developments which meet, or exceed the open space and conservation goals and
+policies recommended in this report. Increased zoning densities should not be granted
+for the construction of traditional detached single-family homes in a manner inconsistent
+with the Specific Area Plan.
+32.4 HOUSING
+32.41 GENERAL POLICIES
+32.411 Essential open space masses and vital elements of the terrain should be
+protected while still allowing development densities reasonably consistent with the
+patterns established on adjoining properties.
+32.412 Densities shall be determined by the Density Transfer Acquisition Method.
+       32.4121 A base density shall be calculated by extending the existing zoning
+       patterns for the area. A density increase shall be permitted to compensate for
+       the dedication of public open space and for conformance with this Specific Area
+       Plan.
+       32.4132 The resulting density should be transferred to a small portion of the total
+       site and will require the use of building types other than those found in traditional
+       subdivisions.
+32.42 SPECIFIC POLICIES
+32.421 Housing Types
+       32.4211 Consistent with the trends in the adjoining lands, as well as with the
+       Martinez General Plan, the housing units should be single family sale units to the
+       extent feasible.
+       32.4212 The recommended primary unit type is the townhouse or attached
+       single family house; the remaining units may be traditional detached single family
+       houses.
+       324213 Utilizing the Density Transfer Acquisition method, the housing mix
+       should be nearly half townhouse or attached single family, nearly half
+       apartments, with the remainder detached single family houses.
+       32.4214 The condominium sale of apartment units should be encouraged where
+       feasible.
+32.422 Housing Needs
+       32.4221 Housing to meet the needs of all segments of the population should be
+       provided within the Study Area.
+       32.4222 All properties shown on the Specific Area Plan Map as yielding 100 or
+       more dwelling units shall provide a minimum of 10% and a maximum of 20% of
+       all the dwelling units to accommodate low and moderate income residents.
+       These units must be distributed throughout the development and be
+       indistinguishable from the majority. Owners of these units should have full
+      fledged membership in any owners corporation or association.
+32.423 Densities
+      32.4231 The base density for the Plan area shall permit one dwelling unit per
+      7,500 square feet of site area as allocated under a R-1 Zoning classification.
+      32.4232 An incentive increase of 20% over the base density shall be permitted
+      as a means of compensating developers who dedicate land for public open
+      space and of encouraging development consistent with the Plan. However,
+      where any development whatsoever is deemed undesirable, the properties in
+      question should be acquired by the city for open space purposes.
+      32.4233 A sliding density increase above the 25% increase shall apply in order
+      to make more realistic the requirement that developers provide low and moderate
+      income units that are indistinguishable from the majority. A 2% increase above
+      base density is permissible when 10% of the desired housing is provided, sliding
+      up to 4% allowable increase where the maximum 20% is provided.
+      32.4234 Granting a 2-4% density increase should only occur in cases where the
+      developer adequately demonstrates that the increase in value of the property due
+      to the density increase is entirely used to increase the quality of lower and
+      moderate income housing without increasing its cost.
+      32.4235 Where development areas are capable of absorbing additional density
+      and where properties recommended for open space cannot be purchased,
+      Density Transfer is recommended. The base density with an incentive increase
+      of 100% of the base may be transferred to other properties thereby encouraging
+      developers to take on the cumbersome task of property assemblage. Other
+      means of acquisition are preferable, however, Density Transfer arrangements
+      are preferable to utter loss of open space to development.
+      32.4236 Additional density increases may be permitted if necessary to facilitate
+      the extension of Concord Avenue to the study area to provide the additional
+      access at an earlier date than would otherwise occur. This may also apply to the
+      extension of Morello Avenue into Pleasant Hill.
+      32.4237 Higher densities than those shown on the plan map or discussed as
+      density transfers should only be considered if the developer can show that he
+      meets all the goals and policies of the Open Space and Conservation Elements,
+      provides equal or larger open space areas, achieves better design or
+      substantially benefits the community.
+32.5 CIRCULATION
+32.51 POLICIES
+32.511 Major arterial and collector streets essential for safe and convenient traffic flow
+to, from and through the Study Area are identified as follows:
+        32.5111 California State Highway Route 4 developed as a freeway
+        32.5112 Full connection of Center Avenue between California State Highway
+        Route 4 and Pacheco Boulevard.
+        32.5113 Completion of Morello Avenue between California State Highway Route
+        4 and Taylor Boulevard
+        32.5114 Full connection of Concord Avenue between Morello Avenue and
+        Contra Costa Boulevard.
+        32.5115 Any connector between Morello Avenue and Alhambra Avenue
+32.512 Development of the study area should be carefully phased to maximize access
+routes other than California State Highway Route 4 and to minimize adverse traffic
+impact on any one route.
+32.6 PARK DEDICATION
+32.61 Full park land or full payment of fees shall be charged against such development
+in the planning area. No credits for the provision of private recreational facilities shall be
+granted against park dedication fees.
+32.62 The proposed 25% density increase allowance, designed to encourage
+compliance with the plan and to compensate for the dedication of public open space,
+shall be the only compensation awarded for preserving and dedicating areas for public
+open space.
+32.7 TRAILS
+32.71 POLICIES
+32.711 A system of riding and hiking trails should be established in the study area
+linking the California Riding and Hiking Trail in the southern and western portions of the
+area with various other open space areas, including the proposed open space areas,
+Briones Regional Park, and the Contra Costa Canal.
+32.712 The city should assure that trail systems started in this study area continue to
+other destinations.
+32.8 PLAN REVIEW
+32.81 POLICIES
+32.811 The Planning Commission should create a Neighborhood Planning Committee
+comprised of representatives from the Scenic Highlands Improvement Association, Muir
+Meadows Homeowners Association, any future homeowners’ association or corporation
+which may be created in the areas, Hidden Valley School, other public or quasi-public
+agencies or organizations and other interested residents who would be willing to
+participate on a regular basis.
+32.812 A designated representative from the Planning Commission should sit on the
+Neighborhood Planning Committee.
+32.813 The Planning Committee should review and/or propose changes to the General
+Plan or Specific Area Plans, review proposed developments and major rezoning for
+compatibility both with the City’s master plans and with neighborhood goals and resolve
+conflicts between proponents of the projects and area residents immediately affected by
+them.
+

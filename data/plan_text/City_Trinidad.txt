@@ -1,0 +1,2190 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Housing Element
+   Hearing Draft
+      May 1997
+
+                                             TABLE OF CONTENTS
+I. INTRODUCTION ................................................................................................................................... 1
+A.     OVERVIEW .................................................................................................................................... 1
+B.     DOCUMENT CONTENTS ............................................................................................................. 1
+C.     STATUTORY AUTHORITY FOR THE HOUSING ELEMENT.................................................. 2
+D.     CONSISTENCY WITH THE GENERAL PLAN ........................................................................... 2
+E.     PUBLIC PARTICIPATION ............................................................................................................ 2
+II. DEMOGRAPHIC INFORMATION ....................................................................................................... 4
+A.     1990 CENSUS SUMMARY............................................................................................................ 4
+B.     POPULATION CHARACTERISTICS ........................................................................................... 6
+C.     HOUSEHOLD CHARACTERISTICS/HOUSING NEEDS SUMMARY.................................... 10
+D.     HOUSEHOLD NEEDS SUMMARY/SPECIAL HOUSEHOLDS ............................................... 11
+III. HOUSING MARKET INFORMATION ............................................................................................. 19
+A.     HOUSING STOCK........................................................................................................................ 19
+B.     HOUSING CONDITION............................................................................................................... 21
+C.     AFFORDABILITY ........................................................................................................................ 23
+D.     LAND AVAILABILITY ............................................................................................................... 25
+IV. CONSTRAINTS .................................................................................................................................. 28
+A.     DEVELOPMENTAL CONSTRAINTS ........................................................................................ 28
+B.     GOVERNMENTAL CONSTRAINTS .......................................................................................... 30
+V.     ANALYSIS OF PREVIOUS HOUSING PROGRAM AND RECOMMENDATIONS FOR
+       REVISIONS .................................................................................................................................. 34
+A.     REVIEW OF EXISTING HOUSING RELATED POLICIES ...................................................... 34
+B.     EFFECTIVENESS......................................................................................................................... 37
+VI. HOUSING NEEDS SUMMARY ........................................................................................................ 38
+A.     GENERAL..................................................................................................................................... 38
+B.     SPECIAL NEEDS.......................................................................................................................... 38
+VII. GOALS, POLICIES AND IMPLEMENTATION -- 1996-2001........................................................ 39
+A.     GOALS .......................................................................................................................................... 39
+B.     POLICIES ...................................................................................................................................... 39
+C.     IMPLEMENTATION TO REACH FIVE-YEAR GOALS -- 1996-2001 ..................................... 40
+D.     IMPLEMENTATION TABLES .................................................................................................... 43
+VIII. ENERGY CONSERVATION........................................................................................................... 45
+                                                                    TABLES
+Table 1 - Population Characteristics.............................................................................................................. 7
+Table 2 - Ethnic Population Characteristics .................................................................................................. 9
+Table 3 - Total Households and Housing Units........................................................................................... 10
+Table 4 - Household Size in the City of Trinidad........................................................................................ 10
+Table 5 - Low Income Households.............................................................................................................. 11
+Table 6 - Coastal Development Permits Issued ........................................................................................... 12
+Table 7 - Regional Housing Responsibility................................................................................................. 13
+Table 8 - Overpayment (as a percentage of income) ................................................................................... 13
+Table 9 - Female Heads of Household, 1990 .............................................................................................. 14
+Table 10 - Disabled Persons - Work Disability ........................................................................................... 16
+Table 11 - Rental Unit Size and Persons per Rental Household.................................................................. 17
+Table 12 - Vacant Units .............................................................................................................................. 19
+Table 13 - Vacancy Status........................................................................................................................... 20
+Table 14 - Housing Unit Size (1990) .......................................................................................................... 20
+Table 15 - Housing Unit Type (1990) ......................................................................................................... 21
+Table 16 - Housing Age .............................................................................................................................. 21
+Table 17 - Contract Rents............................................................................................................................ 23
+Table 18 - Inventory of Land Available for Residential Development by Land Designation and Zoning
+        District............................................................................................................................................ 26
+Table 19 - Development Standards from the City of Trinidad Zoning Ordinance ...................................... 33
+Table 20 - Residential Construction Goals Rehabilitation........................................................................... 43
+Table 21 - New Construction (Cumulative) ................................................................................................ 44
+Table 22 - Housing Goals by Income Group 1994-2001 Based on the County Regional Housing Needs,
+        1992 projected to 2001, and based on no new construction since 1992......................................... 44
+Table 23 - Economic Development Goals - 1993-2001 .............................................................................. 44
+
+                                        FIGURES
+1 Regional Map                                              3
+2 Undeveloped Properties Zoned for Residential Development 27
+                                        I. INTRODUCTION
+A. OVERVIEW
+   Every City and County in California is required to adopt and periodically update a Housing
+   Element, one of several General Plan Elements mandated under State law. Although State standards
+   dictate much of the Housing Element's form and structure, local governments are primarily
+   responsible for Element preparation and implementation.
+   A Housing Element must adequately address a variety of housing issues while establishing plans for
+   meeting local housing needs. The Trinidad Housing Element is designed to meet State requirements
+   by discussing the city's current housing situation and predicting future housing trends and needs.
+   The Element also addresses Trinidad's share of the Regional Housing Need, as determined by the
+   State Department of Housing and Community Development.
+   This document represents Trinidad's initial, unamended Housing Element and is intended to
+   supplement the City's Residential Land Use Policies (Land Use Element). Combined, the Land Use
+   and Housing Element policies work to assure adequate housing for all segments of the city's
+   population. They also stress the importance of maintaining the unique quality of life that Trinidad
+   has to offer.
+   State legislation requires that the City review and, if necessary, amend its Housing Element at least
+   once every five years. The first revision of this Element should be completed by June 30, 2002 and
+   utilize updated census information, where available. Each review will evaluate the following:
+   1.      The appropriateness of the housing goals, objectives and policies in contributing to the
+           attainment of the State Housing Goal.
+   2.      The effectiveness of the Housing Element in the attainment of the City's housing goals and
+           objectives.
+   3.      The progress of the City in the implementation of Housing Element policies.
+B. DOCUMENT CONTENTS
+   The Trinidad Housing Element is composed of the following eight sections:
+   Section I., INTRODUCTION, introduces the document, delineates document contents, provides a
+   record of public participation, and cites the Element's statutory authority.
+   Section II., DEMOGRAPHIC INFORMATION, describes the population trends and household
+   characteristics of Trinidad.
+   Section III., HOUSING MARKET INFORMATION, discusses the city's housing stock and those
+   housing-market characteristics that affect the affordability and availability of land and housing.
+   Section IV., CONSTRAINTS, describes both governmental and natural constraints to construction,
+   rehabilitation, and housing provision in general.
+                                                    1
+   Section V., HOUSING NEEDS SUMMARY, summarizes Trinidad's housing needs as indicated by
+   previous sections.
+   Section VI., GOALS, POLICIES, AND OBJECTIVES, presents the City's proposed program for
+   meeting housing needs.
+C. STATUTORY AUTHORITY FOR THE HOUSING ELEMENT
+   Section 65580 of the Government Code declares that,
+              "(a) The availability of housing is of vital statewide importance and the early
+          attainment of decent housing and a suitable living environment for every
+          California family is a priority of the highest order.
+              "(b) The early attainment of this goal requires the cooperative participation
+          of government and the private sector in an effort to expand housing
+          opportunities and accommodate the housing needs of Californians of all
+          economic levels.
+              "(c) The provision of housing affordable to low and moderate income
+          households requires the cooperation of all levels of government.
+              "(d) Local and state governments have a responsibility to use the powers
+          vested in them to facilitate the improvement and development of housing to
+          make adequate provision for the housing needs of all economic segments of the
+          community.
+              "(e) The Legislature recognizes that in carrying out this responsibility, each
+          local government also has the responsibility to consider economic,
+          environmental and fiscal factors and community goals set forth in the General
+          Plan and to cooperate with other local governments and the State in addressing
+          regional housing needs."
+   The Housing Element is written in response to the standards set forth in Government Code Section
+   65583(a), as amended, and in conformance with the Guidelines prescribed by the California
+   Department of Housing and Community Development.
+D. CONSISTENCY WITH THE GENERAL PLAN
+   This document serves as an extension to the Housing section of the 1978 General Plan (pages 28-
+   32). It has been prepared in accordance with the goals, policies, and implementation measures
+   established throughout the General Plan, and every attempt has been made to assure consistency
+   between the two documents. (The General Plan is discussed further in Section VI. GOALS,
+   POLICIES, AND OBJECTIVES.)
+E. PUBLIC PARTICIPATION
+   A Review Draft of this Housing Element was circulated in March of 1995 and six study sessions
+   were held before the City Planning Commission and City Council. Copies of this current Draft will
+   be circulated to the Humboldt County Planning Department, California Coastal Commission and
+   local housing advocacy groups.
+                                                    2
+  FIGURE 1
+REGIONAL MAP
+     3
+                                 II. DEMOGRAPHIC INFORMATION
+A.     1990 CENSUS SUMMARY
+The following is a brief outline of relevant information pertaining to the city of Trinidad as provided by the
+1990 Census.
+POPULATION
+Total                             362 persons
+Total families                    101
+Total non-family households         18
+Total living alone                  51
+Persons living in families        262
+Non-families                      170
+Average family size               2.59
+AGE DISTRIBUTION
+Persons less than 18 years old      63
+Persons 18-64                     214
+Persons 65 years and older          85
+HOUSING UNITS
+Total number of housing units     200
+Owner-occupied                    108
+Renter-occupied                     62
+Vacant                              30
+Type of units            Occupancy
+155 detached             39 rented
+4 townhouse units        2 rented
+6 two-unit structures    9 rented
+8 apartment units        7 rented
+19 mobile home units     4 rented
+Number of bedrooms per housing unit        Occupancy
+              1 or less                    35, 12 rented
+              2-3                          139, 42 rented
+              4+                           11, 0 rented
+                                                       4
+Number of houses built
+prior to 1950    48
+between 1950 and 1970 78
+1970-1980                 41
+1980-1984                 18
+1985-1990                  5
+Value of housing                       None less than $50,000
+Median value                           $150,000
+Average mortgage with monthly costs    $910 (monthly costs approximately $226)
+Contract rent                          14 units less than $400; 23 additional units less than $600; 21
+                                       additional units less than $1,000
+Average rental price - $639.
+House Heating Fuel
+Propane                  27
+Electricity              47
+Fuel oil, kerosene       17
+Wood                     70
+INCOME
+Average annual income
+Families       $56,366
+Households     $42,977
+Number of very low income (less than $15,117)                    13 families and 44 households.
+Number of low income households (between $15,117-24,187)         13 families and 23 households.
+Households by income group
+Very low      57
+Low           27
+Moderate      39
+High          48
+Persons below poverty level      15
+Between 18-24 yrs                 5
+45-59 yrs                         5
+75+ yrs                           5
+No families below poverty level.
+Owner-occupied housing units paying less than 20% of income to housing 53
+More than 30%                                                            10
+Renter-occupied housing units paying more than 30% income to housing        26 of which 24 units paid
+                                                                            35% or more with incomes
+                                                                            less than $20,000/year
+                                                   5
+EMPLOYMENT
+Total workers (age 16+)                             149, includes 5 unemployed
+Total not in labor force (age 16+)                  147
+Households with earnings of some sort               120
+Households with no earnings                          47
+Households with wage or salary                       95
+Self-employment                                      48
+Interest dividend or rental income                   99
+Social security                                      66
+Public assistance                                    16
+Retirement income                                    61
+Number that work at home                             33
+Number employed in farming, forestry or fishing                8
+Work disability status - 12 males, 21 females less than 64 years of age; 11 males, 9 females 65 year or
+older.
+Female-headed households
+More than 65 years old, living alone        12
+With children                               13
+Average travel time to work        16 minutes.
+Number of workers traveling        less than 15 minutes - 40
+                                     more than 30 minutes - 20
+B.   POPULATION CHARACTERISTICS
+     1.    Growth Trends
+           a.   Population Trends
+                Trinidad's land area of approximately one square mile remained constant between 1980 and
+                1990. The city's population also showed stability over that decade. United States Census
+                information indicated that the population of 379 in 1980 dropped to 362 in 1990, a 4.5%
+                decrease. Given current constraints to development, the projected maximum population for
+                the city is not expected to exceed 400 (see Section IV. CONSTRAINTS).
+                The city of Trinidad has historically supported a commercial fishing industry. It now
+                serves increasingly as a retirement community, recreation area and bedroom community.
+                Many (24%) of the city's year-round residents are retirees. The general population has
+                historically increased substantially during the summer due to immigration of fishing-
+                industry professionals and tourists. This occurs to a lesser degree with the decline of the
+                fishing industry.
+                Table 1 compares the population composition in 1980 with that of 1990, according to U.S.
+                Census information.
+                                                       6
+                                     Table 1 - Population Characteristics
+                            1980                 % of Pop.               1990                  % of Pop.
+ Total Population                   379                 100%                    362                    100%
+ Male                               190                  50%                    190                     52%
+ Female                             189                  50%                    172                     48%
+ Children                            57                  15%                     58                     16%
+ (under 16 years)
+ Working Age                        249                  66%                    219                     60%
+ (16-64)*
+ Retirees                            73                  19%                     85                     24%
+ (65 and over)**
+*These figures refer to the actual number of residents between 16 and 64 years and do not reflect the size of
+Trinidad's work force (see b. Employment Trends).
+**This category includes all residents 65 years and over, regardless of employment status.
+                 According to the 1980 and 1990 Censuses, a slight decrease in the number of working-age
+                 residents occurred simultaneously with a rise in the number of retirees. It is likely that some
+                 working-age residents        moved into the Retiree category over the past decade, and others
+                 may have relocated from outside the city.
+                 With limited pressure to expand in population and area, Trinidad is not faced with many of
+                 the housing concerns experienced by quickly-growing cities. The City is primarily
+                 concerned with conserving its adequate supply of affordable housing, both now and into
+                 the future.
+           b.    Employment Trends
+                 Trinidad's local economy is largely dependent on three key industries: tourism, recreation,
+                 and commercial fishing. The city has only 37% of its total population in the work force,
+                 with the remaining 63% of residents being retirees, disabled, or children below working
+                 age (15 years and under). The majority of the employment base is currently not in the City.
+                 According to the 1990 Census, the mean travel time to work for Trinidad residents was 16
+                 minutes. This implies that many Trinidad workers are employed in the nearby cities of
+                 Arcata and Eureka. The Census also indicates that 24% of workers traveled less than 10
+                 minutes to reach their work places and were therefore employed locally (within 4 miles of
+                 their homes). Twenty six percent (26%) of Trinidad's working residents were self-
+                 employed in 1990, although Census information did not indicate how many workers were
+                 self-employed within city boundaries.
+                                                           7
+         The County unemployment rate has been rising steadily with the national and state
+         recessions since 1991. This trend is expected to continue until economic stabilization
+         occurs. Locally, recent cutbacks in timber harvest practices on public land have added to
+         increased unemployment levels.
+         Due to Trinidad's success as a recreation and commercial fishing center, its economy
+         remains fairly independent of the cyclical influences of the timber industry. However, the
+         city is affected by seasonal surges in tourism and fishing.
+         Recent government imposed limitations on the duration of the salmon fishing season have
+         impacted the Trinidad economy. Many longtime, seasonal, commercial-fishing
+         professionals now find it infeasible to justify the costs of traveling to the city to fish. An
+         ebb in commercial fishing activity has also decreased the amount of fishing-related,
+         summer tourism.
+         Another drop in tourism was experienced by the closure of the city's only existing gas
+         station in 1993. The station reopened in 1994. Trinidad's small size makes it especially
+         sensitive to small-scale business closures.
+2. Age of Population
+   Census information from 1990 indicates that the largest Census-defined age classes in the city
+   were 40-44 (11% of total population) and 35-39 (10%), respectively. The next largest age class
+   was the 70-74 group (7%). Fifty-eight (58) persons (16%) were 15 years or younger. It is
+   important to note that Census data also indicate that 85 residents (24%) were 65 or older in
+   1990. This represents a 5% increase in residents over 65 in ten years.
+   Of householders 65 and older in 1990, 5 (9%) were renters and 52 (91%) owned their homes,
+   indicating that only a small proportion of the renting population is made up of seniors.
+   Conversely, most householders between the ages of 25 and 34 rented and few owned homes;
+   specifically, 17 (89%) rented and only 2 (11%) were homeowners. The 1978 General Plan
+   states that Trinidad is composed mainly of single family dwellings owned by retirees or by older
+   white collar workers. Where this is still generally true, many residents, primarily renters are
+   students attending Humboldt State University, in the nearby City of Arcata.
+3. Ethnic Population
+   The ethnic population of Trinidad is composed of 13 residents who make up 4% of the city's
+   total population. Six housing units are listed as ethnic (nonwhite) occupied; two owner-
+   occupied and four renter-occupied.
+   Table 2 compares the city's ethnic population characteristics over the past decade with County
+   and State figures.
+                                                 8
+                               Table 2 - Ethnic Population Characteristics
+                                      Trinidad                    County        State
+                             1980                    1990                   1990
+    ETHNICITY              No.            %             No.           %             %              %
+    White                  351           92.6          348           96.1          90.6           69.0
+    Black                    1           0.3             1           0.3            0.8            7.4
+    Native
+    American/               13           3.4            11           3.3            5.5            0.8
+    Asian*
+    Hispanic                14           3.7             1             .3           3.8           25.0
+    Other                    -             -             1            .3            3.1           22.8
+* Includes Asian, Pacific Islander, American Indian, Eskimo, and Aleut in 1980 census information.
+           These data indicate a similarity of residents by race over the past ten years. The data also show
+           disparity between City figures and averages of the County and State. However, due to the City's
+           small population, averages can fluctuate greatly with the addition or subtraction of only a few
+           people.
+           Economically, the housing needs of ethnic people in Trinidad most likely mirror the needs of
+           young families and first-time home buyers. In this respect, increasing housing opportunities for
+           the latter groups should also increase opportunities for ethnic residents.
+           State law mandates that local housing programs include policies to "promote housing
+           opportunities for all persons regardless of race, religion, sex, marital status, ancestry, national
+           origin or color." This issue as it applies to Trinidad is discussed in Section VI., GOALS,
+           POLICIES, AND OBJECTIVES.
+      4.   Group Quarters/Shared Housing
+           Group quarters refer to living arrangements where rooms are rented individually and a kitchen or
+           meals are shared. The 1990 Census reported that only one Trinidad resident was living in group
+           quarters at that time. However, the 1990 Census also indicated the existence of 17 non-family
+           households containing two residents each, and one non-family household containing three
+           persons. These households may represent units occupied by some of the 22 college students
+           residing in the city (see Students (C.)(7.) below). These shared households are not classified as
+           group quarters in the Census.
+                                                         9
+C.   HOUSEHOLD CHARACTERISTICS/HOUSING NEEDS SUMMARY
+     1.   Number and Size of Households
+          According to the U.S. Census, a "housing unit" is defined as a house, apartment, mobile home,
+          group of rooms, or single room which is occupied (or vacant but intended for occupancy) as
+          independent living quarters. "Household" is a term used to describe a group of persons who
+          occupy one housing unit. Table 3 shows the number of housing units and the size and number
+          of households in Trinidad according to the two most recent Censuses.
+                            Table 3 - Total Households and Housing Units
+                                              1980*             1990              May 1993**
+                 No. of Households                 171               170                173
+                 Avg. No. Of Persons per           2.22              2.13               2.15
+                 Household
+                 No. of Housing Units              197               200                203
+                 No. of Families                   104               101              n/a***
+* The 1980 households data were taken from the 1980 summary tape file 1, page 2. However, there is a discrepancy
+between these data and those on the 1980 summary tape file 3, page 2, which state that there were 180 total
+households and 83 families.
+**From City and County Summary Report of January Population and Housing, prepared by the State Department of
+Finance, May 1993.
+***Data not available.
+              Household size can be expected to remain stable unless the entrance of younger families into
+              the community is facilitated. The majority of Trinidad residents are currently past child-
+              rearing years.
+              Based on 1990 Census information, 170 households were occupied in Trinidad, and 30 were
+              vacant during that year. Of the occupied households, 108 (64%) were owner-occupied and
+              62 (36%) were renter-occupied. Rental units in the city tended to have slightly higher
+              household sizes (2.18) than owner-occupied units (2.09). Table 4 compares household size
+              in the city between 1980 and 1990, according to Census information.
+                           Table 4 - Household Size in the City of Trinidad
+                             SIZE                    1980               1990
+                             1 person                   47 (28%)          51 (30%)
+                             2-4 persons               118 (68%)         115 (68%)
+                             5 or more                   7 (4%)            4 (2%)
+                                                      10
+         As noted above, the number of one-person households increased slightly over the last decade
+         while the numbers of larger households decreased slightly. This moderate change indicates a
+         trend of relative stability in household size between 1980 and 1990.
+     2.  Income Characteristics
+             Household income characteristics are a vital element in analyzing the affordability of housing. 1990
+             Census information indicates that 120 (70.6%) of households (consisting of 149 workers) had
+             earnings of some sort, 56% of households had wages or salaries, 39% received social security
+             benefits, and 9% received public assistance.
+D.   HOUSEHOLD NEEDS SUMMARY/SPECIAL HOUSEHOLDS
+     1.  Low Income Households
+         Lower income households ("low" and "very low"), those with incomes below 80% of the County median
+         income, find more difficulty locating affordable housing than those with moderate or high incomes. The
+         Humboldt County median income rose from $16,563 in 1980 to $23,586 in 1990, a 42% increase. The
+         City of Trinidad median income rose much more dramatically, from $12,500 in 1980 to $29,583 in
+         1990. This represented a 137% increase.
+         According to 1990 Census information, 15 persons in Trinidad (4% of the total population) were at or
+         below the poverty level in 1989. Of these 15 residents, all were white and 5 were 75 years or older. No
+         residents at or below poverty level were married couples or single-parent heads of household.
+         Table 5 illustrates 1980 Census information compared to the "Regional Housing Needs Plan for
+         Humboldt County", May 28, 1992, prepared by HCD.
+                                   Table 5 - Low Income Households
+ LOW INCOME HOUSEHOLDS                             1979              1991        1997 Projected Need
+ Very Low Income Households                              68               57     58 (35%)
+ 0 to 50% of County Median Income                  (40%)             (33%)
+ Low Income Households                                   30               27     29 (20%)
+ 50% to 80% of County Median Income                (17%)             (15%)
+ Total                                                   98               84     87 (55%)
+                                                   (57%)             (49%)
+         Table 5 indicates that the percentage of low-income households dropped by 8% between 1979 and 1991,
+         although the projected housing need for 1997 includes an additional 6%. The fact that roughly half of
+         the city's total households are classified as low- or very-low income suggests that a substantial amount of
+         affordable housing does exist in the city. Data regarding the percentages of households overpaying for
+         housing support this theory (see Overpayment table below).
+         Based on census information alone, Trinidad fell short of the County's projected regional share
+         objective in providing new housing during the 1984-1992 period. According to the previous
+         Humboldt County Housing Needs Plan (1984), Trinidad was to add 22 housing units between
+         1984 and 1992. However, there exists some confusion as to the actual number of units added
+                                                      11
+     during that time.
+     The 1984 Housing Needs Plan indicates that there were a total of 185 units in 1984. The most
+     recent Department of Finance City and County Summary Report of January Population and
+     Housing states that there were 203 total housing units in 1993. This suggests an increase of 18
+     units between 1984 and 1993. However, The 1990 Census section regarding "Year Structure
+     Built" shows that only 5 units were constructed between 1985 and March 1990. Adding to the
+     confusion, Census information regarding total number of units indicates a mere 3-unit
+     cumulative increase between 1980 and 1990.
+     A third source, Exhibit 3 of the Coastal Commission's Report to the City on the Implementation
+     of the Local Coastal Program, July 28, 1989, presents the following data regarding Coastal
+     Development Permits issued by the City between 1980 and 1989: In addition to the SFD's
+     (Single Family Dwellings) and second unit listed below, one residence was converted to a
+     boarding house between 1980 and 1989.
+                         Table 6 - Coastal Development Permits Issued
+           Year              No. Of Single-Family               No. Of Second Unit
+                             Dwelling Projects Approved         Projects Approved
+                1980                         5                             0
+               1981*                         4                             0
+                1982                         2                             0
+                1983                         2                             0
+                1984                         1                             0
+                1985                         0                             0
+                1986                         4                             0
+                1987                         1                             0
+                1988                         0                             1
+                1989**                       2                             0
+                Total                       21                             1
+*One unit replaced a demolished unit.
+**Through June 29, 1989.
+     The Coastal Commission information indicates an addition of nine units between 1984 and June
+     29, 1989, and a total of 22 added units during the entire 9.5-year time. These data probably
+     represent the most justified of all those considered, as they pertain directly to development
+     permits issued. The figures also correspond with the 1990 Census report that 23 units were built
+     between 1980 and March 1990. Together, this supports the likelihood that Trinidad can meet
+     its regional housing responsibility for the 1984-1992 time. The city was apparently able to
+     rectify this deficiency by 1993.
+     Table 7 compares the City's regional housing responsibility for the 1984-1992 time period with
+                                                 12
+          that of the current 1991-1997 period (based on the Regional Housing Needs Plan for Humboldt
+          County 1992, prepared by the CA Housing and Community Development Department).
+                              Table 7 - Regional Housing Responsibility
+                                  1984-1992                            1991-1997
+Income Group                  # Units                  %                 # Units                 %
+Very Low                         1                     4.6                   1                   9.1
+Other Low                        3                    13.7                   2                  18.2
+Moderate                         2                     9.0                   2                  18.2
+Above Moderate                  16                    72.7                   6                  54.5
+Total                           22                    100                   11                  100
+          The 1984 Regional Housing Needs Plan states that Trinidad receives special consideration by
+          the Department of Housing and Community Development (HCD) due to its high percentage of
+          elderly households. HCD considers elderly households to be predominantly low income.
+          Therefore, the city's allocations for very low income housing were adjusted upward from the
+          North County average by 5% for 1989 and 1990.
+          Even with these increased allocations, Trinidad's lower-income housing responsibility remains in
+          the lower percentages. Lower-income percentage requirements increased for the 1991-1997
+          period; however, the majority of regional housing responsibility still remains in the moderate to
+          above moderate range.
+          Between 1980 and 1990, the city median housing unit value rose from $73,500 to $150,000.
+          Median contract rent rose from $238 per month to $475. By State definition, a household
+          overpays for rent if it contributes more than 25% of its annual income to housing costs.
+          Table 8 compares the percentages of the population that paid most their income in 1980 and
+          1990. Corresponding income groups are indicated.
+                        Table 8 - Overpayment (as a percentage of income)
+                                    Homeowners                           Renters
+Census Date                 1980               1990              1980               1990
+% of Income Group* >25%        >35%     >25%     >35%      >25%   >35%     >25% >35%
+Lower Income               23%         20%         8%         2%       36%        33%       26%      21%
+Moderate Income            0%           0%         1%         0%        9%         6%        0%       0%
+Total Households in      23%                     9%                   45%                  26%
+  City Overpaying
+                                                       13
+ *Based on County Median Income figures.
+           According to this data, the percentage of homeowners overpaying for housing decreased
+           14% over the past decade. Likewise, the percentage of renters overpaying for rent fell
+           19%. This trend strongly suggests the existence of affordable housing in the city. These
+           numbers do not reflect, however, the number of people who may have moved out of the
+           City to find more affordable housing only to be replaced by others with higher incomes.
+2.   Elderly
+     The total number of residents over age 64 in 1990 was 85, or 23.5% of the total population. At
+     that time there were 59 households (34.5%) in the city with at least one person over age 65. Of
+     these 59 households, 21 (32.3%) were one-person households, and 57 (96.6%) reported a person
+     65 or over to be the head of the household. Of the 57 households headed by seniors, 52 owned
+     their homes and 5 rented.
+     There exists some need to address the concerns of the city's elderly population, especially those
+     elderly persons living alone and those living at or below the poverty level (see II. D. 1. Low
+     Income Households). Of the 21 seniors living alone in 1990, 9 (43%) were male and 12 (57%)
+     were female. The majority of senior households own their homes, implying that the burden of
+     mortgage payments and maintenance costs lies with them. No group quarters for senior citizens
+     exist in Trinidad at this time.
+     Like members of other special-needs groups, affordable housing should be available for senior
+     households in Trinidad. Since these households tend to be smaller, they could occupy smaller
+     units which are less expensive to maintain than larger-family homes. Programs which promote
+     the availability of smaller units or shared housing for seniors would help to meet this need.
+     However, noting that some seniors in Trinidad live in larger homes by choice is important. In
+     addition, many seniors may remain in their homes to retain Proposition 13 tax rates which could
+     currently be lower than taxes now required for smaller units.
+     The creation of a limited care facility or provision of such services (visiting nurse) in town
+     would reduce the need for city seniors to leave the area when additional care is necessary.
+3.   Female-Headed Households
+     In 1990, 29% of Trinidad households were headed by women. Table 9 summarizes the female
+     heads-of-household information provided by the 1990 Census:
+                         Table 9 - Female Heads of Household, 1990
+                                                                     # Households      % of Total
+   FEMALE HOUSE HOLDERS                                                                Trinidad
+                                                                                       Households
+   Female heads of household living alone                                  28                16
+                                                 14
+                                                                    # Households     % of Total
+   FEMALE HOUSE HOLDERS                                                              Trinidad
+                                                                                     Households
+   Female-headed households with children less than 18 yrs.               12                7
+   Other female-headed households                                         10                6
+   TOTAL female-headed households                                         50               29
+   Female heads of household below the poverty level                       0                -
+     The lack of female householders living below the poverty level in Trinidad could suggest that
+     affordable housing is not readily available to them; however, information on low income
+     households (Sec II(D)) would indicate that this is not true. Their absence may more likely be
+     due to other factors such as lack of local employment opportunities.
+     There are currently at least seven child care providers (including after-school programs) in the
+     city or nearby areas. Cumulatively, these centers can accept more than 100 children per day.
+     Some of these providers are full. Others need additional enrollment to assure continuation.
+     Provisions for low-income family subsidies are available and utilized at some of the facilities.
+     The City allows limited licensed day care facilities as Home Occupations in residential zones.
+     Larger facilities can occur in the Public and Religious Zone or with a use permit in the PD Zone.
+4.   Disabled
+     Disabled persons tend to encounter housing problems similar to those of other residents with
+     special needs. Because their incomes are often limited, people with disabilities are more likely
+     to pay a disproportionate share of their incomes to housing than other residents.
+     Disabled persons may also exhibit unique societal needs not experienced by other groups. For
+     example, some disabled persons require access to special care facilities that provide them with
+     needed physical and emotional assistance. Such facilities can also serve as more convenient
+     housing situations than can be offered through conventional housing.
+     The State Department of Rehabilitation prepared a report in 1986 on the types of disabilities
+     found in Del Norte, Humboldt, Lake, and Mendocino Counties. According to the report, the
+     most common disabilities (39% of all cases) were muscular/skeletal--those affecting personal
+     access to and movement within buildings. For this reason, it is important that local buildings are
+     wheelchair accessible.
+     Special care facilities are generally designed to provide wheelchair accessibility by offering
+     extra-clearance doorways, reinforced handrail bracing, low counter tops, and switches and
+     outlets at convenient heights. Unfortunately, very few preexisting residential housing units
+     exhibit these features and must be remodeled in order to meet wheelchair-access standards. The
+     extra expense of such remodeling makes it an uncommon practice in most communities.
+     The 1990 Census identified disabled persons in Trinidad as those persons between ages 16 and
+     64 (working age) with official work disabilities. This group totaled 33 residents--including 12
+     males and 21 females--representing 9% of the city's total population and 24% of its potential
+     work force. Table 10 compares numbers of disabled working-age persons in Trinidad in 1980
+                                                 15
+        and 1990.
+                       Table 10 - Disabled Persons - Work Disability
+                                             (Ages 16-64)
+                                                    Total                   Percentage
+            DISABILITY                   1980               199          198          19
+                                                      0             0            90
+            No work disability           239                169          94.5         83.
+                                                                                 7
+            With work disability         14                 33             5.5        16.
+                                                                                 3
+        According to these data, the number of working-age disabled persons in the city more than
+        doubled over the past decade. Although the Department of Rehabilitation (1986) reports that
+        97% of disabilities in the state occur in the working-age population, Trinidad represents a
+        special case due to its relatively large proportion of retired persons.
+        Census information from 1990 indicates that in addition to the 33 working-age disabled persons,
+        there were 20 disabled persons over the age of 64. This implies that 14.6% of the city's total
+        population is disabled, a figure 2.8% above the County average. All disabilities in Trinidad
+        were reported to be associated with self-care or mobility limitations.
+        Several seniors who used to reside in Trinidad have relocated near Mad River Hospital to be
+        close to needed services. It is possible that the creation of a special care facility would benefit
+        some city residents. This could be especially true for those older residents who would like to
+        remain in Trinidad when they are no longer capable of maintaining their homes.
+        Some assistance for disabled persons is provided by Mad River Hospital in the nearby town of
+        Arcata (14 miles away). The Adult Day Care Program provides daytime care for disabled adults.
+         Transportation between participants' homes and the hospital is generally provided through the
+        Program. A phone interview with a hospital employee revealed that no Trinidad residents are
+        currently enrolled in the Adult Day Care Program. The hospital contends that if two or more
+        Trinidad residents express interest in joining the program, transportation for them will be
+        provided.
+   The U.S. Census routinely reports the number of persons not physically able to use basic public
+   transportation in the city. In 1990, no persons in Trinidad between the ages of 16 and 64 were
+   disabled to such an extent, which can be compared to the State average figure of about 17%. Of
+   persons over age 64, 6% had disabilities preventing them from using public transportation.
+   The City of Trinidad is aware of State requirements and specifics regarding the American Disabilities
+   Act and will continue to review new development for compliance.
+5. Large Families
+                                                    16
+            According to census information, there were only four households (2%) in 1990 consisting of five or
+            more persons. All were family households of whom three were renters and one was a home owner.
+            The four units were occupied by a minimum total of 23 people, or 3.6% of the total population. (See
+            overcrowding for additional discussion.)
+      6.    Overcrowding
+            Overcrowded housing is defined as any residence with more than one person per room. (A room
+            refers to any room in a unit which is not a bathroom.) In 1990, six units in Trinidad (3%) were
+            overcrowded. Of these, three were owner-occupied and 3 three renter-occupied. Three of the six
+            units were severely overcrowded with more than 1.50 persons per room. One of these was a rental.
+            This overcrowding is likely attributable to college students at Humboldt State University who share
+            housing costs in order to be able to enjoy the scenic and recreational attributes of the City of Trinidad.
+            Well over half of the total housing units in Trinidad (57%) contain five or more rooms. However,
+            only 11 units contain four or more bedrooms, with the majority of units (91%) containing one to three
+            bedrooms.
+            Table 11 compares the size of rental units with persons per rental household in 1990, according to
+            Census information:
+                       Table 11 - Rental Unit Size and Persons per Rental Household
+                  Rental Unit Size            vs.               Renter Household Size
+                # Bedrooms            # Units           Persons/Household             # Units Needed
+                      0                   0                        1                        21
+                      1                  12                        2                        24
+                      2                  30                        3                         6
+                      3                  14                        4                         8
+                      4                   0                   5 or more                      3
+                 5 or more                0
+                  TOTAL                  56                                                62*
+* 1990 Census STF 3, H1/2/3 states that there are 56 total rental housing units. STF 1, H18 indicates that there are 62
+rental units. This apparent discrepancy accounts for the discrepancy in totals above.
+            The above data indicate a substantial shortage in 0-1 bedroom rentals, a surplus of 2 and 3 bedroom
+            units, and an absence of rental units with 4 or more bedrooms.
+            According to census data, no studio rental units existed in Trinidad in 1990. From the data it would
+            appear that the addition of studios and 1-bedroom units would better meet the requirements of the
+                                                               17
+current renting population, especially for 1- and 2-person households and seniors. However, as
+mentioned previously in regard to seniors (and would be relevant to other household types), some
+small households reside in larger-than-necessary units by choice.
+                                           18
+7.   Students
+        College students are typically single persons with limited incomes who seek housing opportunities.
+         Students from nearby Humboldt State University (HSU) make up a small portion of Trinidad's
+        population. In 1990, 22 residents (6%) were enrolled in college. Most college students are from
+        outside the area and reside in secondary units, mobile homes, trailers, or shared single-family
+        dwellings both in the city as well as surrounding vicinity. Many of the lodging facilities north of
+        the city that cater to summer tourism also provide housing opportunities in the off-season (which
+        correspond to the school year). Only 4 rental units in the city had householders below the age of
+        25 in 1990.
+        The demand for student housing in Trinidad is not expected to rise substantially in the near future.
+         This is due, in part, to Trinidad's less-than-convenient location in relation to local colleges. Also,
+        substantial on- and off-campus housing is provided in the city of Arcata, the site of HSU.
+8.    Farm Workers
+        According to 1990 Census information, no Trinidad residents are defined as "persons on rural
+        farms.@ The city's total population is defined as "rural, non-farm.@ No labor-intensive farming
+        activities occur within or near Trinidad, making migrant worker labor unnecessary.
+        Census information does indicate that there are 4 residents involved in "farm self-employment."
+        The mean annual farm-related income generated by these residents is well below $3,000. This
+        suggests the existence of only small, hobby or supplemental-income farm-type operations within
+        the city, such as canning preserves, sauces, etc.
+9. Persons Employed in Forestry and Fishing
+        A disparity exists in Census information regarding numbers of residents with occupations in
+        forestry and fishing between 1980 and 1990. In 1980, 12 and 19 persons were employed within
+        the forestry or fishing industries. These figures dropped in 1990 to 5 and 3 persons, respectively.
+        Census information, therefore, implies that the majority of persons presently employed in
+        commercial fishing, one of the key industries of the city, reside in areas outside of Trinidad.
+ 10. Housing for Homeless Persons
+        The City's Zoning Ordinance contains no language that would preclude development of housing or
+        services for homeless persons. Contact with several Humboldt County social service agencies and
+        review of City records indicate that housing for the homeless is not a problem in Trinidad.
+        The city is located adjacent to Highway 101, the primary corridor through Humboldt County;
+        nevertheless, harsh winter climatic conditions, remote location, lack of social services, and the
+        absence of a centralized downtown area probably deem the area less desirable or convenient to
+        most homeless persons.
+        Like other small cities in the vicinity, Trinidad utilizes the local service groups and churches as
+        well as the Eureka Rescue Mission to temporarily accommodate the homeless when necessary. In
+        addition, Women for Shelter provides emergency shelter for women and children, especially those
+        suffering from abuse.
+                                                   19
+                                      III. HOUSING MARKET INFORMATION
+The Trinidad housing market is part of the North Humboldt County Market Area. This statistical area also
+includes the Cities of Blue Lake, Eureka, and Arcata and the community of McKinleyville.
+Trinidad exhibits a distinct housing market due to its physical size constraints and its unique, scenic location
+along the Pacific Coast. Demand for housing in the city is remarkably high, accounting for the rise in property
+values over past years.
+Trinidad has been known historically as a small community composed mainly of single-family dwellings. Its
+distinctive lack of manufactured homes, condominiums, townhouses, and apartments, as compared to other
+cities, is attributable to its rural location and early build-out.
+The 1976 Environmental Impact Report (EIR) to the city's General Plan concluded that many alternative
+housing types were "not consistent with the character of the city" and that they "should not be permitted" within
+city boundaries. These statements provide historic insight into the nature of local attitude toward the city.
+However, a small number of apartments and mobile homes, a trailer park, and an RV park have been developed
+in Trinidad since the 1976 EIR. The use of such units has benefitted Trinidad's housing program in assuring
+affordable housing for all income levels and special needs groups.
+A.    HOUSING STOCK
+      According to the 1989 Coastal Commission LCP Report, approximately 23 units were added to the
+      Trinidad housing stock between 1980 and 1989. This represents a 13.5% increase in number of housing
+      units within 9.5 years, assuming the 1980 Census figure of 170 units is correct.
+      Information from the 1990 Census indicates that of the 170 occupied-year-round housing units, 108
+      (63.5%) were owner-occupied and 62 (36.5%) were rental units. There were also 30 vacant units in 1990,
+      2 of which were occupied seasonally. Other than the 2 seasonal units, Trinidad's vacancy rate was a high
+      14% (32% of which were rental units). This is 9% above the minimum 5% rate necessary for regular
+      rental mobility and 12% above the normal rate of 2%. All available information indicates that there is no
+      immediate shortage of rental units.
+      Tables 12 and 13 list numbers of vacant units according to vacancy status and numbers of units per
+      structure containing a vacancy in 1990.
+                                                Table 12 - Vacant Units
+                        Units in Structures     # Units Vacant  % of Vacancies
+                        1, Detached                          23                76.8
+                        1, Attached                           1                 3.3
+                        2                                     3                10.0
+                        3 to 4                                1                 3.3
+                        5 or More                             0                  0
+                        Mobile Home or Trailer                1                 3.3
+                                                          20
+                  Units in Structures     # Units Vacant % of Vacancies
+                  Other                                1                 3.3
+                  TOTAL                               30                100
+                                        Table 13 - Vacancy Status
+     Duration of           For Rent         For Sale       Other Vacancies     TOTAL
+     Vacancy
+     < 2 months                   4               0                8                  12
+     2-5 months                   5               0                3                  8
+     > 5 months                   0               0               10                  10
+     Totals                   9 (30%)             0           21 (70%)           30 (100%)
+According to this information, 76.8% of vacant units in 1990 were detached single family dwelling units.
+The fact that no vacant units were for sale suggests a shortage of owner-occupied units, another indication
+of the need for more housing available to home buyers.
+The high number of "other vacant" units may be a result of homes temporarily vacated for remodeling or
+other improvement. It may also include a number of seasonally-occupied units whose owners were out of
+town during the time of Census polling. (This group also includes the 2 seasonally-occupied units
+recorded by the 1990 Census.)
+The Trinidad City Clerk is usually made aware of new vacancies and turn-over rates through water bill
+changes. Inquiries regarding available rental units in the city are often directed to her. She indicated that
+vacancies have been low in number and high in cost. Generally, available rental properties are listed with
+local real estate offices.
+According to the 1990 Census, half of Trinidad's housing units were constructed prior to 1958. At least
+55.8% of all units were constructed more than 30 years ago (see III. B. HOUSING CONDITION). The
+majority of Trinidad homes are older and moderately sized, most with 1 to 3 bedrooms. Table 14 lists
+numbers of units with respective numbers of bedrooms:
+                                  Table 14 - Housing Unit Size (1990)
+                          Bedrooms                    Units
+                                      0-1                       40
+                                       2                        73
+                                                    21
+                             Bedrooms                  Units
+                                         3                        66
+                                         4                         6
+                                        5+                         5
+                                      Total                      190
+Approximately 80% of the current housing stock is made up of conventionally built, single-family homes.
+Mobile homes account for about 10% of the housing stock. Table 15 describes the numbers of different
+housing-unit types in the city according to 1990 Census information.
+                                    Table 15 - Housing Unit Type (1990)
+                        Type                       Number            % of Total
+                        Single-Family                    159                80
+                        Multi-Family                      20                10
+                        Mobile Homes                      19                10
+                        Total                            198              100%
+B.  HOUSING CONDITION
+    The bulk of the housing stock in Trinidad can be generally described as aging. Table 16 lists the number
+    of units constructed in corresponding time intervals and provides a running mean of total units.
+                                            Table 16 - Housing Age
+                        Year Built                    Total Units      Running Mean
+                        1989-March 1990                      2              100.0
+                        1985-1988                            3               99.0
+                        1980-1984                            18              97.4
+                        1970-1979                            41              87.9
+                        1960-1969                            20              66.4
+                        1950-1959                            58              55.8
+                                                    22
+                    Year Built                       Total Units       Running Mean
+                    1940-1949                              21                25.3
+                    1939 or earlier                        27                14.2
+                    Total                                 190
+These data indicate that 87.9% of total housing units were constructed prior to 1980, 66.4% prior to 1970,
+and 55.8% earlier than 1960. Approximately 14% of units are very old, having been built before 1940.
+The greatest increase in number of units occurred between 1950 and 1959.
+The 1976 EIR to the city's General Plan states that the main sources of affordable housing in Trinidad at
+that time were numerous small, older homes. The EIR stressed the importance of preserving these units
+and reported that many of them were in need of some repair.
+A visual survey of the exterior condition of Trinidad-area dwellings was performed prior to the preparation
+of the Trinidad General Plan Project, Community Infrastructure (1976). The survey revealed that very few
+units in the city were in poor condition, although approximately 45 units just outside city limits were in
+need of major repairs--including 18 duplex units. In addition, many cabin units which were currently
+occupied by college students were in need of improvement. The surveyors concluded that these houses
+and cabins represented clusters of deteriorating housing units surrounding Trinidad.
+Due to lack of funds and limited staffing, no recent survey of housing conditions has been performed.
+However, future housing assessments would benefit from the information provided through such a survey,
+and one should be completed prior to the first Housing Element Review in 2000.
+In lieu of surveying each individual property, discussions were conducted with local realtors and
+contractors to gain insight as to the condition of the Trinidad housing stock. The general conclusions
+reached through this interview were:
+-      Many of the "old" homes (over 35 years) need at least minor rehabilitation. "Ungrounded" electrical
+       systems common in old homes may need to be grounded or replaced.
+-      Many of the city's homes, including some of the newer units, need roof repair. Leaky roofs seem to
+       be a common problem and, in conjunction with other problems, could require major rehabilitation
+       efforts.
+-      Most of the older homes have not been constructed to withstand shaking resulting from earthquakes
+       as was experienced in nearby Ferndale and Rio Dell in Spring, 1992. Similar shaking in Trinidad
+       could result in a loss of much of the older housing stock.
+-      Many of the older homes have old septic systems that, although not necessarily indicating problems
+       are below current standards. Some of these lots are small and offer few alternatives should the
+       system fail.
+The high cost of rehabilitation is a discouraging factor for households with limited incomes. Households
+eligible for low-interest rehabilitation loans are referred to as "targeted households" by the Department of
+Finance. The agency defines targeted households using area median income statistics. Specifically, the
+definition quotes:
+                                                  23
+   *     The Targeted Group is persons/families whose income is 80% of the estimated/adjusted median
+         family income for Humboldt County.
+   *     The Lowest Targeted Group is persons/families whose income is 50% of the estimated/adjusted
+         median family income for Humboldt County.
+   An important housing improvement, aside from overall rehabilitation, is weatherization. Adequate
+   weatherization of units minimizes household heating expenses. Many Trinidad residences have not yet
+   been weatherized to meet energy conservation standards. Any available programs should be advertized
+   within the City.
+   Approximately 70 Trinidad households (35%) currently utilize wood heat, 47 (24%) use electricity, and 27
+   (14%), utilize bottled, tank, or LP gas. The City recognizes that all residents should be made aware of
+   energy conservation measures which pertain to their specific living situations.
+C. AFFORDABILITY
+   The average cost of purchasing or constructing a home in Trinidad has increased over the last decade.
+   According to the 1980 Census, the median sales price for a single-family home was $73,500. By 1990, the
+   median sales price had more than doubled to $150,000.
+   In 1980, nearly half of existing housing units had values in the $50,000 - $80,000 price range, and another
+   third were in the $80,000 - $150,000 range. The 1990 Census reveals a substantial increase in the value of
+   Trinidad homes: only 5% had values between $50,000 and $75,000, and no homes had values lower than
+   $50,000. About a third of homes were within the $100,000 - $150,000 range, and over a third exceeded
+   $200,000 in value.
+   According to U.S. Census data, median contract rent has also risen, increasing 100% from $238 in 1980 to
+   $475 in 1990. Table 17 lists percentages of rental rates in specific rent categories in 1980 and 1990.
+                                        Table 17 - Contract Rents
+         Price Range                   % of Rents 1980          % Rents 1990 (Total 62 Units)
+                    $200                       35.9%                           6.5%
+                $200 - $399                    42.2%                           16.1%
+                $400 - $599                12.5% ($400+)                       37.1%
+                   $600 +                                                      37.1%
+               No Cash Rent                    9.4%                            3.2%
+                    Total                      100%                            100%
+   The rental vacancy rate, according to census information, increased substantially from 1.5% in 1980 to
+   14.5% in 1990. This may signal the beginning of a stabilization period in contract rents, as the market
+   mechanism will ultimately determine optimal rental rates. However, this higher rate may be more
+                                                   24
+reflective of the time the census was taken or census error and does not reflect what is perceived to be a
+low vacancy rate in the City.
+It is also important to note that rental rates all throughout the county have risen dramatically over the past
+ten years. The median rate for the nearby town of Arcata has increased about 300% since 1970 (to $382).
+Even with the increases in contract rents, many lower-income residents occupy rental units. According to
+the 1990 Census, contract rents are generally less than monthly mortgage payments in Trinidad, with the
+median contract rent ($475) substantially lower than the median mortgage payment ($875).
+Overall, the most important element in assessing housing affordability for a city is the ability of its
+residents to pay for housing. The city of Trinidad has retained approximately half of its population as
+long-term residents over recent years. Both the 1980 and 1990 Censuses indicated that about 50% of the
+total population were living in the same units they had occupied five years earlier, with the remaining 50%
+having moved into the community within the past five years.
+Those residents who have owned their homes for some time and whose incomes have risen over past years
+are not dramatically affected by inflation of housing costs. In contrast, those with fixed incomes must pay
+increasingly greater percentages of their incomes to non-housing costs. The residents most affected by
+inflation are those who rent units and are restricted by fixed incomes.
+Overpayment for housing has become a very serious problem in California, affecting primarily moderate,
+low, and very-low income households. Residents within the lowest income groups pay the largest
+proportions of their incomes for housing.
+Census data from 1990 indicates that in the city of Trinidad, 26% of renter households were paying more
+than 25% of their respective incomes for rent (see Overpayment table above). All of these households
+were classified as low- or very-low income. This figure represented a 19% drop in number of overpaying
+rental households from 1980.
+Of homeowners in 1990, only 9% paid in excess of 25% of their incomes to mortgage costs. Eight percent
+(8%) were overpaying low- or very-low income households. This marked a 14% decrease in number of
+overpaying homeowner households since 1980.
+Overpayment has more recently been measured as at least 30% of household income contributed to
+housing--the definition formerly used solely by the federal government. According to the 1990 Census, 5
+homeowners and 26 renters earned less than $20,000 annually but paid more than 30% of their incomes
+toward housing. These figures represent 3% of homeowners and 23% of renters overpaying under this
+new 30% standard. Of households with annual incomes $20,000 or above, an additional 9% of
+homeowners and 23% of renters overpaid.
+Although overpayment does not appear to be a substantial problem in Trinidad, it does merit consideration
+and continued review. Judging from available information, overpayment seems to affect renters to a
+greater degree than homeowners. This suggests that lower-income households have difficulty purchasing
+homes (possibly including difficulties securing home-loans) and often rent by necessity. Decreased rates in
+mortgage loans and government assistance to first-time home buyers have increased opportunities for
+lower-income households to purchase housing.
+State law requires each city and county to analyze the status of existing housing units which, through the
+availability of subsidies, are provided to moderate low or very low income households at below market
+rates. The purpose of the analysis is to determine whether such units are at risk of being converted to
+                                                    25
+   market rates within the next ten years. If so, a plan must be prepared to deal with this reduction in assisted
+   housing units.
+   State law also mandates that local governments plan for the conservation of at-risk units. "Conservation"
+   refers to actions taken to assure the future affordability of currently affordable units.
+   The CA Department of Housing and Community Development developed a document titled Housing
+   Element Analysis Preservation of Assisted Units, November 15, 1991. This, along with information in the
+   Department's December 5, 1991 letter regarding "Preserving Subsidized Housing Projects,@ was reviewed
+   to determine whether the City had any at-risk units, those units that have been subsidized in the past but
+   may not be subject to income restrictions in the near future. Furthermore, the City checked HUD and
+   FmHA inventories through an HCD representative who identified no units at risk. The City has no locally
+   subsidized units at risk, as the City has not issued mortgage revenue bonds, has not approved any density
+   bonuses with financial assistance, does not have an in-lieu fee program, and has not assisted multi-family
+   housing with redevelopment or CDBG funds. Public subsidies for renting could benefit many of the
+   renters in Trinidad.
+D. LAND AVAILABILITY
+   This section discusses vacant and underutilized properties in Trinidad which have the potential for
+   residential development. As shown by the table Inventory of Land Available for Residential
+   Development below, as of August 1994 there remained 20 potentially-developable residential lots within
+   city boundaries. Each of the twenty lots is subject to Trinidad's program of pre-development review
+   (including sewage disposal suitability) but is zoned to accommodate such lower-cost housing types as
+   manufactured houses/factory built housing. Some other areas (designated PD, C) are large enough to
+   allow clustering of multi-family units and improvements.
+   Trinidad's inherent land-use constraints severely limit the developability of all vacant land (see IV.
+   CONSTRAINTS). The developable lots described above are considered to be the build-out for the city.
+   These lots are zoned for single family dwellings and carry a minimum lot size of 8,000 to 20,000 square
+   feet and dependant on lot constraints. Manufactured housing is permitted on all sites on a single-family
+   use basis.
+   No redevelopment areas are currently defined within the city. Public facilities, such as the school and
+   Town Hall, are available for use as temporary emergency shelters in the events of natural disasters.
+   Emergency shelter or transitional housing is not designated in the City because of lack of expressed need
+   and close proximity to similar services in Arcata and Eureka. Aside from the existence of four currently
+   undeveloped commercial parcels, no non-residential property in the city is available for conversion to
+   residential use. The City has no industrial or agricultural zones. Most surrounding undeveloped property
+   is within State park boundaries or is unsuitable for development due to geological instability or sensitive
+   habitat constraints.
+   Largely as a result of septic-system capability and slope stability constraints, few previously developed
+   parcels are available for subdivision for the purpose of creating more developable parcels. New housing
+   development is presently restricted to the sites identified in Table 18
+                                                     26
+                                                                              Table 18
+                                                Inventory of Land Available for Residential Development
+                                                           by Land Designation and Zoning District
+Land Use Designation               Zoning                Type of                   Estimated Vacant       Estimated New          Units Possibly
+                                   Classification1       Development/              Land by Zoning         Unit Potential2        Constrained by
+                                                         Density                                                                 Constraint Type3
+URBAN RESIDENTIAL                         UR             One family                     2 acres                   11                       (1)
+                                                         1 un/8,000 s.f.
+SUBURBAN RESIDENTIAL                        SR           One family                     6 acres                   15                    (1), (3)
+                                                         second dwelling
+                                                         unit*
+                                                         1 un/20,000 s.f.
+PLANNED DEVELOPMENT                        PD            1-4 family*                    5 acres                   27                 (1), (2), (4)
+                                                         Planned
+                                                         developments
+                                                          1 un/8,000 s.f.
+                                                          Rest homes, day care
+                                                          1 un/2,500 s.f.
+COMMERCIAL                                  C            Single-family as                2 acre                   11                    (1), (4)
+                                                         secondary use*,4
+                                                         1 un/8,000 s.f.
+  * Use permit required.
+  1
+        Refer to ZONING ORDINANCE: ZONING CLASSIFICATIONS, LAND USE MAP and LAND USE AND ZONING MATRIX.
+  2
+        Based on density of developed areas in areas of same zoning designation elsewhere in Trinidad. Does NOT include reduction of units caused by site
+        constraints.
+  3
+        PRIMARY CONSTRAINTS TO NEW RESIDENTIAL DEVELOPMENT FOR VACANT AND EXISTING IN THESE AREAS:
+         (1) Service infrastructure (sewer)      (3) Slope stability
+         (2) Service infrastructure (water)      (4) Fault Rupture Zone
+                                                          27
+4
+  Can be located in existing commercial structure as secondary uses.
+                                                   28
+                        FIGURE 2
+UNDEVELOPED PROPERTIES ZONED FOR RESIDENTIAL DEVELOPMENT
+  NOTE DARKENED AREAS INDICATE UNDEVELOPED PROPERTIES
+                         29
+                                               IV. CONSTRAINTS
+This section attempts to identify the factors that may contribute to difficulties in meeting housing needs.
+Generally, such factors are attributed to governmental and non-governmental limitations. Housing constraints
+in Trinidad can best be described as:
+-        Developmental Constraints, including economic factors such as inability to pay and physical factors
+         limiting housing development opportunities; and
+-        Governmental Constraints, such as permitting difficulties and land use controls.
+A.         DEVELOPMENTAL CONSTRAINTS
+           1.   Market Constraints
+                Housing supply and demand are the market constraints most likely to affect housing affordability
+                in Trinidad. (Residents' ability to pay for housing, as well as housing availability are discussed
+                in Section III. Housing Market Information, C. Affordability.)
+                In addition to actual construction costs, housing costs include (or reflect, for rentals) those
+                associated with financing, marketing, profit to developer or homeowner, infrastructure, utility
+                hookups, property taxes, land division, and permit processing costs. Interest rates also impact
+                housing costs and affordability.
+                Increasing land values and costs of constructing or purchasing a home are prevalent in Trinidad,
+                as well as in the rest of the County and State. However, concurrently-rising area incomes
+                somewhat offset the seemingly drastic increases in housing costs over the past 20 years. It is
+                important to note that property values in Trinidad may tend to exceed those in many surrounding
+                areas due to the city's unique scenic location and inherent recreational opportunities.
+                Although market constraints are the least limiting of developmental constraints, lower income
+                groups may continue to require assistance in order to obtain affordable housing opportunities.
+                The City does attempt to mitigate the factors described above by encouraging the creation and
+                preservation of affordable units. For example, the City adheres to State regulations which allow
+                manufactured home placement on all lots suitable for single family dwellings. Because
+                manufactured housing generally incur lower housing costs than do traditional, "stick-built"
+                homes, they serve as favorable sources of affordable housing. The City also allows (when site
+                conditions allow) the creation of second dwelling units as additional sources of affordable
+                housing.
+                In addition to assuring availability of affordable housing within city limits, the City encourages
+                Humboldt County to allow a variety of housing types in residential areas surrounding Trinidad.
+                Currently, there are numerous mobile home parks, single mobile homes, trailer parks, and at
+                least one multi-family development (consisting of 9 duplexes) in these outlying areas. Housing
+                opportunities like these assist lower-income households in securing housing within the scenic
+                Trinidad area.
+                Both State and Federal agencies continue to offer financial support for lower income groups in
+                California. Subsidized rent and low-interest loan programs from these agencies are made
+                available to Trinidad residents who meet specified criteria.
+                                                       30
+2. Circulation Infrastructure
+   The majority of vacant and developable lots in the city are accessible by existing roads and
+   would not require substantial increases in road surfaces if developed. A possible exception to
+   this is the Twoomey subdivision in the southeastern portion of town. The proposed subdivision
+   would require the construction of additional access roads; however, the developer is responsible
+   for such construction and such roads would be short in length with only minor traffic (less than
+   five units). The Trinidad General Plan and background information discusses them.
+3. Service Infrastructure
+   The primary constraints to development in Trinidad are limited septic capability and water
+   availability. Individual septic tanks are currently the only means of sewage disposal in the city.
+   Soil conditions and lot sizes limit the number and distribution of septic tanks, and thereby
+   restrict the feasibility of new development.
+   The 1976 EIR to the General Plan concluded that the construction of a sewage disposal system
+   would cost the City approximately $1 million (in 1976 dollars). The potential expense today is
+   estimated to be substantially higher.
+   Since this time, funding sources for a sewage treatment plant are unavailable and the City must
+   do what it can to prevent the possibility of overloading the capacity for septic treatment. The
+   potential for septic tank failures could present a significant problem for the city in future land
+   use decisions.
+   Trinidad withdraws its municipal water supply from Luffenholtz Creek, located 1.5 miles
+   southeast of the city. All development within city boundaries, and some just outside the city, is
+   connected to this system. As mandated in the Trinidad Land Use Plan, city residents are given
+   preference over nonresidents for service connections. Storage capacity, treatment, pumping
+   capacity and minimum creek discharge all limit the number of hookups available from the City
+   system. Based on a 1995 assessment, there were approximately 300 water hookups. An
+   additional 228 hookups could be available only if substantial wet weather storage capacity or
+   treatment facilities are developed. Only a limited number of hookups (100+) are available
+   without such improvements.
+4. Seismic/Slope Conditions
+   The City of Trinidad lies within a geographic area laden with numerous seismic faults and shear
+   zones. The fault zones nearest the city are the Freshwater Fault zone to the southwest and the
+   Falor-Korbel Fault zone to the east. However, a total of 8 active or potentially-active faults lie
+   in the northwestern portion of the state and may affect Trinidad in the event of an earthquake.
+   The City of Trinidad is also listed as having an active fault rupture zone per the Alquist-Priolo
+   Mapping. This zone occurs within much of the listed vacant Commercial or Planned
+   Development designated areas.
+   The maximum earthquake magnitude which may be experienced in the Trinidad area is
+   estimated at 8.0 on the Richter scale. The estimated maximum bedrock acceleration (%g) is .48.
+    These figures must be considered during the design and construction of all structures in the city.
+   Trinidad is also vulnerable to damage resulting from earthquake-induced sea waves known as
+                                          31
+          "tsunamis." In addition to occasional tsunamis, the city is susceptible to violent wave attacks
+          during harsh winter storms. Development in the lower, more exposed portions of the near shore
+          area must continue to be avoided to ensure its protection from waves.
+          Portions of the Trinidad area are composed of moderately to highly unstable slopes. Such slopes
+          are prone to accelerated erosion and mass movement during earthquakes, storms, and as a result
+          of nearby construction. The City requires geologic reports for new development within these
+          areas.
+   5.     Construction
+          Financing opportunities and construction costs remain generally consistent County-wide and are
+          not considered a constraint to development in Trinidad. However, land values in the city are
+          continuing to rise with demand for housing. FmHA (Farmers Home Administration) is available
+          to assist homebuilders in financing the construction of new homes. Other Trinidad residents
+          may qualify for FmHA or other subsidy programs.
+          Most physical limitations can be translated into cost-related constraints. Many of these cannot
+          be overcome in Trinidad due to the city's unique location and restricted size. This suggests that
+          the city can best fulfill its housing obligations into the future by encouraging the use of existing
+          units as affordable housing.
+          Zoning classifications, estimated amount of vacant land, and estimated amount of vacant land
+          subject to specific constraints are outlined in the Inventory of Land Available for Residential
+          Development (III. Housing Market Information, D. Land Inventory).
+B. GOVERNMENTAL CONSTRAINTS
+   Many of Trinidad's governmental constraints to development are directly related to the physical
+   limitations described above. The most notable of these constraints are the mandates set forth by the
+   California Coastal Act.
+   The entire city of Trinidad falls within the California Coastal Zone, meaning that all proposals for
+   new development are subject to the standards and regulatory procedures included in the City's Local
+   Coastal Plan (LCP). At the heart of the LCP is the Trinidad Land Use Plan (LUP), which establishes
+   numerous land use regulations relevant to the city's coastal location and characteristics.
+   In general, the purpose of an LCP is to allow for a partnership between the State and local
+   governments in protecting the Coastal Zone from expansive, environmentally detrimental
+   development. Several general Coastal Act policies may apply to development proposals in Trinidad.
+   These should be considered when assessing governmental constraints to development within the city.
+    They are as follows:
+   - Maximum public access and recreational use of the coast, with consideration of private rights and
+       the environment, must be provided;
+   - Marine and land resources, including riparian areas, tide pools, wetlands, and rare and endangered
+       habitat areas must be protected;
+       - The scenic integrity of the coastal landscape must be preserved;
+   It is also important to note that, under the Coastal Act, coastal-dependent development proposals
+                                                  32
+(such as those oriented toward recreation or tourism, or those involving the organized study of
+coastal/marine resources) receive higher approval priority by the State Coastal Commission than do
+non-coastal-dependent developments (such as residential dwellings) in certain designated areas such
+as the harbor area.
+1.   Regulations Regarding Physical Limitations
+     a.    Service Infrastructure
+           The current minimum lot size in Trinidad, as determined primarily by limited septic
+           capabilities, is 8,000 s.f. for Urban Residential and 20,000 s.f. for Suburban Residential
+           designation. Under the city's Land Use Plan, all new individual septic systems must meet
+           the minimum standards set by the State and Regional Water Quality Control Board.
+           Existing vacant lots which are below minimum lot size, but are otherwise considered
+           developable, may be considered for development where an acceptable individual waste
+           water treatment system (as determined by the County Department of Environmental Health)
+           can be provided.
+           The Trinidad water system was brought into accordance with minimum state requirements
+           in 1986. The improvement was conditionally approved by the Coastal Commission, which
+           set a limit of 402 service connections for the upgraded system. Connections beyond this
+           limit may be authorized by the Executive Director of the Coastal Commission upon
+           submission by the City of a special hydrological study.
+           Similarly, in 1980, the Trinidad Citizens' Water Service Committee recommended that no
+           more than 400 to 450 total connections be allowed without the completion of specific
+           feasibility studies involving the local watershed.
+           A recent reevaluation (January 1995) by the City Engineer was completed. The number of
+           water service connections in Trinidad currently stands at 214 within the city and 88 in
+           outlying areas for a total of 302. This leaves room for an additional 98-148 hookups before
+           improvements will be required. Based on flow alone and with specified improvements this
+           could be increased to 228 additional hookups.
+     b.    Seismic/Slope Conditions
+           Much of the Trinidad area lies within a Special Study Zone, as designated by the State
+           Division of Mines and Geology under the Alquist-Priolo Act. The purpose of the Zone is
+           to ensure that local development patterns do not create seismic hazards.
+           According to the Alquist-Priolo Act, no buildings may be constructed within 50 feet of any
+           active fault in the Zone. All buildings outside this buffer, and throughout the rest of
+           Trinidad, are subject to specific design guidelines established by the City.
+           Trinidad's Building Code contains a numerical formula that relates building weight to
+           foundation design, anchoring, and wall reinforcement in the development of structures. By
+           combining these factors in buildings plans, structures can be made to withstand potential
+           earthquake damage. However, construction costs may be increased by these special design
+           requirements.
+           The Trinidad Land Use Plan states that no new development may occur on unstable lands.
+           Such development may include the construction of buildings and driveways or the
+                                             33
+         placement of individual septic systems. These specific development types may not occur
+         on sites of questionable stability, or within 100 feet upslope of such sites, unless the
+         proposed development is analyzed and found not to be detrimental by a registered
+         geologist. In addition, no new structures may be located on the shoreline less than 20 feet
+         above the Mean Lower Low Water line, with the exception of harbor and public access
+         facilities.
+         Most development of unstable and shoreline sites is restricted by the City's zoning
+         regulations. The Open Space and Special Environment Zones prohibit most development
+         in these locations.
+2. Fiscal Restraints
+   Aside from the physical limitations listed above, development in Trinidad falls subject to overall
+   financial constraints. These are mainly related to the City's fiscal limitations which have been
+   recently exacerbated by cutbacks at the State level.
+   The City of Trinidad is presently experiencing difficulties in providing for even the highest
+   priority maintenance activities--including street and utility system improvements.
+   Appropriations for site improvements and fee relief are not expected to become available at the
+   local level within the next 5 years.
+   Planning permit costs (averaging $200-$500) are not unreasonably high in Trinidad, although
+   they may seem so to small-town property owners and developers. Because of its small size and
+   limited staffing capability, Trinidad relies on private consultants (and consulting firms) to
+   perform necessary project review activities. This can, at times, result in higher fees than those
+   incurred by larger cities, although Trinidad fees generally remain lower than the County average
+   and those of some surrounding communities.
+   There is evidence to suggest that the City's permit fees do not prevent development. In recent
+   years, no proposed projects have been abandoned as a result of developers' inability to pay
+   permitting fees. Fees can be reduced only to the degree that the City subsidizes actual costs, a
+   position it is unable to take at this time. Although it may slightly impact fees, the use of
+   consultants does not increase permit processing time (normally 1-3 months). All project reviews
+   are completed well within the maximum time allowed by the State Permit Streamlining Act.
+   The City adopts the most current Uniform Building Code. There are no local amendments to the
+   Codes; hence, building codes are not excessive and do not present a constraint. Historic
+   structures in the city have been formally designated but special historic preservation codes are
+   not in effect. Whether this occurs or not will have only minor affect on housing affordability.
+   New development near these structures is reviewed for its impact on historic structures.
+   The City's Local Coastal Plan implements Coastal Act policies which include review of new
+   development for compliance with design review and view protection findings. These tend to
+   result in design restrictions in development. However, there are no known cases where
+   development was precluded. All policies are applied equally regardless of the type of
+   development proposed.
+                                            34
+        On- and off-site improvement requirements consist primarily of paving of off-street parking and
+        construction of drainage facilities. These requirements are comparable with other surrounding
+        communities and are not excessive. Setbacks and lot coverage restrictions are also reasonable,
+        comparable and do not represent a constraint to development.
+        Off-street parking requirements may limit the number of potential new residential units added to
+        existing commercial structures (as promoted by policies to encourage mixed use. To some
+        extent, parking requirements (1 additional space) may limit the development of second units on
+        residential lots in other areas of Trinidad. This is not considered a significant constraint,
+        however, due to the high level of build-out on these properties and the low number of inquiries
+        desiring second units. Recent changes to the City's Zoning Ordinance have allowed parking-in-
+        lieu alternatives when there would otherwise be a shortage of off-street parking.
+        Building permits are generally processed in less than two weeks. Planning permits generally
+        take 1-2 months to process, depending on the date of application and the date of the once-a-
+        month Planning Commission meeting.
+        The City typically requires a $4,500-$7,500 water improvement fee for all new construction.
+        There are no school impact fees in the City of Trinidad.
+    Table 19 - Development Standards from the City of Trinidad Zoning Ordinance
+                            Use           Minimum       Density       Setbacks      Off-street
+ZONE                        Permit        Lot Area      Un/s.f.       F-R-S         Parking/
+                                                                                    Unit
+SR (Suburban
+Residential)
+Single-family                      No             20,0         1/2           30-           2/un
+Two-family                         Yes    00 s.f.       0,000         20-10         it
+                                                  20,0         1/2           30-           2/un
+                                          00 s.f.       0,000         20-10         it
+UR (Urban
+Residential)
+Single-family                      No             *8,0         1/8,          20-           2/un
+                                          00 s.f.       000           15-5          it
+PD (Planning
+Development)                                                                 20-
+Single-family                      Yes            8,00         1/8,   15-4                 2/un
+Multi-family                       Yes    0 s.f.        000           None          it
+                                                  2,50         1/2,   Spec.                1.5/
+                                          0 s.f.        500                         unit
+                                                 35
+                             V. ANALYSIS OF PREVIOUS HOUSING PROGRAM
+                                  AND RECOMMENDATIONS FOR REVISIONS
+     A.   REVIEW OF EXISTING HOUSING RELATED POLICIES
+          1.   State Objectives
+               Every county and city in California is required to develop a housing program which meets State
+               standards for adequacy. These programs must be delineated in each locality's General Plan as its
+               official Housing Element. The State mandates that measures be included in all Housing
+               Elements to accomplish the following objectives (summarized from CA General Plan
+               guidelines):
+               a. Create and identify adequate amounts of land with Zoning and Development Standards for
+                     a range of housing types, sizes and prices.
+               b.    Encourage housing affordable to low- and moderate-income households.
+               c.    Minimize governmental constraints on the maintenance, improvement and development of
+                     housing.
+               d.    Conserve and improve existing housing stock.
+               e.    Promote housing opportunities for all segments of the city's population.
+               This document represents the City of Trinidad's first Housing Element. The Trinidad General
+               Plan section entitled Housing contains the city's official housing program prior to the adoption
+               of this Element.
+          2.   Existing City Housing Policies
+               Since the adoption of the General Plan in 1976, the City has strived to meet the above objectives
+               through a program dependent on the following policies:
+               44.    Vacant land in existing residential areas is sufficient to accommodate the desired level of
+                      residential expansion during the planning period. [Policy removed since it is a finding
+                      rather than policy]
+               45. Trinidad's role in the effort to provide adequate housing is focussed on three areas:
+(a) Attempting to keep the cost of existing moderate cost housing down so it can continue to be available to
+                      people with limited incomes who desire to live in Trinidad; [Replaced with Policies 3, 4,
+                      10, 11]
+(b) Protecting the unique character of the City as a single-family owner occupied fishing village; [Replaced
+                      with Policy 2]
+               (c)    Encouraging the County to allow a variety of housing types in the residential areas
+                      surrounding the City consistent with septic tank limitations. [Revised in Policy 5]
+                                                          36
+          46.  The City should continue to maintain a rural life style because it is preferred by residents
+               and also because it allows for a low level of public services and thereby keeps property
+               taxes and utility charges at a minimum. This helps to keep the cost of operating a
+               residence as low as possible. [Replaced with Policies 1, 8, 11, 13, 14]
+          47.  Only single-family residences should be permitted in the Urban Residential, Suburban
+               Residential, Rural Residential and General Rural categories. [Amended Ord. 166; 12-
+               12-84] [Replaced with Policy 2]
+          48.  Multiple family developments such as condominiums, townhouses and apartments with
+               from one to four dwelling units in a building may be appropriate in the Planned
+               Development category provided the density does not exceed that of the Urban Residential
+               category or waste disposal constraints, whichever is most restrictive. Mobile home parks
+               are not consistent with the character of the intensive development area and should not be
+               permitted in the City. [Replaced with Policies 3, 4, 5]
+          49.  The City should investigate and cooperate in implementing appropriate programs
+               providing assistance which will enable low and moderate income persons to find and
+               retain suitable housing. [Revised with Policies 7, 10, 11]
+          50.  Subdivisions should be encouraged in the intensive growth area to increase additional
+               building sites for those who wish to live near Trinidad. Lots adequate to support larger
+               homes for families with children can be provided and low cost housing (mobile home
+               subdivisions or Farmer's Home Administration assisted housing) can be accommodated.
+               [Revised with Policies 7, 11]
+          51.  Soil limitation for septic tanks, local hydrology and topography are critical determinants
+               of the size of any new housing lots and may require that lots be larger than minimum lot
+               size requirements contained in the General Plan or Zoning Ordinance. Where residents
+               want to protect the character of a residential area minimum lot sizes greater than might
+               be allowed based on site conditions are justified. The following minimum lot sizes are
+               consistent with the preferred character of the designated residential areas while allowing
+               flexibility in adapting lots to varying soil conditions. In the Rural Residential
+               classification new lots should not be less than one acre in area. In the Suburban
+               Residential area minimum lot sizes should range from .5 acre to 1 acre depending on the
+               character of the neighborhood. In the Urban Residential classification new lots can be
+               less than .5 acres. In any case, the minimum lot sizes in Suburban Residential areas
+               should not be smaller than the minimum recommended in the Wastewater Facilities Plan
+               (see Policy 29).1 [Policy retained but not as part of Housing Element]
+          52.  Where commercial timber is acting as a visual buffer between residential uses or between
+       1
+         "Minimum lot sizes for the Resource Production classification should be large
+enough to protect the economic viability of management units. The minimum lot size
+for the General Rural designation can range upwards from two acres. For the purposes
+of this Plan, no further divisions of existing parcels in the General Rural
+designation is recommended.@
+                                                     37
+residential uses and other activities, the County should not approve conditional use
+permits to allow harvesting the timber in the buffer strip unless replacement of shrubs is
+provided which will, within a few years, reestablish an adequate buffer. [Policy retained,
+but not part of Housing Element]
+                                     38
+53.     Except as provided in the discussion of commercial development, commercial uses in
+        residential areas of the City and County should be limited to home occupations where the
+        activity is confined to the residence or accessory building and signs are kept to a
+        minimum. Storage of crab pots, fishing boats, campers and trailers within required yard
+        areas should be allowed provided visibility at street intersections and access to the
+        perimeter of the dwelling is not hampered. [Policy retained, but not part of Housing
+        Element]
+54.     The County should inspect all motel and cabin units being used as permanent residences
+        to determine if they are suitable for permanent occupancy. Rental of suitable motel and
+        cabin units by college students should be encouraged. [Policy removed/not applicable to
+        City Housing Element]
+These policies have been retained, revised, replaced or removed (as indicated) in order to bring
+the City's Housing Element into conformance with current goals and State requirements and to
+separate out those policies not directly related to housing. See Section VII for the Goals,
+Policies and Implementation Measures proposed as part of this Housing Element.
+The Housing section of the General Plan makes no mention of any effort to minimize
+governmental constraints to maintenance, improvement, and development of housing. However,
+the 1976 General Plan Project, Community Infrastructure, addresses several related issues.
+First, the Report states that many existing housing units which fail to conform with current
+building codes are protected under the "grandfather clause"--meaning that they were established
+prior to the adoption of current codes and therefore need not be brought into conformity until a
+structure remodel or expansion is proposed. This protection of non-conforming units minimizes
+housing costs for many city residents.
+Community Infrastructure also stresses the importance of careful judgement on the part of the
+City and County when imposing expensive code requirements on older buildings. It is noted
+that these older buildings are the primary source of affordable housing for limited income
+households within the city.
+As noted throughout this Element, a major housing conservation measure taken by the City of
+Trinidad is the attempt to limit housing costs for residents of older, moderate-cost dwellings.
+Preservation of the rural character of the city, allowance for existing nonconforming structures,
+and avoidance of expensive code requirements on older buildings (for new homeowners) all
+work toward this end.
+At the time of General Plan adoption, no concerted effort was put forth by the City to improve
+the condition of deteriorating units, as very few of these units were reported to exist at that time.
+ To date, the City has not developed an organized rehabilitation program, and no State funds for
+such a program have become available. However, FmHA does offer financial assistance for
+home improvement to qualifying homeowners. Three types of FmHA funding are currently
+available to Trinidad residents:
+Section 504 - Home Repair: Provides grants to senior citizens and very low-interest loans to
+lower-income owner/occupants for health and safety related housing repairs. (Administered by
+FmHA, Eureka office.)
+                                             39
+        Section 502 - Rehabilitation: Similar to the 504 program, with the same loan maximum.
+        Rehabilitation must bring entire house up to FmHA standards. (Administered by FmHA,
+        Eureka office.)
+        Section 502 - Home ownership: Provides loans to low-and moderate-income households for
+        purchase of single-family dwellings. (Administered by FmHA, Eureka office.)
+        Within the past 20 years there has been no evidence of any restrictions on housing choices to
+        special needs groups in Trinidad, except in cases where property values exceed those affordable
+        by limited-income households. No concentrations or groupings of minority or poor-quality
+        housing exist within the city. Furthermore, no fair housing or housing discrimination
+        complaints have been received by the City since the adoption of the General Plan.
+        The U.S. Department of Housing and Urban Renewal (HUD) provides rent subsidy assistance to
+        low-income households in certified existing housing units in Trinidad. Locally, this assistance
+        is administered through the Humboldt County Housing Authority.
+B. EFFECTIVENESS
+   The goals and objectives of the Housing section of the General Plan are relatively broad in nature.
+   They provide an overview of Trinidad's unique housing situation and the make up of its population.
+   The Housing section also defines the City's general policies regarding the assurance of affordable
+   housing to all income groups. The existing City housing program does not, however, specifically
+   address all issues currently required for analysis by the State in preparing an official Housing
+   Element. This Housing Element attempts to remedy the inadequacies of the previous housing
+   program.
+                                                    40
+                                     VI. HOUSING NEEDS SUMMARY
+Previous sections have described the factors contributing to Trinidad's position with respect to meeting its
+housing needs.
+In view of these factors, the City should focus its housing efforts on the following:
+A.   GENERAL
+     1.   Facilitate the ability of limited-income households to improve the condition of their living
+          quarters through financial and technical assistance, as feasible.
+     2.   Continue to promote the conservation of affordable housing through policies aimed at
+          minimizing overall housing costs for residents, with special focus on limited-income households.
+     3.   Provide opportunities for construction of affordable housing on developable vacant lots.
+      4.  Encourage the utilization of available subsidy programs such as HUD Section 8 and FmHA
+          construction/rehabilitation programs by qualified city residents.
+B.   SPECIAL NEEDS
+     The "special needs" households described in previous sections should be specifically considered in
+     the City's housing programs as follows:
+     1.   Encourage the provision of access for handicapped persons in new and rehabilitated residential
+          structures. Where handicapped access provisions are not provided with initial construction,
+          building design should not preclude the possibility of such future remodeling.
+     2.   Encourage adequate supply of local day care/nursery school programs.
+     3.   Encourage shared housing opportunities, particularly for seniors, female-headed households, and
+          the disabled.
+     4.   Increase public awareness of local assistance opportunities including public subsidized housing
+          programs, shared housing, day care and nursery facilities, social services (for transitional or
+          homeless persons), housing rehabilitation programs, weatherization practices, fair housing
+          policies, local employment opportunities, and energy conservation methods.
+     5.   Further investigate the feasibility of establishing a limited care facility in Trinidad to assist local
+          seniors and the disabled.
+     6.   Encourage tourism, to a reasonable extent, to help bolster the city's economy. The primary focus
+          should be on counterbalancing revenues lost due to drops in commercial-fishing-related tourism.
+                                                      41
+                   VII. GOALS, POLICIES AND IMPLEMENTATION -- 1996-2001
+The State has suggested the following broad "goals" for local housing elements:
+1.   To promote and ensure the provision of adequate housing for all persons regardless of income, age,
+     race, or ethnic background.
+2.   To promote and ensure the provision of housing selection by location, type, price, and tenure.
+3.   To promote and ensure open and free choice of housing for all.
+4.   To develop a balanced residential environment which includes access to jobs, community facilities,
+     and services.
+5.   To serve as a guide for municipal decision-making regarding issues that effect housing stock quality
+     or supply.
+In addition to these goals, recent legislation encourages local Housing Elements to address emergency
+housing and housing for the homeless.
+The City's goals, policies and objectives are intended to accomplish the broad State housing goals as
+appropriate for Trinidad's particular needs and circumstances. [Note: Under AGoals@ (P) followed by
+numbers indicate the policies that pertain to the goal. Likewise, under APolicies@ (I) followed by numbers
+indicate implementation proposed for each policy.]
+A.   GOALS
+     1.    To assure adequate housing for all segments of the community while maintaining the quality,
+           living environment and rural character of Trinidad. (P-1-5)
+     2.    To provide adequate housing for persons with special housing needs such as target income
+           groups of low-income, the elderly, handicapped, and female-headed households. (P-3-11)
+     3.    To promote safe, convenient, and cost-effective housing. (P-4, 5, 7-14)
+     4.    To plan for the development of balanced residential environments with access to employment
+           opportunities, community facilities, and public facilities. (P-4, 11)
+     5.    To preserve the city's historical and cultural heritage through preservation and innovative reuse
+           of older structures. (P-3, 5)
+     6.    To assure availability of housing and facilities in the event of natural or human-induced
+           disasters. (P-5, 14)
+B.   POLICIES
+     1.    The City shall review all new residential development to be consistent with the rural,
+           uncrowded, rustic, unsophisticated, small, casual, open character of the community and shall
+           blend stylistically with existing development.
+     2.    Due to existing physical constraints, the City of Trinidad retains the existing emphasis on single-
+                                                       42
+         family dwelling units in residential designated areas. (I-1)
+     3.  The City shall develop a program for notifying all residents of the availability of housing
+         programs and funding. (I-1, 3, 8, 12)
+     4.  The City, in its review of development proposals, shall consider exceptions or revisions to City
+         ordinances related to zoning, density, services or other incentives based on the merits of the
+         project to provide or improve the living conditions of its residents, as feasible. (I-1, 15)
+     5.  The City shall pursue appropriate local, State, and Federal housing and economic development
+         programs. (I-3, 15)
+     6.  The City shall not permit discrimination in housing based on race, color, religion, sex, family
+         size, marital status, national origin, ancestry, or other arbitrary factors. Safeguards will be
+         instituted to ensure fair housing opportunities. (I-3, 13, 14)
+     7.  The City shall give the housing needs of the elderly and the handicapped high priority of
+         consideration in future land use decisions. (I-3-6, 11, 12)
+     8.  The City shall encourage provisions for access for the handicapped in new or rehabilitated
+         residential and commercial developments. (I-1, 3-7, 11, 12)
+     9.  The City shall continue to allow manufactured housing to be permitted on sites where single
+         family dwellings would otherwise be allowed. (I-2)
+    10. The City shall encourage the use of private initiated and/or public-funded programs to provide
+         housing for low-and moderate-income families. (I-3, 8-10)
+    11. The City shall encourage the County to allow a variety of housing types in the residential areas
+         surrounding the City during the development of the County's Community Plan. (I-3-5)
+    12. The City of Trinidad encourages the use of multi-family developments in Planned Development
+         designations provided that the density does not exceed the physical limitations of the land. (I-4,
+         5)
+    13. The City shall encourage the use of energy conservation measures and materials for all new
+         residential development and rehabilitation. (I-3, 8-10)
+    14. The City shall promote conservation and improvement of the existing housing stock, with
+         emphasis on older structures. Specific areas of concern include electrical wiring, foundation
+         stability, potential for water damage as well as septic tank failure. (I-3, 9, 11, 12)
+C.  IMPLEMENTATION TO REACH FIVE-YEAR GOALS -- 1996-2001
+New Construction
+1.  The City will review its current General Plan policies pertaining to the construction of second units
+    on single-family lots. The appropriateness of encouraging second-unit construction will be addressed,
+    as will the feasibility of such construction, given current septic capability constraints.
+         Responsibility: City Council
+                                                      43
+            Time Frame: Within the next five years, prior to the first Housing Element review.
+2.   The City considers the placement of manufactured housing as a potential alternative source of
+     affordable housing and allows for it on remaining developable lots within the city.
+            Responsibility: City Council
+            Time Frame: Ongoing.
+Special Needs
+3.   The City, through local community newsletter or water billing, will publicize available programs or
+     resources regarding the following:
+     a.     Subsidized Housing Programs.
+     b.     Shared Housing Opportunities.
+     c.     Available day care/nursery school programs
+     d.     Permit process to become a licensed day care provider.
+     e.     Available adult day care program.
+     f.     Fair Housing Practices.
+     g.     Nearby Social Services.
+     h.     Housing Rehabilitation Programs, Weatherization Programs.
+     i.     Local Employment Opportunities.
+        Responsibility:        City Council, City Clerk.
+        Time Frame: Post information regarding the above once a year beginning Summer, 1997
+4. Opportunities for group quarters for targeted groups (single persons, female-headed households,
+   disabled, seniors, etc.) should be researched and implemented if a need or interest is identified. If
+   applicable and available, the City will assist interested applicants to apply for HCD's Family Housing
+   Demonstration Program (FHDP).
+        Responsibility: City Council.
+        Time frame: If an applicable program is identified and program funds are available, City will assist
+        interested applicant to submit one application during next five-year period.
+5. Senior Group Housing Opportunities should be pursued. The City will assist interested applicant to
+   submit at least one application to HCD, at time a Request for Proposal is distributed, for Senior Citizen
+   Shared Housing Program (SCSHP).
+        Responsibility: City Council.
+        Time Frame: If an applicable program is identified and program funds are available, City will assist
+        interested applicant to submit one application during next five-year period.
+6. The City will implement the requirements of the American Disabilities Act.
+        Responsibility: City Council, City Building Inspector.
+                                                       44
+       Time Frame: Current
+7.    The City will pursue (or provide assistance to individual requesting) the development of limited care
+      facilities for seniors and/or the disabled.
+              Responsibility: City Council working with Service Providers.
+               Time Frame: If an applicable program is identified and program funds are available, City
+                              will assist interested applicant to submit one application during next five-year
+                              period.
+Energy Conservation
+8.    Rehabilitated units will be encouraged to include retrofit weatherization improvements such as
+      ceiling and floor insulation, caulking and weatherstripping.
+               Responsibility: City Council.
+               Time frame: As part of any approved program funded under Implementation No. 12.
+9.    Energy conservation information for existing housing will be disseminated by publicizing available
+      weatherization programs.
+               Responsibility: City Council.
+               Time frame: Ongoing.
+10.   New construction will be required to comply with Title 24 of the State Building Code. These
+      requirements are approved by the City Building Department at the time of plan review or permit
+      application.
+               Responsibility: City Building Inspector.
+               Time frame: Ongoing, current requirement.
+Housing Rehabilitation
+11. The City will request a local organization involved in housing rehabilitation to survey the City of
+     Trinidad=s housing stock as an initial step for establishing a housing rehabilitation program for
+     targeted income groups.
+               Responsibility: City Council
+               Time Frame: Within one year after certification of Housing Element.
+12. The City will apply (or support appropriate applications) to HCD and other agencies for funds to
+       provide low interest and deferred loan programs for the rehabilitation of housing occupied by
+       targeted income households.
+       Responsibility: City Council.
+                                                        45
+      Time frame: If an applicable program is identified and program funds are available, City will assist
+      interested applicant to submit one application during next five-year period.
+Equal Housing Opportunity
+13. The City will continue participation in the Humboldt County Fair Housing Committee sponsored by the
+      Board of Realtors.
+      Responsibility: City Council.
+      Time frame: Ongoing.
+14. The City Clerk is designated as the contact for referral of fair housing complaints to the State
+      Department of Fair Housing and Employment.
+      Responsibility: City Council.
+      Time frame: Ongoing/A minimum two notices will be posted each year at appropriate public places.
+Economic Development
+15. The City will continue to encourage the attraction of appropriate cottage or home-base industries
+      including those related to commercial fishing/tourism to the area, to a reasonable extent, in efforts to
+      bolster the city's economy and increase employment opportunities.
+      Responsibility: City Council.
+      Time frame: Minimum annual meeting between City Council and Business Community.
+D. IMPLEMENTATION TABLES
+                              Table 20 - Residential Construction Goals
+                                               Rehabilitation
+        REHABILITATION                                  1996           1998       2000         2001
+        Total Units                                         203
+        Units Needing Rehabilitation* (10%)                  20            20        18          17
+        Rehabilitation                                        0             1         1           1
+        Demolition                                            0             1         0           1
+        Remaining Needs                                      20            18        17          15
+Total Rehabilitated Units 1990-2001: 5 units
+*Note: Ten percent of Units Needing Rehabilitation is based on assumptions only.
+                             Table 21 - New Construction (Cumulative)
+                                                      46
+                Units                            1996          1998         2000        2001
+                Total                                203          207          211         216
+                Demolition                            0             1           0           1
+Total New Construction 1990-1997: 13 units
+Based on information contained in Table 22.
+                       Table 21 - Housing Goals by Income Group 1994-2001
+                         Based on the County Regional Housing Needs, 1992
+                  projected to 2001, and based on no new construction since 1992
+                   Income Group                     New              Rehab.      Conserv.
+                                                    Construction
+                   Very Low                               1              0           1
+                   Other Low                              2              1           1
+                   Moderate                               2              0           1
+                   Above Moderate                         6              1           1
+                   TOTAL                                 11              2           4
+Table 23 indicates types of projects, any one of which could reasonably be accomplished and which would
+help in solidifying the City's fiscal positions in implementing previously mentioned programs. The
+following is for informational purposes only and to discuss accomplishments in subsequent Housing
+Element Updates.
+                                Table 22 - Economic Development Goals
+                                                    1993-2001
+ 1.    Permit at least 1 licensed day care or nursery school operation where appropriate.
+ 2.    Increase tourism revenues by promoting community events such as the Clam Beach Run, Fish
+     Feed and Film Opportunities.
+ 3.    Increase opportunities for development of cottage industries/home occupations.
+ 4.    Permit appropriate and necessary ancillary services to commercial fishing industry.
+ 5.    Complete LCP amendment for Harbor Area Land Use Designation and Zoning Provisions.
+                                                        47
+                                     VIII. ENERGY CONSERVATION
+Energy costs are often immense household expenses, second only to rent or mortgage payments.
+Combined with energy costs, home insurance premiums and mortgage/rent payments can easily exceed
+50% of a household's total income.
+Although Trinidad's proximity to the Pacific Ocean ensures its stable year-round temperatures, conditions
+are such that artificial heating systems are necessary in all residences. According to the 1990 Census, the
+primary modes of space heating for housing units in Trinidad were wood stoves/fireplaces and electricity.
+Use of wood stoves for heating has increased over the past several years in Trinidad, as it has in other parts
+of the County. Traditionally, local sources of firewood were relatively plentiful. The booming lumber
+industry assured the availability of cut mill ends, many of which were donated to local residents free of
+charge. Also in large supply were trees subject to individual harvest for firewood.
+Recent cutbacks in the timber industry and the enactment of strict regulations on timber harvest have now
+caused the once-abundant supply of firewood to diminish. It is expected that the cost of locating and
+purchasing acceptable firewood will continue to heighten in the future.
+Even in light of the problems surrounding firewood availability, many households may find wood-burning
+economically beneficial due to its otherwise low energy costs.
+All new construction in Trinidad meets California Title 24 Building Energy Standards. The rigorous and
+conservative Title 24 guidelines mandate housing that requires only a fraction of the energy needed to heat
+most older homes. The City of Trinidad recognizes that careful design and construction are integral
+components of any successful energy-conservation program.
+The Pacific Gas and Electric Company (PG&E), the local utility gas supplier, commonly offers financing
+programs to assist households with the implementation of residential energy conservation measures.
+Qualifying property-owners are eligible to receive cash rebates or no-interest loans for weatherization
+improvements to their homes. Such improvements might include weatherstripping, use of water heater
+insulation blankets, caulking, or installation of storm windows, low-flow showerheads, or automatic
+setback thermostats.
+It is important to note that low-income households may have difficulty meeting the criteria for these
+programs. Common criteria include a mandatory high credit rating and the "up-front" purchase of
+weatherization materials with only partial, subsequent reimbursement.
+The Redwood Community Action Agency (RCAA), a local community service agency, offers free
+weatherization service to low-income residents of Humboldt County and has serviced several residences in
+Trinidad. Aside from offering this Low Income Weatherization Program, RCAA maintains an energy
+demonstration center and utilizes various methods of public education. The agency also assists low-
+income households with emergency payoff of utility bills.
+In order to help implement energy conservation and innovative energy-use within the city, some Trinidad
+residents have installed solar water-heating systems and/or attached solariums to their units. Use of such
+solar heating systems is encouraged by the City, both for new construction and as retrofits for existing
+structures.
+In addition to the above-mentioned services offered through RCAA, the agency has operated a "Municipal
+                                                       48
+Solar Utility" in recent years. This leasing mechanism allowed low- and moderate-income households to
+retrofit their residences (including rentals) for solar energy use by assisting them with initial equipment
+purchase costs. Due to implementation barriers, this program is not currently in use.
+Overall, as of this writing, the City encourages energy conservation by:
+1.    Requiring compliance with State energy conservation standards;
+2.    Reviewing site plans and subdivision designs for solar access;
+3.    Suggesting and supporting solar design through the Design Review Process.
+                                                        49
