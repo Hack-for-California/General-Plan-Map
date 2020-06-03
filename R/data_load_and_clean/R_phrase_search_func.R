@@ -28,7 +28,7 @@ searchFile = function(filepath,input){
 }
 
 
-Cpp_search_function_filepath = file.path('Cpp','toRun','basicSearch.cpp')
+Cpp_search_function_filepath = file.path('..','Cpp','toRun','basicSearch.cpp')
 
 
 

@@ -1,10 +1,10 @@
 #This 
-setwd(".")
 library(tidyverse)  # imports plotting and other key data analysis packages 
 library(leaflet)  # makes javascript visual maps 
 library(sf)  # Support for simple features, a standardized way to encode spatial vector data.
 library(rgdal)  # reads shapefiles
-ca_place_path = file.path("data","ca-places-boundaries")
+ca_place_path = file.path("..","data","ca-places-boundaries")
+print(ca_place_path)
 city <- readOGR(ca_place_path,"CA_Places_TIGER2016", stringsAsFactors = FALSE)  # reads shape files 
 city <- spTransform(city, CRS("+proj=longlat +datum=WGS84"))  # changes corrodinate reference system
 city_sf <- st_as_sf(city)  # converts st object to an sf object 
@@ -26,7 +26,7 @@ city_sf_fixed$FILE <- gsub("de ", "De ", city_sf_fixed$FILE)
 city_sf_fixed$FILE <- gsub(" ", "_", city_sf_fixed$FILE)
 
 
-file_names_path = file.path("data","fileNames.csv")
+file_names_path = file.path("..","data","fileNames.csv")
 file_names <- read.csv(file_names_path)
 names(file_names) <- "FILE"  # fixes bug with wrongly titled file_names column 
 city_sf_final <- city_sf_fixed  %>% right_join(file_names, by = "FILE") 
