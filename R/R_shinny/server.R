@@ -1,9 +1,9 @@
 server <- function(input, output, session) {
   
-  
   points <- eventReactive(input$recalc, {
     cbind(rnorm(40) * 2 + 13, rnorm(40) + 48)
   }, ignoreNULL = FALSE)
+  
   t_label <- ""
   output$city_selected <- renderUI({HTML(input$city)})
   output$test_label <- renderUI({HTML(t_label)})
@@ -17,7 +17,6 @@ server <- function(input, output, session) {
   output$mymap=renderUI({
     leafletOutput('myMap', width = "200%", height = '500%')
   })
-  
   
   output$mymap <- renderLeaflet({
     leaflet() %>%
@@ -40,8 +39,9 @@ server <- function(input, output, session) {
                     direction = "auto"))
   })
   
-  search_Rcpp <- reactive({search_results = search_wrapper(input$search)
-  search_city_bool = city_sf_final$search_matching %in% search_results
+  search_Rcpp <- reactive({
+    search_results = search_wrapper(input$search)
+    search_city_bool = city_sf_final$search_matching %in% search_results
   })
   
   search_for_things <- reactive(  {
@@ -61,15 +61,14 @@ server <- function(input, output, session) {
     #copy_city_sf_final = sapply(copy_city_sf_final,unlist)
     output$search_result_table <- renderTable(table_display, sanitize.text.function = function(x) x)
     
-    
     if(NROW(d)==0){
       return 
     }
     toClear = subset(city_sf_final, city_sf_final$search == 0)
     #things for highlighting selected cities 
-    leafletProxy("mymap", session) %>% addPolygons(data =d, 
+    leafletProxy("mymap", session) %>% addPolygons(data = d, 
                                                    layerId = ~NAME,
-                                                   label = ~FILE,
+                                                   label = ~NAME,
                                                    color = "#444444",
                                                    weight = 0.5,
                                                    smoothFactor = 0.8,
@@ -87,16 +86,15 @@ server <- function(input, output, session) {
                                                      direction = "auto"))
     
     
-    leafletProxy("mymap", session) %>% addPolygons(data =toClear, 
+    leafletProxy("mymap", session) %>% addPolygons(data = toClear, 
                                                    layerId = ~NAME,
-                                                   label = ~FILE,
+                                                   label = ~NAME,
                                                    color = "#444444",
                                                    weight = 0.5,
                                                    smoothFactor = 0.8,
                                                    opacity = 1.0,
                                                    fillOpacity = 1,
                                                    fillColor = 'white',
-                                                   
                                                    highlightOptions = highlightOptions(color = "yellow",
                                                                                        fillColor = "yellow",
                                                                                        weight = 3,
@@ -111,10 +109,6 @@ server <- function(input, output, session) {
   })
   
   #to clear
-  
-  
-  
-  
   
   read_paragarph <- reactive({ #not currently in use 
     d <-subset(city_sf_final, city_sf_final$NAME == input$city)
@@ -132,12 +126,11 @@ server <- function(input, output, session) {
     print(d$filepath)
   })
   
-  
-  one_city_data <- reactive(  {d <-subset(city_sf_final, city_sf_final$NAME == input$city)
-  #things for highlighting selected cities 
-  if(NROW(d)>0){
-  
-  leafletProxy("mymap", session) %>% addPolygons(data =d,
+  one_city_data <- reactive({
+    d <-subset(city_sf_final, city_sf_final$NAME == input$city)
+    #things for highlighting selected cities 
+    if(NROW(d) > 0) {
+      leafletProxy("mymap", session) %>% addPolygons(data = d,
                                                  label = ~NAME,
                                                  color = "#444444",
                                                  weight = 0.5,
@@ -145,8 +138,6 @@ server <- function(input, output, session) {
                                                  opacity = 1.0,
                                                  fillOpacity = 1,
                                                  fillColor = "green",
-                                                 
-                                                 
                                                  highlightOptions = highlightOptions(color = "red",
                                                                                      fillColor = "red",
                                                                                      weight = 3,
@@ -155,12 +146,13 @@ server <- function(input, output, session) {
                                                    style = list("font-weight" = "normal",
                                                                 padding = "3px 8px"),
                                                    textsize = "10px",
-                                                   direction = "auto"))}})
+                                                   direction = "auto")
+                                                 )
+      }
+    })
   
-  
-  
-  
-  clear_map <- reactive({print("Clear Map")
+  clear_map <- reactive({
+    print("Clear Map")
     leafletProxy("mymap", session) %>%  addPolygons(data = city_sf_final, 
                                                        label = ~NAME,
                                                        color = "#444444",
@@ -176,8 +168,7 @@ server <- function(input, output, session) {
                                                          style = list("font-weight" = "normal",
                                                                       padding = "3px 8px"),
                                                          textsize = "10px",
-                                                         direction = "auto"))})
-  
-  
-  
+                                                         direction = "auto")
+                                                    )
+    })
 }
