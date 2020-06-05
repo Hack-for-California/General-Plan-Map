@@ -1,7 +1,7 @@
 library(stringr)
 library(Rcpp)
 
-url <- "https://raw.githubusercontent.com/Hack-for-California/General-Plan-Map/master/plan_text/"
+url <- "https://raw.githubusercontent.com/Hack-for-California/General-Plan-Map/master/data/plan_text/"
 input <- "and"
 
 processFile = function(filepath, input) {
