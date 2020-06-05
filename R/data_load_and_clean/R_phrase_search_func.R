@@ -22,7 +22,7 @@ processFile = function(filepath, input) {
 searchFile = function(filepath,input){
   print("func filepath")
   print(filepath)
-  toReturn = paste("Link to General Plan: ", filepath)
+  toReturn = paste0("<a href='",filepath,"' target='_blank'>Link to General Plan</a>")
   return(toReturn) 
   
 }

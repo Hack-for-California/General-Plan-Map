@@ -104,8 +104,6 @@ server <- function(input, output, session) {
                                                                   padding = "3px 8px"),
                                                      textsize = "10px",
                                                      direction = "auto"))
-    
-    
   })
   
   #to clear
@@ -117,17 +115,17 @@ server <- function(input, output, session) {
   
   observeEvent(input$mymap_shape_click, { # update the location selectInput on map clicks
     p <- input$mymap_shape_click$id 
-    d <-subset(city_sf_final, city_sf_final$NAME == p)
+    d <- subset(city_sf_final, city_sf_final$NAME == p)
     # print(d$filepath)
-    op <- searchFile(d$filepath,input = input$search)
-    output$search_result <- renderUI({HTML(op)})
+    op <- searchFile(d$filepath, input = input$search)
+    output$city_selected <- renderUI({HTML('<hr/><h2>',input$mymap_shape_click$id,'</h2>', op)})
     #print("d fukeoatg")
     print("d filepath")
     print(d$filepath)
   })
   
   one_city_data <- reactive({
-    d <-subset(city_sf_final, city_sf_final$NAME == input$city)
+    d <- subset(city_sf_final, city_sf_final$NAME == input$city)
     #things for highlighting selected cities 
     if(NROW(d) > 0) {
       leafletProxy("mymap", session) %>% addPolygons(data = d,
