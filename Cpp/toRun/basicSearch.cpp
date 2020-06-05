@@ -54,7 +54,8 @@
 	// [[Rcpp::export]]
 	vector<string> mySearch(string search_term){
 	  unordered_map<string, vector<string>> wordMap;
-	  read_wordMap_to_file("C:\\Users\\dexte\\Box\\hack_ca\\General_Plan_Map_Clean\\Cpp\\toRun\\test.txt",&wordMap);
+	  read_wordMap_to_file("/srv/shiny-server/general-plan-map/Cpp/toRun/test.txt",&wordMap);
+    //for testing locally: read_wordMap_to_file("/Users/lpoirier/Documents/GitHub/General-Plan-Map/Cpp/toRun/test.txt",&wordMap);
 	  string term;
 	  
 	  /* Need to figure out how to efficently resize result everytime! */

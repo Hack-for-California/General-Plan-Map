@@ -56,9 +56,10 @@ server <- function(input, output, session) {
     
     copy_pos_search = data.frame(d)
     table_display = select(copy_pos_search,c('NAMELSAD','filepath_2'))
+    table_display$filepath_2 = paste0("<a href='",table_display$filepath_2,"' target='_blank'>",table_display$filepath_2,"</a>")
     names(table_display) = c('Name', 'Link')
     #copy_city_sf_final = sapply(copy_city_sf_final,unlist)
-    output$search_result_table <- renderTable({head(table_display, n = 50 )})
+    output$search_result_table <- renderTable(table_display, sanitize.text.function = function(x) x)
     
     
     if(NROW(d)==0){

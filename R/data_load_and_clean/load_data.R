@@ -33,10 +33,10 @@ city_sf_final <- city_sf_fixed  %>% right_join(file_names, by = "FILE")
 city_sf_no_files <- city_sf_fixed 
 n <- city_sf_final %>% filter(is.na(NAME))
 
-city_sf_final$filepath_2 <- paste("https://raw.githubusercontent.com/Hack-for-California/General-Plan-Map/master/plan_text/", city_sf_final$FILE, sep="")
+city_sf_final$filepath_2 <- paste("https://raw.githubusercontent.com/Hack-for-California/General-Plan-Map/master/data/plan_text/", city_sf_final$FILE, sep="")
 new_city <- city_sf_final
 
-city_sf_final$search_matching = sapply(strsplit(city_sf_final$filepath_2, split = "/master/"), FUN = function(x){x[2]})
+city_sf_final$search_matching = sapply(strsplit(city_sf_final$filepath_2, split = "/data/"), FUN = function(x){x[2]})
 search_wrapper <- function(search_term){
   return(mySearch(search_term))
 }
