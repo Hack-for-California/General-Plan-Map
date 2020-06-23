@@ -1,0 +1,12 @@
+/* Customize fonts */
+body, label, input, button, select {
+  font-family: 'Helvetica Neue', Helvetica;
+  font-weight: 200;
+}
+h1, h2, h3, h4 { font-weight: 400; }
+h1{text-align:center;}
+h2{font-size:20px;}
+
+.sidebar-panel {
+  margin-top:30px;
+}
