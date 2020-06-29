@@ -40,7 +40,8 @@ server <- function(input, output, session) {
                           #search_results <- sapply(X = new_city$filepath[1:10], FUN = processFile, input = input$search)
                           #city_sf_final$search <- rep(0,nrow(city_sf_final))
                           #city_sf_final$search[1:10] = search_results
-                          search_results = search_wrapper(input$search)
+                          search_string <- tolower(input$search)
+                          search_results = search_wrapper(search_string)
                           
                           if(length(search_results) == 0) {showModal(modalDialog(title = "Heads up!",
                                                                                  "Search term not found."))}
@@ -92,24 +93,24 @@ server <- function(input, output, session) {
                                                                                        padding = "3px 8px"),
                                                                           textsize = "10px",
                                                                           direction = "auto"))
-                                
-                                leafletProxy("mymap", session) %>%
-                                  addPolygons(data = toClear,
-                                              layerId = ~NAME,
-                                              label = ~NAME,
-                                              color = "#444444",
-                                              opacity = 1.0,
-                                              weight = 0.5,
-                                              smoothFactor = 1.5,
-                                              fillColor = "#f8766d",
-                                              fillOpacity = 0.9,
-                                              highlightOptions = highlightOptions(color = "white",
-                                                                                  weight = 1,
-                                                                                  bringToFront = TRUE),
-                                              labelOptions = labelOptions(style = list("font-weight" = "normal",
-                                                                                       padding = "3px 8px"),
-                                                                          textsize = "10px",
-                                                                          direction = "auto"))
+                                if(nrow(toClear != 0)){leafletProxy("mymap", session) %>%
+                                                         addPolygons(data = toClear,
+                                                                     layerId = ~NAME,
+                                                                     label = ~NAME,
+                                                                     color = "#444444",
+                                                                     opacity = 1.0,
+                                                                     weight = 0.5,
+                                                                     smoothFactor = 1.5,
+                                                                     fillColor = "#f8766d",
+                                                                     fillOpacity = 0.9,
+                                                                     highlightOptions = highlightOptions(color = "white",
+                                                                                                         weight = 1,
+                                                                                                         bringToFront = TRUE),
+                                                                     labelOptions = labelOptions(style = list("font-weight" = "normal",
+                                                                                                              padding = "3px 8px"),
+                                                                                                 textsize = "10px",
+                                                                                                 direction = "auto"))}
+                                else{print("Term appears in all plans.")}
                                 }
                                 print("search for things complete")})
 
@@ -140,8 +141,9 @@ server <- function(input, output, session) {
   observeEvent(input$mymap_shape_click, {city_id <- input$mymap_shape_click$id 
                                          city_row <- subset(city_sf_final, 
                                                             city_sf_final$NAME == city_id)
+                                         search_string <- tolower(input$search)
                                          city_general_plan_href <- searchFile(city_row$filepath, 
-                                                                              input = input$search)
+                                                                              input = search_string)
                                          output$city_selected <- renderUI({HTML('<hr/><h2>',
                                                                                 input$mymap_shape_click$id,
                                                                                 '</h2>', 
