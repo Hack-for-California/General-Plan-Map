@@ -41,7 +41,7 @@ server <- function(input, output, session) {
                           #city_sf_final$search <- rep(0,nrow(city_sf_final))
                           #city_sf_final$search[1:10] = search_results
                           search_string <- tolower(input$search)
-                          search_results = search_wrapper(search_string)
+                          search_results <- search_wrapper(search_string)
                           
                           if(str_detect(search_string, '^[A-Za-z]+$', negate = TRUE)){showModal(modalDialog(title = "Heads up!",
                                                                                                            "Please remove any numbers or special characters from the search string (e.g. community-oriented would be communityoriented)."))}
@@ -50,23 +50,24 @@ server <- function(input, output, session) {
                                                                                        "Search term not found."))}
                                 
                                 else {output$search_result <- renderUI({HTML("<div id='search_result_header'><h2>Search Result</h2></div")})
-                                      search_city_bool = city_sf_final$search_matching %in% search_results
-                                      city_sf_final$search = search_city_bool
+                                      search_city_bool <- city_sf_final$search_matching %in% search_results
+                                      city_sf_final$search <- search_city_bool
                                       
                                       city_row <-subset(city_sf_final, 
                                                         city_sf_final$search == 1)
                                       
-                                      copy_pos_search = data.frame(city_row)
-                                      table_display = select(copy_pos_search,
+                                      copy_pos_search <- data.frame(city_row)
+                                      table_display <- select(copy_pos_search,
                                                              c('NAMELSAD',
                                                                'filepath_2'))
                                       
-                                      table_display$filepath_2 = paste0("<a href='",
+                                      table_display$filepath_2 <- paste0("<a href='",
                                                                         table_display$filepath_2,
                                                                         "' target='_blank'>",
                                                                         table_display$filepath_2,
                                                                         "</a>")
                                       
+                                      print(names(table_display))
                                       names(table_display) = c('Name', 
                                                                'Link')
                                       
