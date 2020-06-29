@@ -67,7 +67,6 @@ server <- function(input, output, session) {
                                                                         table_display$filepath_2,
                                                                         "</a>")
                                       
-                                      print(names(table_display))
                                       names(table_display) = c('Name', 
                                                                'Link')
                                       
@@ -76,8 +75,10 @@ server <- function(input, output, session) {
                                       output$search_result_table <- DT::renderDataTable(table_display, 
                                                                                         escape = FALSE)
                                       
-                                      toClear = subset(city_sf_final, 
+                                      to_clear <- subset(city_sf_final, 
                                                        city_sf_final$search == 0)
+                                      print(dim(to_clear))
+                                      print(str(to_clear))
                                       
                                       #things for highlighting selected cities 
                                       leafletProxy("mymap", session) %>% 
@@ -97,8 +98,8 @@ server <- function(input, output, session) {
                                                                                              padding = "3px 8px"),
                                                                                 textsize = "10px",
                                                                                 direction = "auto"))
-                                      if(nrow(toClear != 0)){leafletProxy("mymap", session) %>%
-                                                               addPolygons(data = toClear,
+                                      if(nrow(to_clear != 0)){leafletProxy("mymap", session) %>%
+                                                               addPolygons(data = to_clear,
                                                                            layerId = ~NAME,
                                                                            label = ~NAME,
                                                                            color = "#444444",
