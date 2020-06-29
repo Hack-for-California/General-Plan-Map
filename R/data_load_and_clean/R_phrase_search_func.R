@@ -2,7 +2,7 @@ library(stringr)
 library(Rcpp)
 
 #Source C++ word search function
-Cpp_search_function_filepath = file.path('..','search_cpp','basicSearch.cpp')
+Cpp_search_function_filepath = file.path('..','search_cpp','basic_search.cpp')
 sourceCpp(Cpp_search_function_filepath)
 
 #Search for term 
