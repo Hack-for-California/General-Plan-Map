@@ -52,7 +52,7 @@ The General Plan Map provides access to the text of all California city General 
 
 The code for the shiny app is stored in [R](./R). Running app.R in this folder launches the app, 
 loading the CA city shapefiles into a data frame via load_data.R in the [R/data_load_and_clean](./R/data_load_and_clean) 
-folder and calling on ui.R and server.R in the [R/shiny_app](./R/shiny_app) folder. 
+folder and calling on ui.R and server.R in the [R/shiny_app](./R/shiny_app) folder. All of the city shapefiles and General Plan text files are stored in the [data](./data) folder.
 
 ui.R includes all of the code for the front end of the app, including the front-end text, links to the stylesheet, and the basic layout of the page. 
 
