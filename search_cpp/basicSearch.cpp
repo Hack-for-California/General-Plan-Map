@@ -10,16 +10,16 @@
 
 	using namespace std;
 
-	void printWordMap(unordered_map<string,vector<string>> * ptr_wordMap){
-	  cout << "===========PRINTING WORD MAP===============\n\n\n\n\n";
-	  for (auto fileMapKV : *ptr_wordMap){
-	    cout << "key: "  << fileMapKV.first << " FILENAME: " << endl;
-	    for (auto fileName: fileMapKV.second){
-	      cout << fileName << "    "; 
-	    }
-	    cout << "\n";
-	  }
-	} 
+	// void print_word_map(unordered_map<string,vector<string>> * ptr_wordMap){
+	//   cout << "===========PRINTING WORD MAP===============\n\n\n\n\n";
+	//   for (auto fileMapKV : *ptr_wordMap){
+	//     cout << "key: "  << fileMapKV.first << " FILENAME: " << endl;
+	//     for (auto fileName: fileMapKV.second){
+	//       cout << fileName << "    "; 
+	//     }
+	//     cout << "\n";
+	//   }
+	// } 
 
 	void read_wordMap_to_file(string fileName, unordered_map<string,vector<string>> * ptr_wordMap){
 	  //this function loads a wordmap from a file 
@@ -52,7 +52,7 @@
 	}
 
 	// [[Rcpp::export]]
-	vector<string> mySearch(string search_term){
+	vector<string> my_search(string search_term){
 	  unordered_map<string, vector<string>> wordMap;
 	  read_wordMap_to_file("/srv/shiny-server/general-plan-map/search_cpp/word_map.txt",&wordMap);
     //read_wordMap_to_file("/Users/lpoirier/Documents/GitHub/General-Plan-Map/search_cpp/word_map.txt",&wordMap); //For testing on LP's local machine

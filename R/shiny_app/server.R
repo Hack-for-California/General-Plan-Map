@@ -145,22 +145,15 @@ server <- function(input, output, session) {
                                          city_row <- subset(city_sf_final, 
                                                             city_sf_final$NAME == city_id)
                                          search_string <- tolower(input$search)
-                                         city_general_plan_href <- searchFile(city_row$filepath, 
-                                                                              input = search_string)
+                                         city_general_plan_href <- paste0("<a href='",
+                                                                          city_row$filepath,
+                                                                          "' target='_blank'>Link to General Plan</a>")
                                          output$city_selected <- renderUI({HTML('<hr/><h2>',
                                                                                 input$mymap_shape_click$id,
                                                                                 '</h2>', 
                                                                                 city_general_plan_href)})
                                          print(paste("city row filepath:",
                                                      city_row$filepath))})
-  
-  
-  #not currently in use 
-  # read_paragraph <- reactive({city_row <-subset(city_sf_final, 
-  #                                               city_sf_final$NAME == input$city)
-  #                             city_general_plan_href <- searchFile(city_row$filepath,
-  #                                                                  input$search)
-  #                             output$search_result <- renderUI({HTML(city_general_plan_href)})})
   
   
 }

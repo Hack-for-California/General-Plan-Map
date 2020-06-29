@@ -1,42 +1,32 @@
 library(stringr)
 library(Rcpp)
 
-url <- "https://raw.githubusercontent.com/Hack-for-California/General-Plan-Map/master/data/plan_text/"
-input <- "and"
-
-processFile = function(filepath, input) {
-  con = file(filepath, "r")
-  while (TRUE) {
-    line = readLines(con, n = 1, warn = FALSE)
-    if (length(line) == 0 ) {
-      close(con)
-      return (0)
-    }
-    if (str_detect(line, input)){
-      close(con)
-      return (1)
-    }
-  }
-}
-
-searchFile = function(filepath,input){
-  print("func filepath")
-  print(filepath)
-  toReturn = paste0("<a href='",filepath,"' target='_blank'>Link to General Plan</a>")
-  return(toReturn) 
-  
-}
-
-
+#Source C++ word search function
 Cpp_search_function_filepath = file.path('..','search_cpp','basicSearch.cpp')
-
-
-
 sourceCpp(Cpp_search_function_filepath)
 
+#Search for term 
 search_wrapper <- function(search_term){
   if(search_term == ''){
-    search_term = 'the'
+    search_term <- 'the'
   }
-  return(mySearch(search_term))
+  return(my_search(search_term))
 }
+
+# Previous attempts
+# url <- "https://raw.githubusercontent.com/Hack-for-California/General-Plan-Map/master/data/plan_text/"
+# input <- "and"
+# processFile = function(filepath, input) {
+#   con = file(filepath, "r")
+#   while (TRUE) {
+#     line = readLines(con, n = 1, warn = FALSE)
+#     if (length(line) == 0 ) {
+#       close(con)
+#       return (0)
+#     }
+#     if (str_detect(line, input)){
+#       close(con)
+#       return (1)
+#     }
+#   }
+# }
