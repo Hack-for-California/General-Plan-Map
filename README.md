@@ -28,7 +28,7 @@ You can access a working version of this application [here](http://critical-data
 
 ## Architecture
 
-The code for the shiny app is stored in [R](https://github.com/Hack-for-California/General-Plan-Map/tree/master/R). Running app.R in this folder launches the app, 
+The code for the shiny app is stored in [R](./R). Running app.R in this folder launches the app, 
 loading the CA city shapefiles into a data frame via load_data.R in the [R/data_load_and_clean](https://github.com/Hack-for-California/General-Plan-Map/tree/master/R/data_load_and_clean) 
 folder and calling on ui.R and server.R in the [R/shiny_app](https://github.com/Hack-for-California/General-Plan-Map/tree/master/R/shiny_app) folder. 
 
