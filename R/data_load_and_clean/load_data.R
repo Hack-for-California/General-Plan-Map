@@ -6,7 +6,7 @@ library(rgdal)  # reads shapefiles
 ca_place_path = file.path("..","data","ca-places-boundaries")
 print(ca_place_path)
 city <- readOGR(ca_place_path,"CA_Places_TIGER2016", stringsAsFactors = FALSE)  # reads shape files 
-city <- spTransform(city, CRS("+proj=longlat +datum=WGS84"))  # changes corrodinate reference system
+city <- spTransform(city, CRS("+proj=longlat +datum=WGS84"))  # changes corrdinate reference system
 city_sf <- st_as_sf(city)  # converts st object to an sf object 
 city_sf_fixed <- 
   city_sf %>%

@@ -1,0 +1,3 @@
+plan_text/City_Adelanto.txt
+plan_text/City_Fillmore.txt
+plan_text/City_Yucca_Valley.txt
