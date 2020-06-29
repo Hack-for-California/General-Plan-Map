@@ -6,8 +6,28 @@ You can access a working version of this application [here](http://critical-data
 
 ## About
 
+Each city and county in California is required to produce a General Plan, a document that outlines and commits local governments to long-term development goals. Planning laws in the State of California mandate that every General Plan address a common set of issues, including Land Use, Conservation, and Housing. However, such laws do not specify where in the General Plan such issues need to be addressed or the format of the Plan overall. Thus, while General Plans offer the most comprehensive blueprint for future visioning of cities and counties throughout California, the structure and format of the Plans vary considerably across cities and counties. This makes it difficult to readily compare planning approaches across the state, to comparatively evaluate progress towards planning goals, and to set benchmarks for policy success. 
+ 
+This project is developing a platform for readily querying and extracting snippets of information about issues such as planned housing across all General Plans. Currently, there are no states that have such a public database for querying General Plans state-wide. The platform is expected to become a key policy implementation and enforcement infrastructure for the California OPR, a resource for community developers in collaborative planning, and a valuable information source for community members and researchers. 
 
-## Goals
+### The Tool
+
+The General Plan Map provides access to the text of all California city General Plans and enables users to query for a single search term to determine the plans in which that term is referenced. Upon searching, the tool filters a map to the cities in CA with General Plans that reference the word, offering a geospatial representation of the term's use. The tool also links to the plans that reference the term. Users can click through to the plans and search within the page for the term. 
+
+### Some Notes and Caveats
+
+* Curently, the search function searches for a term from a corpus of words that have been extracted from each of the plans. In that corpus, numbers and special characters (e.g. -,(,),\*,%,$,#,",',:) have all been stripped. This means that if you wanted to search for something like "community-oriented" you should instead search for "communityoriented". It also means that terms like "4-lane" or "3-year" in the General Plans will appear in the corpus as "lane" and "year".
+* In that corpus, words containing "/" have been separated into the words appearing before and after the "/". This means that if a plan contains the term "land/water/air", the plan would appear in a search for "land", "water", or "air" but not a search for "land/water/air".
+* When words span two lines in the plan (continued with a "-"), the full word will not appear in the corpus. Instead, the two word fragments will appear in the corpus. 
+* Some text in the General Plans, particularly text in textboxes, captions, and charts, did not properly parse when we converted the General Plan PDFs to text files. If this was the case, these terms will not appear in the corpus. The tool also cannot capture any text that appears in images in the Plans.
+
+### Longer-Term Goals
+
+* Archive historical general plans for each city in order to be able to track changes in plans over time
+* Add county plans to the map, and allow users to toggle between the two
+* Expand search functionality beyond a single word towards phrases
+* Link to PDFs of the general plans vs. unformatted text
+* Streamline the addition of new plans to the database
 
 ## Contributors
 
