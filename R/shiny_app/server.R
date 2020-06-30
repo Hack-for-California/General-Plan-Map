@@ -78,7 +78,6 @@ server <- function(input, output, session) {
                                       to_clear <- subset(city_sf_final, 
                                                        city_sf_final$search == 0)
                                       cat(dim(to_clear))
-                                      cat(str(to_clear))
                                       
                                       #things for highlighting selected cities 
                                       leafletProxy("mymap", session) %>% 
@@ -98,7 +97,7 @@ server <- function(input, output, session) {
                                                                                              padding = "3px 8px"),
                                                                                 textsize = "10px",
                                                                                 direction = "auto"))
-                                      if(nrow(to_clear != 0)){leafletProxy("mymap", session) %>%
+                                      if(dim(to_clear)[1] != 0){leafletProxy("mymap", session) %>%
                                                                addPolygons(data = to_clear,
                                                                            layerId = ~NAME,
                                                                            label = ~NAME,
