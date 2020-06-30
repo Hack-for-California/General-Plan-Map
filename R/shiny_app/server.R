@@ -36,7 +36,7 @@ server <- function(input, output, session) {
   #Events
   #==========================================================================================================
   
-  observeEvent(input$do, {print("Search for things button clicked"); 
+  observeEvent(input$do, {cat("Search for things button clicked"); 
                           #search_results <- sapply(X = new_city$filepath[1:10], FUN = processFile, input = input$search)
                           #city_sf_final$search <- rep(0,nrow(city_sf_final))
                           #city_sf_final$search[1:10] = search_results
@@ -66,7 +66,7 @@ server <- function(input, output, session) {
                                                                         "' target='_blank'>",
                                                                         table_display$filepath_2,
                                                                         "</a>")
-                                      
+                                      cat(names(table_display))
                                       names(table_display) = c('Name', 
                                                                'Link')
                                       
@@ -77,8 +77,8 @@ server <- function(input, output, session) {
                                       
                                       to_clear <- subset(city_sf_final, 
                                                        city_sf_final$search == 0)
-                                      print(dim(to_clear))
-                                      print(str(to_clear))
+                                      cat(dim(to_clear))
+                                      cat(str(to_clear))
                                       
                                       #things for highlighting selected cities 
                                       leafletProxy("mymap", session) %>% 
