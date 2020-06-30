@@ -1,5 +1,5 @@
 server <- function(input, output, session) {
-  
+  if (!interactive()) sink(stderr(), type = "output") # for error logging
   points <- eventReactive(input$recalc, {cbind(rnorm(40) * 2 + 13, rnorm(40) + 48)}, ignoreNULL = FALSE)
   
   #t_label <- ""
