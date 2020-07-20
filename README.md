@@ -85,6 +85,7 @@ Please see [license](https://github.com/Hack-for-California/General-Plan-Map/blo
 ## Cite As
 
 Brinkley, C; Poirier, L; Antonio, D (2020) California City General Plan Database Mapping Tool. [http://critical-data-analysis.org/shiny/general-plan-map/R/](http://critical-data-analysis.org/shiny/general-plan-map/R/)
+[![DOI](https://zenodo.org/badge/238352230.svg)](https://zenodo.org/badge/latestdoi/238352230)
 
 ## Have Questions?
 Contact [hack-for-california@ucdavis.edu](mailto:hack-for-california@ucdavis.edu)
