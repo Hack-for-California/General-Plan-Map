@@ -285,30 +285,7 @@ def my_form_post():
     cities['line_color'] = '#dedede'
     numCities = len(cities.index)
     
-    xVals = []
-    yVals = []
-    cnames = []
-    pops = []
-    cityCoordsPath = "static/maps/coordinates.txt"
-    cityCoordsFile = open(cityCoordsPath,'r')
-    from pyproj import Proj, transform
-    outProj = Proj(init='epsg:3857')
-    inProj = Proj(init='epsg:4326')
-    cityNames = [r.cityName for r in cityResults]
-    for line in cityCoordsFile:
-        parts = line.split(',')
-        name = parts[0]
-        pop = [cp.population for cp in cityPops if cp.name == parts[0]]
-        if len(pop) > 0 and name in cityNames:
-            pops.append(float(pop[0]))
-            cnames.append(parts[0])
-            y = float(parts[1])
-            x = float(parts[2])
-            x,y = transform(inProj, outProj, x, y)
-            yVals.append(y)
-            xVals.append(x)
-    cityCoordsFile.close()
-    pops = [100*(i)/max(pops) for i in pops]
+
     
     
     cityResultsName = [res.cityName for res in results]
@@ -339,18 +316,16 @@ def my_form_post():
     jsonCombined = json.dumps(mergedJson)
     geosource = GeoJSONDataSource(geojson = jsonCombined)
     
-    p2Source = ColumnDataSource(dict(x=xVals, y=yVals, sizes=pops, cname=cnames))
     
     TOOLS = ["hover", "pan", "wheel_zoom", "save"]
     p2 = figure(
         x_axis_location=None, y_axis_location=None,
         x_axis_type="mercator", y_axis_type="mercator",
         tools=TOOLS,
-        tooltips=[("Name", "@cname")]
+        tooltips=[("Name", "@name")]
         )
     p2.grid.grid_line_color = None
     p2.hover.point_policy = "follow_mouse"
-    glyph = Circle(x="x", y="y", size="sizes", line_color="white", fill_color="blue", fill_alpha=0.1, line_width=0)
     maxCountyPop = 0
     for county in countyResults:
         if county.population > maxCountyPop:
@@ -367,11 +342,30 @@ def my_form_post():
         scale = (pop/maxCountyPop )**(1/2)
         cartCounties['geometry'][ind] = shapely.affinity.scale(geo, scale, scale)
 
-    countyJson = json.loads(counties.to_json())
+    
+    maxCityPop = 0
+    for city in cityResults:
+        if city.population > maxCityPop:
+            maxCityPop = city.population
+    cartCities = cities
+    for ind in cartCities.index:
+        name = cities['name'][ind]
+        pop = [r.population for r in cityPops if r.name == name]
+        if len(pop) > 0:
+            pop = float(pop[0])
+        else:
+            pop = 0.0
+        geo = cartCities['geometry'][ind]
+        scale = (pop/maxCityPop)**(1/2)
+        cartCities['geometry'][ind] = shapely.affinity.scale(geo,scale,scale)
+     
+    combined = cartCounties.append(cartCities)
+    countyJson = json.loads(combined.to_json())
     jsonCounty=json.dumps(countyJson)
     p2GeoSource = GeoJSONDataSource(geojson=jsonCounty)
-    p2.patches('xs','ys',source=p2GeoSource,fill_color='white', line_color='line_color')
-    p2.add_glyph(p2Source, glyph)
+    p2.patches('xs','ys',source=p2GeoSource,fill_color='color', line_color='line_color')   
+    
+    
     
     
     size = 850
