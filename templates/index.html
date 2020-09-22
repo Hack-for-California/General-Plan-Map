@@ -4,7 +4,6 @@
   <head>
 
     <meta charset="utf-8">
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes"> -->
     <meta name="viewport" content="width=1024">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -19,9 +18,7 @@
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="/static/cssjs/css/bootstrap.min.css" integrity="
     sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-
     <link rel="stylesheet" type="text/css" href="/static/cssjs/css/font-awesome.css">
-
     <link rel="stylesheet" href="/static/cssjs/css/general-template.css">
   
 
@@ -44,25 +41,17 @@
     
     <!-- ***** Header Area Start ***** -->
     <header class="header-area header-sticky">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <nav class="main-nav">
-                        
-                            <a href="/" class="logo">California General Plan  <em> Database Mapping Tool </em></a>
-                        
-                        <ul class="nav">
-                            <li class="scroll-to-section"><a href="#top" class="active">Text Search</a></li>
-                            <li class="scroll-to-section"><a href="#about">About</a></li>
-                            <li class="scroll-to-section"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCpD1Dil06c8tuSLnDqHp9W_6zK3S50ho4eGQtM4MyBhYM4g/viewform">Feedback</a></li>
-                        </ul>        
-                        <a class='menu-trigger'>
-                            <span>Menu</span>
-                        </a>
-                    </nav>
-                </div>
-            </div>
-        </div>
+	    <nav class="main-nav">
+	        <a href="/" class="logo">California General Plan  <em> Database Mapping Tool </em></a>
+	        <ul class="nav">
+	            <li class="scroll-to-section"><a href="#top" class="active">Text Search</a></li>
+	            <li class="scroll-to-section"><a href="#about">About</a></li>
+	            <li class="scroll-to-section"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCpD1Dil06c8tuSLnDqHp9W_6zK3S50ho4eGQtM4MyBhYM4g/viewform">Feedback</a></li>
+	        </ul>        
+	        <a class='menu-trigger'>
+	            <span>Menu</span>
+	        </a>
+	    </nav>
     </header>
     <!-- ***** Header Area End ***** -->
 
@@ -74,11 +63,10 @@
       <img src="/static/images/ca.jpg" style="width: 100%;">
         <div class="video-overlay header-text">
             <div class="caption">
-                <h6>General Plans are required by every city and county to set the future development goals and policies. Use this portal to access, query, compare, and spatially visualize general plans across California's cities and counties.</h6>
+                <h6>GENERAL PLANS ARE REQUIRED TO SET FUTURE DEVELOPMENT GOALS AND POLICIES. USE THIS PORTAL TO ACCESS, QUERY, COMPARE, AND SPATIALLY VISUALIZE GENERAL PLANS ACROSS CALIFORNIA'S CITIES AND COUNTIES.</h6>
                 <div class="grow">
                     <h2>Enter <em>keywords</em> for search</h2>
                 </div>
-
 				<center>
 				    <form method="POST" >
 				    <input name="u" style="background-color: transparent;color:  white">
@@ -95,45 +83,23 @@
     <!-- ***** About Item Start ***** -->
      <div class="fade">
         <section class="section" id="about">
-            <div class="container">
-                <div class="row">
-                    
-                        <div class="section-heading">
-                            <h2>About <em>us</em></h2>
-                            <img src="/static/images/about.png" alt="waves" style="width: 5%;height: 5%;">
-                        </div>
-                    
-                    <ul class="about-items">
-                        <div class="color">
-                        <li class="about-item">
-                            <div class="left-data">
-                            <div class="left-icon">
-                                <img src="https://icon-library.com/images/purpose-icon/purpose-icon-27.jpg" alt="First One">
-                            </div>
-                        </div>
-                            <div class="right-content">
-                                <h4>Purpose</h4>
-                                <p>The purpose of this website is to enable users to access, query, compare, and spatially visualize general plans in cities and counties across California.</p>
-                                
-                            </div>
-                        </li>
-                        </div>
-                        <div class="color">
-                            <li class="about-item">
-                                <div class="left-icon">
-                                    <img src="https://static.thenounproject.com/png/55349-200.png" alt="second one">
-                                </div>
-                            
-                                <div class="right-content">
-                                    <h4>Instructions</h4>
-                                    <p>Enter words separated by a comma in the textbox or a single phrase for exact phrase search. Click Search to query across the plans. The list of word occurrences in each plan will be shown. Click on the city of choice to view the PDF with the highlighted keywords. Plans were added in 2020, and we are in the process of adding updates. If you have any feedback please provide it here (<b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCpD1Dil06c8tuSLnDqHp9W_6zK3S50ho4eGQtM4MyBhYM4g/viewform">Feedback</a></b>).</p>
-                                </div>
-                            </li>
-                    	</div>
-                    	
-                    </ul>
-                </div>
+            <div class="section-heading">
+                <h2>About <em>us</em></h2>       
             </div>
+            <ul>
+                <li class="about-item">
+                    <div class="right-content">
+                        <h4>Purpose</h4>
+                        <p>The purpose of this website is to enable users to access, query, compare, and spatially visualize general plans in cities and counties across California.</p>       
+                    </div>
+                </li>
+                <li class="about-item">
+                    <div class="right-content">
+                        <h4>Instructions</h4>
+                            <p>Enter words separated by a comma in the textbox or a single phrase for exact phrase search. Click Search to query across the plans. The list of word occurrences in each plan will be shown. The search hits can be sorted by year, city name or 2010 population. The table can also be exported to allow further research. Results are also visualized as maps that show the cities and counties with search hits. To see how many people are impacted by the plans, the search results can be visualized as a cartogram based on 2010 census population. This visualization results in places like Los Angeles County being very large while counties with smaller populations are smaller. The search returns a substring, so that if you search 'race' you will also pull up hits for 'race-based policies.' Similarly, you will pull up hits for 'marathon races'. To understand the context of the search hits, click on the year for a city or county plan to view the PDF with the highlighted keywords. Plans were added in 2020, and we are in the process of adding updates. If you have any feedback please provide it here (<b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCpD1Dil06c8tuSLnDqHp9W_6zK3S50ho4eGQtM4MyBhYM4g/viewform">Feedback</a></b>).</p>
+                    </div>
+                </li>
+            </ul>
         </section>
     </div>
     
@@ -142,21 +108,12 @@
        
     <!-- ***** Footer Start ***** -->
     <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                  <p>Cite as: Brinkley, C; Poirier, L; Ghosh, S; Dettmann, M (2020) California City General Plan Database Mapping Tool. v2.0<br><a rel="nofollow" href="http://critical-data-analysis.org/shiny/general-plan-map/R/" class="tm-text-link" target="_parent">http://critical-data-analysis.org/shiny/general-plan-map/R/</a></p>
-                    
-                   
-                    
-                </div>
-            </div>
-        </div>
+        <p>Cite as: Brinkley, C; Poirier, L; Ghosh, S; Dettmann, M (2020) California General Plan Database Mapping Tool. v2.0<br><a rel="nofollow" href="http://critical-data-analysis.org/shiny/general-plan-map/R/" class="tm-text-link" target="_parent">http://critical-data-analysis.org/shiny/general-plan-map/R/</a></p>
     </footer>
 
 
     <!-- jQuery -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="/static/cssjs/js/jquery.min.js"></script>
 
     <!-- Bootstrap -->
     <script src="/static/cssjs/js/popper.js"></script>
@@ -168,11 +125,9 @@
     <script src="/static/cssjs/js/jquery.counterup.min.js"></script>
     <script src="/static/cssjs/js/imgfix.min.js"></script> 
     <script src="/static/cssjs/js/mixitup.js"></script> 
-    <script src="/static/cssjs/js/accordions.js"></script>
     
     <!-- Global Init -->
     <script src="/static/cssjs/js/custom.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 
   </body>
 </html>

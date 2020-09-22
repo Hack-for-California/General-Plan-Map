@@ -1,49 +1,87 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="/static/cssjs/css/cover.css">
-  <!-- <meta http-equiv="refresh" content="2; URL='http://localhost:5000//" /> -->
-</head>
-<body>
-<h1 class="ml4">
-  <span class="letters letters-1">No results found</span>
+<html lang="en" style="background-image:url(/static/images/background.png);">
 
- 
-</h1>
+  <head>
+   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=1024">
+    <link rel = "icon" href =  "https://www.ucdavis.edu/sites/all/themes/ucd_one/favicon.ico" type = "image/x-icon">
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
-<script>
-	// Wrap every letter in a span
-var ml4 = {};
-ml4.opacityIn = [0,1];
-ml4.scaleIn = [0.2, 1];
-ml4.scaleOut = 3;
-ml4.durationIn = 800;
-ml4.durationOut = 1000;
-ml4.delay = 200;
+    <title>No results</title>
 
-anime.timeline({loop: 1})
-  .add({
-    targets: '.ml4 .letters-1',
-    opacity: ml4.opacityIn,
-    scale: ml4.scaleIn,
-    duration: ml4.durationIn
-  }).add({
-    targets: '.ml4 .letters-1',
-    opacity: 0,
-    scale: ml4.scaleOut,
-    duration: ml4.durationOut,
-    easing: "easeInExpo",
-    delay: ml4.delay
-  }).add({
-    targets: '.ml4',
-    opacity: 0,
-    duration: 2000,
-    delay: 500
-  });
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="/static/cssjs/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/static/cssjs/css/font-awesome.css">
+    <link rel="stylesheet" href="/static/cssjs/css/general-template-download.css">
 
-  setTimeout("history.back()", 3000)
-</script>
+    </head>
+    
+    <body>
+    
+     <!-- ***** Preloader Start ***** -->
+    <div id="js-preloader" class="js-preloader">
+      <div class="preloader-inner">
+        <span class="dot"></span>
+        <div class="dots">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </div>
+    <!-- ***** Preloader End ***** -->
+    
+    
+    <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky">
+        <nav class="main-nav">
+            <div class="image-overlay header-text">
+                <div class="threed">
+                    <a href="/" class="logo" style=" color:white;margin-left: 250px">California General Plan  <em> Database Mapping Tool </em></a>
+                </div>
+            </div> 
+            <a class='menu-trigger'>
+                <span>Menu</span>
+            </a>
+        </nav>
+    </header>
+    <!-- ***** Header Area End ***** -->
 
-</body>
+
+
+    <!-- ***** No match Start ***** -->
+    <section class="section" id="download" >
+        <div class="grow">
+            <div class="section-heading">
+            <br><br><br><br><br>
+            <div class="color">
+                <h2 style="color: white">No matches found</h2>
+            </div>
+        </div>    
+    </section>
+    <!-- ***** No match End ***** -->
+
+
+
+    <!-- jQuery -->
+    <script src="/static/cssjs/js/jquery.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="/static/cssjs/js/popper.js"></script>
+    <script src="/static/cssjs/js/bootstrap.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="/static/cssjs/js/scrollreveal.min.js"></script>
+    <script src="/static/cssjs/js/waypoints.min.js"></script>
+    <script src="/static/cssjs/js/jquery.counterup.min.js"></script>
+    <script src="/static/cssjs/js/imgfix.min.js"></script> 
+    <script src="/static/cssjs/js/mixitup.js"></script> 
+    
+    <!-- Global Init -->
+    <script src="/static/cssjs/js/custom.js"></script>
+    <script>
+      setTimeout("history.back()", 1500)
+    </script>
+    
+  </body>
 </html>
