@@ -21,15 +21,9 @@ mail= Mail(app)                                                                 
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0                                                                                             #to avoid storing cache
 
 
-<<<<<<< Updated upstream
 gauth = GoogleAuth()                                                                                                                    #initiate google drive authentication
 gauth.LoadCredentialsFile("mycreds.txt")                                                                                                #load api credential details
 drive = GoogleDrive(gauth)                                                                                                              #create drive object
-=======
-gauth = GoogleAuth()
-gauth.LoadCredentialsFile("mycreds.txt")
-drive = GoogleDrive(gauth)
->>>>>>> Stashed changes
 
 app.config['MAIL_SERVER']='smtp.gmail.com'                                                                                              #use gmail server
 app.config['MAIL_PORT'] = 465                                                                                                           #set mail port
@@ -59,15 +53,11 @@ def home():                                                                     
 
 @app.route('/', methods=['POST'])
 def do_admin_login():                                                                                                                   #function to collect username password
-<<<<<<< Updated upstream
     filep=open("passw",'r')
     hashed=filep.read().encode('utf-8')
     filep.close()
     pwd=request.form['password'].encode('utf-8')                                                                                        #store password and encode to UTF-8
     if bcrypt.checkpw(pwd, hashed) and request.form['username'] == 'admin':                                                             #check username and password
-=======
-    if request.form['password'] == '@generalplan' and request.form['username'] == 'admin':                                              #check username and password
->>>>>>> Stashed changes
         session['logged_in'] = True
     else:
         flash('Incorrect Username/Password')                                                                                            #if ID doesnt match username password                                                         
@@ -100,19 +90,11 @@ def delete_file():                                                              
     except:
         print("not found")
 
-<<<<<<< Updated upstream
     drive = GoogleDrive(gauth)                                                                                                          #rebuild the drive object
     top_list = drive.ListFile({'q': "'root' in parents and trashed=false"}).GetList()                                                   #generate lsit of files in drive
     for fileu in top_list:                                                                                                              
         if fileu['originalFilename'] == del_req:                                                                                        #delete file matching the delete request from drive
             fileu.Delete()
-=======
-    drive = GoogleDrive(gauth)
-    top_list = drive.ListFile({'q': "'root' in parents and trashed=false"}).GetList()
-    for file in top_list:
-        if file['originalFilename'] == del_req:
-            file.Delete()
->>>>>>> Stashed changes
 
  
     return redirect(url_for('delete_page_update'))
@@ -218,20 +200,10 @@ def upload_file1():                                                             
               
             doc.close()         
 
-<<<<<<< Updated upstream
         drive = GoogleDrive(gauth)                                                                                                      #rebuild drive object
         file1=drive.CreateFile({'title':file.filename})                                                                                 #name the drive file
         file1.SetContentFile(completeName)                                                                                              #obtain contents of the pdf
         file1.Upload()                                                                                                                  #upload the file to drive
-=======
-        drive = GoogleDrive(gauth) 
-        
-
-        file1=drive.CreateFile({'title':file.filename})
-        file1.SetContentFile(completeName)
-
-        file1.Upload()
->>>>>>> Stashed changes
 
 
     up="Files Uploaded Successfully!"
