@@ -118,7 +118,7 @@ def upload_file1():                                                             
             file.filename=request.form['state']+"_"+request.form['type']+"_"+location_name+"_"+request.form['year']+".pdf"              #generate filename with select form data
             print(file.filename)
             msg = Message('General Plan file upload', sender = 'generalplanserver@gmail.com', recipients = ['forsomething456@gmail.com'])  #send email for download notification
-            msg.body = "Dear Admin,\nA file named "+file.filename+" has been uploaded to the server.\n\nGeneral Plan Server."
+            msg.body = "Dear Admin,\n\nA file named "+file.filename+" has been uploaded to the server.\n\nGeneral Plan Server."
             mail.send(msg)                                                                                                              #send mail for file upload to server
             completeName = os.path.join("static/data/places",file.filename)
 
