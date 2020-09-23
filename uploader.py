@@ -3,6 +3,8 @@ import shutil,os
 import sys
 from flask import Flask, request, render_template, redirect,flash, session, abort, url_for,Markup
 from flask_mail import Mail, Message
+from pydrive.auth import GoogleAuth
+from pydrive.drive import GoogleDrive
 from PyPDF2 import PdfFileMerger, PdfFileReader
 import fitz
 import pytesseract
@@ -11,12 +13,17 @@ import requests
 import subprocess
 import ghostscript
 import PyPDF2
-
+import bcrypt
 
 
 app = Flask(__name__)                                                                                                                   #create flask object
 mail= Mail(app)                                                                                                                         #create mail object
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0                                                                                             #to avoid storing cache
+
+
+gauth = GoogleAuth()                                                                                                                    #initiate google drive authentication
+gauth.LoadCredentialsFile("mycreds.txt")                                                                                                #load api credential details
+drive = GoogleDrive(gauth)                                                                                                              #create drive object
 
 app.config['MAIL_SERVER']='smtp.gmail.com'                                                                                              #use gmail server
 app.config['MAIL_PORT'] = 465                                                                                                           #set mail port
@@ -46,7 +53,11 @@ def home():                                                                     
 
 @app.route('/', methods=['POST'])
 def do_admin_login():                                                                                                                   #function to collect username password
-    if request.form['password'] == '@generalplan' and request.form['username'] == 'admin':                                                      #check username and password
+    filep=open("passw",'r')
+    hashed=filep.read().encode('utf-8')
+    filep.close()
+    pwd=request.form['password'].encode('utf-8')                                                                                        #store password and encode to UTF-8
+    if bcrypt.checkpw(pwd, hashed) and request.form['username'] == 'admin':                                                             #check username and password
         session['logged_in'] = True
     else:
         flash('Incorrect Username/Password')                                                                                            #if ID doesnt match username password                                                         
@@ -71,14 +82,20 @@ def delete_file():                                                              
     except:
         print("not found")
     try:
-        os.remove(rempdf)                                                                                                              #remove text file followed by pdf
+        os.remove(rempdf)                                                                                                               #remove text file followed by pdf
     except:
         print("not found")
     try:
-        os.remove(rempdftemp)                                                                                                              #remove text file followed by pdf
+        os.remove(rempdftemp)                                                                                                           #remove text file followed by pdf
     except:
         print("not found")
-    
+
+    drive = GoogleDrive(gauth)                                                                                                          #rebuild the drive object
+    top_list = drive.ListFile({'q': "'root' in parents and trashed=false"}).GetList()                                                   #generate lsit of files in drive
+    for fileu in top_list:                                                                                                              
+        if fileu['originalFilename'] == del_req:                                                                                        #delete file matching the delete request from drive
+            fileu.Delete()
+
  
     return redirect(url_for('delete_page_update'))
     
@@ -87,7 +104,7 @@ def delete_file():                                                              
 
 @app.route('/upload', methods = ['GET', 'POST'])                                                                                        #route to upload form in upload_index html in for getting files and posting to the server
 def upload_file1():                                                                                                                     #function to upload file
-    
+    completeName=""
     if request.method == 'POST':                                                                                                        #when upload button is clicked
         
         files = request.files.getlist("file")                                                                                           #get list of files uploaded in form
@@ -98,9 +115,9 @@ def upload_file1():                                                             
                 location_name=request.form['City']
             else:
                 location_name=request.form['county']
-            file.filename=request.form['state']+"_"+request.form['type']+"_"+location_name+"_"+request.form['year']+".pdf"       #generate filename with select form data
+            file.filename=request.form['state']+"_"+request.form['type']+"_"+location_name+"_"+request.form['year']+".pdf"              #generate filename with select form data
             print(file.filename)
-            msg = Message('General Plan file upload', sender = 'generalplanserver@gmail.com', recipients = ['ckbrinkley@ucdavis.edu'])   #send email for download notification
+            msg = Message('General Plan file upload', sender = 'generalplanserver@gmail.com', recipients = ['forsomething456@gmail.com'])  #send email for download notification
             msg.body = "Dear Admin,\nA file named "+file.filename+" has been uploaded to the server.\n\nGeneral Plan Server."
             mail.send(msg)                                                                                                              #send mail for file upload to server
             completeName = os.path.join("static/data/places",file.filename)
@@ -180,8 +197,15 @@ def upload_file1():                                                             
                         textfile.write(text)                                                                                            #write text to text file for the place 
                         textfile.write(bytes((12,)))
                 textfile.close()
-               
+              
             doc.close()         
+
+        drive = GoogleDrive(gauth)                                                                                                      #rebuild drive object
+        file1=drive.CreateFile({'title':file.filename})                                                                                 #name the drive file
+        file1.SetContentFile(completeName)                                                                                              #obtain contents of the pdf
+        file1.Upload()                                                                                                                  #upload the file to drive
+
+
     up="Files Uploaded Successfully!"
     
     
