@@ -1,7 +1,8 @@
 from __future__ import print_function
 import shutil,os
 import sys
-from flask import Flask, request, render_template, redirect,flash, session, abort, url_for,Markup
+from flask import Flask, request, render_template, redirect,flash, session, abort, url_for,Markup, jsonify
+from flask_simple_geoip import SimpleGeoIP
 from flask_mail import Mail, Message
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
@@ -14,11 +15,14 @@ import subprocess
 import ghostscript
 import PyPDF2
 import bcrypt
-
+from datetime import datetime
 
 app = Flask(__name__)                                                                                                                   #create flask object
 mail= Mail(app)                                                                                                                         #create mail object
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0                                                                                             #to avoid storing cache
+app.config["GEOIPIFY_API_KEY"] = "at_8RFyAJbk6JHFY9eJCUEuHOFEPMEjG"                                                                     #ip address finder API key
+simple_geoip = SimpleGeoIP(app)                                                                                                         #ip address finder object
+
 
 
 gauth = GoogleAuth()                                                                                                                    #initiate google drive authentication
@@ -34,9 +38,12 @@ app.config['MAIL_USE_SSL'] = True
 
 mail = Mail(app)                                                                                                                        #build object again
 
-
+blockip = {                                                                                                                             #dictionary with list of ips to block
+  "": 0,
+}
 @app.route('/')
 def home():                                                                                                                             #function for log in screen
+    
     del_list=""                                                                                                                         #list of files in delete section
     for filename in os.listdir("static/data/places"):
         if filename.endswith(".txt"):                                                                   
@@ -53,14 +60,47 @@ def home():                                                                     
 
 @app.route('/', methods=['POST'])
 def do_admin_login():                                                                                                                   #function to collect username password
-    filep=open("passw",'r')
-    hashed=filep.read().encode('utf-8')
-    filep.close()
-    pwd=request.form['password'].encode('utf-8')                                                                                        #store password and encode to UTF-8
-    if bcrypt.checkpw(pwd, hashed) and request.form['username'] == 'admin':                                                             #check username and password
-        session['logged_in'] = True
-    else:
-        flash('Incorrect Username/Password')                                                                                            #if ID doesnt match username password                                                         
+    global blockip
+    if str(request.remote_addr)+"t" in blockip:                                                                                         #check if the ip has exceeded the 10 try mark
+        if (datetime.now()-blockip[str(request.remote_addr)+"t"]).total_seconds() <20:
+            cal=20-(datetime.now()-blockip[str(request.remote_addr)+"t"]).total_seconds()
+            flash("Try again after "+str(int(cal))+" seconds")
+        else:
+            flash("Try again ")
+            del blockip[str(request.remote_addr)+"t"]
+    else: 
+        
+        filep=open("passw",'r')
+        hashed=filep.read().encode('utf-8')
+        filep.close()
+        pwd=request.form['password'].encode('utf-8')                                                                                        #store password and encode to UTF-8
+        if bcrypt.checkpw(pwd, hashed) and request.form['username'] == 'admin':                                                             #check username and password
+            if str(request.remote_addr) in blockip:
+                del blockip[str(request.remote_addr)]
+            session['logged_in'] = True
+        else:
+            if str(request.remote_addr) in blockip:
+                
+                blockip[str(request.remote_addr)]+=1
+                if blockip[str(request.remote_addr)]>10:                                                                                    #check if ip address has exceeded 10 incorrect attempts
+                        msg = Message('Excessive log in attempts', sender = 'generalplanserver@gmail.com', recipients = ['ckbrinkley@ucdavis.edu'])  #send email for download notification
+                        geoip_data = simple_geoip.get_geoip_data()
+                        ip=str(geoip_data['ip'])
+                        co=str(geoip_data['location']['country'])
+                        rg=str(geoip_data['location']['region'])
+                        brow=request.user_agent.platform+" "+request.user_agent.browser
+                        msg.body = "Dear Admin,\n\nThere have been excessive log in attempts on Uploader site. The details of the client are as follows:\n\nIP:"+ip+"\nCountry:"+co+"\nRegion:"+rg+"\nBrowser:"+brow+"\n\nGeneral Plan Server."
+                        mail.send(msg)
+                        
+                        flash('Excessive incorrect attempts, Try again after 20 seconds')
+                        
+                        del blockip[str(request.remote_addr)]
+                        blockip[str(request.remote_addr)+"t"]=datetime.now()
+                else:
+                    flash('Incorrect Username/Password, please try again')                                                                                            #if ID doesnt match username password                                                         
+            else:
+                blockip[str(request.remote_addr)]=0
+                flash('Incorrect Username/Password, please try again') 
     return home()
 
 
@@ -118,7 +158,7 @@ def upload_file1():                                                             
             file.filename=request.form['state']+"_"+request.form['type']+"_"+location_name+"_"+request.form['year']+".pdf"              #generate filename with select form data
             print(file.filename)
             msg = Message('General Plan file upload', sender = 'generalplanserver@gmail.com', recipients = ['ckbrinkley@ucdavis.edu'])  #send email for download notification
-            msg.body = "Dear Admin,\n\nA file named "+file.filename+" has been uploaded to the server.\n\nGeneral Plan Server."
+            msg.body = "Dear Admin,\nA file named "+file.filename+" has been uploaded to the server.\n\nGeneral Plan Server."
             mail.send(msg)                                                                                                              #send mail for file upload to server
             completeName = os.path.join("static/data/places",file.filename)
 
