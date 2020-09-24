@@ -29,12 +29,16 @@ gauth = GoogleAuth()                                                            
 gauth.LoadCredentialsFile("mycreds.txt")                                                                                                #load api credential details
 drive = GoogleDrive(gauth)                                                                                                              #create drive object
 
+fileg=open("drivep.txt","r")
+gpp=fileg.readline()
+fileg.close()
 app.config['MAIL_SERVER']='smtp.gmail.com'                                                                                              #use gmail server
 app.config['MAIL_PORT'] = 465                                                                                                           #set mail port
 app.config['MAIL_USERNAME'] = 'generalplanserver@gmail.com'                                                                             #set sender email id
-app.config['MAIL_PASSWORD'] = '@generalplan'                                                                                            #set sender password
+app.config['MAIL_PASSWORD'] = gpp                                                                                            #set sender password
 app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
+
 
 mail = Mail(app)                                                                                                                        #build object again
 
