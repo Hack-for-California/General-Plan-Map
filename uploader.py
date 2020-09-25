@@ -169,7 +169,7 @@ def upload_file1():                                                             
             tempname=os.path.join("static/data/temp",secure_filename(file.filename))                                                    #temporary copy file in case compression is not possible
             file.save(completeName)                                                                                                     #save file to server         
             arg1= '-sOutputFile='+ tempname                                                                                             #path for output file after compression to reduce pdf size
-            p = subprocess.Popen(['C:\\Program Files\\gs\\gs9.53.1\\bin\\gswin64c.exe',
+            p = subprocess.Popen(['/usr/bin/gs',
                                   '-sDEVICE=pdfwrite','-dCompatibilityLevel=1.4',
                                   '-dPDFSETTINGS=/screen','-dNOPAUSE', '-dBATCH',  '-dQUIET',
                                   str(arg1),completeName ], stdout=subprocess.PIPE)                                                     #function to compress pdf
