@@ -95,7 +95,7 @@ def do_admin_login():                                                           
                         msg.body = "Dear Admin,\n\nThere have been excessive log in attempts on Uploader site. The details of the client are as follows:\n\nIP:"+ip+"\nCountry:"+co+"\nRegion:"+rg+"\nBrowser:"+brow+"\n\nGeneral Plan Server."
                         mail.send(msg)
                         
-                        flash('Excessive incorrect attempts, Try again after 20 seconds')
+                        flash('Excessive incorrect attempts, Try again after 30 minutes')
                         
                         del blockip[str(request.remote_addr)]
                         blockip[str(request.remote_addr)+"t"]=datetime.now()
