@@ -35,7 +35,7 @@ fileg.close()
 app.config['MAIL_SERVER']='smtp.gmail.com'                                                                                              #use gmail server
 app.config['MAIL_PORT'] = 465                                                                                                           #set mail port
 app.config['MAIL_USERNAME'] = 'generalplanserver@gmail.com'                                                                             #set sender email id
-app.config['MAIL_PASSWORD'] = gpp                                                                                                       #set sender password
+app.config['MAIL_PASSWORD'] = gpp                                                                                            #set sender password
 app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
 
@@ -65,9 +65,9 @@ def home():                                                                     
 def do_admin_login():                                                                                                                   #function to collect username password
     global blockip
     if str(request.remote_addr)+"t" in blockip:                                                                                         #check if the ip has exceeded the 10 try mark
-        if (datetime.now()-blockip[str(request.remote_addr)+"t"]).total_seconds() <20:
-            cal=20-(datetime.now()-blockip[str(request.remote_addr)+"t"]).total_seconds()
-            flash("Try again after "+str(int(cal))+" seconds")
+        if (datetime.now()-blockip[str(request.remote_addr)+"t"]).total_seconds() <1800:
+            cal=(1800-(datetime.now()-blockip[str(request.remote_addr)+"t"]).total_seconds())/60
+            flash("Try again after "+str(int(cal))+" minutes")
         else:
             flash("Try again ")
             del blockip[str(request.remote_addr)+"t"]
@@ -76,8 +76,8 @@ def do_admin_login():                                                           
         filep=open("passw",'r')
         hashed=filep.read().encode('utf-8')
         filep.close()
-        pwd=request.form['password'].encode('utf-8')                                                                                    #store password and encode to UTF-8
-        if bcrypt.checkpw(pwd, hashed) and request.form['username'] == 'admin':                                                         #check username and password
+        pwd=request.form['password'].encode('utf-8')                                                                                        #store password and encode to UTF-8
+        if bcrypt.checkpw(pwd, hashed) and request.form['username'] == 'admin':                                                             #check username and password
             if str(request.remote_addr) in blockip:
                 del blockip[str(request.remote_addr)]
             session['logged_in'] = True
@@ -85,7 +85,7 @@ def do_admin_login():                                                           
             if str(request.remote_addr) in blockip:
                 
                 blockip[str(request.remote_addr)]+=1
-                if blockip[str(request.remote_addr)]>10:                                                                                #check if ip address has exceeded 10 incorrect attempts
+                if blockip[str(request.remote_addr)]>10:                                                                                    #check if ip address has exceeded 10 incorrect attempts
                         msg = Message('Excessive log in attempts', sender = 'generalplanserver@gmail.com', recipients = ['ckbrinkley@ucdavis.edu'])  #send email for download notification
                         geoip_data = simple_geoip.get_geoip_data()
                         ip=str(geoip_data['ip'])
@@ -161,7 +161,7 @@ def upload_file1():                                                             
             file.filename=request.form['state']+"_"+request.form['type']+"_"+location_name+"_"+request.form['year']+".pdf"              #generate filename with select form data
             print(file.filename)
             msg = Message('General Plan file upload', sender = 'generalplanserver@gmail.com', recipients = ['ckbrinkley@ucdavis.edu'])  #send email for download notification
-            msg.body = "Dear Admin,\nA file named "+file.filename+" has been uploaded to the server.\n\nGeneral Plan Server."
+            msg.body = "Dear Admin,\n\nA file named "+file.filename+" has been uploaded to the server by: "+request.form['email']+" .\n\nGeneral Plan Server"
             mail.send(msg)                                                                                                              #send mail for file upload to server
             completeName = os.path.join("static/data/places",file.filename)
 
@@ -169,7 +169,7 @@ def upload_file1():                                                             
             tempname=os.path.join("static/data/temp",secure_filename(file.filename))                                                    #temporary copy file in case compression is not possible
             file.save(completeName)                                                                                                     #save file to server         
             arg1= '-sOutputFile='+ tempname                                                                                             #path for output file after compression to reduce pdf size
-            p = subprocess.Popen(['/usr/bin/gs',
+            p = subprocess.Popen(['C:\\Program Files\\gs\\gs9.53.1\\bin\\gswin64c.exe',
                                   '-sDEVICE=pdfwrite','-dCompatibilityLevel=1.4',
                                   '-dPDFSETTINGS=/screen','-dNOPAUSE', '-dBATCH',  '-dQUIET',
                                   str(arg1),completeName ], stdout=subprocess.PIPE)                                                     #function to compress pdf
