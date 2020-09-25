@@ -35,10 +35,9 @@ fileg.close()
 app.config['MAIL_SERVER']='smtp.gmail.com'                                                                                              #use gmail server
 app.config['MAIL_PORT'] = 465                                                                                                           #set mail port
 app.config['MAIL_USERNAME'] = 'generalplanserver@gmail.com'                                                                             #set sender email id
-app.config['MAIL_PASSWORD'] = gpp                                                                                            #set sender password
+app.config['MAIL_PASSWORD'] = gpp                                                                                                       #set sender password
 app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
-
 
 mail = Mail(app)                                                                                                                        #build object again
 
@@ -49,7 +48,7 @@ blockip = {                                                                     
 def home():                                                                                                                             #function for log in screen
     
     del_list=""                                                                                                                         #list of files in delete section
-    for filename in os.listdir("static/data/places"):
+    for filename in sorted(os.listdir("static/data/places")):
         if filename.endswith(".txt"):                                                                   
             filename=filename.replace(".txt","")
             del_list += '<option value="'+filename+'">'+filename+'</option>'                                                            #add each file name in selection list
@@ -77,8 +76,8 @@ def do_admin_login():                                                           
         filep=open("passw",'r')
         hashed=filep.read().encode('utf-8')
         filep.close()
-        pwd=request.form['password'].encode('utf-8')                                                                                        #store password and encode to UTF-8
-        if bcrypt.checkpw(pwd, hashed) and request.form['username'] == 'admin':                                                             #check username and password
+        pwd=request.form['password'].encode('utf-8')                                                                                    #store password and encode to UTF-8
+        if bcrypt.checkpw(pwd, hashed) and request.form['username'] == 'admin':                                                         #check username and password
             if str(request.remote_addr) in blockip:
                 del blockip[str(request.remote_addr)]
             session['logged_in'] = True
@@ -86,7 +85,7 @@ def do_admin_login():                                                           
             if str(request.remote_addr) in blockip:
                 
                 blockip[str(request.remote_addr)]+=1
-                if blockip[str(request.remote_addr)]>10:                                                                                    #check if ip address has exceeded 10 incorrect attempts
+                if blockip[str(request.remote_addr)]>10:                                                                                #check if ip address has exceeded 10 incorrect attempts
                         msg = Message('Excessive log in attempts', sender = 'generalplanserver@gmail.com', recipients = ['ckbrinkley@ucdavis.edu'])  #send email for download notification
                         geoip_data = simple_geoip.get_geoip_data()
                         ip=str(geoip_data['ip'])
