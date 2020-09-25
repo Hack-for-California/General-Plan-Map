@@ -14,13 +14,6 @@ This project is developing a platform for readily querying and extracting snippe
 
 The General Plan Map provides access to the text of all California city General Plans and enables users to query for a single search term to determine the plans in which that term is referenced. Upon searching, the tool filters a map to the cities in CA with General Plans that reference the word, offering a geospatial representation of the term's use. The tool also links to the plans that reference the term. Users can click through to the plans and search within the page for the term. 
 
-### Some Notes and Caveats
-
-* Curently, the search function searches for a term from a corpus of words that have been extracted from each of the plans. In that corpus, numbers and special characters (e.g. -,(,),\*,%,$,#,",',:) have all been stripped. This means that if you wanted to search for something like "community-oriented" you should instead search for "communityoriented". It also means that terms like "4-lane" or "3-year" in the General Plans will appear in the corpus as "lane" and "year".
-* In that corpus, words containing "/" have been separated into the words appearing before and after the "/". This means that if a plan contains the term "land/water/air", the plan would appear in a search for "land", "water", or "air" but not a search for "land/water/air".
-* When words span two lines in the plan (continued with a "-"), the full word will not appear in the corpus. Instead, the two word fragments will appear in the corpus. 
-* Some text in the General Plans, particularly text in textboxes, captions, and charts, did not properly parse when we converted the General Plan PDFs to text files. If this was the case, these terms will not appear in the corpus. The tool also cannot capture any text that appears in images in the Plans.
-
 ### Longer-Term Goals
 
 * Archive historical general plans for each city in order to be able to track changes in plans over time
@@ -35,6 +28,7 @@ The General Plan Map provides access to the text of all California city General 
 * [Lindsay Poirier](https://sts.ucdavis.edu/people/lpoirier), Critical Data Analysis Lead
 * Dexter Antonio, Lead Developer
 * Makena Dettmann
+* Sujoy Ghosh
 * Margaret Riley
 
 ## How to Contribute
@@ -50,33 +44,22 @@ The General Plan Map provides access to the text of all California city General 
 
 ## Architecture
 
-The code for the shiny app is stored in [R](./R). Running app.R in this folder launches the app, 
-loading the CA city shapefiles into a data frame via load_data.R in the [R/data_load_and_clean](./R/data_load_and_clean) 
-folder and calling on ui.R and server.R in the [R/shiny_app](./R/shiny_app) folder. All of the city shapefiles and General Plan text files are stored in the [data](./data) folder.
+textsearch.py contains most of the code for searching the pdfs, creating the maps and tables, and displaying the maps and tables. upload.py contins the code for uploading new pdfs, emailing the recipient of choice, and generating the searchable text document. 
 
-ui.R includes all of the code for the front end of the app, including the front-end text, links to the stylesheet, and the basic layout of the page. 
+The data, including the shapefiles and population data for both the cities and counties are found in /static/data/. The code also looks for a folder named places inside /static/data/ which is where .pdfs and their corresponding .txt documents will be stored.
 
-server.R includes the code for the backend. server.R is responsible for loading the map, and observes and calls functions when a user clicks the Search button, 
-the Clear button, or a polygon on the map. 
+The .html templates are stored in /templates/. These templates contain references which are passed from textsearch.py. There are also dependencies on .css and .js code stored in /static/cssjs/css and /static/cssjs/js respectively. The images found on the site are stored in /static/images/.
 
-When a user clicks on the Search button, server.R calls on R_phrase_search_func.R in the [R/data_load_and_clean](./R/data_load_and_clean) folder,
-which calls on basic_search.cpp in the [search_cpp](./search_cpp) folder. 
-
-basic_search.cpp reads in word_map.txt also stored in the [search_cpp](./search_cpp) folder. 
-word_map.txt maps every identifiable word in the general plans to the file names of the general plans in which those words can be found. Taking 
-the user's search term as an input, basic_search.cpp locates the word in the map and returns the file names of all general plans in which that word can be found.
-server.R then filters to the city's associated with those plans on the map. 
-
-word_map.txt is created with a C++ called containsWordReverseIndexer0.1.cpp in the [indexing_cpp](./indexing_cpp) folder.
-
-### R Package Dependencies
-
-* [tidyverse](https://www.tidyverse.org/)
-* [shiny](https://shiny.rstudio.com/)
-* [leaflet](https://rstudio.github.io/leaflet/)
-* [sf](https://r-spatial.github.io/sf/articles/sf1.html)
-* [rgdal](https://cran.r-project.org/web/packages/rgdal/rgdal.pdf)
-* [Rcpp](http://www.rcpp.org/)
+### Dependencies
+* [flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [bokeh](https://docs.bokeh.org/en/latest/index.html)
+* [PyMuPDF](https://pypi.org/project/PyMuPDF/)
+* [pytesseract](https://pypi.org/project/pytesseract/)
+* [fitz](https://pypi.org/project/fitz/)
+* [shapely](https://pypi.org/project/Shapely/)
+* [pydrive](https://pythonhosted.org/PyDrive/)
+* [pandas](https://pandas.pydata.org/)
+* [geopandas](https://geopandas.org/)
 
 ## Copyrights
 
