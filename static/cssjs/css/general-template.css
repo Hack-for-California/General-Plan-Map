@@ -205,8 +205,8 @@ color:black;
 
 ::placeholder {
   
-  background:transparent;
-  border: none;
+  
+  border: black;
   color: black;
 }
 

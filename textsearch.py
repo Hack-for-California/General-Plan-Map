@@ -170,18 +170,18 @@ def index_search_box():                                                         
     uniqueCounties = 0
     for res in results:
         res.cityFile = res.cityFile.split('.')[0]+'.pdf'
-        res.year = '<p hidden>'+res.year+'</p> <a href="/outp/'+res.cityFile+'/'+wordlist+'" target="_blank">'+res.year+"</a>"
+        res.year = '<p hidden>'+res.year+'</p> <a href="outp/'+res.cityFile+'/'+wordlist+'" target="_blank">'+res.year+"</a>"
         if res.type == "county":
             countyResults.append(res)
         else:
             cityResults.append(res)
     global txtFilenames 
     
-    # query = wordinput
-    # word = query.split(",")
-    # results = getResults(wordinput)
-    # if len(results) < 1:
-    #     return render_template('noresult.html')
+    query = wordinput
+    word = query.split(",")
+    #results = getResults(wordinput)
+    if len(results) < 1:
+        return render_template('noresult.html')
     
     cities = gpd.read_file("static/data/ca-places-boundaries/cities.shp")[['NAME','NAMELSAD', 'geometry']]
     cities.columns = ['name', 'color', 'geometry']
@@ -211,7 +211,7 @@ def index_search_box():                                                         
             for part in parts:
                 val += part + ' '
             val = val[0:-1]
-        print(val, flush=True)
+        #print(val, flush=True)
         flag = False
         for res in results:
             if res.type == 'county':
