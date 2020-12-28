@@ -9,9 +9,9 @@ import json
 def index_everything():
 	es = Elasticsearch('http://localhost:9200')
 	wd = os.getcwd()
-	data_dir = os.path.join(wd, 'data', 'plan_text')
+	data_dir = os.path.join(wd, 'static', 'data', 'places')
 	print(data_dir)
-	filepaths = glob.glob(data_dir+'/*')
+	filepaths = glob.glob(data_dir+'/*.txt')
 	key_hash_mapping = {}
 	i = 0 
 	for filepath in filepaths:
@@ -41,7 +41,7 @@ def search_contains_phrase(words):
 		ids.append(int(hit['_id']))
 
 	ids = [int(hit['_id']) for hit in search['hits']['hits']]
-	return ids #, search['hits']['total']['value'], 
+	return ids , search['hits']['total']['value'], 
 
 
 # def my_search(query):
@@ -81,8 +81,8 @@ def map_keys_to_values(search_result_indices, key_to_hash_path='key_hash_mapping
 
 
 if __name__ == "__main__":
-	#index_everything()
-	search_result_indices = search_contains_phrase('fruit stands')
+	index_everything()
+	search_result_indices, hits = search_contains_phrase('fruit stands')
 	result = map_keys_to_values(search_result_indices)
 	print(result)
 
