@@ -64,11 +64,16 @@ def search_contains_phrase(words):
 # 	print("phrase_list", phrase_list)
 
 # 	return phrase_ids
-
+key_to_hash_map = None
 def map_keys_to_values(search_result_indices, key_to_hash_path='key_hash_mapping.json'):
-	with open(key_to_hash_path, 'r') as fp:
-		data = json.load(fp)
-		my_dict = data
+	global key_to_hash_map
+	if key_to_hash_map is None:
+		with open(key_to_hash_path, 'r') as fp:
+			data = json.load(fp)
+			my_dict = data
+			key_to_hash_map = my_dict
+	else:
+		my_dict = key_to_hash_map
 
 	return list(map(lambda x:my_dict[str(x)], search_result_indices))
 
@@ -76,7 +81,7 @@ def map_keys_to_values(search_result_indices, key_to_hash_path='key_hash_mapping
 
 
 if __name__ == "__main__":
-	index_everything()
+	#index_everything()
 	search_result_indices = search_contains_phrase('fruit stands')
 	result = map_keys_to_values(search_result_indices)
 	print(result)
