@@ -36,10 +36,8 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0                                     
 bootstrap = Bootstrap(app)                                                                                                          #create bootstrap object
 
 
-
 @app.route('/')                                                                                                                     #declare flask page url
 def my_form():                                                                                                                      #function for main index
-
     return render_template('index.html')                                                                                            #return index page
 
 
@@ -72,22 +70,28 @@ def getResults(wordinput):
             txtFilenames.append(filename)
     results = []
     query = wordinput
+
+    ids, counts = es.search_contains_phrase(query)
+    filenames = es.map_keys_to_values(ids)
+
     word = query.split(",")
     wordcount = len(word)
     for fName in txtFilenames:
         isMatch = False
-        file = open("static/data/places/" + fName, 'r',errors='ignore')
-        
-        
-        with open("static/data/places/" + fName, 'r',errors='ignore') as file:
-            data = file.read().replace('\n', '')
-        data = data.lower()
+        # file = open("static/data/places/" + fName, 'r',errors='ignore')
+        # with open("static/data/places/" + fName, 'r',errors='ignore') as file:
+        #     data = file.read().replace('\n', '')
+        # data = data.lower()
         occurences = []
+        if fName in filenames:
+            isMatch = True
         for w in word:
-            num = data.count(w)
+            if isMatch:
+                num = 1 
+            else:
+                num = 0 
             occurences.append(num)
-            if isMatch or num > 0:
-                isMatch = True
+
         if isMatch:
             tempResult = result(cityFile = fName, wordcount=wordcount)
             tempResult.type = fName.split('-')[0].split('_')[1]
