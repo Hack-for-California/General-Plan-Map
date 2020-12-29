@@ -67,13 +67,15 @@ def getResults(wordinput):
     # for filename in os.listdir("static/data/places"):
     #     if filename.endswith(".txt"):
 
-    #         txtFilenames.append(filename)
+    #         txtFilenames.appyend(filename)
     results = []
     query = wordinput
 
     ids, _ = es.search_contains_phrase(query)
     result_props = es.map_index_to_vals(ids)
     for result_prop in result_props:
+        result_prop = result_prop.copy()
+        result_prop['query'] = query 
         new_result = Result(**result_prop)
         place_props = es.get_place_properties(new_result.is_city, new_result.place_name)
         if new_result.is_city:
@@ -150,7 +152,7 @@ class cityPop:
     
 class Result:
     
-    def __init__(self, state, filename, is_city, place_name, plan_date, filetype, county='na', population=0, city_type='na', wordcount=1, total_occuraces=1 ):
+    def __init__(self, state, filename, is_city, place_name, plan_date, filetype,  query, county='na', population=0, city_type='na', wordcount=1, total_occuraces=1 ):
         # place properties 
         self.state = state
         self.filename = filename
@@ -168,7 +170,9 @@ class Result:
         self.cityType = city_type
 
         self.pdf_filename = self.filename.split('.')[0] + '.pdf'
-    
+        self.year = '<p hidden>'+self.plan_date+'</p> <a href="outp/'+self.pdf_filename+'/'+query+'" target="_blank">'+self.plan_date+"</a>"
+
+
     @property
     def cityName(self):
         return self.place_name
@@ -180,55 +184,49 @@ class Result:
         else:
             return 'county'
     
-    @property
-    def year(self):
-        return self.plan_date
-        
+       
 @app.route('/', methods=['POST'])                                                                                                   #connect search form to html page
 def index_search_box():                                                                                                             #function for accepting search input
-    
-    wordcount=1                                                                                                                     #initialize no. of phrase inputs
-    flag=0
     wordinput=" "                                                                                                                   #initialize string input for search
     wordinput=request.form['u']                                                                                                     #set name for search form
-    wordinput=wordinput.lower()                                                                                                     #convert input string to lowercase for non case sensitive search
-    wordinput_copy=wordinput                                                                                                        #copy of input string
-    wordlist=""                                                                                                                     #list of phrase input in single string
-    phrase_split = wordinput_copy.split(",")                                                                                        #split input phrase into multiple words at every comma
-    wordcount=len(phrase_split)                                                                                                     #count no. of phrases in input
-    for x in range(wordcount):
-        if wordcount ==1:
-            wordlist= phrase_split[0]
-            break
-        wordlist += phrase_split[x]+','                                                                                             #add commas after every phrase
-    wordlist= wordlist.strip(',')                                                                                                   #remove commas from end and beginning of string input
     results = getResults(wordinput)
-    cityPops = []
-    countyPops = []
+    matched_city_names = []
+    matched_county_names = []
     cityResults = []
     countyResults = []
+    countyPops = {}
+    cityPops = {}
     uniqueCities = 0
     uniqueCounties = 0
     for res in results:
         if res.is_city:
-            tmp_city_pop = cityPop(res.county, res.population, res.place_name, res.type)
-            cityPops.append(tmp_city_pop)
             cityResults.append(res)
+            matched_city_names.append(res.place_name) 
+            cityPops[res.place_name] = res.population
         else:
-            countyPops.append(res.population)
             countyResults.append(res)
+            countyPops[res.place_name] = res.population
+            matched_county_names.append(res.place_name) 
 
-    
-    query = wordinput
+
     if len(results) < 1:
         return render_template('noresult.html')
     
+    #load in city shape files 
     cities = gpd.read_file("static/data/ca-places-boundaries/cities.shp")[['NAME','NAMELSAD', 'geometry']]
     cities.columns = ['name', 'color', 'geometry']
     cities.color = "#d47500"
     cities['line_color'] = '#dedede'
     numCities = len(cities.index)
     
+    #load in county shape files 
+    counties = gpd.read_file("static/data/CA_Counties/CA_Counties_TIGER2016.shp")[['NAME', 'NAMELSAD', 'geometry']]
+    counties.columns = ['color', 'name', 'geometry']
+    counties.color = "#00a4a6"
+    counties['line_color'] = '#b3b3b3'
+    numCounties = len(counties.index)
+
+    # if there are no results then set these shapes to white 
     cityResultsName = [res.cityName for res in results]
     cityNames = cities['name'].to_list()
     for ind in cities.index:
@@ -236,13 +234,8 @@ def index_search_box():                                                         
         if val not in cityResultsName:
             cities.at[ind, 'color']='white'
     
-    counties = gpd.read_file("static/data/CA_Counties/CA_Counties_TIGER2016.shp")[['NAME', 'NAMELSAD', 'geometry']]
-    counties.columns = ['color', 'name', 'geometry']
-    counties.color = "#00a4a6"
-    counties['line_color'] = '#b3b3b3'
-    numCounties = len(counties.index)
-    
     for ind in counties.index:
+        #parse name for matching 
         parts = counties['name'][ind].split(' ')[0:-1]
         val = ""
         if len(parts) == 1:
@@ -252,12 +245,7 @@ def index_search_box():                                                         
                 val += part + ' '
             val = val[0:-1]
         #print(val, flush=True)
-        flag = False
-        for res in results:
-            if res.type == 'county':
-                if val == res.cityName:
-                    flag = True
-        if not flag:
+        if val not in matched_county_names: 
             counties.at[ind, 'color'] = 'white'
     
     combined = counties.append(cities)
@@ -274,18 +262,22 @@ def index_search_box():                                                         
         )
     p2.grid.grid_line_color = None
     p2.hover.point_policy = "follow_mouse"
+    
+    #make population map work better
     maxCountyPop = 1
     for county in countyResults:
         if county.population > maxCountyPop:
             maxCountyPop = county.population
+    
     cartCounties = counties
-    for ind in cartCounties.index:
+    for ind, county in zip(cartCounties.index, countyResults):
         names = counties['name'][ind].split(' ')[0:-1]
         name = names[0]
         if len(names) > 1:
             for n in names[1:]:
                 name += ' ' + n
-        pop = 0 #float(countyPops[name])
+
+        pop = county.population #countyPops[name] 
         geo = cartCounties['geometry'][ind]
         if maxCountyPop == 1:
             scale = 1
@@ -299,18 +291,12 @@ def index_search_box():                                                         
         if float(city.population) > float(maxCityPop):
             maxCityPop = city.population
     cartCities = cities
-    for ind in cartCities.index:
-        name = cities['name'][ind]
-        pop = [r.population for r in cityPops if r.name == name]
-        if len(pop) > 0:
-            pop = float(pop[0])
-        else:
-            pop = 0.0
+    for ind, city in zip(cartCities.index, cityResults):
         geo = cartCities['geometry'][ind]
         if maxCityPop == 1:
             scale = 1
         else:
-            scale = (pop/maxCityPop)**(1/2)
+            scale = (city.population/maxCityPop)**(1/2)
         cartCities['geometry'][ind] = shapely.affinity.scale(geo,scale,scale)
      
     combined = cartCounties.append(cartCities)
@@ -352,11 +338,6 @@ def index_search_box():                                                         
     occurences=[res.totalOccurences for res in results],
     numOccurences = len(results[0].occurences)
     
-    for i,w in enumerate(phrase_split):
-        cityOccurences = [cityres.occurences[i] for cityres in cityResults]
-        cityData[w] = cityOccurences
-        countyOccurences = [countyres.occurences[i] for countyres in countyResults]
-        countyData[w] = countyOccurences
     
     citySource = ColumnDataSource(cityData)
     
@@ -366,8 +347,6 @@ def index_search_box():                                                         
             TableColumn(field="populations", title="Population", formatter=NumberFormatter(format='0,0')),
             TableColumn(field="counties", title="County"),
         ]
-    for w in phrase_split:
-        columns.append(TableColumn(field=w, title=w,  formatter=NumberFormatter(format='0,0'))),
     city_table = DataTable(source=citySource, columns=columns, width=size, height=600,reorderable=False, index_position=None)
     
     countySource = ColumnDataSource(countyData)
@@ -377,8 +356,6 @@ def index_search_box():                                                         
             TableColumn(field="years", title="Year", formatter=HTMLTemplateFormatter()),
             TableColumn(field="populations", title="Population", formatter=NumberFormatter(format='0,0')),
         ]
-    for w in phrase_split:
-        columns.append(TableColumn(field=w, title=w,  formatter=NumberFormatter(format='0,0'))),
     county_table = DataTable(source=countySource, columns=columns, reorderable=False, index_position=None)
     
     cityTab = Panel(title="Cities", child=city_table)
@@ -404,7 +381,7 @@ def index_search_box():                                                         
 
 
 @app.route('/outp/<string:city>/<string:words>')                                                                                    #route for page containing highlighted pdf
-def highlight_pdf(city,words):                                                                                                      #function for highlighting pdf phrases with pdf file name, list of words and phrase count as inputs
+def highlight_pdf(city, words):                                                                                                      #function for highlighting pdf phrases with pdf file name, list of words and phrase count as inputs
 
     complete_name = os.path.join("static/data/places", city)                                                                        #path for city pdf file
     doc = fitz.open(complete_name)                                                                                                  #create open pdf file object
