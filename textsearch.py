@@ -43,110 +43,146 @@ def my_form():                                                                  
 
 def getResults(wordinput):                                                                                                          
     
-    countyPopFile = open('static/data/countyPopulations.csv')
-    countyPops = {}
-    for line in countyPopFile:
-        parts = line.split(',')
-        countyPops[parts[0]] = parts[1]
-    countyPopFile.close()
+    # countyPopFile = open('static/data/countyPopulations.csv')
+    # countyPops = {}
+    # for line in countyPopFile:
+    #     parts = line.split(',')
+    #     countyPops[parts[0]] = parts[1]
+    # countyPopFile.close()
     
     
-    cityPopFile = open('static/data/cityPopulations.csv')
-    cityPops = []
-    for line in cityPopFile:
-        parts = line.split(',')
-        temp = cityPop()
-        temp.name=parts[0]
-        temp.type = parts[1]
-        temp.county = parts[2]
-        temp.population = parts[3]
-        cityPops.append(temp)
+    # cityPopFile = open('static/data/cityPopulations.csv')
+    # cityPops = []
+    # for line in cityPopFile:
+    #     parts = line.split(',')
+    #     temp = cityPop()
+    #     temp.name=parts[0]
+    #     temp.type = parts[1]
+    #     temp.county = parts[2]
+    #     temp.population = parts[3]
+    #     cityPops.append(temp)
     
     
-    txtFilenames = []
-    for filename in os.listdir("static/data/places"):
-        if filename.endswith(".txt"):
+    # txtFilenames = []
+    # for filename in os.listdir("static/data/places"):
+    #     if filename.endswith(".txt"):
 
-            txtFilenames.append(filename)
+    #         txtFilenames.append(filename)
     results = []
     query = wordinput
 
-    ids, counts = es.search_contains_phrase(query)
-    filenames = es.map_keys_to_values(ids)
+    ids, _ = es.search_contains_phrase(query)
+    result_props = es.map_index_to_vals(ids)
+    for result_prop in result_props:
+        new_result = Result(**result_prop)
+        place_props = es.get_place_properties(new_result.is_city, new_result.place_name)
+        if new_result.is_city:
+            new_result.cityType = place_props[0]
+            new_result.county = place_props[1]
+            new_result.population = int(place_props[2])
+        else:
+            new_result.cityType = 'county'
+            new_result.county = new_result.place_name
+            new_result.population = int(place_props[0])
 
-    word = query.split(",")
-    wordcount = len(word)
-    for fName in txtFilenames:
-        isMatch = False
-        # file = open("static/data/places/" + fName, 'r',errors='ignore')
-        # with open("static/data/places/" + fName, 'r',errors='ignore') as file:
-        #     data = file.read().replace('\n', '')
-        # data = data.lower()
-        occurences = []
-        if fName in filenames:
-            isMatch = True
-        for w in word:
-            if isMatch:
-                num = 1 
-            else:
-                num = 0 
-            occurences.append(num)
+        #TODO: Do additional things here to make new_result work 
+        results.append(new_result)
 
-        if isMatch:
-            tempResult = result(cityFile = fName, wordcount=wordcount)
-            tempResult.type = fName.split('-')[0].split('_')[1]
-            parts = fName.split('-')[1:]
-            parts[-1] = parts[-1].split('.')[0]
-            year = parts[-1].split('_')[1]
-            parts[-1] = parts[-1].split('_')[0]
-            name = ""
-            for part in parts:
-                name += part + " "
-            name = name[:-1]
-            tempResult.cityName = name
-            tempResult.year = year
-            tempResult.occurences = occurences
-            if tempResult.type == 'county':
-                tempResult.population = int(countyPops[tempResult.cityName])
-            else:
-                cityPopVal = [pop for pop in cityPops if pop.name == tempResult.cityName]
-                if len(cityPopVal) != 0:
+    
+        
+    # word = query.split(",")
+    # wordcount = len(word)
+    # for fName in txtFilenames:
+    #     isMatch = False
+    #     # file = open("static/data/places/" + fName, 'r',errors='ignore')
+    #     # with open("static/data/places/" + fName, 'r',errors='ignore') as file:
+    #     #     data = file.read().replace('\n', '')
+    #     # data = data.lower()
+    #     occurences = []
+    #     if fName in filenames:
+    #         isMatch = True
+    #     for w in word:
+    #         if isMatch:
+    #             num = 1 
+    #         else:
+    #             num = 0 
+    #         occurences.append(num)
 
-                    tempResult.population = int(cityPopVal[0].population)
-                    tempResult.cityType = cityPopVal[0].type
-                    tempResult.county = cityPopVal[0].county
-            results.append(tempResult)
-    if len(results) > 0:
-        for res in results:
-            for item in res.occurences:
-                item = float(item)
-        results.sort(key=lambda x: x.totalOccurences, reverse=True)
-    return results, cityPops, countyPops  
+    #     if isMatch:
+    #         tempResult = Result(cityFile = fName, wordcount=wordcount)
+    #         tempResult.type = fName.split('-')[0].split('_')[1]
+    #         parts = fName.split('-')[1:]
+    #         parts[-1] = parts[-1].split('.')[0]
+    #         year = parts[-1].split('_')[1]
+    #         parts[-1] = parts[-1].split('_')[0]
+    #         name = ""
+    #         for part in parts:
+    #             name += part + " "
+    #         name = name[:-1]
+    #         tempResult.cityName = name
+    #         tempResult.year = year
+    #         tempResult.occurences = occurences
+    #         if tempResult.type == 'county':
+    #             tempResult.population = int(countyPops[tempResult.cityName])
+    #         else:
+    #             cityPopVal = [pop for pop in cityPops if pop.name == tempResult.cityName]
+    #             if len(cityPopVal) != 0:
+
+    #                 tempResult.population = int(cityPopVal[0].population)
+    #                 tempResult.cityType = cityPopVal[0].type
+    #                 tempResult.county = cityPopVal[0].county
+    #         results.append(tempResult)
+    # if len(results) > 0:
+    #     for res in results:
+    #         for item in res.occurences:
+    #             item = float(item)
+    #     results.sort(key=lambda x: x.totalOccurences, reverse=True)
+    return results
 
 class cityPop:
     
-    def __init__(self, name="na"):
+    def __init__(self, county, population, name, type):
         
         self.county = "na"
         self.population = "na"
         self.name = "na"
         self.type = "na"
     
-class result:
+class Result:
     
-    def __init__(self, cityFile="", wordcount=0):
-        
-        self.cityFile = cityFile
+    def __init__(self, state, filename, is_city, place_name, plan_date, filetype, county='na', population=0, city_type='na', wordcount=1, total_occuraces=1 ):
+        # place properties 
+        self.state = state
+        self.filename = filename
+        self.is_city = is_city
+        self.place_name = place_name
+        self.plan_date = plan_date
+        self.filetype = filetype
+        #search things 
         self.occurences = [0] * wordcount
-        self.totalOccurences = 0
-        self.cityName = ""
-        self.type = "city"
-        self.year = "na"
-        self.county = "na"
-        self.population = "0"
-        self.cityType = "na"
+        self.totalOccurences = total_occuraces
+        
+        # additional properties 
+        self.county = county
+        self.population = 0
+        self.cityType = city_type
 
-
+        self.pdf_filename = self.filename.split('.')[0] + '.pdf'
+    
+    @property
+    def cityName(self):
+        return self.place_name
+    
+    @property
+    def type(self):
+        if self.is_city:
+            return 'City'
+        else:
+            return 'county'
+    
+    @property
+    def year(self):
+        return self.plan_date
         
 @app.route('/', methods=['POST'])                                                                                                   #connect search form to html page
 def index_search_box():                                                                                                             #function for accepting search input
@@ -166,23 +202,24 @@ def index_search_box():                                                         
             break
         wordlist += phrase_split[x]+','                                                                                             #add commas after every phrase
     wordlist= wordlist.strip(',')                                                                                                   #remove commas from end and beginning of string input
-    results, cityPops, countyPops = getResults(wordinput)
+    results = getResults(wordinput)
+    cityPops = []
+    countyPops = []
     cityResults = []
     countyResults = []
     uniqueCities = 0
     uniqueCounties = 0
     for res in results:
-        res.cityFile = res.cityFile.split('.')[0]+'.pdf'
-        res.year = '<p hidden>'+res.year+'</p> <a href="outp/'+res.cityFile+'/'+wordlist+'" target="_blank">'+res.year+"</a>"
-        if res.type == "county":
-            countyResults.append(res)
-        else:
+        if res.is_city:
+            tmp_city_pop = cityPop(res.county, res.population, res.place_name, res.type)
+            cityPops.append(tmp_city_pop)
             cityResults.append(res)
-    global txtFilenames 
+        else:
+            countyPops.append(res.population)
+            countyResults.append(res)
+
     
     query = wordinput
-    word = query.split(",")
-    #results = getResults(wordinput)
     if len(results) < 1:
         return render_template('noresult.html')
     
@@ -248,7 +285,7 @@ def index_search_box():                                                         
         if len(names) > 1:
             for n in names[1:]:
                 name += ' ' + n
-        pop = float(countyPops[name])
+        pop = 0 #float(countyPops[name])
         geo = cartCounties['geometry'][ind]
         if maxCountyPop == 1:
             scale = 1
@@ -297,15 +334,16 @@ def index_search_box():                                                         
         names=[res.cityName for res in cityResults],
         years=[res.year for res in cityResults],
         types=[res.cityType for res in cityResults],
-        fNames=[res.cityFile for res in cityResults],
+        fNames=[res.pdf_filename for res in cityResults],
         populations = [res.population for res in cityResults],
         counties = [res.county for res in cityResults],
         )
+
     countyData = dict(
         names=[res.cityName for res in countyResults],
         years=[res.year for res in countyResults],
         types=[res.type for res in countyResults],
-        fNames=[res.cityFile for res in countyResults],
+        fNames=[res.pdf_filename for res in countyResults],
         populations=[res.population for res in countyResults],
         )
     

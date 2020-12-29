@@ -88,7 +88,6 @@ def search_contains_phrase(words):
 	global es
 	search = es.search(index='test_3', body={'query': {'match_phrase': {'text': words.lower()}}})
 	ids = []
-	print(search['_shards'])
 	for hit in search['hits']['hits']:
 		ids.append(int(hit['_id']))
 
@@ -128,6 +127,18 @@ def map_keys_to_values(search_result_indices, key_to_hash_path='key_hash_mapping
 		my_dict = index_to_info_map
 
 	return list(map(lambda x:my_dict[str(x)]['filename'], search_result_indices))
+
+def map_index_to_vals(search_result_indices, key_to_hash_path='key_hash_mapping.json'):
+	global index_to_info_map
+	if index_to_info_map is None:
+		with open(key_to_hash_path, 'r') as fp:
+			data = json.load(fp)
+			my_dict = data
+			index_to_info_map = my_dict
+	else:
+		my_dict = index_to_info_map
+
+	return list(map(lambda x:my_dict[str(x)], search_result_indices))
 
 
 
