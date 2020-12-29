@@ -43,31 +43,6 @@ def my_form():                                                                  
 
 def getResults(wordinput):                                                                                                          
     
-    # countyPopFile = open('static/data/countyPopulations.csv')
-    # countyPops = {}
-    # for line in countyPopFile:
-    #     parts = line.split(',')
-    #     countyPops[parts[0]] = parts[1]
-    # countyPopFile.close()
-    
-    
-    # cityPopFile = open('static/data/cityPopulations.csv')
-    # cityPops = []
-    # for line in cityPopFile:
-    #     parts = line.split(',')
-    #     temp = cityPop()
-    #     temp.name=parts[0]
-    #     temp.type = parts[1]
-    #     temp.county = parts[2]
-    #     temp.population = parts[3]
-    #     cityPops.append(temp)
-    
-    
-    # txtFilenames = []
-    # for filename in os.listdir("static/data/places"):
-    #     if filename.endswith(".txt"):
-
-    #         txtFilenames.appyend(filename)
     results = []
     query = wordinput
 
@@ -87,68 +62,12 @@ def getResults(wordinput):
             new_result.county = new_result.place_name
             new_result.population = int(place_props[0])
 
-        #TODO: Do additional things here to make new_result work 
         results.append(new_result)
 
     
         
-    # word = query.split(",")
-    # wordcount = len(word)
-    # for fName in txtFilenames:
-    #     isMatch = False
-    #     # file = open("static/data/places/" + fName, 'r',errors='ignore')
-    #     # with open("static/data/places/" + fName, 'r',errors='ignore') as file:
-    #     #     data = file.read().replace('\n', '')
-    #     # data = data.lower()
-    #     occurences = []
-    #     if fName in filenames:
-    #         isMatch = True
-    #     for w in word:
-    #         if isMatch:
-    #             num = 1 
-    #         else:
-    #             num = 0 
-    #         occurences.append(num)
-
-    #     if isMatch:
-    #         tempResult = Result(cityFile = fName, wordcount=wordcount)
-    #         tempResult.type = fName.split('-')[0].split('_')[1]
-    #         parts = fName.split('-')[1:]
-    #         parts[-1] = parts[-1].split('.')[0]
-    #         year = parts[-1].split('_')[1]
-    #         parts[-1] = parts[-1].split('_')[0]
-    #         name = ""
-    #         for part in parts:
-    #             name += part + " "
-    #         name = name[:-1]
-    #         tempResult.cityName = name
-    #         tempResult.year = year
-    #         tempResult.occurences = occurences
-    #         if tempResult.type == 'county':
-    #             tempResult.population = int(countyPops[tempResult.cityName])
-    #         else:
-    #             cityPopVal = [pop for pop in cityPops if pop.name == tempResult.cityName]
-    #             if len(cityPopVal) != 0:
-
-    #                 tempResult.population = int(cityPopVal[0].population)
-    #                 tempResult.cityType = cityPopVal[0].type
-    #                 tempResult.county = cityPopVal[0].county
-    #         results.append(tempResult)
-    # if len(results) > 0:
-    #     for res in results:
-    #         for item in res.occurences:
-    #             item = float(item)
-    #     results.sort(key=lambda x: x.totalOccurences, reverse=True)
     return results
 
-class cityPop:
-    
-    def __init__(self, county, population, name, type):
-        
-        self.county = "na"
-        self.population = "na"
-        self.name = "na"
-        self.type = "na"
     
 class Result:
     
@@ -263,7 +182,7 @@ def index_search_box():                                                         
     p2.grid.grid_line_color = None
     p2.hover.point_policy = "follow_mouse"
     
-    #make population map work better
+    #make population map 
     maxCountyPop = 1
     for county in countyResults:
         if county.population > maxCountyPop:
@@ -379,10 +298,12 @@ def index_search_box():                                                         
     return render_template('results.html',lScript=lScript,lDiv=lDiv)                                                                #render results page with map and table object as arguments
 
 
-
+i = 0 
 @app.route('/outp/<string:city>/<string:words>')                                                                                    #route for page containing highlighted pdf
-def highlight_pdf(city, words):                                                                                                      #function for highlighting pdf phrases with pdf file name, list of words and phrase count as inputs
-
+def highlight_pdf(city, words):
+    global i                                                                                                       #function for highlighting pdf phrases with pdf file name, list of words and phrase count as inputs
+    print(f"I am called {i} times")
+    i+=1 
     complete_name = os.path.join("static/data/places", city)                                                                        #path for city pdf file
     doc = fitz.open(complete_name)                                                                                                  #create open pdf file object
     page_count= len(doc)                                                                                                            #find no. of pages in pdf               
