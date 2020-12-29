@@ -46,7 +46,7 @@ def getResults(wordinput):
     results = []
     query = wordinput
 
-    ids, scores = es.search_contains_phrase(query)
+    ids, scores = es.elastic_search(query)
     result_props = es.map_index_to_vals(ids)
     for score, result_prop in zip(scores, result_props):
         result_prop = result_prop.copy()

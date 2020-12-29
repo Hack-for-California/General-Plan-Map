@@ -81,11 +81,15 @@ def index_everything():
 	with open('key_hash_mapping.json', 'w') as fp:
 		json.dump(hash_to_prop_mapping, fp)
 
-def search_contains_phrase(words):
+def elastic_search(words):
 	global es
-
 	query_json = {"_source": False,
 	"size":1000,
+	# "highlight": {
+	# 	"fields": {
+	# 		"text": {}
+	# 	}
+	# },
 	"query": {
     "simple_query_string" : {
         "query": words,
@@ -100,7 +104,11 @@ def search_contains_phrase(words):
 		ids.append(int(hit['_id']))
 		scores.append(float(hit['_score']))
 
-	ids = [int(hit['_id']) for hit in search['hits']['hits']]
+	# ids = [int(hit['_id']) for hit in search['hits']['hits']]
+	# webpage = ' <p>'.join(search['hits']['hits'][0]['highlight']['text'])
+	# with open('/Users/dda/Desktop/mywebpage.html', 'w') as f:
+	# 	f.write(webpage)
+
 	return ids , scores
 
 
@@ -133,11 +141,12 @@ def map_index_to_vals(search_result_indices, key_to_hash_path='key_hash_mapping.
 
 
 if __name__ == "__main__":
-	index_everything()
-	search_result_indices, score = search_contains_phrase('housing')
+	# index_everything()
+	search_result_indices, score = elastic_search('City of Buellton General Plan Land Use Acreage')
 	map_keys_to_values([3])	
 	#print(index_to_info_map)
 	result = map_keys_to_values(search_result_indices)
+
 	# build_pop_dicts()
 	# search = es.search(index='test_3', body={'query': {'match_phrase': {'text': "made to reduce greenhouse"}}})
 	# ids = []
