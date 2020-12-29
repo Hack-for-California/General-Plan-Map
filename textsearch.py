@@ -29,7 +29,7 @@ from bokeh.models.widgets import Panel, Tabs
 from bokeh.io import show, output_file
 import shapely.affinity
 import es 
-
+import re
 
 app = Flask(__name__)                                                                                                               #create flask object
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0                                                                                         #avoid storing cache
@@ -52,7 +52,12 @@ def getResults(wordinput):
         result_prop = result_prop.copy()
         result_prop['query'] = query 
         new_result = Result(**result_prop)
-        place_props = es.get_place_properties(new_result.is_city, new_result.place_name)
+        try:
+            place_props = es.get_place_properties(new_result.is_city, new_result.place_name)
+        except:
+            print('error with file %s result ignored '%new_result.filename)
+            continue 
+
         if new_result.is_city:
             new_result.cityType = place_props[0]
             new_result.county = place_props[1]
@@ -70,7 +75,6 @@ def getResults(wordinput):
 
     
 class Result:
-    
     def __init__(self, state, filename, is_city, place_name, plan_date, filetype,  query, county='na', population=0, city_type='na', wordcount=1, total_occuraces=1 ):
         # place properties 
         self.state = state
@@ -89,8 +93,18 @@ class Result:
         self.cityType = city_type
 
         self.pdf_filename = self.filename.split('.')[0] + '.pdf'
-        self.year = '<p hidden>'+self.plan_date+'</p> <a href="outp/'+self.pdf_filename+'/'+query+'" target="_blank">'+self.plan_date+"</a>"
-
+        parsed_query = self.parse_query(query) 
+        self.year = '<p hidden>'+self.plan_date+'</p> <a href="outp/'+self.pdf_filename+'/'+parsed_query+'" target="_blank">'+self.plan_date+"</a>"
+    
+    def parse_query(self, query):
+        """This function parses a query to add commas between words except
+        for words that are a phrase (indicated by their quotes)"""
+        
+        phrases_in_quotes = re.findall(r'\"(.+?)\"',query)
+        non_quotes = re.sub(r'"',"", re.sub(r'\"(.+?)\"', '', query))
+        all_words = re.findall('[A-z]+', non_quotes)
+        list_split = phrases_in_quotes + all_words
+        return ','.join(list_split)
 
     @property
     def cityName(self):
@@ -117,17 +131,23 @@ def index_search_box():                                                         
     cityPops = {}
     uniqueCities = 0
     uniqueCounties = 0
+    maxCityPop = 1
+    maxCountyPop = 1
     for res in results:
         if res.is_city:
             cityResults.append(res)
             matched_city_names.append(res.place_name) 
             cityPops[res.place_name] = res.population
+            if res.population > maxCityPop:
+                maxCityPop = res.population
         else:
             countyResults.append(res)
             countyPops[res.place_name] = res.population
             matched_county_names.append(res.place_name) 
-
-
+            if res.population > maxCountyPop:
+                maxCountyPop = res.population
+    
+    print(countyPops)
     if len(results) < 1:
         return render_template('noresult.html')
     
@@ -155,16 +175,8 @@ def index_search_box():                                                         
     
     for ind in counties.index:
         #parse name for matching 
-        parts = counties['name'][ind].split(' ')[0:-1]
-        val = ""
-        if len(parts) == 1:
-            val = parts[0]
-        else:
-            for part in parts:
-                val += part + ' '
-            val = val[0:-1]
-        #print(val, flush=True)
-        if val not in matched_county_names: 
+        county_name = re.sub(' County', '', counties['name'][ind])
+        if county_name not in matched_county_names: 
             counties.at[ind, 'color'] = 'white'
     
     combined = counties.append(cities)
@@ -183,39 +195,35 @@ def index_search_box():                                                         
     p2.hover.point_policy = "follow_mouse"
     
     #make population map 
-    maxCountyPop = 1
-    for county in countyResults:
-        if county.population > maxCountyPop:
-            maxCountyPop = county.population
     
     cartCounties = counties
-    for ind, county in zip(cartCounties.index, countyResults):
-        names = counties['name'][ind].split(' ')[0:-1]
-        name = names[0]
-        if len(names) > 1:
-            for n in names[1:]:
-                name += ' ' + n
+    for ind in counties.index:
+        county_name = re.sub(' County', '', counties['name'][ind])
+        try:
+            pop = float(es.get_place_properties(False, county_name)[-1])
+        except KeyError:
+            pop = 1 
+            print(f"invalid county name {county_name}")
 
-        pop = county.population #countyPops[name] 
         geo = cartCounties['geometry'][ind]
         if maxCountyPop == 1:
             scale = 1
         else:
-            scale = (pop/maxCountyPop )**(1/2)
+            scale = (pop/maxCountyPop)**(1/2)
         cartCounties['geometry'][ind] = shapely.affinity.scale(geo, scale, scale)
 
     
-    maxCityPop = 1
-    for city in cityResults:
-        if float(city.population) > float(maxCityPop):
-            maxCityPop = city.population
     cartCities = cities
-    for ind, city in zip(cartCities.index, cityResults):
+    for ind in cartCities.index:
         geo = cartCities['geometry'][ind]
+        try:
+            pop = float(es.get_place_properties(True, cities['name'][ind])[-1])
+        except:
+            print(f"invalid city name {cities['name'][ind]}")
         if maxCityPop == 1:
             scale = 1
         else:
-            scale = (city.population/maxCityPop)**(1/2)
+            scale = (pop/maxCityPop)**(1/2)
         cartCities['geometry'][ind] = shapely.affinity.scale(geo,scale,scale)
      
     combined = cartCounties.append(cartCities)
@@ -298,12 +306,9 @@ def index_search_box():                                                         
     return render_template('results.html',lScript=lScript,lDiv=lDiv)                                                                #render results page with map and table object as arguments
 
 
-i = 0 
+
 @app.route('/outp/<string:city>/<string:words>')                                                                                    #route for page containing highlighted pdf
 def highlight_pdf(city, words):
-    global i                                                                                                       #function for highlighting pdf phrases with pdf file name, list of words and phrase count as inputs
-    print(f"I am called {i} times")
-    i+=1 
     complete_name = os.path.join("static/data/places", city)                                                                        #path for city pdf file
     doc = fitz.open(complete_name)                                                                                                  #create open pdf file object
     page_count= len(doc)                                                                                                            #find no. of pages in pdf               
@@ -327,7 +332,7 @@ def highlight_pdf(city, words):
     fht = Markup(fht)                                                                                                               #make the link safe for sending to html
     
     return render_template('download.html',fht=fht)                                                                                 #render pdf file with the higlighted pdflink as argument
-    
+
 
     
 if __name__ == "__main__":                                                                                                          #run app on local host at port 5000 in debug mode

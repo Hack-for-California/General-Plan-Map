@@ -11,14 +11,13 @@ import csv
 
 es = Elasticsearch('http://localhost:9200')
 
-ParsedFilename = namedtuple('ParsedFilename', ['filename', 'is_city', 'place_name', 'plan_date', 'filetype'])
+
 def parse_filename(filename):
 	"""
 	assumes filename is valid 
 	filename format expected is CA_City-Rolling-Hills-Estates_2014.txt
 	"""
 	search_result = re.search(r'([A-z]{2})_(City|county)-([A-z-]*)_([0-9]{4}|nd).(txt|pdf|PDF.txt)', filename)
-	print(filename)
 	assert search_result, 'invalid filename, must follow format State_CityORcounty_Place-Name_PlanYear.filetype'
 
 	state = search_result.group(1)
@@ -60,7 +59,6 @@ def index_everything():
 	global es
 	wd = os.getcwd()
 	data_dir = os.path.join(wd, 'static', 'data', 'places')
-	print(data_dir)
 	filepaths = glob.glob(data_dir+'/*.txt')
 	hash_to_prop_mapping = {}
 	i = 0 
@@ -77,16 +75,23 @@ def index_everything():
 		
 		keyhash = i
 		hash_to_prop_mapping[keyhash] = parsed_filename
-		es.index(index='test_3', id=keyhash, body={'text': txt, 'plan_filename': filename})
+		es.index(index='test_3', id=keyhash, body={'text': txt }, )
 		i += 1
 
 	with open('key_hash_mapping.json', 'w') as fp:
 		json.dump(hash_to_prop_mapping, fp)
-		print(hash_to_prop_mapping)
 
 def search_contains_phrase(words):
 	global es
-	search = es.search(index='test_3', body={'query': {'match_phrase': {'text': words.lower()}}})
+
+	query_json = {"_source": False,
+	"query": {
+    "simple_query_string" : {
+        "query": words,
+        "fields": ["text"],
+        "default_operator": "and"
+    }}}
+	search = es.search(index='test_3' ,body=query_json) #, body={'query': {'match': {'text': words.lower()}}})
 	ids = []
 	for hit in search['hits']['hits']:
 		ids.append(int(hit['_id']))
@@ -95,26 +100,6 @@ def search_contains_phrase(words):
 	return ids , search['hits']['total']['value']
 
 
-# def my_search(query):
-
-# 	phrase_list=re.findall(r'\"(.+?)\"',query)
-# 	words_list = query.split('"')
-# 	if not words_list:
-# 		cw_ids = None
-# 	else:
-# 		cw_ids, _ = search_contains_words(' '.join(words_list))
-	
-# 	phrase_ids = cw_ids	
-# 	for phrase in phrase_list:
-# 		ids, _ = search_contains_phrase(phrase)
-# 		if phrase_ids is not None:
-# 			phrase_ids = list(set(phrase_ids) & set(ids))
-# 		else:
-# 			phrase_ids = ids
-# 	print("word_list", words_list)
-# 	print("phrase_list", phrase_list)
-
-# 	return phrase_ids
 index_to_info_map = None
 def map_keys_to_values(search_result_indices, key_to_hash_path='key_hash_mapping.json'):
 	global index_to_info_map
@@ -144,7 +129,7 @@ def map_index_to_vals(search_result_indices, key_to_hash_path='key_hash_mapping.
 
 
 if __name__ == "__main__":
-	# index_everything()
+	index_everything()
 	search_result_indices, hits = search_contains_phrase('fruit stands')
 	print(search_result_indices)
 	print(hits)
