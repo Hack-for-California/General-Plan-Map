@@ -46,11 +46,12 @@ def getResults(wordinput):
     results = []
     query = wordinput
 
-    ids, _ = es.search_contains_phrase(query)
+    ids, scores = es.search_contains_phrase(query)
     result_props = es.map_index_to_vals(ids)
-    for result_prop in result_props:
+    for score, result_prop in zip(scores, result_props):
         result_prop = result_prop.copy()
         result_prop['query'] = query 
+        result_prop['score'] = score
         new_result = Result(**result_prop)
         try:
             place_props = es.get_place_properties(new_result.is_city, new_result.place_name)
@@ -75,7 +76,7 @@ def getResults(wordinput):
 
     
 class Result:
-    def __init__(self, state, filename, is_city, place_name, plan_date, filetype,  query, county='na', population=0, city_type='na', wordcount=1, total_occuraces=1 ):
+    def __init__(self, state, filename, is_city, place_name, plan_date, filetype,  query, county='na', population=0, city_type='na', score=0):
         # place properties 
         self.state = state
         self.filename = filename
@@ -84,8 +85,7 @@ class Result:
         self.plan_date = plan_date
         self.filetype = filetype
         #search things 
-        self.occurences = [0] * wordcount
-        self.totalOccurences = total_occuraces
+        self.score = score
         
         # additional properties 
         self.county = county
@@ -99,7 +99,7 @@ class Result:
     def parse_query(self, query):
         """This function parses a query to add commas between words except
         for words that are a phrase (indicated by their quotes)"""
-        
+
         phrases_in_quotes = re.findall(r'\"(.+?)\"',query)
         non_quotes = re.sub(r'"',"", re.sub(r'\"(.+?)\"', '', query))
         all_words = re.findall('[A-z]+', non_quotes)
@@ -250,6 +250,7 @@ def index_search_box():                                                         
         fNames=[res.pdf_filename for res in cityResults],
         populations = [res.population for res in cityResults],
         counties = [res.county for res in cityResults],
+        scores = [res.score for res in cityResults]
         )
 
     countyData = dict(
@@ -258,12 +259,11 @@ def index_search_box():                                                         
         types=[res.type for res in countyResults],
         fNames=[res.pdf_filename for res in countyResults],
         populations=[res.population for res in countyResults],
+        scores = [res.score for res in countyResults]
         )
     
     uniqueCities = len(set(cityData["names"]))
     uniqueCounties = len(set(countyData["names"]))
-    occurences=[res.totalOccurences for res in results],
-    numOccurences = len(results[0].occurences)
     
     
     citySource = ColumnDataSource(cityData)
@@ -273,6 +273,7 @@ def index_search_box():                                                         
             TableColumn(field="years", title="Year", formatter=HTMLTemplateFormatter()),
             TableColumn(field="populations", title="Population", formatter=NumberFormatter(format='0,0')),
             TableColumn(field="counties", title="County"),
+            TableColumn(field="scores", title="Search Score"),
         ]
     city_table = DataTable(source=citySource, columns=columns, width=size, height=600,reorderable=False, index_position=None)
     
@@ -282,8 +283,9 @@ def index_search_box():                                                         
             TableColumn(field="names", title="Name"),
             TableColumn(field="years", title="Year", formatter=HTMLTemplateFormatter()),
             TableColumn(field="populations", title="Population", formatter=NumberFormatter(format='0,0')),
+            TableColumn(field="scores", title="Search Score", formatter=NumberFormatter(format='0,0')),
         ]
-    county_table = DataTable(source=countySource, columns=columns, reorderable=False, index_position=None)
+    county_table = DataTable(source=countySource, columns= columns, reorderable=False, index_position=None)
     
     cityTab = Panel(title="Cities", child=city_table)
     countyTab = Panel(title="Counties", child=county_table)

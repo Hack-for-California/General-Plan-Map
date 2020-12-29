@@ -72,10 +72,10 @@ def index_everything():
 			print(f'issue with filepath {filepath}')
 			print(e)
 			continue 
-		
+		print(i, filename)
 		keyhash = i
 		hash_to_prop_mapping[keyhash] = parsed_filename
-		es.index(index='test_3', id=keyhash, body={'text': txt }, )
+		es.index(index='test_4', id=keyhash, body={'text': txt, 'filename': filename}, )
 		i += 1
 
 	with open('key_hash_mapping.json', 'w') as fp:
@@ -85,19 +85,23 @@ def search_contains_phrase(words):
 	global es
 
 	query_json = {"_source": False,
+	"size":1000,
 	"query": {
     "simple_query_string" : {
         "query": words,
         "fields": ["text"],
         "default_operator": "and"
     }}}
-	search = es.search(index='test_3' ,body=query_json) #, body={'query': {'match': {'text': words.lower()}}})
+	search = es.search(index='test_4' ,body=query_json) #, body={'query': {'match': {'text': words.lower()}}})
+	#search = es.search(index='test_3', body={'query': {'match_phrase': {'text': words.lower()}}})
 	ids = []
+	scores = []
 	for hit in search['hits']['hits']:
 		ids.append(int(hit['_id']))
+		scores.append(float(hit['_score']))
 
 	ids = [int(hit['_id']) for hit in search['hits']['hits']]
-	return ids , search['hits']['total']['value']
+	return ids , scores
 
 
 index_to_info_map = None
@@ -130,13 +134,19 @@ def map_index_to_vals(search_result_indices, key_to_hash_path='key_hash_mapping.
 
 if __name__ == "__main__":
 	index_everything()
-	search_result_indices, hits = search_contains_phrase('fruit stands')
-	print(search_result_indices)
-	print(hits)
-	# result = map_keys_to_values(search_result_indices)
-	# print(result)
+	search_result_indices, score = search_contains_phrase('housing')
+	map_keys_to_values([3])	
+	#print(index_to_info_map)
+	result = map_keys_to_values(search_result_indices)
 	# build_pop_dicts()
+	# search = es.search(index='test_3', body={'query': {'match_phrase': {'text': "made to reduce greenhouse"}}})
+	# ids = []
+	# scores = []
+	# for hit in search['hits']['hits']:
+	# 	ids.append(int(hit['_id']))
+	# 	scores.append(float(hit['_score']))
 
+	#print(ids)
 """"
 1. implement quote detection for multiphrase search x 
 2. otherwise do single phrase search x 
