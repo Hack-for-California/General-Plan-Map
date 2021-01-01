@@ -16,6 +16,8 @@ import ghostscript
 import PyPDF2
 import bcrypt
 from datetime import datetime
+import es 
+
 
 app = Flask(__name__)                                                                                                                   #create flask object
 mail= Mail(app)                                                                                                                         #create mail object
@@ -203,8 +205,9 @@ def upload_file1():                                                             
                     imornot=imornot+1
 
             if imornot > int(length/2):                                                                                                 #if more than half pages of pdf are scanned convert to text pdf through OCR  
-                fname=fname.replace('.pdf', '')                                     
-                textfile = open(fname + ".txt", "a")                                                                                    #create text file with place name
+                fname=fname.replace('.pdf', '')
+                text_file_name = fname + ".txt"                                 
+                textfile = open(text_file_name, "a")                                                                                    #create text file with place name
                 for page in doc:                                                                        
                     pix = page.getPixmap(alpha = False)                                                                                 #generate image file from page
                     pixn=os.path.join("static/data/places","page-%i.png" % page.number)     
@@ -251,6 +254,7 @@ def upload_file1():                                                             
 
     up="Files Uploaded Successfully!"
     
+    es.add_to_index(text_file_name)
     
     return render_template('upload_confirm.html',up=up)                                                                                 #render upload confirmation message page
 

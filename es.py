@@ -7,16 +7,25 @@ import re
 import json
 from collections import namedtuple
 import csv 
+from typing import Dict, List, Tuple
 
-
+#when you load this pacakge these global variables are defined 
 es = Elasticsearch('http://localhost:9200')
 
 
-def parse_filename(filename):
-	"""
-	assumes filename is valid 
+def parse_filename(filename: str) -> str:
+	"""	This function uses regular expressions to parse a filename. 
 	filename format expected is CA_City-Rolling-Hills-Estates_2014.txt
-	"""
+	Args:
+		filename (str): a filename (basepath of a filepath) that has the 
+		format StateCode_CityORcounty_Place-Name_PlanYear.filetype
+
+	Returns:
+		Dict: Dictionarty containing filepath information 
+		the keys are state, filename, is_city, place_name,
+		plan_date, filetype
+	"""		
+
 	search_result = re.search(r'([A-z]{2})_(City|county)-([A-z-]*)_([0-9]{4}|nd).(txt|pdf|PDF.txt)', filename)
 	assert search_result, 'invalid filename, must follow format State_CityORcounty_Place-Name_PlanYear.filetype'
 
@@ -30,7 +39,10 @@ def parse_filename(filename):
 
 county_dict = None
 city_dict = None 
-def build_pop_dicts():
+def build_pop_dicts() -> None:
+	"""Loads country csv and city csv into memory and builds 
+	   a dictionary to map between place name and population
+	"""	
 	global county_dict
 	global city_dict
 	data_dir = os.path.join('static', 'data') 
@@ -46,7 +58,15 @@ def build_pop_dicts():
 	county_dict = dict_dict['countyPopulations.csv']
 	city_dict = dict_dict['cityPopulations.csv'] 	
 
-def get_place_properties(is_city, place_name):
+def get_place_properties(is_city: bool, place_name: str) -> Dict:
+	"""gets a place's properties
+	Args:
+		is_city (bool): A boolean for if the name belongs to a city or county
+		place_name (str): the name of the place 
+
+	Returns:
+		dict: A dictionary of properties of the 
+	"""	
 	if county_dict is None or city_dict is None:
 		build_pop_dicts()
 	if is_city:
@@ -54,14 +74,52 @@ def get_place_properties(is_city, place_name):
 	else:
 		return county_dict[place_name]
 
+def get_max_index() -> int:
+	"""Gets the next open index
+	"""	
+	return es.search(index='test_4', body={"_source": False})['hits']['total']['value']
+
+def add_to_index(filepath:str) -> None:
+	"""Adds a new file to the elasticsearch index
+
+	Args:
+		filepath (str): a filepath to a txt file general plan
+	"""	
+	
+	i = get_max_index() 
+
+	try: 
+		filename = os.path.basename(filepath)
+		parsed_filename = parse_filename(filename)
+		txt = Path(filepath).read_text()
+		txt = re.sub(r'\s+', ' ', txt).lower()
+	except Exception as e:
+		print(f'issue with filepath {filepath} nothing added')
+		print(e)
+		return 
+
+	print(i, filename)
+	keyhash = i
+	es.index(index='test_4', id=keyhash, body={'text': txt, 'filename': filename}, )
+
+
+	with open('key_hash_mapping.json', 'r') as fp:
+		hash_to_prop_mapping = json.load(fp)
+	
+	hash_to_prop_mapping[keyhash] = parsed_filename
+
+	with open('key_hash_mapping.json', 'w') as fp:
+		json.dump(hash_to_prop_mapping, fp)
 
 def index_everything():
+	"""Adds all of the txt files in the data directory to the elasticsearch index
+	"""	
 	global es
 	wd = os.getcwd()
 	data_dir = os.path.join(wd, 'static', 'data', 'places')
 	filepaths = glob.glob(data_dir+'/*.txt')
 	hash_to_prop_mapping = {}
-	i = 0 
+	i = 0
 	for filepath in filepaths:
 		try: 
 			filename = os.path.basename(filepath)
@@ -81,29 +139,39 @@ def index_everything():
 	with open('key_hash_mapping.json', 'w') as fp:
 		json.dump(hash_to_prop_mapping, fp)
 
-def elastic_search(words):
+def elastic_search(query) -> Tuple[List[int], List[float]]:
+	"""Puts a query into elasticsearch and returns the ids and score
+
+	Args:
+		query (str): The elasticsearch query 
+
+	Returns:
+		Tuple(List[int], List[float]): ids of search results and their scores 
+	"""	
+	
 	global es
 	query_json = {"_source": False,
 	"size":1000,
-	# "highlight": {
-	# 	"fields": {
-	# 		"text": {}
-	# 	}
-	# },
 	"query": {
     "simple_query_string" : {
-        "query": words,
+        "query": query,
         "fields": ["text"],
         "default_operator": "and"
     }}}
-	search = es.search(index='test_4' ,body=query_json) #, body={'query': {'match': {'text': words.lower()}}})
-	#search = es.search(index='test_3', body={'query': {'match_phrase': {'text': words.lower()}}})
+	search = es.search(index='test_4' ,body=query_json) 
 	ids = []
 	scores = []
 	for hit in search['hits']['hits']:
 		ids.append(int(hit['_id']))
 		scores.append(float(hit['_score']))
 
+	# writes highlites to webpage 
+	# include highlite in query
+    # "highlight": {
+	# 	"fields": {
+	# 		"text": {}
+	# 	}
+	# },
 	# ids = [int(hit['_id']) for hit in search['hits']['hits']]
 	# webpage = ' <p>'.join(search['hits']['hits'][0]['highlight']['text'])
 	# with open('/Users/dda/Desktop/mywebpage.html', 'w') as f:
@@ -114,6 +182,15 @@ def elastic_search(words):
 
 index_to_info_map = None
 def map_keys_to_values(search_result_indices, key_to_hash_path='key_hash_mapping.json'):
+	"""maps index to keys 
+
+	Args:
+		search_result_indices (List[int]): 
+		key_to_hash_path (str, optional): [description]. Defaults to 'key_hash_mapping.json'.
+
+	Returns:
+		dict of info values realting to the keys, such as filename: [
+	"""	
 	global index_to_info_map
 	if index_to_info_map is None:
 		with open(key_to_hash_path, 'r') as fp:
@@ -156,17 +233,6 @@ if __name__ == "__main__":
 	# 	scores.append(float(hit['_score']))
 
 	#print(ids)
-""""
-1. implement quote detection for multiphrase search x 
-2. otherwise do single phrase search x 
-0. integrate results with the website  x 
-3. get it installed on the server 
-3.5 integrate elastic search into server (index everything)
-4. Figure out how to do multiple queries with elastic search 
-5. Integrate search box with elastic search 
-6. Do auto indexing 
 
-
-"""
 
 
