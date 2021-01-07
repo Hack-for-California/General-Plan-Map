@@ -42,3 +42,15 @@ vignettes/*.pdf
 passw
 pass_generator.py
 mycreds.txt
+
+#data files 
+static/backup/*
+static/cssjs/*
+static/data/*
+static/static/*
+
+#whatever this file is 
+.DS_Store
+key_hash_mapping.json
+.vscode/.ropeproject/objectdb
+__pycache__/es.cpython-38.pyc
